@@ -39,6 +39,12 @@
   <node id='-6736' action='modify' visible='true' lat='59.92398526746' lon='30.2838054317' />
   <node id='-6738' action='modify' visible='true' lat='59.92391536976' lon='30.2839234489' />
   <node id='-6740' action='modify' visible='true' lat='59.92389789531' lon='30.28414339004' />
+  <node id='-6760' action='modify' visible='true' lat='59.92376482037' lon='30.28427481828' />
+  <node id='-6761' action='modify' visible='true' lat='59.92366669406' lon='30.28415411887' />
+  <node id='-6763' action='modify' visible='true' lat='59.92357932108' lon='30.28415948329' />
+  <node id='-6767' action='modify' visible='true' lat='59.92237220615' lon='30.2852645534' />
+  <node id='-7835' action='modify' visible='true' lat='59.9223287933' lon='30.28535842646' />
+  <node id='-7837' action='modify' visible='true' lat='59.92229115422' lon='30.28561055411' />
   <way id='-4492' action='modify' visible='true'>
     <nd ref='-4490' />
     <nd ref='-4491' />
@@ -101,5 +107,16 @@
     <nd ref='-6725' />
     <tag k='description' v='зап сторона между Рабочим и Декабристов' />
     <tag k='name' v='Английский пр. 7-19' />
+  </way>
+  <way id='-6762' action='modify' visible='true'>
+    <nd ref='-6760' />
+    <nd ref='-6761' />
+    <nd ref='-6763' />
+    <nd ref='-6767' />
+    <nd ref='-7835' />
+    <nd ref='-7837' />
+    <nd ref='-6760' />
+    <tag k='description' v='зап сторона между Декабристов и Союза Печатников' />
+    <tag k='name' v='Английский пр. 21-27' />
   </way>
 </osm>
