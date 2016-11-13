@@ -92,9 +92,40 @@
   <node id='-10647' action='modify' visible='true' lat='59.91690686653' lon='30.29556429751' />
   <node id='-10648' action='modify' visible='true' lat='59.91728542232' lon='30.29719137303' />
   <node id='-10650' action='modify' visible='true' lat='59.91734827093' lon='30.29694789488' />
-  <node id='-10652' action='modify' visible='true' lat='59.91734534774' lon='30.29676710871' />
+  <node id='-10652' action='modify' visible='true' lat='59.91735261078' lon='30.29681885832' />
   <node id='-10654' action='modify' visible='true' lat='59.91709249095' lon='30.2956328213' />
   <node id='-10656' action='modify' visible='true' lat='59.91700187129' lon='30.29557450318' />
+  <node id='-11912' action='modify' visible='true' lat='59.91883888604' lon='30.29583472996' />
+  <node id='-11914' action='modify' visible='true' lat='59.91872060736' lon='30.29571260089' />
+  <node id='-11916' action='modify' visible='true' lat='59.91865524265' lon='30.29566913122' />
+  <node id='-11920' action='modify' visible='true' lat='59.91730226796' lon='30.29689870181' />
+  <node id='-13228' action='modify' visible='true' lat='59.91908219244' lon='30.29561687581' />
+  <node id='-13229' action='modify' visible='true' lat='59.91972285436' lon='30.29505474295' />
+  <node id='-13231' action='modify' visible='true' lat='59.91958022632' lon='30.29490779536' />
+  <node id='-13233' action='modify' visible='true' lat='59.91951125024' lon='30.29486347783' />
+  <node id='-13235' action='modify' visible='true' lat='59.91909037615' lon='30.29524834057' />
+  <node id='-13237' action='modify' visible='true' lat='59.91907050141' lon='30.29537429565' />
+  <node id='-14833' action='modify' visible='true' lat='59.9197209726' lon='30.29495894668' />
+  <node id='-14834' action='modify' visible='true' lat='59.92056513177' lon='30.29421976916' />
+  <node id='-14836' action='modify' visible='true' lat='59.9204980539' lon='30.29409622974' />
+  <node id='-14838' action='modify' visible='true' lat='59.92041446435' lon='30.29407975781' />
+  <node id='-14841' action='modify' visible='true' lat='59.91984171551' lon='30.29456979751' />
+  <node id='-14843' action='modify' visible='true' lat='59.91980249991' lon='30.29469539592' />
+  <node id='-16117' action='modify' visible='true' lat='59.92058968814' lon='30.29419373412' />
+  <node id='-16118' action='modify' visible='true' lat='59.92136702767' lon='30.29349824404' />
+  <node id='-16120' action='modify' visible='true' lat='59.92138339252' lon='30.29336763558' />
+  <node id='-16122' action='modify' visible='true' lat='59.92138830197' lon='30.29313907076' />
+  <node id='-16124' action='modify' visible='true' lat='59.92134248038' lon='30.29302805357' />
+  <node id='-16126' action='modify' visible='true' lat='59.92130811415' lon='30.29313907076' />
+  <node id='-16128' action='modify' visible='true' lat='59.9212868398' lon='30.29329580092' />
+  <node id='-16130' action='modify' visible='true' lat='59.92066987769' lon='30.29387374338' />
+  <node id='-16132' action='modify' visible='true' lat='59.92064532989' lon='30.29402067791' />
+  <node id='-16970' action='modify' visible='true' lat='59.92220091857' lon='30.29277262033' />
+  <node id='-16971' action='modify' visible='true' lat='59.92223985219' lon='30.29257322974' />
+  <node id='-16973' action='modify' visible='true' lat='59.92227878576' lon='30.29238678658' />
+  <node id='-16975' action='modify' visible='true' lat='59.9218128777' lon='30.28984390913' />
+  <node id='-16977' action='modify' visible='true' lat='59.92172073354' lon='30.2897610455' />
+  <node id='-16979' action='modify' visible='true' lat='59.92162858913' lon='30.28959013928' />
   <way id='-6059' action='modify' visible='true'>
     <nd ref='-5957' />
     <nd ref='-5959' />
@@ -258,5 +289,63 @@
     <nd ref='-10647' />
     <tag k='description' v='сев сторона между Лермонтовским и Климовым' />
     <tag k='name' v='Фонтанки наб. 153-157' />
+  </way>
+  <way id='-11913' action='modify' visible='true'>
+    <nd ref='-10648' />
+    <nd ref='-11912' />
+    <nd ref='-11914' />
+    <nd ref='-11916' />
+    <nd ref='-10652' />
+    <nd ref='-11920' />
+    <nd ref='-10648' />
+    <tag k='description' v='зап сторона между Лабутина и Фонтанкой' />
+    <tag k='name' v='Лермонтовский пр. 27-37' />
+  </way>
+  <way id='-13230' action='modify' visible='true'>
+    <nd ref='-13228' />
+    <nd ref='-13229' />
+    <nd ref='-13231' />
+    <nd ref='-13233' />
+    <nd ref='-13235' />
+    <nd ref='-13237' />
+    <nd ref='-13228' />
+    <tag k='description' v='зап сторона между Садовой и Лабутина' />
+    <tag k='name' v='Лермонтовский пр. 21-23' />
+  </way>
+  <way id='-14835' action='modify' visible='true'>
+    <nd ref='-14833' />
+    <nd ref='-14834' />
+    <nd ref='-14836' />
+    <nd ref='-14838' />
+    <nd ref='-14841' />
+    <nd ref='-14843' />
+    <nd ref='-14833' />
+    <tag k='description' v='зап сторона между Канонерской и Садовой' />
+    <tag k='name' v='Лермонтовский пр. 17-19' />
+  </way>
+  <way id='-16119' action='modify' visible='true'>
+    <nd ref='-16117' />
+    <nd ref='-16118' />
+    <nd ref='-16120' />
+    <nd ref='-16122' />
+    <nd ref='-16124' />
+    <nd ref='-16126' />
+    <nd ref='-16128' />
+    <nd ref='-16130' />
+    <nd ref='-16132' />
+    <nd ref='-16117' />
+    <tag k='description' v='зап сторона между Грибоедова и Канонерской' />
+    <tag k='name' v='Лермонтовский пр. 13-15' />
+  </way>
+  <way id='-16972' action='modify' visible='true'>
+    <nd ref='-16970' />
+    <nd ref='-16971' />
+    <nd ref='-16973' />
+    <nd ref='-16975' />
+    <nd ref='-16977' />
+    <nd ref='-16979' />
+    <nd ref='-16970' />
+    <tag k='description' v='сев сторона между Лермонтовским и Мастерской' />
+    <tag k='name' v='Римского-Корсакова пр. 55-63' />
   </way>
 </osm>
