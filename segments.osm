@@ -126,6 +126,18 @@
   <node id='-16975' action='modify' visible='true' lat='59.9218128777' lon='30.28984390913' />
   <node id='-16977' action='modify' visible='true' lat='59.92172073354' lon='30.2897610455' />
   <node id='-16979' action='modify' visible='true' lat='59.92162858913' lon='30.28959013928' />
+  <node id='-17644' action='modify' visible='true' lat='59.92199763938' lon='30.28967447006' />
+  <node id='-17646' action='modify' visible='true' lat='59.92201335018' lon='30.28955579658' />
+  <node id='-17648' action='modify' visible='true' lat='59.92214801384' lon='30.28942368837' />
+  <node id='-17650' action='modify' visible='true' lat='59.92218953503' lon='30.2894371231' />
+  <node id='-17652' action='modify' visible='true' lat='59.92238928488' lon='30.28926023244' />
+  <node id='-17654' action='modify' visible='true' lat='59.92244651635' lon='30.28924679771' />
+  <node id='-17656' action='modify' visible='true' lat='59.92285050044' lon='30.28887958166' />
+  <node id='-17658' action='modify' visible='true' lat='59.92288079905' lon='30.28871836486' />
+  <node id='-17660' action='modify' visible='true' lat='59.92290324244' lon='30.28842727897' />
+  <node id='-20675' action='modify' visible='true' lat='59.92345625322' lon='30.29149220757' />
+  <node id='-20677' action='modify' visible='true' lat='59.9235072024' lon='30.29156599544' />
+  <node id='-20679' action='modify' visible='true' lat='59.92362635742' lon='30.29161682707' />
   <way id='-6059' action='modify' visible='true'>
     <nd ref='-5957' />
     <nd ref='-5959' />
@@ -347,5 +359,33 @@
     <nd ref='-16970' />
     <tag k='description' v='сев сторона между Лермонтовским и Мастерской' />
     <tag k='name' v='Римского-Корсакова пр. 55-63' />
+  </way>
+  <way id='-17642' action='modify' visible='true'>
+    <nd ref='-16979' />
+    <nd ref='-16977' />
+    <nd ref='-16975' />
+    <nd ref='-17644' />
+    <nd ref='-17646' />
+    <nd ref='-17648' />
+    <nd ref='-17650' />
+    <nd ref='-17652' />
+    <nd ref='-17654' />
+    <nd ref='-17656' />
+    <nd ref='-17658' />
+    <nd ref='-17660' />
+    <nd ref='-16979' />
+    <tag k='description' v='вост сторона между Союза Печатников и Римского-Корсакова' />
+    <tag k='name' v='Мастерская ул. 10-14' />
+  </way>
+  <way id='-20671' action='modify' visible='true'>
+    <nd ref='-17660' />
+    <nd ref='-17658' />
+    <nd ref='-17656' />
+    <nd ref='-20675' />
+    <nd ref='-20677' />
+    <nd ref='-20679' />
+    <nd ref='-17660' />
+    <tag k='description' v='южн сторона между Лермонтовским и Мастерской' />
+    <tag k='name' v='Союза Печатников ул. 12-20' />
   </way>
 </osm>
