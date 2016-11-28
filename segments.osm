@@ -352,6 +352,37 @@
   <node id='-6747' action='modify' visible='true' lat='59.91819166565' lon='30.27754940765' />
   <node id='-6749' action='modify' visible='true' lat='59.91819863362' lon='30.27737911342' />
   <node id='-6752' action='modify' visible='true' lat='59.91819166565' lon='30.27722272075' />
+  <node id='-7986' action='modify' visible='true' lat='59.91673761418' lon='30.28240525369' />
+  <node id='-7988' action='modify' visible='true' lat='59.91683164751' lon='30.28267882964' />
+  <node id='-7990' action='modify' visible='true' lat='59.9169854306' lon='30.28341357647' />
+  <node id='-7992' action='modify' visible='true' lat='59.91698445109' lon='30.28351714451' />
+  <node id='-7994' action='modify' visible='true' lat='59.91772788928' lon='30.28690557806' />
+  <node id='-7996' action='modify' visible='true' lat='59.91779351477' lon='30.28696224736' />
+  <node id='-7998' action='modify' visible='true' lat='59.91787872978' lon='30.28703064135' />
+  <node id='-8000' action='modify' visible='true' lat='59.91789146303' lon='30.28686649578' />
+  <node id='-8002' action='modify' visible='true' lat='59.91693645517' lon='30.28257721571' />
+  <node id='-8970' action='modify' visible='true' lat='59.91746338847' lon='30.28712741603' />
+  <node id='-8972' action='modify' visible='true' lat='59.91739259201' lon='30.28732750675' />
+  <node id='-8974' action='modify' visible='true' lat='59.91749406689' lon='30.28782891055' />
+  <node id='-8976' action='modify' visible='true' lat='59.91752828509' lon='30.28786422068' />
+  <node id='-8978' action='modify' visible='true' lat='59.91777725095' lon='30.2889870827' />
+  <node id='-8981' action='modify' visible='true' lat='59.91789170382' lon='30.28935195401' />
+  <node id='-8984' action='modify' visible='true' lat='59.91772887384' lon='30.28810432954' />
+  <node id='-8986' action='modify' visible='true' lat='59.91772415412' lon='30.28773710422' />
+  <node id='-8988' action='modify' visible='true' lat='59.91780556922' lon='30.28723805443' />
+  <node id='-8997' action='modify' visible='true' lat='59.91780910901' lon='30.28903887089' />
+  <node id='-10154' action='modify' visible='true' lat='59.9180496' lon='30.28951622755' />
+  <node id='-10155' action='modify' visible='true' lat='59.91798208869' lon='30.28976876929' />
+  <node id='-10157' action='modify' visible='true' lat='59.91797364977' lon='30.28992029434' />
+  <node id='-10159' action='modify' visible='true' lat='59.91840162098' lon='30.29182999094' />
+  <node id='-10161' action='modify' visible='true' lat='59.9185414639' lon='30.29188049929' />
+  <node id='-10163' action='modify' visible='true' lat='59.91877654334' lon='30.2916664401' />
+  <node id='-10165' action='modify' visible='true' lat='59.91880065395' lon='30.29150769957' />
+  <node id='-10167' action='modify' visible='true' lat='59.91881994244' lon='30.29138022612' />
+  <node id='-10169' action='modify' visible='true' lat='59.91851976417' lon='30.29113008954' />
+  <node id='-10171' action='modify' visible='true' lat='59.91837148234' lon='30.29094008194' />
+  <node id='-11643' action='modify' visible='true' lat='59.91897060505' lon='30.29166305461' />
+  <node id='-11645' action='modify' visible='true' lat='59.91887887877' lon='30.29145564982' />
   <way id='-2036' action='modify' visible='true'>
     <nd ref='-1404' />
     <nd ref='-1406' />
@@ -977,5 +1008,68 @@
     <nd ref='-6749' />
     <tag k='description' v='юв сторона между Мясной и Лоцманской' />
     <tag k='name' v='Псковская ул. 24-36' />
+  </way>
+  <way id='-7987' action='modify' visible='true'>
+    <nd ref='-1816' />
+    <nd ref='-7986' />
+    <nd ref='-7988' />
+    <nd ref='-7990' />
+    <nd ref='-7992' />
+    <nd ref='-7994' />
+    <nd ref='-7996' />
+    <nd ref='-7998' />
+    <nd ref='-8000' />
+    <nd ref='-8002' />
+    <nd ref='-1816' />
+    <tag k='description' v='южн сторона между Тургенева и Фонтанкой/Грибоедова' />
+    <tag k='name' v='Садовая ул. 112-128' />
+  </way>
+  <way id='-8968' action='modify' visible='true'>
+    <nd ref='-7998' />
+    <nd ref='-7996' />
+    <nd ref='-7994' />
+    <nd ref='-8970' />
+    <nd ref='-8972' />
+    <nd ref='-8974' />
+    <nd ref='-8976' />
+    <nd ref='-8978' />
+    <nd ref='-8997' />
+    <nd ref='-1532' />
+    <nd ref='-8981' />
+    <nd ref='-1528' />
+    <nd ref='-8984' />
+    <nd ref='-8986' />
+    <nd ref='-8988' />
+    <nd ref='-7998' />
+    <tag k='description' v='юз четверть' />
+    <tag k='name' v='Тургенева пл. юз' />
+  </way>
+  <way id='-10156' action='modify' visible='true'>
+    <nd ref='-10154' />
+    <nd ref='-10155' />
+    <nd ref='-10157' />
+    <nd ref='-10159' />
+    <nd ref='-10161' />
+    <nd ref='-10163' />
+    <nd ref='-10165' />
+    <nd ref='-10167' />
+    <nd ref='-10169' />
+    <nd ref='-10171' />
+    <nd ref='-10154' />
+    <tag k='description' v='юв четверть' />
+    <tag k='name' v='Тургенева пл. юв' />
+  </way>
+  <way id='-11638' action='modify' visible='true'>
+    <nd ref='-10167' />
+    <nd ref='-10165' />
+    <nd ref='-10163' />
+    <nd ref='-1606' />
+    <nd ref='-1604' />
+    <nd ref='-1602' />
+    <nd ref='-11643' />
+    <nd ref='-11645' />
+    <nd ref='-10167' />
+    <tag k='description' v='южн сторона между Лермонтовским и Тургенева' />
+    <tag k='name' v='Садовая ул. 74-88' />
   </way>
 </osm>
