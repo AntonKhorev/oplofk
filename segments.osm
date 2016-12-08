@@ -3775,7 +3775,7 @@
     <nd ref='-3708' />
     <nd ref='-3668' />
     <tag k='description' v='сев сторона между Измайловским и Лермонтовским' />
-    <tag k='name' v='12 Красноармейская 1-25' />
+    <tag k='name' v='12 Красноармейская ул. 1-25' />
   </way>
   <way id='-5004' action='modify' visible='true'>
     <nd ref='-3710' />
@@ -3794,7 +3794,7 @@
     <nd ref='-3736' />
     <nd ref='-3710' />
     <tag k='description' v='сев сторона между Лермонтовским и Дровяной' />
-    <tag k='name' v='12 Красноармейская 27-37' />
+    <tag k='name' v='12 Красноармейская ул. 27-37' />
   </way>
   <way id='-5006' action='modify' visible='true'>
     <nd ref='-3738' />
@@ -4345,7 +4345,7 @@
     <nd ref='-4362' />
     <nd ref='-4372' />
     <tag k='description' v='сев сторона между Дубленским и Лермонтовским' />
-    <tag k='name' v='13 Красноармейская 7-21' />
+    <tag k='name' v='13 Красноармейская ул. 7-21' />
   </way>
   <way id='-5080' action='modify' visible='true'>
     <nd ref='-4396' />
@@ -4364,7 +4364,7 @@
     <nd ref='-4422' />
     <nd ref='-4396' />
     <tag k='description' v='сев сторона между Якобштадтским и Дубленским' />
-    <tag k='name' v='13 Красноармейская 3-5' />
+    <tag k='name' v='13 Красноармейская ул. 3-5' />
   </way>
   <way id='-5082' action='modify' visible='true'>
     <nd ref='-3598' />
@@ -4376,7 +4376,7 @@
     <nd ref='-4432' />
     <nd ref='-3598' />
     <tag k='description' v='сев сторона между Измайловским и Якобштадтским' />
-    <tag k='name' v='13 Красноармейская 1' />
+    <tag k='name' v='13 Красноармейская ул. 1' />
   </way>
   <way id='-5084' action='modify' visible='true'>
     <nd ref='-4434' />
@@ -4392,7 +4392,7 @@
     <nd ref='-3628' />
     <nd ref='-4434' />
     <tag k='description' v='южн сторона между Измайловским и Якобштадтским' />
-    <tag k='name' v='9 Красноармейская 2' />
+    <tag k='name' v='9 Красноармейская ул. 2' />
   </way>
   <way id='-5086' action='modify' visible='true'>
     <nd ref='-4452' />
@@ -4410,7 +4410,7 @@
     <nd ref='-4476' />
     <nd ref='-4452' />
     <tag k='description' v='южн сторона между Якобштадтским и Лермонтовским' />
-    <tag k='name' v='9 Красноармейская 4-10' />
+    <tag k='name' v='9 Красноармейская ул. 4-10' />
   </way>
   <way id='-5088' action='modify' visible='true'>
     <nd ref='-4478' />
