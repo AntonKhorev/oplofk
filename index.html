@@ -6,9 +6,14 @@
 <link rel=stylesheet href='https://unpkg.com/leaflet@1.0.2/dist/leaflet.css'>
 <script src='https://unpkg.com/leaflet@1.0.2/dist/leaflet.js'></script>
 <style>
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
 #map {
-	width: 640px;
-	height: 480px;
+	width: 100%;
+	height: 100%;
 }
 </style>
 </head>
@@ -23,8 +28,7 @@ var map=L.map(div).addLayer(L.tileLayer(
 	'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
 	{attribution: "© <a href='http://www.openstreetmap.org/copyright'>Участники OpenStreetMap</a>"}
 )).fitBounds([
-	[59.93595,30.27157],
-	//[59.94225,30.24791],
+	[59.94225,30.24791],
 	[59.89635,30.34465],
 ])
 //.setView(pos,zoom)
