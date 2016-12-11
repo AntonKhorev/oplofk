@@ -37,12 +37,18 @@ var map=L.map(div).addLayer(L.tileLayer(
 for (var i=0;i<data.length;i++) {
 	var segment=data[i]
 	var popupHtml=
-		`<strong>${segment.name}</strong><br>${segment.description}<br><br>`+
-		`проверено <time>${segment.surveyDate}</time>`
+		"<strong>"+segment.name+"</strong><br>"+segment.description+"<br><br>"+
+		"проверено <time>"+segment.surveyDate+"</time>"
 	if (segment.surveyChangeset.length>0) {
-		popupHtml+=`, записано в пакете <a href=http://www.openstreetmap.org/changeset/${segment.surveyChangeset}>${segment.surveyChangeset}</a>`
+		popupHtml+=", записано в пакете <a href=http://www.openstreetmap.org/changeset/"+segment.surveyChangeset+">"+segment.surveyChangeset+"</a>"
 	}
-	L.polygon(segment.nodes).bindPopup(popupHtml).addTo(map)
+	var date=Date.parse(segment.surveyDate)
+	var dateSpan=1000*60*60*24*30*6
+	var baseDate=Date.now()-dateSpan
+	var hotness=Math.max(0,date-baseDate)/dateSpan
+	var hotnessPercent=Math.round(100*hotness)
+	var polygonColor="rgb("+hotnessPercent+"%,0%,"+(100-hotnessPercent)+"%)"
+	L.polygon(segment.nodes,{color:polygonColor}).bindPopup(popupHtml).addTo(map)
 }
 </script>
 </html>
