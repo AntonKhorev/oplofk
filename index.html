@@ -22,15 +22,22 @@ html, body {
 </body>
 <script>
 var div=document.getElementById('map')
-var pos=[51.505, -0.09]
-var zoom=13
+var y1=59.940
+var y2=59.896
+var x1=30.251
+var x2=30.343
 var map=L.map(div).addLayer(L.tileLayer(
 	'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
 	{attribution: "© <a href='http://www.openstreetmap.org/copyright'>Участники OpenStreetMap</a>"}
 )).fitBounds([
-	[59.94225,30.24791],
-	[59.89635,30.34465],
+	[y1,x1], // top left
+	[y2,x2], // bottom right
 ])
-//.setView(pos,zoom)
+//L.polygon([
+//	[y1,x1],
+//	[y2,x1],
+//	[y2,x2],
+//	[y1,x2],
+//]).addTo(map)
 </script>
 </html>
