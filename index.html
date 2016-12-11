@@ -35,7 +35,14 @@ var map=L.map(div).addLayer(L.tileLayer(
 	[y2,x2], // bottom right
 ])
 for (var i=0;i<data.length;i++) {
-	L.polygon(data[i].nodes).addTo(map)
+	var segment=data[i]
+	var popupHtml=
+		`<strong>${segment.name}</strong><br>${segment.description}<br><br>`+
+		`проверено <time>${segment.surveyDate}</time>`
+	if (segment.surveyChangeset.length>0) {
+		popupHtml+=`, записано в пакете <a href=http://www.openstreetmap.org/changeset/${segment.surveyChangeset}>${segment.surveyChangeset}</a>`
+	}
+	L.polygon(segment.nodes).bindPopup(popupHtml).addTo(map)
 }
 </script>
 </html>
