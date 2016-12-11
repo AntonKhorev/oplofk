@@ -1,7 +1,8 @@
 const fs=require('fs')
+const readline=require('readline')
 const OSMStream=require('node-osm-stream')
 
-const readWays=(filename,callback)=>{
+const readSegments=(filename,callback)=>{
 	const nodes={}
 	const ways={}
 	const parser=OSMStream()
@@ -23,6 +24,32 @@ const readWays=(filename,callback)=>{
 	})
 }
 
-readWays('segments.osm',(ways)=>{
-	console.log(ways['Бойцова пер. 2-8'])
+const readSurveys=(filename,segments,callback)=>{
+	const surveyedSegments=new Map()
+	readline.createInterface({
+		input: fs.createReadStream(filename)
+	}).on('line',(line)=>{
+		const [segmentName,surveyDate,surveyChangeset]=line.split(';')
+		if (surveyedSegments.has(segmentName)) {
+			surveyedSegments.delete(segmentName) // force reorder
+		}
+		const segment=segments[segmentName]
+		const surveyedSegment={
+			name: segment.name,
+			description: segment.description,
+			nodes: segment.nodes,
+			surveyDate,
+			surveyChangeset
+		}
+		surveyedSegments.set(segmentName,surveyedSegment)
+	}).on('close',()=>{
+		callback(surveyedSegments)
+	})
+}
+
+readSegments('segments.osm',(segments)=>{
+	console.log(segments['Бойцова пер. 2-8'])
+	readSurveys('surveys.csv',segments,(surveyedSegments)=>{
+		console.log(surveyedSegments.get('Бойцова пер. 2-8'))
+	})
 })
