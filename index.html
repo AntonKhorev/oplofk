@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang=ru>
+<head>
+<meta charset=utf-8>
+<title>Обновление POI Адмиралтейского района СПб</title>
+<link rel=stylesheet href='https://unpkg.com/leaflet@1.0.2/dist/leaflet.css'>
+<script src='https://unpkg.com/leaflet@1.0.2/dist/leaflet.js'></script>
+<style>
+#map {
+	width: 640px;
+	height: 480px;
+}
+</style>
+</head>
+<body>
+<div id='map'>при включённом js здесь будет карта</div>
+</body>
+<script>
+var div=document.getElementById('map')
+var pos=[51.505, -0.09]
+var zoom=13
+var map=L.map(div).addLayer(L.tileLayer(
+	'http://{s}.tile.osm.org/{z}/{x}/{y}.png',
+	{attribution: "© <a href='http://www.openstreetmap.org/copyright'>Участники OpenStreetMap</a>"}
+)).fitBounds([
+	[59.93595,30.27157],
+	//[59.94225,30.24791],
+	[59.89635,30.34465],
+])
+//.setView(pos,zoom)
+</script>
+</html>
