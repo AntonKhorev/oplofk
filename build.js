@@ -39,7 +39,7 @@ const readSurveys=(filename,segments,callback)=>{
 			description: segment.description,
 			nodes: segment.nodes,
 			surveyDate,
-			surveyChangeset
+			surveyChangeset,
 		}
 		surveyedSegments.set(segmentName,surveyedSegment)
 	}).on('close',()=>{
@@ -48,8 +48,11 @@ const readSurveys=(filename,segments,callback)=>{
 }
 
 readSegments('segments.osm',(segments)=>{
-	console.log(segments['Бойцова пер. 2-8'])
 	readSurveys('surveys.csv',segments,(surveyedSegments)=>{
-		console.log(surveyedSegments.get('Бойцова пер. 2-8'))
+		surveyedSegmentsArray=[]
+		surveyedSegments.forEach((surveyedSegment)=>{
+			surveyedSegmentsArray.push(surveyedSegment)
+		})
+		fs.writeFile('index.js','var data='+JSON.stringify(surveyedSegmentsArray))
 	})
 })

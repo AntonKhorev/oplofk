@@ -20,6 +20,7 @@ html, body {
 <body>
 <div id='map'>при включённом js здесь будет карта</div>
 </body>
+<script src='index.js'></script>
 <script>
 var div=document.getElementById('map')
 var y1=59.940
@@ -33,11 +34,8 @@ var map=L.map(div).addLayer(L.tileLayer(
 	[y1,x1], // top left
 	[y2,x2], // bottom right
 ])
-//L.polygon([
-//	[y1,x1],
-//	[y2,x1],
-//	[y2,x2],
-//	[y1,x2],
-//]).addTo(map)
+for (var i=0;i<data.length;i++) {
+	L.polygon(data[i].nodes).addTo(map)
+}
 </script>
 </html>
