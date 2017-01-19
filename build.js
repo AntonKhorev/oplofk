@@ -35,11 +35,11 @@ const readSurveys=(filename,segments,callback)=>{
 		}
 		const segment=segments[segmentName]
 		const surveyedSegment={
-			name: segment.name,
-			description: segment.description,
-			nodes: segment.nodes,
-			surveyDate,
-			surveyChangeset,
+			n: segment.name,
+			d: segment.description,
+			p: segment.nodes,
+			t: surveyDate,
+			c: surveyChangeset,
 		}
 		surveyedSegments.set(segmentName,surveyedSegment)
 	}).on('close',()=>{
