@@ -87,3 +87,15 @@ surveys.csv
 ** бывает, что при смене владельца (но не названия) vk остаётся за предыдущим владельцом, а новый - создаёт свой (а если не создаёт?)
 * мелкие организации небрежно относятся к сайтам. Сайт может лежать, даже если он указан на табличке. vk-контакты более стабильны.
 * у некоторых только инстаграм
+* некоторые делают конструкторами, которые сами регают домен, напр:
+	domain:        SHOKO-MOKKO-KAFE.RU
+	nserver:       ns1.zoon.ru.
+	nserver:       ns2.zoon.ru.
+	state:         REGISTERED, DELEGATED, VERIFIED
+	org:           Zoon, Ltd.
+	registrar:     ARDIS-RU
+	admin-contact: http://ardis.ru/whois/
+	created:       2014-05-30T17:05:03Z
+	paid-till:     2017-05-30T18:05:03Z
+	free-date:     2017-06-30
+	source:        TCI
