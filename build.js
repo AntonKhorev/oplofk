@@ -1,5 +1,6 @@
 const fs=require('fs')
 const readline=require('readline')
+const mkdirp=require('mkdirp')
 const OSMStream=require('node-osm-stream')
 
 const readSegments=(filename,callback)=>{
@@ -47,12 +48,15 @@ const readSurveys=(filename,segments,callback)=>{
 	})
 }
 
-readSegments('segments.osm',(segments)=>{
-	readSurveys('surveys.csv',segments,(surveyedSegments)=>{
-		surveyedSegmentsArray=[]
-		surveyedSegments.forEach((surveyedSegment)=>{
-			surveyedSegmentsArray.push(surveyedSegment)
+mkdirp('public_html',()=>{
+	fs.createReadStream('index.html').pipe(fs.createWriteStream('public_html/index.html'))
+	readSegments('segments.osm',(segments)=>{
+		readSurveys('surveys.csv',segments,(surveyedSegments)=>{
+			surveyedSegmentsArray=[]
+			surveyedSegments.forEach((surveyedSegment)=>{
+				surveyedSegmentsArray.push(surveyedSegment)
+			})
+			fs.writeFile('public_html/index.js','var data='+JSON.stringify(surveyedSegmentsArray))
 		})
-		fs.writeFile('index.js','var data='+JSON.stringify(surveyedSegmentsArray))
 	})
 })
