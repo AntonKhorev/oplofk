@@ -21,13 +21,14 @@ for (var i=0;i<data.length;i++) {
 	var date=Date.parse(segment.t)
 	var now=Date.now()
 	var month=1000*60*60*24*30
+	var span1=6*month, span2=36*month
 	var hotness,hotnessPercent,polygonColor
-	if (date-now<6*month) {
-		hotness=(date-(now-6*month))/(6*month)
+	if (now-date<span1) {
+		hotness=(date-(now-span1))/span1
 		hotnessPercent=Math.round(100*hotness)
 		polygonColor="rgb("+hotnessPercent+"%,0%,"+(100-hotnessPercent)+"%)"
-	} else if (date-now<36*month) {
-		hotness=(date-(now-36*month))/(30*month)
+	} else if (now-date<span2) {
+		hotness=(date-(now-span2))/(span2-span1)
 		hotnessPercent=Math.round(100*hotness)
 		polygonColor="rgb(0%,0%,"+hotnessPercent+"%)"
 	} else {
