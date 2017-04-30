@@ -37,7 +37,7 @@ const readSurveys=(filename,segments,callback)=>{
 		const surveyedSegment={
 			n: segment.name,
 			d: segment.description,
-			p: segment.nodes,
+			p: segment.nodes.map(node=>node.map(n=>+n.toFixed(5))),
 			t: surveyDate,
 			c: surveyChangeset,
 		}
