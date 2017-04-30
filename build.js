@@ -48,15 +48,54 @@ const readSurveys=(filename,segments,callback)=>{
 	})
 }
 
-mkdirp('public_html',()=>{
-	fs.createReadStream('index.html').pipe(fs.createWriteStream('public_html/index.html'))
-	readSegments('segments.osm',(segments)=>{
-		readSurveys('surveys.csv',segments,(surveyedSegments)=>{
+const writeHtml=(prefix,htmlName,title)=>{
+	fs.writeFile(`public_html/${htmlName}`,[
+		`<!DOCTYPE html>`,
+		`<html lang=ru>`,
+		`<head>`,
+		`<meta charset=utf-8>`,
+		`<title>${title}</title>`,
+		`<link rel=stylesheet href='https://unpkg.com/leaflet@1.0.2/dist/leaflet.css'>`,
+		`<script src='https://unpkg.com/leaflet@1.0.2/dist/leaflet.js'></script>`,
+		`<style>`,
+		`html, body {`,
+		`	height: 100%;`,
+		`	margin: 0;`,
+		`	padding: 0;`,
+		`}`,
+		`#map {`,
+		`	width: 100%;`,
+		`	height: 100%;`,
+		`}`,
+		`</style>`,
+		`</head>`,
+		`<body>`,
+		`<div id='map'>при включённом js здесь будет карта</div>`,
+		`</body>`,
+		`<script src='${prefix}-data.js'></script>`,
+		`<script src='map.js'></script>`,
+		`</html>`,
+	].join('\n'))
+}
+
+const writeData=(prefix)=>{
+	readSegments(`${prefix}-segments.osm`,(segments)=>{
+		readSurveys(`${prefix}-surveys.csv`,segments,(surveyedSegments)=>{
 			surveyedSegmentsArray=[]
 			surveyedSegments.forEach((surveyedSegment)=>{
 				surveyedSegmentsArray.push(surveyedSegment)
 			})
-			fs.writeFile('public_html/index.js','var data='+JSON.stringify(surveyedSegmentsArray))
+			fs.writeFile(`public_html/${prefix}-data.js`,'var data='+JSON.stringify(surveyedSegmentsArray))
 		})
 	})
+}
+
+const writeDistrict=(prefix,htmlName,title)=>{
+	writeHtml(prefix,htmlName,title)
+	writeData(prefix)
+}
+
+mkdirp('public_html',()=>{
+	fs.createReadStream('map.js').pipe(fs.createWriteStream('public_html/map.js'))
+	writeDistrict('adm','index.html','Обновление POI Адмиралтейского района СПб')
 })
