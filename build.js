@@ -98,4 +98,5 @@ const writeDistrict=(prefix,htmlName,title)=>{
 mkdirp('public_html',()=>{
 	fs.createReadStream('map.js').pipe(fs.createWriteStream('public_html/map.js'))
 	writeDistrict('adm','index.html','Обновление POI Адмиралтейского района СПб')
+	writeDistrict('cen','cen.html','Обновление POI Центрального района СПб')
 })
