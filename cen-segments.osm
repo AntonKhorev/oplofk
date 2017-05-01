@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='never' generator='JOSM'>
+  <node id='-34899' action='modify' visible='true' lat='59.92327212364' lon='30.33530018975' />
+  <node id='-34900' action='modify' visible='true' lat='59.92321768293' lon='30.33536188056' />
+  <node id='-34902' action='modify' visible='true' lat='59.92328892631' lon='30.33558852722' />
+  <node id='-34904' action='modify' visible='true' lat='59.92330505687' lon='30.33580042173' />
+  <node id='-34906' action='modify' visible='true' lat='59.92377283957' lon='30.33699400474' />
+  <node id='-34909' action='modify' visible='true' lat='59.92383467242' lon='30.33705569555' />
+  <node id='-34911' action='modify' visible='true' lat='59.92390860285' lon='30.33723540355' />
+  <node id='-34913' action='modify' visible='true' lat='59.92389381678' lon='30.33747143795' />
+  <node id='-34915' action='modify' visible='true' lat='59.92401479355' lon='30.33749289562' />
+  <node id='-34917' action='modify' visible='true' lat='59.92405780741' lon='30.33759213735' />
+  <node id='-34919' action='modify' visible='true' lat='59.92407528177' lon='30.33771015455' />
+  <node id='-34923' action='modify' visible='true' lat='59.92448290229' lon='30.33872972925' />
+  <node id='-34925' action='modify' visible='true' lat='59.9245837145' lon='30.33874179919' />
+  <node id='-34927' action='modify' visible='true' lat='59.92462538346' lon='30.33884238203' />
+  <node id='-34929' action='modify' visible='true' lat='59.92466167574' lon='30.33878605564' />
+  <way id='-34901' action='modify' visible='true'>
+    <nd ref='-34899' />
+    <nd ref='-34900' />
+    <nd ref='-34902' />
+    <nd ref='-34904' />
+    <nd ref='-34906' />
+    <nd ref='-34909' />
+    <nd ref='-34911' />
+    <nd ref='-34913' />
+    <nd ref='-34915' />
+    <nd ref='-34917' />
+    <nd ref='-34919' />
+    <nd ref='-34923' />
+    <nd ref='-34925' />
+    <nd ref='-34927' />
+    <nd ref='-34929' />
+    <nd ref='-34899' />
+    <tag k='description' v='южн сторона между Социалистической и Звенигородской' />
+    <tag k='name' v='Загородный пр. 32-44' />
+  </way>
+</osm>
