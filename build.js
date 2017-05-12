@@ -1,4 +1,4 @@
-const build=require('./lib')
+const build=require('oplofk-static')
 
 build([
 	['adm','index.html','Обновление POI Адмиралтейского района СПб'],
