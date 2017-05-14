@@ -3,23 +3,13 @@
 <head>
 <meta charset=utf-8>
 <title>Обновление POI Центрального района СПб</title>
-<link rel=stylesheet href='https://unpkg.com/leaflet@1.0.2/dist/leaflet.css'>
-<script src='https://unpkg.com/leaflet@1.0.2/dist/leaflet.js'></script>
-<style>
-html, body {
-	height: 100%;
-	margin: 0;
-	padding: 0;
-}
-#map {
-	width: 100%;
-	height: 100%;
-}
-</style>
+<link rel=stylesheet href=https://unpkg.com/leaflet@1.0.3/dist/leaflet.css>
+<script src=https://unpkg.com/leaflet@1.0.3/dist/leaflet.js></script>
+<link rel=stylesheet href=map.css>
 </head>
 <body>
-<div id='map'>при включённом js здесь будет карта</div>
+<div id=map>при включённом js здесь будет карта</div>
+<script src=cen.js></script>
+<script src=map.js></script>
 </body>
-<script src='cen-data.js'></script>
-<script src='map.js'></script>
 </html>

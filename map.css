@@ -1,0 +1,67 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+#map {
+	width: 100%;
+	height: 100%;
+}
+.leaflet-control-age {
+	box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+	background: #fff;
+	border-radius: 5px;
+	padding: 5px;
+	width: 216px;
+}
+.leaflet-control-age-slider {
+	display: block;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+/* .leaflet-control-age-slider::-moz-range-track and .leaflet-control-age-slider::-webkit-slider-runnable-track are dynamically adjusted by js */
+.leaflet-control-age-slider::-moz-range-track {
+	height: 12px;
+}
+.leaflet-control-age-slider::-moz-range-thumb {
+	width: 10px;
+	height: 10px;
+	border: solid 1px #444;
+	border-radius: 0;
+	background: #CCC;
+}
+.leaflet-control-age-slider::-moz-range-thumb:hover,
+.leaflet-control-age-slider:focus::-moz-range-thumb {
+	background: #FFF;
+}
+.leaflet-control-age-slider::-ms-fill-lower {
+	background: linear-gradient(to right,#F00,#00F);
+}
+.leaflet-control-age-slider::-ms-fill-upper {
+	background: linear-gradient(to right,#00F,#000);
+}
+.leaflet-control-age-slider::-ms-thumb {
+	border: solid 1px #444;
+	background: #CCC;
+}
+.leaflet-control-age-slider::-ms-thumb:hover,
+.leaflet-control-age-slider:focus::-ms-thumb {
+	background: #FFF;
+}
+.leaflet-control-age-scale {
+	position: relative;
+	height: 1em;
+}
+.leaflet-control-age-min {
+	position: absolute;
+	left: 0;
+}
+.leaflet-control-age-max {
+	position: absolute;
+	right: 0;
+}
+.leaflet-control-age-current {
+	position: absolute;
+	transform: translate(-50%,0);
+}
