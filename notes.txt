@@ -72,6 +72,7 @@ surveys.csv
 * тайм/антикафе
 * shop=haberdashery галантерея
 * shop=sewing ???
+	лучше было бы shop=craft, но как уточнить его тип (craft=* занят)
 * shop=hairdresser_supply
 * shop=olive_oil
 * упаковка
