@@ -27,8 +27,11 @@ var segmentLayer=L.featureGroup(data.map(function(segment){
 	var popupHtml=
 		"<strong>"+segment.n+"</strong><br>"+segment.d+"<br><br>"+
 		"проверено <time>"+segment.t+"</time>"
-	if (segment.c.length>0) {
-		popupHtml+=", записано в пакете <a href=https://www.openstreetmap.org/changeset/"+segment.c+">"+segment.c+"</a>"
+	if (segment.c!==undefined) {
+		var changesets=segment.c.split(',')
+		popupHtml+=", записано в пакет"+(changesets.length==1?"е ":"ах ")+changesets.map(function(c){
+			return "<a href=https://www.openstreetmap.org/changeset/"+c+">"+c+"</a>"
+		}).join(", ")
 	}
 	var age=now-Date.parse(segment.t)
 	var segmentPolygon=L.polygon(segment.p,{color:computePolygonColor(age,defaultColorThreshold)}).bindPopup(popupHtml)
