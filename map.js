@@ -23,18 +23,26 @@ var map=L.map(div).addLayer(L.tileLayer(
 	{attribution: "© <a href=https://www.openstreetmap.org/copyright>Участники OpenStreetMap</a>"}
 ))
 var now=Date.now()
+var latAcc=0, lonAcc=0
 var segmentLayer=L.featureGroup(data.map(function(segment){
+	var LATS=0, LONS=1, NAME=2, DESC=3, DATE=4, CSETS=5
 	var popupHtml=
-		"<strong>"+segment.n+"</strong><br>"+segment.d+"<br><br>"+
-		"проверено <time>"+segment.t+"</time>"
-	if (segment.c!==undefined) {
-		var changesets=segment.c.split(',')
-		popupHtml+=", записано в пакет"+(changesets.length==1?"е ":"ах ")+changesets.map(function(c){
+		"<strong>"+segment[NAME]+"</strong><br>"+segment[DESC]+"<br><br>"+
+		"проверено <time>"+segment[DATE]+"</time>"
+	if (segment[CSETS].length>0) {
+		popupHtml+=", записано в пакет"+(segment[CSETS].length==1?"е ":"ах ")+segment[CSETS].map(function(c){
 			return "<a href=https://www.openstreetmap.org/changeset/"+c+">"+c+"</a>"
 		}).join(", ")
 	}
-	var age=now-Date.parse(segment.t)
-	var segmentPolygon=L.polygon(segment.p,{color:computePolygonColor(age,defaultColorThreshold)}).bindPopup(popupHtml)
+	var age=now-Date.parse(segment[DATE])
+	var points=[]
+	for (var i=0;i<segment[LATS].length;i++) {
+		points.push([
+			(latAcc+=segment[LATS][i])/100000,
+			(lonAcc+=segment[LONS][i])/100000
+		])
+	}
+	var segmentPolygon=L.polygon(points,{color:computePolygonColor(age,defaultColorThreshold)}).bindPopup(popupHtml)
 	segmentPolygon.age=age
 	return segmentPolygon
 })).addTo(map)
