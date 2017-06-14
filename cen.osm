@@ -555,47 +555,263 @@
   <node id='-31574' action='modify' lat='59.94862805485' lon='30.37802070111' />
   <node id='-31576' action='modify' lat='59.94862536848' lon='30.37824332446' />
   <node id='-31578' action='modify' lat='59.94869252775' lon='30.37824332446' />
-  <node id='-37264' action='modify' lat='59.91712073751' lon='30.34275501698' />
-  <node id='-37265' action='modify' lat='59.91724173897' lon='30.34306883544' />
-  <node id='-37267' action='modify' lat='59.91729148389' lon='30.34300178021' />
-  <node id='-37269' action='modify' lat='59.91733585092' lon='30.34300446242' />
-  <node id='-37271' action='modify' lat='59.91773649592' lon='30.3424921605' />
-  <node id='-37273' action='modify' lat='59.91773246261' lon='30.34237950772' />
-  <node id='-37275' action='modify' lat='59.91800807133' lon='30.34202813834' />
-  <node id='-37277' action='modify' lat='59.91808604802' lon='30.34207373589' />
-  <node id='-37282' action='modify' lat='59.91925164321' lon='30.34068703383' />
-  <node id='-37284' action='modify' lat='59.91931214011' lon='30.34065484732' />
-  <node id='-37288' action='modify' lat='59.91965495381' lon='30.34023374051' />
-  <node id='-37290' action='modify' lat='59.91969662896' lon='30.34008085459' />
-  <node id='-37292' action='modify' lat='59.91983785227' lon='30.33991760173' />
-  <node id='-37294' action='modify' lat='59.91974233713' lon='30.33959001034' />
-  <node id='-39847' action='modify' lat='59.91956540371' lon='30.33980362651' />
-  <node id='-39850' action='modify' lat='59.91964285456' lon='30.34005671471' />
-  <node id='-39853' action='modify' lat='59.91980417749' lon='30.34074604243' />
-  <node id='-39855' action='modify' lat='59.91990231522' lon='30.34076481789' />
-  <node id='-39857' action='modify' lat='59.91997625441' lon='30.34099548787' />
-  <node id='-39859' action='modify' lat='59.91998835354' lon='30.34124761552' />
-  <node id='-39861' action='modify' lat='59.92103155041' lon='30.3449034664' />
-  <node id='-39863' action='modify' lat='59.92114581612' lon='30.34493028849' />
-  <node id='-39865' action='modify' lat='59.92119017799' lon='30.34503757685' />
-  <node id='-39867' action='modify' lat='59.92128293445' lon='30.3448739621' />
-  <node id='-39930' action='modify' lat='59.92005153779' lon='30.34713774651' />
-  <node id='-39931' action='modify' lat='59.92023974548' lon='30.34724771708' />
-  <node id='-39933' action='modify' lat='59.92025318884' lon='30.34715383977' />
-  <node id='-39935' action='modify' lat='59.92030024058' lon='30.34708142012' />
-  <node id='-39937' action='modify' lat='59.92035535824' lon='30.34696340293' />
-  <node id='-39976' action='modify' lat='59.92034460358' lon='30.34685611457' />
-  <node id='-39978' action='modify' lat='59.92056372907' lon='30.34642696112' />
-  <node id='-39980' action='modify' lat='59.92065648727' lon='30.34642696112' />
-  <node id='-39982' action='modify' lat='59.92077209858' lon='30.34620701998' />
-  <node id='-39984' action='modify' lat='59.92076672132' lon='30.34603804082' />
-  <node id='-39986' action='modify' lat='59.92105171498' lon='30.34558474749' />
-  <node id='-39996' action='modify' lat='59.92115522622' lon='30.34558206528' />
-  <node id='-39998' action='modify' lat='59.92121571965' lon='30.3454667303' />
-  <node id='-40000' action='modify' lat='59.92124932706' lon='30.34534334868' />
-  <node id='-40002' action='modify' lat='59.92137569064' lon='30.34518241614' />
-  <node id='-40004' action='modify' lat='59.9212936888' lon='30.34491687745' />
-  <way id='-31580' action='modify'>
+  <node id='-31580' action='modify' lat='59.91712073751' lon='30.34275501698' />
+  <node id='-31582' action='modify' lat='59.91724173897' lon='30.34306883544' />
+  <node id='-31584' action='modify' lat='59.91729148389' lon='30.34300178021' />
+  <node id='-31586' action='modify' lat='59.91733585092' lon='30.34300446242' />
+  <node id='-31588' action='modify' lat='59.91773649592' lon='30.3424921605' />
+  <node id='-31590' action='modify' lat='59.91773246261' lon='30.34237950772' />
+  <node id='-31592' action='modify' lat='59.91800807133' lon='30.34202813834' />
+  <node id='-31594' action='modify' lat='59.91808604802' lon='30.34207373589' />
+  <node id='-31596' action='modify' lat='59.91925164321' lon='30.34068703383' />
+  <node id='-31598' action='modify' lat='59.91931214011' lon='30.34065484732' />
+  <node id='-31600' action='modify' lat='59.91965495381' lon='30.34023374051' />
+  <node id='-31602' action='modify' lat='59.91969662896' lon='30.34008085459' />
+  <node id='-31604' action='modify' lat='59.91983785227' lon='30.33991760173' />
+  <node id='-31606' action='modify' lat='59.91974233713' lon='30.33959001034' />
+  <node id='-31608' action='modify' lat='59.91956540371' lon='30.33980362651' />
+  <node id='-31610' action='modify' lat='59.91964285456' lon='30.34005671471' />
+  <node id='-31612' action='modify' lat='59.91980417749' lon='30.34074604243' />
+  <node id='-31614' action='modify' lat='59.91990231522' lon='30.34076481789' />
+  <node id='-31616' action='modify' lat='59.91997625441' lon='30.34099548787' />
+  <node id='-31618' action='modify' lat='59.91998835354' lon='30.34124761552' />
+  <node id='-31620' action='modify' lat='59.92103155041' lon='30.3449034664' />
+  <node id='-31622' action='modify' lat='59.92114581612' lon='30.34493028849' />
+  <node id='-31624' action='modify' lat='59.92119017799' lon='30.34503757685' />
+  <node id='-31626' action='modify' lat='59.92128293445' lon='30.3448739621' />
+  <node id='-31628' action='modify' lat='59.92005153779' lon='30.34713774651' />
+  <node id='-31630' action='modify' lat='59.92023972885' lon='30.34724783027' />
+  <node id='-31632' action='modify' lat='59.92025318884' lon='30.34715383977' />
+  <node id='-31634' action='modify' lat='59.92030427358' lon='30.34705996245' />
+  <node id='-31636' action='modify' lat='59.92035535824' lon='30.34696340293' />
+  <node id='-31638' action='modify' lat='59.92034460358' lon='30.34685611457' />
+  <node id='-31640' action='modify' lat='59.92056372907' lon='30.34642696112' />
+  <node id='-31642' action='modify' lat='59.92065648727' lon='30.34642696112' />
+  <node id='-31644' action='modify' lat='59.92077209858' lon='30.34620701998' />
+  <node id='-31646' action='modify' lat='59.92076672132' lon='30.34603804082' />
+  <node id='-31648' action='modify' lat='59.92105171498' lon='30.34558474749' />
+  <node id='-31650' action='modify' lat='59.92115522622' lon='30.34558206528' />
+  <node id='-31652' action='modify' lat='59.92121571965' lon='30.3454667303' />
+  <node id='-31654' action='modify' lat='59.92124932706' lon='30.34534334868' />
+  <node id='-31656' action='modify' lat='59.92137569064' lon='30.34518241614' />
+  <node id='-31658' action='modify' lat='59.9212936888' lon='30.34491687745' />
+  <node id='-31660' action='modify' lat='59.92233953314' lon='30.34847616881' />
+  <node id='-31662' action='modify' lat='59.92217418977' lon='30.3479075405' />
+  <node id='-31664' action='modify' lat='59.92204245218' lon='30.3480577442' />
+  <node id='-31666' action='modify' lat='59.92194835358' lon='30.34797459573' />
+  <node id='-31668' action='modify' lat='59.92023436813' lon='30.34706264466' />
+  <node id='-31670' action='modify' lat='59.92016867651' lon='30.34692831517' />
+  <node id='-31672' action='modify' lat='59.92234087672' lon='30.34849896893' />
+  <node id='-31674' action='modify' lat='59.92224005769' lon='30.34843861923' />
+  <node id='-31676' action='modify' lat='59.9222091398' lon='30.34867465362' />
+  <node id='-31678' action='modify' lat='59.92216343503' lon='30.34873634443' />
+  <node id='-31680' action='modify' lat='59.9222548445' lon='30.34900590643' />
+  <node id='-31682' action='modify' lat='59.92232810633' lon='30.34901931748' />
+  <node id='-31684' action='modify' lat='59.922369106' lon='30.34914672241' />
+  <node id='-31686' action='modify' lat='59.92234356523' lon='30.34932777151' />
+  <node id='-31688' action='modify' lat='59.92261913566' lon='30.35010158882' />
+  <node id='-31690' action='modify' lat='59.92268029854' lon='30.35016462073' />
+  <node id='-31692' action='modify' lat='59.92273079329' lon='30.35026571228' />
+  <node id='-31694' action='modify' lat='59.92281136148' lon='30.35008951887' />
+  <node id='-31696' action='modify' lat='59.92223468067' lon='30.34914672241' />
+  <node id='-31698' action='modify' lat='59.92219099232' lon='30.34923121199' />
+  <node id='-31700' action='modify' lat='59.9221446154' lon='30.34924462304' />
+  <node id='-31702' action='modify' lat='59.92209017284' lon='30.34936934575' />
+  <node id='-31704' action='modify' lat='59.92215200882' lon='30.34948199853' />
+  <node id='-31706' action='modify' lat='59.92221182831' lon='30.34946590528' />
+  <node id='-31708' action='modify' lat='59.92228105747' lon='30.34945651755' />
+  <node id='-31710' action='modify' lat='59.9227789015' lon='30.34997978193' />
+  <node id='-31712' action='modify' lat='59.92268365914' lon='30.35008147225' />
+  <node id='-31714' action='modify' lat='59.92183341783' lon='30.35172164306' />
+  <node id='-31716' action='modify' lat='59.92179510672' lon='30.35192817181' />
+  <node id='-31718' action='modify' lat='59.92174940138' lon='30.35200863808' />
+  <node id='-31720' action='modify' lat='59.92183812345' lon='30.35221785039' />
+  <node id='-31722' action='modify' lat='59.92182804074' lon='30.3522406505' />
+  <node id='-31724' action='modify' lat='59.92178838468' lon='30.35215616092' />
+  <node id='-31726' action='modify' lat='59.92176754842' lon='30.35219907627' />
+  <node id='-31728' action='modify' lat='59.9216761376' lon='30.35219773516' />
+  <node id='-31730' action='modify' lat='59.92119286592' lon='30.35323977336' />
+  <node id='-31732' action='modify' lat='59.92116530779' lon='30.35335242614' />
+  <node id='-31734' action='modify' lat='59.92112430731' lon='30.35341948003' />
+  <node id='-31736' action='modify' lat='59.92121168676' lon='30.35366087884' />
+  <node id='-31738' action='modify' lat='59.9212036203' lon='30.35369172558' />
+  <node id='-31740' action='modify' lat='59.9211424547' lon='30.35352945194' />
+  <node id='-31742' action='modify' lat='59.92108532189' lon='30.35362064704' />
+  <node id='-31744' action='modify' lat='59.92101004086' lon='30.35361260042' />
+  <node id='-31746' action='modify' lat='59.92095290782' lon='30.35376548633' />
+  <node id='-31748' action='modify' lat='59.92096231797' lon='30.35388350353' />
+  <node id='-31750' action='modify' lat='59.92093223943' lon='30.3540499994' />
+  <node id='-31752' action='modify' lat='59.92111825728' lon='30.35417049989' />
+  <node id='-31754' action='modify' lat='59.92113215351' lon='30.35409256043' />
+  <node id='-31756' action='modify' lat='59.92098785981' lon='30.35386472806' />
+  <node id='-31758' action='modify' lat='59.92020075968' lon='30.35327732295' />
+  <node id='-31760' action='modify' lat='59.92012682099' lon='30.35334706038' />
+  <node id='-31762' action='modify' lat='59.9200824577' lon='30.35332828492' />
+  <node id='-31764' action='modify' lat='59.92005825951' lon='30.35348385304' />
+  <node id='-31766' action='modify' lat='59.91724846126' lon='30.35218029946' />
+  <node id='-31768' action='modify' lat='59.91716913815' lon='30.35213470191' />
+  <node id='-31770' action='modify' lat='59.91715031569' lon='30.3522500369' />
+  <node id='-31772' action='modify' lat='59.91717182707' lon='30.35237610072' />
+  <node id='-31774' action='modify' lat='59.9165910148' lon='30.35621970624' />
+  <node id='-31776' action='modify' lat='59.91656271782' lon='30.35641590439' />
+  <node id='-31778' action='modify' lat='59.91660042619' lon='30.35643964738' />
+  <node id='-31780' action='modify' lat='59.91663019864' lon='30.35624396347' />
+  <node id='-31782' action='modify' lat='59.91504213238' lon='30.35527288646' />
+  <node id='-31784' action='modify' lat='59.91498297224' lon='30.35524069995' />
+  <node id='-31786' action='modify' lat='59.91495608124' lon='30.3554043147' />
+  <node id='-31788' action='modify' lat='59.9144491817' lon='30.36026179522' />
+  <node id='-31790' action='modify' lat='59.91445590456' lon='30.36020546883' />
+  <node id='-31792' action='modify' lat='59.91447741769' lon='30.35930961102' />
+  <node id='-31794' action='modify' lat='59.91456078094' lon='30.35919964045' />
+  <node id='-31796' action='modify' lat='59.91487406353' lon='30.3570431444' />
+  <node id='-31798' action='modify' lat='59.91486734076' lon='30.35688757628' />
+  <node id='-31800' action='modify' lat='59.91491440014' lon='30.35654157132' />
+  <node id='-31802' action='modify' lat='59.91496280399' lon='30.35645037621' />
+  <node id='-31804' action='modify' lat='59.91504616602' lon='30.35587370127' />
+  <node id='-31806' action='modify' lat='59.91498700589' lon='30.35575031966' />
+  <node id='-31808' action='modify' lat='59.91499507319' lon='30.35568862885' />
+  <node id='-31810' action='modify' lat='59.91491843379' lon='30.3556430313' />
+  <node id='-31812' action='modify' lat='59.91445187084' lon='30.35866319865' />
+  <node id='-31814' action='modify' lat='59.91430934598' lon='30.36015450686' />
+  <node id='-31816' action='modify' lat='59.91454195699' lon='30.3696575734' />
+  <node id='-31818' action='modify' lat='59.91488750907' lon='30.36953150958' />
+  <node id='-31820' action='modify' lat='59.91486599621' lon='30.36930620402' />
+  <node id='-31822' action='modify' lat='59.91488885497' lon='30.36872684419' />
+  <node id='-31824' action='modify' lat='59.91483238367' lon='30.36820113122' />
+  <node id='-31826' action='modify' lat='59.914595741' lon='30.36794363916' />
+  <node id='-31828' action='modify' lat='59.91459843013' lon='30.3660821861' />
+  <node id='-31830' action='modify' lat='59.91460380839' lon='30.36544918478' />
+  <node id='-31832' action='modify' lat='59.91457153881' lon='30.36469816625' />
+  <node id='-31834' action='modify' lat='59.91448817559' lon='30.36441921651' />
+  <node id='-31836' action='modify' lat='59.9145312018' lon='30.36394714773' />
+  <node id='-31838' action='modify' lat='59.9146522127' lon='30.36361991823' />
+  <node id='-31840' action='modify' lat='59.91460649752' lon='30.36345362127' />
+  <node id='-31842' action='modify' lat='59.91466028008' lon='30.36227881372' />
+  <node id='-31844' action='modify' lat='59.91448548645' lon='30.36172627866' />
+  <node id='-31846' action='modify' lat='59.9145459907' lon='30.36058902472' />
+  <node id='-31848' action='modify' lat='59.91446800569' lon='30.36039590567' />
+  <node id='-31850' action='modify' lat='59.91447472855' lon='30.36032885045' />
+  <node id='-31852' action='modify' lat='59.91430531225' lon='30.36020010442' />
+  <node id='-31854' action='modify' lat='59.91415740843' lon='30.36338925093' />
+  <node id='-31856' action='modify' lat='59.91432817005' lon='30.36725699633' />
+  <node id='-31858' action='modify' lat='59.91441153368' lon='30.3684961769' />
+  <node id='-31860' action='modify' lat='59.91448682968' lon='30.36926328868' />
+  <node id='-38141' action='modify' lat='59.91677655316' lon='30.37467598647' />
+  <node id='-38142' action='modify' lat='59.91687201089' lon='30.37465989321' />
+  <node id='-38144' action='modify' lat='59.91673218538' lon='30.37383377284' />
+  <node id='-38146' action='modify' lat='59.91675100808' lon='30.37376671761' />
+  <node id='-38148' action='modify' lat='59.91669588443' lon='30.37345826358' />
+  <node id='-38150' action='modify' lat='59.91665958344' lon='30.37334292859' />
+  <node id='-38152' action='modify' lat='59.91660042619' lon='30.37297814816' />
+  <node id='-38154' action='modify' lat='59.91661118206' lon='30.37276357144' />
+  <node id='-38156' action='modify' lat='59.91650631216' lon='30.37208497256' />
+  <node id='-38158' action='modify' lat='59.91644715463' lon='30.37202596396' />
+  <node id='-38160' action='modify' lat='59.91641219786' lon='30.37184357375' />
+  <node id='-38162' action='modify' lat='59.91643236523' lon='30.37175774306' />
+  <node id='-38164' action='modify' lat='59.91648345585' lon='30.37152439088' />
+  <node id='-38173' action='modify' lat='59.91648480034' lon='30.37126958102' />
+  <node id='-38177' action='modify' lat='59.91637724105' lon='30.37075996131' />
+  <node id='-38179' action='modify' lat='59.91620917897' lon='30.37069290608' />
+  <node id='-38182' action='modify' lat='59.91615270992' lon='30.3702530238' />
+  <node id='-38189' action='modify' lat='59.91619573397' lon='30.3701323244' />
+  <node id='-38191' action='modify' lat='59.91612447536' lon='30.37007599801' />
+  <node id='-38193' action='modify' lat='59.91593355531' lon='30.36891996592' />
+  <node id='-38197' action='modify' lat='59.91570498761' lon='30.36901652545' />
+  <node id='-38200' action='modify' lat='59.91554498928' lon='30.3688234064' />
+  <node id='-38202' action='modify' lat='59.91537154485' lon='30.368882415' />
+  <node id='-38204' action='modify' lat='59.91521288945' lon='30.36862224072' />
+  <node id='-38209' action='modify' lat='59.91581120456' lon='30.36919355124' />
+  <node id='-39050' action='modify' lat='59.92403324847' lon='30.37205278337' />
+  <node id='-39051' action='modify' lat='59.924022495' lon='30.37188112199' />
+  <node id='-39053' action='modify' lat='59.92395797413' lon='30.37190257967' />
+  <node id='-39055' action='modify' lat='59.92386925772' lon='30.37178992689' />
+  <node id='-39057' action='modify' lat='59.92343104896' lon='30.37194549501' />
+  <node id='-39061' action='modify' lat='59.92322404035' lon='30.37202059686' />
+  <node id='-39075' action='modify' lat='59.92312456823' lon='30.37190794408' />
+  <node id='-39077' action='modify' lat='59.9227495274' lon='30.37202596396' />
+  <node id='-39079' action='modify' lat='59.92270382337' lon='30.37220030755' />
+  <node id='-39081' action='modify' lat='59.92262989025' lon='30.37243902415' />
+  <node id='-39083' action='modify' lat='59.92001120743' lon='30.37338047951' />
+  <node id='-39085' action='modify' lat='59.91986064033' lon='30.3730773899' />
+  <node id='-39087' action='modify' lat='59.91973427098' lon='30.37311762303' />
+  <node id='-39089' action='modify' lat='59.91962672223' lon='30.37352800101' />
+  <node id='-39093' action='modify' lat='59.91920728009' lon='30.37367820203' />
+  <node id='-39095' action='modify' lat='59.91896260227' lon='30.37380158365' />
+  <node id='-39097' action='modify' lat='59.91834955543' lon='30.37403761804' />
+  <node id='-39099' action='modify' lat='59.91826082403' lon='30.3739356941' />
+  <node id='-39101' action='modify' lat='59.91791934036' lon='30.3740537113' />
+  <node id='-39103' action='modify' lat='59.91783598555' lon='30.3739356941' />
+  <node id='-39105' action='modify' lat='59.91744609734' lon='30.37406444013' />
+  <node id='-39107' action='modify' lat='59.91732778553' lon='30.37393032968' />
+  <node id='-39109' action='modify' lat='59.91704544883' lon='30.3740268892' />
+  <node id='-39111' action='modify' lat='59.91699167014' lon='30.37422537267' />
+  <node id='-39113' action='modify' lat='59.91681720248' lon='30.37433607244' />
+  <node id='-39116' action='modify' lat='59.91672667382' lon='30.37439270641' />
+  <node id='-39228' action='modify' lat='59.92496609711' lon='30.37264823645' />
+  <node id='-39229' action='modify' lat='59.92523761336' lon='30.37194013327' />
+  <node id='-39231' action='modify' lat='59.92496072053' lon='30.37150829762' />
+  <node id='-39233' action='modify' lat='59.92442843462' lon='30.37165850133' />
+  <node id='-39235' action='modify' lat='59.92438676541' lon='30.37161022156' />
+  <node id='-39237' action='modify' lat='59.92434240781' lon='30.37162899703' />
+  <node id='-39239' action='modify' lat='59.92432224524' lon='30.37169068784' />
+  <node id='-39241' action='modify' lat='59.92404265641' lon='30.37178456515' />
+  <node id='-39243' action='modify' lat='59.92406550751' lon='30.37206351489' />
+  <node id='-39245' action='modify' lat='59.92447413627' lon='30.37194281548' />
+  <node id='-44734' action='modify' lat='59.92492711687' lon='30.37274747819' />
+  <node id='-44735' action='modify' lat='59.92485453286' lon='30.37264823645' />
+  <node id='-44737' action='modify' lat='59.92481958494' lon='30.37274479598' />
+  <node id='-44739' action='modify' lat='59.92365552951' lon='30.37588566273' />
+  <node id='-44741' action='modify' lat='59.92360310573' lon='30.37586420506' />
+  <node id='-44743' action='modify' lat='59.92324151381' lon='30.37669032544' />
+  <node id='-44745' action='modify' lat='59.92324420224' lon='30.37680566043' />
+  <node id='-44747' action='modify' lat='59.92320790841' lon='30.37708192796' />
+  <node id='-44749' action='modify' lat='59.92308961714' lon='30.37744134396' />
+  <node id='-44751' action='modify' lat='59.92155044798' lon='30.37805020541' />
+  <node id='-44753' action='modify' lat='59.92151280802' lon='30.37807166308' />
+  <node id='-44755' action='modify' lat='59.921541038' lon='30.37827551097' />
+  <node id='-44757' action='modify' lat='59.92315279549' lon='30.37756740779' />
+  <node id='-44798' action='modify' lat='59.92117135781' lon='30.37842035025' />
+  <node id='-44799' action='modify' lat='59.92117539071' lon='30.37850349873' />
+  <node id='-44801' action='modify' lat='59.92158405506' lon='30.37841498584' />
+  <node id='-44803' action='modify' lat='59.92163917059' lon='30.37848472327' />
+  <node id='-44805' action='modify' lat='59.92171848302' lon='30.37845790118' />
+  <node id='-44807' action='modify' lat='59.9217534342' lon='30.37836670607' />
+  <node id='-44809' action='modify' lat='59.92188382867' lon='30.37833451957' />
+  <node id='-44811' action='modify' lat='59.92243497488' lon='30.37808507413' />
+  <node id='-44813' action='modify' lat='59.92249412174' lon='30.37814408273' />
+  <node id='-44815' action='modify' lat='59.92253982605' lon='30.37804215878' />
+  <node id='-44817' action='modify' lat='59.92285034488' lon='30.37794291705' />
+  <node id='-44819' action='modify' lat='59.92293503133' lon='30.37802606553' />
+  <node id='-44821' action='modify' lat='59.92304122514' lon='30.37796973914' />
+  <node id='-44823' action='modify' lat='59.92308961714' lon='30.37781148881' />
+  <node id='-44825' action='modify' lat='59.9231984989' lon='30.37775784463' />
+  <node id='-44827' action='modify' lat='59.92378322812' lon='30.37622362107' />
+  <node id='-44829' action='modify' lat='59.92383144249' lon='30.37610072503' />
+  <node id='-44831' action='modify' lat='59.92376440941' lon='30.37600367993' />
+  <node id='-44833' action='modify' lat='59.92316220502' lon='30.37762105197' />
+  <node id='-44835' action='modify' lat='59.92153834943' lon='30.37832379073' />
+  <node id='-44910' action='modify' lat='59.92372135787' lon='30.37611930669' />
+  <node id='-44924' action='modify' lat='59.92472213316' lon='30.37767335638' />
+  <node id='-44926' action='modify' lat='59.92481350258' lon='30.37780875826' />
+  <node id='-44928' action='modify' lat='59.9248834314' lon='30.37762373552' />
+  <node id='-45541' action='modify' lat='59.92478572571' lon='30.37748228067' />
+  <node id='-45546' action='modify' lat='59.92317699142' lon='30.38184016675' />
+  <node id='-45548' action='modify' lat='59.92311650156' lon='30.38211911649' />
+  <node id='-45550' action='modify' lat='59.92318640094' lon='30.38211375207' />
+  <node id='-45621' action='modify' lat='59.92316892544' lon='30.38250133261' />
+  <node id='-45623' action='modify' lat='59.92313330364' lon='30.3826756762' />
+  <node id='-45625' action='modify' lat='59.92320992407' lon='30.3827655302' />
+  <node id='-45627' action='modify' lat='59.92324016892' lon='30.3829747425' />
+  <node id='-45629' action='modify' lat='59.92323344785' lon='30.38306996092' />
+  <node id='-45631' action='modify' lat='59.9231810234' lon='30.383212118' />
+  <node id='-45633' action='modify' lat='59.92331746121' lon='30.38420453534' />
+  <node id='-45635' action='modify' lat='59.92340281857' lon='30.38429170713' />
+  <node id='-45638' action='modify' lat='59.92345457057' lon='30.38464709982' />
+  <node id='-45640' action='modify' lat='59.92343575167' lon='30.38474902377' />
+  <node id='-45642' action='modify' lat='59.92348212679' lon='30.38478121027' />
+  <node id='-45644' action='modify' lat='59.92352850185' lon='30.38493007287' />
+  <node id='-45646' action='modify' lat='59.92354059968' lon='30.38455322251' />
+  <way id='-31862' action='modify'>
     <nd ref='-30470' />
     <nd ref='-30472' />
     <nd ref='-30474' />
@@ -616,7 +832,7 @@
     <tag k='description' v='южн сторона между Социалистической и Звенигородской' />
     <tag k='name' v='Загородный пр. 32-44' />
   </way>
-  <way id='-31582' action='modify'>
+  <way id='-31864' action='modify'>
     <nd ref='-30498' />
     <nd ref='-30500' />
     <nd ref='-30494' />
@@ -630,7 +846,7 @@
     <tag k='description' v='зап сторона между Загородным и Правды' />
     <tag k='name' v='Социалистическая ул. 1-7' />
   </way>
-  <way id='-31584' action='modify'>
+  <way id='-31866' action='modify'>
     <nd ref='-30510' />
     <nd ref='-30512' />
     <nd ref='-30514' />
@@ -647,7 +863,7 @@
     <tag k='description' v='сев сторона между Разъезжей и Социалистической' />
     <tag k='name' v='Правды ул. 1-9' />
   </way>
-  <way id='-31586' action='modify'>
+  <way id='-31868' action='modify'>
     <nd ref='-30534' />
     <nd ref='-30536' />
     <nd ref='-30538' />
@@ -662,7 +878,7 @@
     <tag k='description' v='сев-зап сторона между Владимирской и Разъезжей' />
     <tag k='name' v='Бол. Московская ул. 1-15' />
   </way>
-  <way id='-31588' action='modify'>
+  <way id='-31870' action='modify'>
     <nd ref='-30552' />
     <nd ref='-30554' />
     <nd ref='-30556' />
@@ -675,7 +891,7 @@
     <tag k='description' v='юг-зап сторона между Загородным и Бол. Московской' />
     <tag k='name' v='Владимирская пл. юг-зап' />
   </way>
-  <way id='-31590' action='modify'>
+  <way id='-31872' action='modify'>
     <nd ref='-30564' />
     <nd ref='-30566' />
     <nd ref='-30568' />
@@ -691,7 +907,7 @@
     <tag k='description' v='сев сторона между Бол. Московской и Марата' />
     <tag k='name' v='Кузнечный пер. 2-12' />
   </way>
-  <way id='-31592' action='modify'>
+  <way id='-31874' action='modify'>
     <nd ref='-30586' />
     <nd ref='-30588' />
     <nd ref='-30590' />
@@ -705,7 +921,7 @@
     <tag k='description' v='южн сторона между Мучным и Гороховой' />
     <tag k='name' v='Грибоедова кан. наб. 38-40' />
   </way>
-  <way id='-31594' action='modify'>
+  <way id='-31876' action='modify'>
     <nd ref='-30600' />
     <nd ref='-30602' />
     <nd ref='-30596' />
@@ -719,7 +935,7 @@
     <tag k='description' v='зап сторона между Грибоедова и Садовой' />
     <tag k='name' v='Мучной пер. 1-9' />
   </way>
-  <way id='-31596' action='modify'>
+  <way id='-31878' action='modify'>
     <nd ref='-30612' />
     <nd ref='-30614' />
     <nd ref='-30616' />
@@ -732,7 +948,7 @@
     <tag k='description' v='сев сторона между Банковским и Мучным' />
     <tag k='name' v='Садовая ул. 25' />
   </way>
-  <way id='-31598' action='modify'>
+  <way id='-31880' action='modify'>
     <nd ref='-30628' />
     <nd ref='-30630' />
     <nd ref='-30632' />
@@ -750,7 +966,7 @@
     <tag k='description' v='вост сторона между Грибоедова и Садовой' />
     <tag k='name' v='Банковский пер. 2-6' />
   </way>
-  <way id='-31600' action='modify'>
+  <way id='-31882' action='modify'>
     <nd ref='-30650' />
     <nd ref='-30652' />
     <nd ref='-30654' />
@@ -774,7 +990,7 @@
     <tag k='description' v='южн сторона между Ломоносова и Банковским' />
     <tag k='name' v='Грибоедова кан. наб. 28-32' />
   </way>
-  <way id='-31602' action='modify'>
+  <way id='-31884' action='modify'>
     <nd ref='-30674' />
     <nd ref='-30682' />
     <nd ref='-30684' />
@@ -789,7 +1005,7 @@
     <tag k='description' v='южн сторона между Грибоедова и Садовой' />
     <tag k='name' v='Ломоносова ул. 1' />
   </way>
-  <way id='-31604' action='modify'>
+  <way id='-31886' action='modify'>
     <nd ref='-30696' />
     <nd ref='-30698' />
     <nd ref='-30700' />
@@ -803,7 +1019,7 @@
     <tag k='description' v='зап сторона между Итальянской и Невским' />
     <tag k='name' v='Мал. Садовая ул. 1-3' />
   </way>
-  <way id='-31606' action='modify'>
+  <way id='-31888' action='modify'>
     <nd ref='-30712' />
     <nd ref='-30714' />
     <nd ref='-30716' />
@@ -817,7 +1033,7 @@
     <tag k='description' v='южн сторона между Садовой и Мал. Садовой' />
     <tag k='name' v='Итальянская ул. 23-25' />
   </way>
-  <way id='-31608' action='modify'>
+  <way id='-31890' action='modify'>
     <nd ref='-30722' />
     <nd ref='-30724' />
     <nd ref='-30726' />
@@ -831,7 +1047,7 @@
     <tag k='description' v='вост сторона между Инженерной и Итальянской' />
     <tag k='name' v='Садовая ул. 8-10' />
   </way>
-  <way id='-31610' action='modify'>
+  <way id='-31892' action='modify'>
     <nd ref='-30736' />
     <nd ref='-30738' />
     <nd ref='-30740' />
@@ -851,7 +1067,7 @@
     <tag k='description' v='южн сторона между Садовой и Кленовой' />
     <tag k='name' v='Инженерная ул. 7-11' />
   </way>
-  <way id='-31612' action='modify'>
+  <way id='-31894' action='modify'>
     <nd ref='-30762' />
     <nd ref='-30764' />
     <nd ref='-30766' />
@@ -865,7 +1081,7 @@
     <tag k='description' v='южн сторона между Кленовой и Караванной' />
     <tag k='name' v='Инженерная ул. 13' />
   </way>
-  <way id='-31614' action='modify'>
+  <way id='-31896' action='modify'>
     <nd ref='-30794' />
     <nd ref='-30780' />
     <nd ref='-30782' />
@@ -879,7 +1095,7 @@
     <tag k='description' v='сев сторона между Радищева и Маяковского' />
     <tag k='name' v='Манежный пер. 6-12' />
   </way>
-  <way id='-31616' action='modify'>
+  <way id='-31898' action='modify'>
     <nd ref='-30796' />
     <nd ref='-30798' />
     <nd ref='-30800' />
@@ -893,7 +1109,7 @@
     <tag k='description' v='зап сторона между Манежным и Кирочной' />
     <tag k='name' v='Маяковского ул. 54-56' />
   </way>
-  <way id='-31618' action='modify'>
+  <way id='-31900' action='modify'>
     <nd ref='-30808' />
     <nd ref='-30810' />
     <nd ref='-30812' />
@@ -924,7 +1140,7 @@
     <tag k='description' v='южн сторона между Суворовским и Новгородской' />
     <tag k='name' v='Кирочная ул. 55-61' />
   </way>
-  <way id='-31620' action='modify'>
+  <way id='-31902' action='modify'>
     <nd ref='-30860' />
     <nd ref='-30862' />
     <nd ref='-30864' />
@@ -941,7 +1157,7 @@
     <tag k='description' v='зап сторона между Моисеенко и Дегтярным' />
     <tag k='name' v='Новгородская ул. 20' />
   </way>
-  <way id='-31622' action='modify'>
+  <way id='-31904' action='modify'>
     <nd ref='-30884' />
     <nd ref='-30886' />
     <nd ref='-30888' />
@@ -973,7 +1189,7 @@
     <tag k='description' v='зап сторона между 10 Советской и Моисеенко' />
     <tag k='name' v='Новгородская ул. 10-18' />
   </way>
-  <way id='-31624' action='modify'>
+  <way id='-31906' action='modify'>
     <nd ref='-30938' />
     <nd ref='-30940' />
     <nd ref='-30942' />
@@ -991,7 +1207,7 @@
     <tag k='description' v='зап сторона между 8 и 10 Советской' />
     <tag k='name' v='Новгородская ул. 4-8' />
   </way>
-  <way id='-31626' action='modify'>
+  <way id='-31908' action='modify'>
     <nd ref='-30964' />
     <nd ref='-30966' />
     <nd ref='-30968' />
@@ -1005,7 +1221,7 @@
     <tag k='description' v='зап сторона между Кутузова и Шпалерной' />
     <tag k='name' v='Литейный пр. 1' />
   </way>
-  <way id='-31628' action='modify'>
+  <way id='-31910' action='modify'>
     <nd ref='-30980' />
     <nd ref='-30982' />
     <nd ref='-30984' />
@@ -1018,7 +1234,7 @@
     <tag k='description' v='зап сторона между Шпалерной и Чайковского' />
     <tag k='name' v='Литейный пр. 3' />
   </way>
-  <way id='-31630' action='modify'>
+  <way id='-31912' action='modify'>
     <nd ref='-30996' />
     <nd ref='-30998' />
     <nd ref='-31000' />
@@ -1035,7 +1251,7 @@
     <tag k='description' v='зап сторона между Чайковского и Пестеля' />
     <tag k='name' v='Литейный пр. 5-21' />
   </way>
-  <way id='-31632' action='modify'>
+  <way id='-31914' action='modify'>
     <nd ref='-31020' />
     <nd ref='-31022' />
     <nd ref='-31024' />
@@ -1055,7 +1271,7 @@
     <tag k='description' v='зап сторона между Пестеля и Белинского' />
     <tag k='name' v='Литейный пр. 23-45' />
   </way>
-  <way id='-31634' action='modify'>
+  <way id='-31916' action='modify'>
     <nd ref='-31042' />
     <nd ref='-31048' />
     <nd ref='-31050' />
@@ -1072,7 +1288,7 @@
     <tag k='description' v='сев сторона между Моховой и Литейным' />
     <tag k='name' v='Белинского ул. 6-8' />
   </way>
-  <way id='-31636' action='modify'>
+  <way id='-31918' action='modify'>
     <nd ref='-31066' />
     <nd ref='-31068' />
     <nd ref='-31070' />
@@ -1087,7 +1303,7 @@
     <tag k='description' v='сев сторона между Фонтанкой и Моховой' />
     <tag k='name' v='Белинского ул. 2' />
   </way>
-  <way id='-31638' action='modify'>
+  <way id='-31920' action='modify'>
     <nd ref='-31086' />
     <nd ref='-31088' />
     <nd ref='-31090' />
@@ -1101,7 +1317,7 @@
     <tag k='description' v='южн сторона между Караванной и Фонтанкой' />
     <tag k='name' v='Белинского пл. юг' />
   </way>
-  <way id='-31640' action='modify'>
+  <way id='-31922' action='modify'>
     <nd ref='-31104' />
     <nd ref='-31106' />
     <nd ref='-31108' />
@@ -1117,7 +1333,7 @@
     <tag k='description' v='вост сторона между Белинского и Итальянской' />
     <tag k='name' v='Караванная ул. 2-16' />
   </way>
-  <way id='-31642' action='modify'>
+  <way id='-31924' action='modify'>
     <nd ref='-31118' />
     <nd ref='-31120' />
     <nd ref='-31122' />
@@ -1133,7 +1349,7 @@
     <tag k='description' v='сев сторона между Караванной и Фонтанкой' />
     <tag k='name' v='Итальянская ул. 14-16' />
   </way>
-  <way id='-31644' action='modify'>
+  <way id='-31926' action='modify'>
     <nd ref='-31134' />
     <nd ref='-31136' />
     <nd ref='-31138' />
@@ -1146,7 +1362,7 @@
     <tag k='description' v='зап сторона между Итальянской и Невским' />
     <tag k='name' v='Фонтанки наб. 21-29' />
   </way>
-  <way id='-31646' action='modify'>
+  <way id='-31928' action='modify'>
     <nd ref='-31150' />
     <nd ref='-31152' />
     <nd ref='-31154' />
@@ -1178,7 +1394,7 @@
     <tag k='description' v='сев-зап сторона между Невским и Ломоносова' />
     <tag k='name' v='Фонтанки наб. 31-55' />
   </way>
-  <way id='-31648' action='modify'>
+  <way id='-31930' action='modify'>
     <nd ref='-31204' />
     <nd ref='-31206' />
     <nd ref='-31208' />
@@ -1192,7 +1408,7 @@
     <tag k='description' v='южн сторона между Ломоносова и Банным' />
     <tag k='name' v='Фонтанки наб. 68-74' />
   </way>
-  <way id='-31650' action='modify'>
+  <way id='-31932' action='modify'>
     <nd ref='-31222' />
     <nd ref='-31224' />
     <nd ref='-31226' />
@@ -1205,7 +1421,7 @@
     <tag k='description' v='южн сторона между Банным и Джамбула' />
     <tag k='name' v='Фонтанки наб. 78-80' />
   </way>
-  <way id='-31652' action='modify'>
+  <way id='-31934' action='modify'>
     <nd ref='-31238' />
     <nd ref='-31240' />
     <nd ref='-31242' />
@@ -1218,7 +1434,7 @@
     <tag k='description' v='южн сторона между Джамбула и Бородинской' />
     <tag k='name' v='Фонтанки наб. 82-86' />
   </way>
-  <way id='-31654' action='modify'>
+  <way id='-31936' action='modify'>
     <nd ref='-31254' />
     <nd ref='-31256' />
     <nd ref='-31258' />
@@ -1245,7 +1461,7 @@
     <tag k='description' v='зап сторона между Невским и Гороховой' />
     <tag k='name' v='Казанская ул. 1-19' />
   </way>
-  <way id='-31656' action='modify'>
+  <way id='-31938' action='modify'>
     <nd ref='-31296' />
     <nd ref='-31298' />
     <nd ref='-31300' />
@@ -1259,7 +1475,7 @@
     <tag k='description' v='южн сторона между Мойкой и Казанской' />
     <tag k='name' v='Невский пр. 17-25' />
   </way>
-  <way id='-31658' action='modify'>
+  <way id='-31940' action='modify'>
     <nd ref='-31306' />
     <nd ref='-31308' />
     <nd ref='-31310' />
@@ -1272,7 +1488,7 @@
     <tag k='description' v='южн сторона между Бол. Морской и Мойкой' />
     <tag k='name' v='Невский пр. 15' />
   </way>
-  <way id='-31660' action='modify'>
+  <way id='-31942' action='modify'>
     <nd ref='-31322' />
     <nd ref='-31324' />
     <nd ref='-31326' />
@@ -1288,7 +1504,7 @@
     <tag k='description' v='вост сторона между Дворцовой и Невским' />
     <tag k='name' v='Бол. Морская ул. 2-12' />
   </way>
-  <way id='-31662' action='modify'>
+  <way id='-31944' action='modify'>
     <nd ref='-31338' />
     <nd ref='-31342' />
     <nd ref='-31334' />
@@ -1308,7 +1524,7 @@
     <tag k='description' v='юг-вост сторона между Мойкой и Бол. Морской' />
     <tag k='name' v='Дворцовая пл. 6-8' />
   </way>
-  <way id='-31664' action='modify'>
+  <way id='-31946' action='modify'>
     <nd ref='-31364' />
     <nd ref='-31366' />
     <nd ref='-31368' />
@@ -1322,7 +1538,7 @@
     <tag k='description' v='вост сторона между Миллионной и Мойкой' />
     <tag k='name' v='Зимней канавки наб. юг-вост' />
   </way>
-  <way id='-31666' action='modify'>
+  <way id='-31948' action='modify'>
     <nd ref='-31378' />
     <nd ref='-31380' />
     <nd ref='-31374' />
@@ -1341,7 +1557,7 @@
     <tag k='description' v='южн сторона между Мошковым и Зимней канавкой' />
     <tag k='name' v='Миллионная ул. 20-32' />
   </way>
-  <way id='-31668' action='modify'>
+  <way id='-31950' action='modify'>
     <nd ref='-31400' />
     <nd ref='-31402' />
     <nd ref='-31404' />
@@ -1356,7 +1572,7 @@
     <tag k='description' v='южн сторона между Аптекарским и Мошковым' />
     <tag k='name' v='Миллионная ул. 4-18' />
   </way>
-  <way id='-31670' action='modify'>
+  <way id='-31952' action='modify'>
     <nd ref='-31420' />
     <nd ref='-31422' />
     <nd ref='-31424' />
@@ -1370,7 +1586,7 @@
     <tag k='description' v='южн сторона между Марсовым полем и Аптекарским' />
     <tag k='name' v='Миллионная ул. 2' />
   </way>
-  <way id='-31672' action='modify'>
+  <way id='-31954' action='modify'>
     <nd ref='-31452' />
     <nd ref='-31438' />
     <nd ref='-31440' />
@@ -1384,7 +1600,7 @@
     <tag k='description' v='вост сторона между Дворцовой набережной и Миллионной' />
     <tag k='name' v='Суворовская пл. вост' />
   </way>
-  <way id='-31674' action='modify'>
+  <way id='-31956' action='modify'>
     <nd ref='-31450' />
     <nd ref='-31454' />
     <nd ref='-31446' />
@@ -1398,7 +1614,7 @@
     <tag k='description' v='южн сторона между Лебяжьей канавкой и Суворовской' />
     <tag k='name' v='Дворцовая наб. 2-4' />
   </way>
-  <way id='-31676' action='modify'>
+  <way id='-31958' action='modify'>
     <nd ref='-31464' />
     <nd ref='-31466' />
     <nd ref='-31468' />
@@ -1411,7 +1627,7 @@
     <tag k='description' v='южн сторона между Гагаринской и Фонтанкой' />
     <tag k='name' v='Кутузова наб. 24-36' />
   </way>
-  <way id='-31678' action='modify'>
+  <way id='-31960' action='modify'>
     <nd ref='-31480' />
     <nd ref='-31482' />
     <nd ref='-31484' />
@@ -1424,7 +1640,7 @@
     <tag k='description' v='южн сторона между Кричевским и Гагаринской' />
     <tag k='name' v='Кутузова наб. 4-22' />
   </way>
-  <way id='-31680' action='modify'>
+  <way id='-31962' action='modify'>
     <nd ref='-31496' />
     <nd ref='-31498' />
     <nd ref='-31500' />
@@ -1438,7 +1654,7 @@
     <tag k='description' v='южн сторона между Литейным и Кричевским' />
     <tag k='name' v='Кутузова наб. 2' />
   </way>
-  <way id='-31682' action='modify'>
+  <way id='-31964' action='modify'>
     <nd ref='-31506' />
     <nd ref='-31508' />
     <nd ref='-31510' />
@@ -1451,7 +1667,7 @@
     <tag k='description' v='южн сторона между Литейным и Чернышевского' />
     <tag k='name' v='Шпалерная ул. 21-35' />
   </way>
-  <way id='-31684' action='modify'>
+  <way id='-31966' action='modify'>
     <nd ref='-31522' />
     <nd ref='-31524' />
     <nd ref='-31526' />
@@ -1464,7 +1680,7 @@
     <tag k='description' v='южн сторона между Чернышевского и Потёмкинской' />
     <tag k='name' v='Шпалерная ул. 37-41' />
   </way>
-  <way id='-31686' action='modify'>
+  <way id='-31968' action='modify'>
     <nd ref='-31538' />
     <nd ref='-31540' />
     <nd ref='-31542' />
@@ -1490,63 +1706,411 @@
     <tag k='description' v='южн сторона между Потёмкинской и Таврической' />
     <tag k='name' v='Шпалерная ул. 43-47' />
   </way>
-  <way id='-37266' action='modify'>
-    <nd ref='-37264' />
-    <nd ref='-37265' />
-    <nd ref='-37267' />
-    <nd ref='-37269' />
-    <nd ref='-37271' />
-    <nd ref='-37273' />
-    <nd ref='-37275' />
-    <nd ref='-37277' />
-    <nd ref='-37282' />
-    <nd ref='-37284' />
-    <nd ref='-37288' />
-    <nd ref='-37290' />
-    <nd ref='-37292' />
-    <nd ref='-37294' />
-    <nd ref='-39847' />
-    <nd ref='-37264' />
+  <way id='-31970' action='modify'>
+    <nd ref='-31580' />
+    <nd ref='-31582' />
+    <nd ref='-31584' />
+    <nd ref='-31586' />
+    <nd ref='-31588' />
+    <nd ref='-31590' />
+    <nd ref='-31592' />
+    <nd ref='-31594' />
+    <nd ref='-31596' />
+    <nd ref='-31598' />
+    <nd ref='-31600' />
+    <nd ref='-31602' />
+    <nd ref='-31604' />
+    <nd ref='-31606' />
+    <nd ref='-31608' />
+    <nd ref='-31580' />
     <tag k='description' v='вост сторона между Марата и Константина Заслонова' />
     <tag k='name' v='Звенигородская ул. 18-32' />
   </way>
-  <way id='-39848' action='modify'>
-    <nd ref='-37294' />
-    <nd ref='-39847' />
-    <nd ref='-39850' />
-    <nd ref='-37288' />
-    <nd ref='-39853' />
-    <nd ref='-39855' />
-    <nd ref='-39857' />
-    <nd ref='-39859' />
-    <nd ref='-39861' />
-    <nd ref='-39863' />
-    <nd ref='-39865' />
-    <nd ref='-39867' />
-    <nd ref='-37292' />
-    <nd ref='-37294' />
+  <way id='-31972' action='modify'>
+    <nd ref='-31606' />
+    <nd ref='-31608' />
+    <nd ref='-31610' />
+    <nd ref='-31600' />
+    <nd ref='-31612' />
+    <nd ref='-31614' />
+    <nd ref='-31616' />
+    <nd ref='-31618' />
+    <nd ref='-31620' />
+    <nd ref='-31622' />
+    <nd ref='-31624' />
+    <nd ref='-31626' />
+    <nd ref='-31604' />
+    <nd ref='-31606' />
     <tag k='description' v='южн сторона между Социалистической и Звенигородской' />
     <tag k='name' v='Марата ул. 68-84' />
   </way>
-  <way id='-39932' action='modify'>
-    <nd ref='-39930' />
-    <nd ref='-39931' />
-    <nd ref='-39933' />
-    <nd ref='-39935' />
-    <nd ref='-39937' />
-    <nd ref='-39976' />
-    <nd ref='-39978' />
-    <nd ref='-39980' />
-    <nd ref='-39982' />
-    <nd ref='-39984' />
-    <nd ref='-39986' />
-    <nd ref='-39996' />
-    <nd ref='-39998' />
-    <nd ref='-40000' />
-    <nd ref='-40002' />
-    <nd ref='-40004' />
-    <nd ref='-39930' />
+  <way id='-31974' action='modify'>
+    <nd ref='-31628' />
+    <nd ref='-31630' />
+    <nd ref='-31632' />
+    <nd ref='-31634' />
+    <nd ref='-31636' />
+    <nd ref='-31638' />
+    <nd ref='-31640' />
+    <nd ref='-31642' />
+    <nd ref='-31644' />
+    <nd ref='-31646' />
+    <nd ref='-31648' />
+    <nd ref='-31650' />
+    <nd ref='-31652' />
+    <nd ref='-31654' />
+    <nd ref='-31656' />
+    <nd ref='-31658' />
+    <nd ref='-31670' />
+    <nd ref='-31628' />
     <tag k='description' v='вост сторона между Марата и Боровой' />
     <tag k='name' v='Социалистическая ул. 22-28' />
+  </way>
+  <way id='-31976' action='modify'>
+    <nd ref='-31660' />
+    <nd ref='-31662' />
+    <nd ref='-31664' />
+    <nd ref='-31666' />
+    <nd ref='-31634' />
+    <nd ref='-31668' />
+    <nd ref='-31670' />
+    <nd ref='-31628' />
+    <nd ref='-31630' />
+    <nd ref='-31660' />
+    <tag k='description' v='зап сторона между Марата и Социалистической' />
+    <tag k='name' v='Боровая ул. 7-15' />
+  </way>
+  <way id='-31978' action='modify'>
+    <nd ref='-31672' />
+    <nd ref='-31674' />
+    <nd ref='-31676' />
+    <nd ref='-31678' />
+    <nd ref='-31680' />
+    <nd ref='-31682' />
+    <nd ref='-31684' />
+    <nd ref='-31686' />
+    <nd ref='-31688' />
+    <nd ref='-31690' />
+    <nd ref='-31692' />
+    <nd ref='-31694' />
+    <nd ref='-31710' />
+    <nd ref='-31672' />
+    <tag k='description' v='южн сторона между Разъезжей и Боровой' />
+    <tag k='name' v='Марата ул. 56-58' />
+  </way>
+  <way id='-31980' action='modify'>
+    <nd ref='-31684' />
+    <nd ref='-31682' />
+    <nd ref='-31680' />
+    <nd ref='-31696' />
+    <nd ref='-31698' />
+    <nd ref='-31700' />
+    <nd ref='-31702' />
+    <nd ref='-31704' />
+    <nd ref='-31706' />
+    <nd ref='-31708' />
+    <nd ref='-31686' />
+    <nd ref='-31684' />
+    <tag k='description' v='двор между четырёх- и одноэтажным зданием' />
+    <tag k='name' v='Марата ул. 58 - двор' />
+  </way>
+  <way id='-31982' action='modify'>
+    <nd ref='-31694' />
+    <nd ref='-31710' />
+    <nd ref='-31712' />
+    <nd ref='-31688' />
+    <nd ref='-31714' />
+    <nd ref='-31716' />
+    <nd ref='-31718' />
+    <nd ref='-31720' />
+    <nd ref='-31692' />
+    <nd ref='-31694' />
+    <tag k='description' v='южн сторона между Марата и Коломенской' />
+    <tag k='name' v='Разъезжая ул. 29-39' />
+  </way>
+  <way id='-31984' action='modify'>
+    <nd ref='-31722' />
+    <nd ref='-31724' />
+    <nd ref='-31726' />
+    <nd ref='-31728' />
+    <nd ref='-31730' />
+    <nd ref='-31732' />
+    <nd ref='-31734' />
+    <nd ref='-31736' />
+    <nd ref='-31722' />
+    <tag k='description' v='южн сторона между Коломенской и Константина Заслонова' />
+    <tag k='name' v='Разъезжая ул. 41-43' />
+  </way>
+  <way id='-31986' action='modify'>
+    <nd ref='-31738' />
+    <nd ref='-31740' />
+    <nd ref='-31742' />
+    <nd ref='-31744' />
+    <nd ref='-31746' />
+    <nd ref='-31748' />
+    <nd ref='-31750' />
+    <nd ref='-31752' />
+    <nd ref='-31754' />
+    <nd ref='-31738' />
+    <tag k='description' v='юг-зап сторона перекрёстка' />
+    <tag k='name' v='Константина Заслонова ул. 2 - Лиговский пр. 107' />
+  </way>
+  <way id='-31988' action='modify'>
+    <nd ref='-31752' />
+    <nd ref='-31754' />
+    <nd ref='-31756' />
+    <nd ref='-31746' />
+    <nd ref='-31758' />
+    <nd ref='-31760' />
+    <nd ref='-31762' />
+    <nd ref='-31764' />
+    <nd ref='-31750' />
+    <nd ref='-31752' />
+    <tag k='description' v='зап сторона между Константина Заслонова и Остропольским' />
+    <tag k='name' v='Лиговский пр. 107' />
+  </way>
+  <way id='-31990' action='modify'>
+    <nd ref='-31766' />
+    <nd ref='-31768' />
+    <nd ref='-31770' />
+    <nd ref='-31772' />
+    <nd ref='-31774' />
+    <nd ref='-31776' />
+    <nd ref='-31778' />
+    <nd ref='-31780' />
+    <nd ref='-31766' />
+    <tag k='description' v='южн сторона между Лиговским и Черняховского' />
+    <tag k='name' v='Павлоградский пер. 1-3' />
+  </way>
+  <way id='-31992' action='modify'>
+    <nd ref='-31778' />
+    <nd ref='-31780' />
+    <nd ref='-31774' />
+    <nd ref='-31782' />
+    <nd ref='-31784' />
+    <nd ref='-31786' />
+    <nd ref='-31776' />
+    <nd ref='-31778' />
+    <tag k='description' v='зап сторона между Обводным и Павлоградским' />
+    <tag k='name' v='Черняховского ул. 2-4' />
+  </way>
+  <way id='-31994' action='modify'>
+    <nd ref='-31814' />
+    <nd ref='-31788' />
+    <nd ref='-31790' />
+    <nd ref='-31792' />
+    <nd ref='-31794' />
+    <nd ref='-31796' />
+    <nd ref='-31798' />
+    <nd ref='-31800' />
+    <nd ref='-31802' />
+    <nd ref='-31804' />
+    <nd ref='-31806' />
+    <nd ref='-31808' />
+    <nd ref='-31810' />
+    <nd ref='-31812' />
+    <nd ref='-31814' />
+    <tag k='description' v='сев сторона между Днепропетровской и Черняховского' />
+    <tag k='name' v='Обводного кан. наб. 49-63' />
+  </way>
+  <way id='-31996' action='modify'>
+    <nd ref='-31816' />
+    <nd ref='-31818' />
+    <nd ref='-31820' />
+    <nd ref='-31822' />
+    <nd ref='-31824' />
+    <nd ref='-31826' />
+    <nd ref='-31828' />
+    <nd ref='-31830' />
+    <nd ref='-31832' />
+    <nd ref='-31834' />
+    <nd ref='-31836' />
+    <nd ref='-31838' />
+    <nd ref='-31840' />
+    <nd ref='-31842' />
+    <nd ref='-31844' />
+    <nd ref='-31846' />
+    <nd ref='-31848' />
+    <nd ref='-31850' />
+    <nd ref='-31852' />
+    <nd ref='-31854' />
+    <nd ref='-31856' />
+    <nd ref='-31858' />
+    <nd ref='-31860' />
+    <nd ref='-31816' />
+    <tag k='description' v='сев сторона между Атаманской и Днепропетровской' />
+    <tag k='name' v='Обводного кан. наб. 43-47' />
+  </way>
+  <way id='-38143' action='modify'>
+    <nd ref='-38141' />
+    <nd ref='-38142' />
+    <nd ref='-39113' />
+    <nd ref='-38144' />
+    <nd ref='-38146' />
+    <nd ref='-38148' />
+    <nd ref='-38150' />
+    <nd ref='-38152' />
+    <nd ref='-38154' />
+    <nd ref='-38156' />
+    <nd ref='-38158' />
+    <nd ref='-38160' />
+    <nd ref='-38162' />
+    <nd ref='-38164' />
+    <nd ref='-38173' />
+    <nd ref='-38177' />
+    <nd ref='-38179' />
+    <nd ref='-38182' />
+    <nd ref='-38189' />
+    <nd ref='-38191' />
+    <nd ref='-38193' />
+    <nd ref='-38197' />
+    <nd ref='-38200' />
+    <nd ref='-38202' />
+    <nd ref='-38204' />
+    <nd ref='-31822' />
+    <nd ref='-31820' />
+    <nd ref='-31818' />
+    <nd ref='-38209' />
+    <nd ref='-39116' />
+    <nd ref='-38141' />
+    <tag k='description' v='сев-зап сторона между Кременчугской и Обводным' />
+    <tag k='name' v='Атаманская ул. 5-9' />
+  </way>
+  <way id='-39052' action='modify'>
+    <nd ref='-39050' />
+    <nd ref='-39051' />
+    <nd ref='-39053' />
+    <nd ref='-39055' />
+    <nd ref='-39057' />
+    <nd ref='-39061' />
+    <nd ref='-39075' />
+    <nd ref='-39077' />
+    <nd ref='-39079' />
+    <nd ref='-39081' />
+    <nd ref='-39083' />
+    <nd ref='-39085' />
+    <nd ref='-39087' />
+    <nd ref='-39089' />
+    <nd ref='-39093' />
+    <nd ref='-39095' />
+    <nd ref='-39097' />
+    <nd ref='-39099' />
+    <nd ref='-39101' />
+    <nd ref='-39103' />
+    <nd ref='-39105' />
+    <nd ref='-39107' />
+    <nd ref='-39109' />
+    <nd ref='-39111' />
+    <nd ref='-39113' />
+    <nd ref='-39116' />
+    <nd ref='-38141' />
+    <nd ref='-38142' />
+    <nd ref='-39050' />
+    <tag k='description' v='зап сторона между Товарным и Атаманской' />
+    <tag k='name' v='Кременчугская ул. 9-27' />
+  </way>
+  <way id='-39230' action='modify'>
+    <nd ref='-39228' />
+    <nd ref='-39229' />
+    <nd ref='-39231' />
+    <nd ref='-39233' />
+    <nd ref='-39235' />
+    <nd ref='-39237' />
+    <nd ref='-39239' />
+    <nd ref='-39241' />
+    <nd ref='-39243' />
+    <nd ref='-39245' />
+    <nd ref='-39228' />
+    <tag k='description' v='зап сторона между Миргородской и Товарным' />
+    <tag k='name' v='Кременчугская ул. (7-9)' />
+  </way>
+  <way id='-44736' action='modify'>
+    <nd ref='-44734' />
+    <nd ref='-44735' />
+    <nd ref='-44737' />
+    <nd ref='-44739' />
+    <nd ref='-44741' />
+    <nd ref='-44743' />
+    <nd ref='-44745' />
+    <nd ref='-44747' />
+    <nd ref='-44749' />
+    <nd ref='-44751' />
+    <nd ref='-44753' />
+    <nd ref='-44755' />
+    <nd ref='-44757' />
+    <nd ref='-44734' />
+    <tag k='description' v='юг-зап сторона между Кременчугской и Хохрякова' />
+    <tag k='name' v='Миргородская ул. 3-7' />
+  </way>
+  <way id='-44800' action='modify'>
+    <nd ref='-44798' />
+    <nd ref='-44799' />
+    <nd ref='-44801' />
+    <nd ref='-44803' />
+    <nd ref='-44805' />
+    <nd ref='-44807' />
+    <nd ref='-44809' />
+    <nd ref='-44811' />
+    <nd ref='-44813' />
+    <nd ref='-44815' />
+    <nd ref='-44817' />
+    <nd ref='-44819' />
+    <nd ref='-44821' />
+    <nd ref='-44823' />
+    <nd ref='-44825' />
+    <nd ref='-44827' />
+    <nd ref='-44829' />
+    <nd ref='-44831' />
+    <nd ref='-44910' />
+    <nd ref='-44833' />
+    <nd ref='-44835' />
+    <nd ref='-44798' />
+    <tag k='description' v='сев-вост сторона между Профессора Ивашенцова и воротами у тюрьмы' />
+    <tag k='name' v='Миргородская ул. (30)' />
+  </way>
+  <way id='-44911' action='modify'>
+    <nd ref='-44831' />
+    <nd ref='-44910' />
+    <nd ref='-44827' />
+    <nd ref='-44924' />
+    <nd ref='-44926' />
+    <nd ref='-44928' />
+    <nd ref='-45541' />
+    <nd ref='-44829' />
+    <nd ref='-44831' />
+    <tag k='description' v='вост сторона между Тележной и Миргородской' />
+    <tag k='name' v='Профессора Ивашенцова ул. (6)' />
+  </way>
+  <way id='-45542' action='modify'>
+    <nd ref='-44928' />
+    <nd ref='-45541' />
+    <nd ref='-44924' />
+    <nd ref='-45546' />
+    <nd ref='-45548' />
+    <nd ref='-45550' />
+    <nd ref='-44926' />
+    <nd ref='-44928' />
+    <tag k='description' v='южн сторона между Профессора Ивашенцова и Чернорецким' />
+    <tag k='name' v='Тележная ул. 37-39' />
+  </way>
+  <way id='-45620' action='modify'>
+    <nd ref='-45550' />
+    <nd ref='-45548' />
+    <nd ref='-45621' />
+    <nd ref='-45623' />
+    <nd ref='-45625' />
+    <nd ref='-45627' />
+    <nd ref='-45629' />
+    <nd ref='-45631' />
+    <nd ref='-45633' />
+    <nd ref='-45635' />
+    <nd ref='-45638' />
+    <nd ref='-45640' />
+    <nd ref='-45642' />
+    <nd ref='-45644' />
+    <nd ref='-45646' />
+    <nd ref='-45550' />
+    <tag k='description' v='южн сторона между Александра Невского и Тележной' />
+    <tag k='name' v='Чернорецкий пер. 2-8' />
   </way>
 </osm>
