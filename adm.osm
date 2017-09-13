@@ -151,7 +151,7 @@
   <node id='-39382' action='modify' lat='59.92677722165' lon='30.2860079439' />
   <node id='-39384' action='modify' lat='59.92681180573' lon='30.28586149642' />
   <node id='-39386' action='modify' lat='59.92720150675' lon='30.28580931398' />
-  <node id='-39388' action='modify' lat='59.92728163951' lon='30.28594397833' />
+  <node id='-39388' action='modify' lat='59.92729911218' lon='30.28593861391' />
   <node id='-39390' action='modify' lat='59.92817742624' lon='30.2858194138' />
   <node id='-39392' action='modify' lat='59.92823900014' lon='30.28567633293' />
   <node id='-39394' action='modify' lat='59.92845746006' lon='30.28565781658' />
@@ -8439,6 +8439,17 @@
   <node id='-55958' action='modify' lat='59.92190533699' lon='30.30310123891' />
   <node id='-55960' action='modify' lat='59.92091997293' lon='30.2990242812' />
   <node id='-55962' action='modify' lat='59.92067799638' lon='30.29922276467' />
+  <node id='-67475' action='modify' lat='59.92731289189' lon='30.28639912337' />
+  <node id='-67477' action='modify' lat='59.92724972147' lon='30.28674781054' />
+  <node id='-67479' action='modify' lat='59.92723628094' lon='30.28735667199' />
+  <node id='-67481' action='modify' lat='59.92710187533' lon='30.28732716769' />
+  <node id='-67483' action='modify' lat='59.9270897788' lon='30.28745859593' />
+  <node id='-67485' action='modify' lat='59.92730213949' lon='30.28751760453' />
+  <node id='-67487' action='modify' lat='59.92735858957' lon='30.28745859593' />
+  <node id='-67489' action='modify' lat='59.92755750814' lon='30.28752833337' />
+  <node id='-67491' action='modify' lat='59.92780346662' lon='30.28766512603' />
+  <node id='-67493' action='modify' lat='59.92788142029' lon='30.28762489289' />
+  <node id='-67495' action='modify' lat='59.92829726554' lon='30.28789360017' />
   <way id='-55964' action='modify'>
     <nd ref='-39086' />
     <nd ref='-39088' />
@@ -21686,6 +21697,7 @@
     <nd ref='-53034' />
     <nd ref='-53036' />
     <nd ref='-53038' />
+    <nd ref='-67495' />
     <nd ref='-53040' />
     <nd ref='-53042' />
     <nd ref='-53044' />
@@ -24774,5 +24786,30 @@
     <nd ref='-55956' />
     <tag k='description' v='сев сторона между Никольским и Крюковым' />
     <tag k='name' v='Садовая ул. (67-69)' />
+  </way>
+  <way id='-67476' action='modify'>
+    <nd ref='-39388' />
+    <nd ref='-67475' />
+    <nd ref='-67477' />
+    <nd ref='-67479' />
+    <nd ref='-67481' />
+    <nd ref='-67483' />
+    <nd ref='-67485' />
+    <nd ref='-67487' />
+    <nd ref='-67489' />
+    <nd ref='-67491' />
+    <nd ref='-67493' />
+    <nd ref='-67495' />
+    <nd ref='-53038' />
+    <nd ref='-53036' />
+    <nd ref='-53034' />
+    <nd ref='-53032' />
+    <nd ref='-39396' />
+    <nd ref='-39394' />
+    <nd ref='-39392' />
+    <nd ref='-39390' />
+    <nd ref='-39388' />
+    <tag k='description' v='дворы к сев-зап от Лесгафта и детдома' />
+    <tag k='name' v='Мойки наб. 110-114 - Писарева ул. 2-10 - дворы' />
   </way>
 </osm>
