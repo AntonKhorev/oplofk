@@ -71,7 +71,7 @@ surveys.csv
 * furniture=doors vs shop=doors
 * свадебный салон
 * квесты
-* тайм/антикафе
+* тайм/антикафе: cafe=time_cafe
 * shop=haberdashery галантерея
 * shop=sewing ???
 	лучше было бы shop=craft, но как уточнить его тип (craft=* занят)
@@ -87,6 +87,7 @@ surveys.csv
 * craft=leather для ремонта кожгалантереи
 * grooming=yes для стрижки собак и т.п. - пересекается с piste grooming
 * пространство для проведения детского праздника
+* кальянные amenity=hookah_lounge
 
 ## контакты
 
