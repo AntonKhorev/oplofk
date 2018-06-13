@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4318865557' timestamp='2018-06-05T23:37:16Z' uid='437809' user='Anton Khorev' version='2' changeset='59584430' lat='59.92792922781' lon='30.34645638067'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 10:00-19:00' />
+    <tag k='operator' v='ПАО «Сбербанк России»' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='ref' v='9055/01984' />
+    <tag k='website' v='https://www.sberbank.ru/' />
+  </node>
+</osm>

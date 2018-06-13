@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5632741923' timestamp='2018-06-04T23:52:45Z' uid='437809' user='Anton Khorev' version='2' changeset='59552080' lat='59.92994035303' lon='30.3323778388'>
+    <tag k='contact:vk' v='https://vk.com/optisse' />
+    <tag k='name' v='Вижен сервис' />
+    <tag k='operator' v='ЗАО «Невская Оптика Холдинг»' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='http://www.noptica.ru/saloni/vizhen_cervis_31/' />
+  </node>
+  <node id='5637439421' timestamp='2018-06-04T23:52:45Z' uid='437809' user='Anton Khorev' version='2' changeset='59552080' lat='59.93009208487' lon='30.33208031759'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='operator' v='ПАО «Сбербанк России»' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='ref' v='9055/01726' />
+    <tag k='website' v='https://www.sberbank.ru/' />
+  </node>
+</osm>

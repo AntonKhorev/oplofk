@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1129562273' timestamp='2011-02-07T18:59:01Z' uid='386508' user='Ordin' version='2' changeset='7219432' lat='59.9428895' lon='30.3552318' />
+  <node id='1978358679' timestamp='2016-11-18T08:57:12Z' uid='472653' user='Pavel47' version='4' changeset='43757700' lat='59.9430227' lon='30.355122' />
+  <node id='2585195424' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='3' changeset='59794228' lat='59.9427606299' lon='30.35519156676'>
+    <tag k='contact:vk' v='https://vk.com/sonata_hotels_group' />
+    <tag k='int_name' v='Sonata' />
+    <tag k='name' v='Соната' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotel-sonata.ru/hotels/sonata-na-mayakovskogo-u-liteynogo-prospekta/' />
+  </node>
+  <node id='2585195425' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='8' changeset='59794228' lat='59.94278371954' lon='30.35519212739'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club257207' />
+    <tag k='cuisine' v='russian' />
+    <tag k='description' v='Джаз-клуб' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Красный Лис' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-23:00, Sa 13:30-23:00, Su 16:30-23:00' />
+    <tag k='phone' v='+7 812 275-42-14' />
+    <tag k='website' v='http://rfjc.ru' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2591830429' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='4' changeset='59794228' lat='59.94258496613' lon='30.35517776522'>
+    <tag k='contact:vk' v='https://vk.com/industry_of_beauty' />
+    <tag k='description' v='Косметика для волос' />
+    <tag k='name' v='Индустрия красоты' />
+    <tag k='name:en' v='Industry of Beauty' />
+    <tag k='name:ru' v='Индустрия красоты' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Индустрия красоты»' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://ib-spb.ru/' />
+  </node>
+  <node id='2624824490' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='3' changeset='59794228' lat='59.94312730886' lon='30.35520700264'>
+    <tag k='contact:vk' v='https://vk.com/merulaspb' />
+    <tag k='name' v='Merula' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='4111272041' timestamp='2016-11-18T08:57:13Z' uid='472653' user='Pavel47' version='2' changeset='43757700' lat='59.9429346' lon='30.355234'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4111272042' timestamp='2017-09-23T12:07:45Z' uid='472653' user='Pavel47' version='5' changeset='52302258' lat='59.9429605' lon='30.3552352'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 04:10,12:30; Sa 08:10; Su 12:30' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='57' />
+  </node>
+  <node id='4508008555' timestamp='2016-11-18T08:57:04Z' uid='472653' user='Pavel47' version='1' changeset='43757700' lat='59.942891' lon='30.3551169' />
+  <node id='4508008556' timestamp='2016-11-18T08:57:04Z' uid='472653' user='Pavel47' version='1' changeset='43757700' lat='59.9429175' lon='30.3552331'>
+    <tag k='amenity' v='post_locker' />
+    <tag k='operator' v='Почта России' />
+  </node>
+  <node id='4508008557' timestamp='2016-11-18T08:57:04Z' uid='472653' user='Pavel47' version='1' changeset='43757700' lat='59.9430223' lon='30.3552381' />
+  <node id='5686374685' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='1' changeset='59794228' lat='59.94287187923' lon='30.35519513041'>
+    <tag k='name' v='ArtExplorer' />
+    <tag k='shop' v='art' />
+    <tag k='website' v='http://www.artexplorer.ru/' />
+  </node>
+  <node id='5686374686' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='1' changeset='59794228' lat='59.94303589644' lon='30.35518236324'>
+    <tag k='name' v='Вестимо' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='http://vestimo-pravo.ru/' />
+  </node>
+  <node id='5686374687' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='1' changeset='59794228' lat='59.94303611102' lon='30.35520265441'>
+    <tag k='contact:vk' v='https://vk.com/putevochka.travel' />
+    <tag k='name' v='Путёвочка' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://putevochka.travel/' />
+  </node>
+  <way id='454210919' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='4' changeset='59794228'>
+    <nd ref='4508008557' />
+    <nd ref='1978358679' />
+    <nd ref='4508008555' />
+    <nd ref='1129562273' />
+    <nd ref='4508008556' />
+    <nd ref='4111272041' />
+    <nd ref='4111272042' />
+    <nd ref='4508008557' />
+    <tag k='amenity' v='post_office' />
+    <tag k='contact:vk' v='https://vk.com/russianpost' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 191104' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-13:00,14:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7 812 2720078' />
+    <tag k='ref' v='191104' />
+    <tag k='website' v='https://www.pochta.ru' />
+  </way>
+</osm>

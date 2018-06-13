@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1454862090' timestamp='2011-10-04T13:26:02Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9433517' lon='30.360489' />
+  <node id='1454862091' timestamp='2011-10-04T13:26:02Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.943353' lon='30.3602872' />
+  <node id='1454862094' timestamp='2011-10-04T13:26:02Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9433547' lon='30.3600069' />
+  <node id='1454862100' timestamp='2011-10-04T13:26:03Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9433625' lon='30.3599735' />
+  <node id='1454862109' timestamp='2013-04-27T19:39:22Z' uid='290271' user='Zverik' version='2' changeset='15887813' lat='59.943363' lon='30.3598908' />
+  <node id='1454862165' timestamp='2011-10-04T13:26:04Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9434131' lon='30.360193' />
+  <node id='1454862167' timestamp='2011-10-04T13:26:04Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9434135' lon='30.3601548' />
+  <node id='1454862180' timestamp='2011-10-04T13:26:04Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9434257' lon='30.3598922' />
+  <node id='1454862181' timestamp='2011-10-04T13:26:04Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9434264' lon='30.3601346' />
+  <node id='1454862189' timestamp='2011-10-04T13:26:04Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9434454' lon='30.3601707' />
+  <node id='1454862191' timestamp='2011-10-04T13:26:05Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9434573' lon='30.3601683' />
+  <node id='1454862194' timestamp='2011-10-04T13:26:05Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9434704' lon='30.3601835' />
+  <node id='1454862233' timestamp='2011-10-04T13:26:06Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9435412' lon='30.3604955' />
+  <node id='1454862235' timestamp='2011-10-04T13:26:06Z' uid='336663' user='PavelRus' version='1' changeset='9469461' lat='59.9435438' lon='30.360185' />
+  <node id='2283375283' timestamp='2018-01-23T13:56:16Z' uid='437809' user='Anton Khorev' version='3' changeset='55684776' lat='59.9437179' lon='30.3604687'>
+    <tag k='brand' v='Кей' />
+    <tag k='brand:wikidata' v='Q4218938' />
+    <tag k='contact:vk' v='https://vk.com/key.russia' />
+    <tag k='name' v='Кей' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa 11:00-21:00; Su 11:00-20:00' />
+    <tag k='operator' v='ООО «Кей»' />
+    <tag k='shop' v='computer' />
+    <tag k='website' v='https://key.ru/magaziny/kirochnaya_ul_19/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2283447472' timestamp='2018-06-12T23:46:08Z' uid='437809' user='Anton Khorev' version='3' changeset='59793590' lat='59.9431852411' lon='30.36045013582'>
+    <tag k='brand' v='Steinway &amp; Sons' />
+    <tag k='brand:wikidata' v='Q156391' />
+    <tag k='contact:vk' v='https://vk.com/steinwayspb' />
+    <tag k='description' v='Рояли, пианино' />
+    <tag k='name' v='Steinway Piano Gallery' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-18:00' />
+    <tag k='operator' v='ООО «Северная звезда»' />
+    <tag k='shop' v='musical_instrument' />
+    <tag k='website' v='http://www.steinwayspb.ru/' />
+  </node>
+  <node id='2283447479' timestamp='2018-06-12T23:46:08Z' uid='437809' user='Anton Khorev' version='3' changeset='59793590' lat='59.94341376925' lon='30.36045525246'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/nsvsspb' />
+    <tag k='name' v='Нож справа, вилка слева' />
+    <tag k='opening_hours' v='Mo-Su 07:00-23:00' />
+    <tag k='website' v='http://nsvs.ru/' />
+  </node>
+  <node id='5686320525' timestamp='2018-06-12T23:46:08Z' uid='437809' user='Anton Khorev' version='1' changeset='59793590' lat='59.94329515419' lon='30.36045318336'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/club152125340' />
+    <tag k='name' v='Пивной двор' />
+  </node>
+  <way id='132212485' timestamp='2018-06-12T23:46:08Z' uid='437809' user='Anton Khorev' version='3' changeset='59793590'>
+    <nd ref='1454862233' />
+    <nd ref='1454862090' />
+    <nd ref='1454862091' />
+    <nd ref='1454862094' />
+    <nd ref='1454862100' />
+    <nd ref='1454862109' />
+    <nd ref='1454862180' />
+    <nd ref='1454862181' />
+    <nd ref='1454862167' />
+    <nd ref='1454862165' />
+    <nd ref='1454862189' />
+    <nd ref='1454862191' />
+    <nd ref='1454862194' />
+    <nd ref='1454862235' />
+    <nd ref='1454862233' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='улица Восстания' />
+    <tag k='building' v='yes' />
+    <tag k='building:cladding' v='plaster' />
+    <tag k='building:levels' v='7' />
+    <tag k='contact:vk' v='https://vk.com/demetra.art.hotel' />
+    <tag k='name' v='Demetra Art Hotel' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://demetra-art-hotel.ru/' />
+  </way>
+</osm>

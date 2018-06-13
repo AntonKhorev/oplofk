@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='370954283' timestamp='2018-05-25T09:27:13Z' uid='345975' user='VlIvYur' version='10' changeset='59264494' lat='59.9363086' lon='30.3417932'>
+    <tag k='amenity' v='cinema' />
+    <tag k='name' v='Дом кино' />
+    <tag k='website' v='http://domkinospb.com/' />
+  </node>
+  <node id='370954286' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='10' changeset='59650461' lat='59.93637704482' lon='30.34179755232'>
+    <tag k='contact:vk' v='https://vk.com/ginzaflowerhouse' />
+    <tag k='name' v='Цветочный домик' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='Ginza Project' />
+    <tag k='phone' v='+7 812 6401616' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://ginza.ru/spb/project/cvetochnij_domik' />
+  </node>
+  <node id='455280867' timestamp='2017-05-25T00:44:06Z' uid='437809' user='Anton Khorev' version='6' changeset='48960626' lat='59.9362738' lon='30.3417727'>
+    <tag k='amenity' v='cinema' />
+    <tag k='contact:vk' v='https://vk.com/kinorodinasp' />
+    <tag k='name' v='Родина' />
+    <tag k='website' v='http://rodinakino.ru/' />
+  </node>
+  <node id='1210888339' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='9' changeset='59650461' lat='59.93772706152' lon='30.34182658019'>
+    <tag k='brand' v='Spar' />
+    <tag k='brand:wikidata' v='Q610492' />
+    <tag k='contact:vk' v='https://vk.com/spar_spb' />
+    <tag k='drink:coffee' v='served' />
+    <tag k='drink:tea' v='served' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Spar Express' />
+    <tag k='name:ru' v='Спар Экспресс' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='phone' v='+7 812 6221090' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.sparspb.ru/index/nab-reki-fontanki-d-52-lit-a' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1210888363' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='7' changeset='59650461' lat='59.93750871667' lon='30.34183479294'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='ukranian' />
+    <tag k='name' v='Водограй' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='operator' v='ООО «Махаон»' />
+    <tag k='website' v='http://vodograi.info/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4875044168' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.93556200647' lon='30.34160000756'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Открытие' />
+    <tag k='brand:wikidata' v='Q4327204' />
+    <tag k='contact:vk' v='https://vk.com/otkritiecorp' />
+    <tag k='name' v='Открытие Private Banking' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-17:45' />
+    <tag k='operator' v='ПАО Банк «ФК Открытие»' />
+    <tag k='operator:wikidata' v='Q4327204' />
+    <tag k='website' v='https://pb.open.ru/' />
+  </node>
+  <node id='4875044169' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.9356950762' lon='30.34163335836'>
+    <tag k='contact:vk' v='https://vk.com/femme_etoile' />
+    <tag k='name' v='Femme Etoile' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://femme-etoile.com/' />
+  </node>
+  <node id='4875044170' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.9357918762' lon='30.34165755837'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/ki_do' />
+    <tag k='name' v='Ки-До' />
+    <tag k='opening_hours' v='Mo-Fr 12:00-24:00; Sa-Su 13:00-24:00' />
+    <tag k='operator' v='ООО «Караванная 16»' />
+    <tag k='website' v='https://kido.ru/places/karavannaya.html' />
+  </node>
+  <node id='4875044171' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.93587589273' lon='30.34167860105'>
+    <tag k='contact:vk' v='https://vk.com/truffeco' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Трюфель' />
+    <tag k='website' v='http://truffeco.ru/' />
+  </node>
+  <node id='4875044172' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.93606477222' lon='30.34172733211'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/restorantarkhun' />
+    <tag k='name' v='Тархун' />
+    <tag k='website' v='http://www.restorantarkhun.ru/' />
+  </node>
+  <node id='4875044173' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.93633414482' lon='30.34178825232'>
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Ana Aumatsu' />
+    <tag k='note' v='возможно не работает' />
+    <tag k='website' v='http://www.anaaumatsu.ru/' />
+  </node>
+  <node id='4875044174' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.93654046562' lon='30.34181650311'>
+    <tag k='brand' v='МегаФон' />
+    <tag k='brand:wikidata' v='Q1720713' />
+    <tag k='contact:vk' v='https://vk.com/megafon' />
+    <tag k='name' v='МегаФон, Северо-Западный филиал' />
+    <tag k='office' v='telecommunication' />
+    <tag k='website' v='https://corp.megafon.ru/' />
+  </node>
+  <node id='4875044175' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='4' changeset='59650461' lat='59.9367884' lon='30.34182046913'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/shana_restaurant/' />
+    <tag k='cuisine' v='mediterranean' />
+    <tag k='name' v='Shana' />
+  </node>
+  <node id='4875044176' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.9370907471' lon='30.34183480829'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Пироговая на Караванной' />
+    <tag k='note' v='&quot;ремонт&quot;' />
+  </node>
+  <node id='4875044177' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.93756243001' lon='30.34183292729'>
+    <tag k='name' v='Водограй' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://vodogray-hotel.ru/' />
+  </node>
+  <node id='4875044178' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='2' changeset='59650461' lat='59.93759333001' lon='30.34183152729'>
+    <tag k='contact:vk' v='https://vk.com/fontanka5' />
+    <tag k='name' v='Фонтанка 5' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.fontanka5.ru/' />
+  </node>
+  <node id='5673644116' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59650461' lat='59.93699061211' lon='30.34182644176'>
+    <tag k='contact:vk' v='https://vk.com/shinshillashop' />
+    <tag k='name' v='Shinshil.lа' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.shinshil.la/' />
+  </node>
+  <node id='5673644117' timestamp='2018-06-07T22:02:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59650461' lat='59.93602828731' lon='30.34171791864'>
+    <tag k='contact:vk' v='https://vk.com/roskosh_zolota' />
+    <tag k='name' v='Роскошь золота' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='http://rzol.ru/' />
+  </node>
+</osm>

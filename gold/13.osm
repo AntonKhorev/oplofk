@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2564620909' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='2' changeset='59756126' lat='59.93620680989' lon='30.35259653512'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/academycrop' />
+    <tag k='description' v='Академия парикмахерского искусства' />
+    <tag k='name' v='Академия Crop' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='website' v='http://www.academycrop.ru/' />
+  </node>
+  <node id='2580903242' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='4' changeset='59756126' lat='59.9360825' lon='30.3525906'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/moltobuono1' />
+    <tag k='name' v='Molto Buono' />
+    <tag k='website' v='https://moltobuono.ru/' />
+  </node>
+  <node id='2631239091' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='4' changeset='59756126' lat='59.93699950663' lon='30.35263750388'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='4207655892' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='2' changeset='59756126' lat='59.93666070146' lon='30.35261993552'>
+    <tag k='contact:vk' v='https://vk.com/club162277652' />
+    <tag k='name' v='1852' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://1852hotel.ru/' />
+  </node>
+  <node id='5209022676' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='2' changeset='59756126' lat='59.93872029196' lon='30.35272501513'>
+    <tag k='brand' v='Ростелеком' />
+    <tag k='brand:wikidata' v='Q1477012' />
+    <tag k='contact:vk' v='https://vk.com/rostelecom' />
+    <tag k='name' v='Ростелеком Бизнес' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='Mo-Th 09:00-17:00; Fr 09:00-16:00' />
+    <tag k='operator' v='ПАО «Ростелеком»' />
+    <tag k='operator:wikidata' v='Q1477012' />
+    <tag k='website' v='https://spb.rt.ru/b2b' />
+  </node>
+  <node id='5683389963' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93842757785' lon='30.35271042645'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/club29282841' />
+    <tag k='name' v='Ленфарм' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-17:00' />
+    <tag k='operator' v='ЛОГП «Ленфарм»' />
+    <tag k='website' v='http://lenfarm.ru/stores/34' />
+  </node>
+  <node id='5683389964' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93811651313' lon='30.35269454208'>
+    <tag k='opening_hours' v='11:00-19:00' />
+    <tag k='shop' v='frame' />
+  </node>
+  <node id='5683389965' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93785380151' lon='30.35268112694'>
+    <tag k='name' v='Автобаза Правительства Ленинградской области' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://avtobaza-lo.spb.ru/' />
+  </node>
+  <node id='5683389966' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93769466872' lon='30.35267300102'>
+    <tag k='contact:vk' v='https://vk.com/hairspectmen' />
+    <tag k='name' v='HairSpect' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Хаерспект»' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://hairspect.ru/' />
+  </node>
+  <node id='5683389967' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93739499344' lon='30.35265769858'>
+    <tag k='name' v='Межрегиональное управление Росалкогольрегулирования по Северо-Западному федеральному округу' />
+    <tag k='office' v='government' />
+    <tag k='official_name' v='Межрегиональное управление Федеральной службы по регулированию алкогольного рынка по Северо-Западному федеральному округу' />
+    <tag k='website' v='http://szfo.fsrar.ru/' />
+  </node>
+  <node id='5683389968' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93707732788' lon='30.35264128222'>
+    <tag k='name' v='Чехов' />
+    <tag k='operator' v='ООО «Чехов»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://tchekhov-hotel.ru/' />
+  </node>
+  <node id='5683389970' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93633158723' lon='30.35256787866'>
+    <tag k='addr:floor' v='3' />
+    <tag k='name' v='Комфорт' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.comfort33.ru/comfort/' />
+  </node>
+  <node id='5683389987' timestamp='2018-06-11T22:31:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59756126' lat='59.93633019885' lon='30.35260241073'>
+    <tag k='addr:floor' v='1' />
+    <tag k='contact:vk' v='https://vk.com/club93916727' />
+    <tag k='name' v='Классики' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://classiky.ru/' />
+  </node>
+</osm>

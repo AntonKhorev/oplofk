@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2580909040' timestamp='2018-06-13T01:28:37Z' uid='437809' user='Anton Khorev' version='4' changeset='59794521' lat='59.94258585729' lon='30.3548840362'>
+    <tag k='name' v='Коллекция игрушек' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Коллекция»' />
+    <tag k='shop' v='toys' />
+    <tag k='website' v='http://www.toycollection.ru/' />
+  </node>
+  <node id='2591830429' timestamp='2018-06-13T00:59:49Z' uid='437809' user='Anton Khorev' version='4' changeset='59794228' lat='59.94258496613' lon='30.35517776522'>
+    <tag k='contact:vk' v='https://vk.com/industry_of_beauty' />
+    <tag k='description' v='Косметика для волос' />
+    <tag k='name' v='Индустрия красоты' />
+    <tag k='name:en' v='Industry of Beauty' />
+    <tag k='name:ru' v='Индустрия красоты' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Индустрия красоты»' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://ib-spb.ru/' />
+  </node>
+  <node id='4343693088' timestamp='2018-06-13T01:28:37Z' uid='437809' user='Anton Khorev' version='2' changeset='59794521' lat='59.94258413341' lon='30.35499591111'>
+    <tag k='disused:office' v='lawyer' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Регистр' />
+  </node>
+  <node id='5686394902' timestamp='2018-06-13T01:28:37Z' uid='437809' user='Anton Khorev' version='1' changeset='59794521' lat='59.94260400916' lon='30.35347406291'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/krasotamed' />
+    <tag k='name' v='Бионика' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Планета красоты»' />
+    <tag k='website' v='http://www.krasotamed.ru/' />
+  </node>
+  <node id='5686394903' timestamp='2018-06-13T01:28:37Z' uid='437809' user='Anton Khorev' version='1' changeset='59794521' lat='59.94259850366' lon='30.35389552735'>
+    <tag k='addr:floor' v='2' />
+    <tag k='contact:vk' v='https://vk.com/hotelmarlen' />
+    <tag k='name' v='МарЛен' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotel-marlen.ru/' />
+  </node>
+  <node id='5686394904' timestamp='2018-06-13T01:28:37Z' uid='437809' user='Anton Khorev' version='1' changeset='59794521' lat='59.9425982051' lon='30.35393300479'>
+    <tag k='name' v='Отдел лицензионно-разрешительной работы УМВД по Центральному району Санкт-Петербурга' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='5686394905' timestamp='2018-06-13T01:28:37Z' uid='437809' user='Anton Khorev' version='1' changeset='59794521' lat='59.94259122367' lon='30.35458624229'>
+    <tag k='description' v='Корпоративные подарки и сувенирная продукция с логотипом' />
+    <tag k='name' v='Офис-экспресс' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-19:00' />
+    <tag k='operator' v='ООО «Офис-экспресс»' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://ofxp.ru/' />
+  </node>
+</osm>

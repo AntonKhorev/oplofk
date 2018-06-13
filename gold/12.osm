@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5678577626' timestamp='2018-06-09T23:43:52Z' uid='437809' user='Anton Khorev' version='1' changeset='59701472' lat='59.9273141' lon='30.3160592'>
+    <tag k='name' v='Castle Sennaya' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://castle-hotel.ru/' />
+  </node>
+  <node id='5678577627' timestamp='2018-06-09T23:43:52Z' uid='437809' user='Anton Khorev' version='1' changeset='59701472' lat='59.9271707' lon='30.3161663'>
+    <tag k='contact:vk' v='https://vk.com/dmkrus' />
+    <tag k='name' v='Danné Montague-King' />
+    <tag k='note' v='адрес указан на http://www.danne.ru/news/!news/2016/08/29/166/' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.danne.ru/' />
+  </node>
+  <node id='5678577628' timestamp='2018-06-09T23:43:52Z' uid='437809' user='Anton Khorev' version='1' changeset='59701472' lat='59.9271146' lon='30.3162204'>
+    <tag k='craft' v='key_cutter' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-17:00; Sa 08:00-15:00' />
+    <tag k='phone' v='+7 981 8864888' />
+  </node>
+  <node id='5678577629' timestamp='2018-06-09T23:43:52Z' uid='437809' user='Anton Khorev' version='1' changeset='59701472' lat='59.9269586' lon='30.3161433'>
+    <tag k='craft' v='electronics_repair;key_cutter;photographer;watchmaker' />
+  </node>
+</osm>

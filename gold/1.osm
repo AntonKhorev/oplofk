@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3962508886' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='2' changeset='59551769' lat='59.93147115261' lon='30.32937647849'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/pop_up_bar' />
+    <tag k='name' v='Pop Up' />
+  </node>
+  <node id='4322958497' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='3' changeset='59551769' lat='59.93144038486' lon='30.32937918161'>
+    <tag k='contact:vk' v='https://vk.com/butikkomilfo' />
+    <tag k='email' v='komilfobutik@gmail.com' />
+    <tag k='int_name' v='Komilfo' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Комильфо' />
+    <tag k='opening_hours' v='Mo-Su 11:00-21:00' />
+    <tag k='phone' v='+79219613040' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://komilfo-butik.com/' />
+  </node>
+  <node id='5665018735' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93038485065' lon='30.33150644071'>
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5665018736' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93046214386' lon='30.3313549316'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Кафе на Ломоносова' />
+  </node>
+  <node id='5665018737' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93049062412' lon='30.3312991049'>
+    <tag k='name' v='Дом обуви' />
+    <tag k='opening_hours' v='07:00-18:00' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='5665018738' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93062656669' lon='30.3310325478'>
+    <tag k='name' v='Оптово-розничный центр' />
+    <tag k='opening_hours' v='07:00-18:30' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5665018739' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93076154498' lon='30.33071994647'>
+    <tag k='name' v='Великие Люди' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.greatpeople.ru/' />
+  </node>
+  <node id='5665018740' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.9309389407' lon='30.33037662372'>
+    <tag k='name' v='Весна' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5665018741' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93130179262' lon='30.329687296'>
+    <tag k='contact:vk' v='https://vk.com/hostel_vesta_sankt_peterburg' />
+    <tag k='name' v='Vesta' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='https://hostel-vesta.ru/' />
+  </node>
+  <node id='5665018742' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93134210926' lon='30.32961353526'>
+    <tag k='amenity' v='cafe' />
+  </node>
+  <node id='5665018743' timestamp='2018-06-04T23:17:33Z' uid='437809' user='Anton Khorev' version='1' changeset='59551769' lat='59.93137033088' lon='30.32955184445'>
+    <tag k='opening_hours' v='Tu-Sa 10:00-19:00' />
+    <tag k='operator' v='ООО «Велес»' />
+    <tag k='shop' v='antiques' />
+  </node>
+</osm>
