@@ -1,0 +1,143 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1124898376' timestamp='2018-02-19T00:15:41Z' uid='103003' user='Alexandrcfif' version='6' changeset='56476387' lat='59.9463039' lon='30.3590143'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='проспект Чернышевского' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/evrasiaspb' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='email' v='evrasia@spb.ru' />
+    <tag k='internet_access:type' v='wlan' />
+    <tag k='name' v='Евразия' />
+    <tag k='opening_hours' v='Mo-Su 11:00-05:00' />
+    <tag k='operator' v='ООО «Евразия - Чернышевского»' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='phone' v='+7 812 2726505' />
+    <tag k='smoking' v='no' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://evrasia.spb.ru/' />
+  </node>
+  <node id='1129403025' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='3' changeset='59858755' lat='59.94558332557' lon='30.35900798514' />
+  <node id='1129403362' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='3' changeset='59858755' lat='59.94532980133' lon='30.3585214318' />
+  <node id='1129403488' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='3' changeset='59861727' lat='59.94532304514' lon='30.35892914838' />
+  <node id='1129403598' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='3' changeset='59858755' lat='59.94558998809' lon='30.35843625913' />
+  <node id='1129403615' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='3' changeset='59858755' lat='59.94558699217' lon='30.3586933461' />
+  <node id='1129404006' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='3' changeset='59858755' lat='59.94552774331' lon='30.35812640245' />
+  <node id='1479265527' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='2' changeset='59858755' lat='59.94556114331' lon='30.35812740245' />
+  <node id='1479265531' timestamp='2011-10-24T17:28:19Z' uid='336663' user='PavelRus' version='1' changeset='9645463' lat='59.9455603' lon='30.3581064' />
+  <node id='1479265543' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='2' changeset='59858755' lat='59.94559381938' lon='30.35810748696' />
+  <node id='2283375462' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='2' changeset='59858755' lat='59.94533077272' lon='30.358462811'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2283375483' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='3' changeset='59861727' lat='59.94548924491' lon='30.35847030245' />
+  <node id='2283375487' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='2' changeset='59858755' lat='59.94549464331' lon='30.35819980245' />
+  <node id='2624812232' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='4' changeset='59861727' lat='59.94577196793' lon='30.35898282413'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/chainikoff_cafe' />
+    <tag k='int_name' v='Chainikoff' />
+    <tag k='name' v='Чайникофф' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Кофейня 24»' />
+    <tag k='outdoor_seating' v='yes' />
+    <tag k='website' v='http://www.chainikoff.ru/' />
+  </node>
+  <node id='3593498217' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='2' changeset='59861727' lat='59.94618078608' lon='30.35900607176'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/natakhtari_spb' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Natakhtari' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-24:00; Su 12:00-24:00' />
+    <tag k='website' v='https://natakhtari.spb.ru/' />
+  </node>
+  <node id='3593498219' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='6' changeset='59861727' lat='59.94600597968' lon='30.35899599537'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/kontaktbar' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Контакт бар' />
+    <tag k='opening_hours' v='Su-Th 12:00-02:00, Fr-Sa 12:00-06:00' />
+    <tag k='operator' v='ООО «Альфа Бар»' />
+    <tag k='phone' v='+7 812 9453213' />
+    <tag k='website' v='http://kontaktbar.ru/bars/pr-chernyshevskogo-11-57/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3593498221' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='5' changeset='59861727' lat='59.94586941737' lon='30.35898804231'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Теремок' />
+    <tag k='brand:wikidata' v='Q4455593' />
+    <tag k='contact:vk' v='https://vk.com/teremok' />
+    <tag k='cuisine' v='pancake' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Теремок' />
+    <tag k='opening_hours' v='07:30-23:00' />
+    <tag k='operator' v='ООО «Теремок — Русские Блины»' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 812 3632332' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='http://www.teremok.ru/' />
+  </node>
+  <node id='3696994324' timestamp='2018-06-14T20:36:14Z' uid='437809' user='Anton Khorev' version='2' changeset='59858755' lat='59.94554012733' lon='30.35900552864'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='проспект Чернышевского' />
+  </node>
+  <node id='5249603335' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='2' changeset='59861727' lat='59.94574056807' lon='30.35898103857'>
+    <tag k='contact:vk' v='https://vk.com/kistochki_nails' />
+    <tag k='description' v='Маникюр, педикюр' />
+    <tag k='name' v='Kistochki' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='phone' v='+7 812 3333343' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://kistochki.ru/' />
+  </node>
+  <node id='5691869863' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94561849671' lon='30.35900998518'>
+    <tag k='entrance' v='yes' />
+    <tag k='ref' v='3' />
+  </node>
+  <node id='5691869864' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94549420734' lon='30.35900291736'>
+    <tag k='entrance' v='yes' />
+    <tag k='inscription' v='Приемное отделение' />
+  </node>
+  <node id='5691869865' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94567423702' lon='30.35901315491' />
+  <node id='5691869866' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94567559841' lon='30.35894349083' />
+  <node id='5691869867' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94558409286' lon='30.35894214227' />
+  <node id='5691869868' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94535403013' lon='30.3589949461' />
+  <node id='5691869869' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94534185897' lon='30.35898937378' />
+  <node id='5691869870' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.94533169059' lon='30.3589749022'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5691869871' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727' lat='59.945325082' lon='30.3589537473' />
+  <way id='597931169' timestamp='2018-06-14T23:33:35Z' uid='437809' user='Anton Khorev' version='1' changeset='59861727'>
+    <nd ref='2283375462' />
+    <nd ref='2283375483' />
+    <nd ref='2283375487' />
+    <nd ref='1129404006' />
+    <nd ref='1479265527' />
+    <nd ref='1479265531' />
+    <nd ref='1479265543' />
+    <nd ref='1129403598' />
+    <nd ref='1129403615' />
+    <nd ref='5691869867' />
+    <nd ref='5691869866' />
+    <nd ref='5691869865' />
+    <nd ref='5691869863' />
+    <nd ref='1129403025' />
+    <nd ref='3696994324' />
+    <nd ref='5691869864' />
+    <nd ref='5691869868' />
+    <nd ref='5691869869' />
+    <nd ref='5691869870' />
+    <nd ref='5691869871' />
+    <nd ref='1129403488' />
+    <nd ref='1129403362' />
+    <nd ref='2283375462' />
+    <tag k='amenity' v='hospital' />
+    <tag k='contact:vk' v='https://vk.com/roddomnafurshtatskoy' />
+    <tag k='email' v='info@rd2.ru' />
+    <tag k='name' v='Роддом №2' />
+    <tag k='phone' v='+7 812 4587676' />
+    <tag k='website' v='http://rd2.ru/' />
+  </way>
+</osm>

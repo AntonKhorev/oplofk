@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2287806722' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='4' changeset='59829449' lat='59.94382752667' lon='30.35524769439'>
+    <tag k='contact:vk' v='https://vk.com/kladovaya_zdorovya' />
+    <tag k='medical_supply' v='orthopedic' />
+    <tag k='name' v='Кладовая здоровья' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa 10:00-20:00; Su 11:00-20:00' />
+    <tag k='phone' v='+7 800 3334111' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='https://kladzdor.ru/adresa-magazinov/sankt-peterburg/kirochnaya-ul-d-13/' />
+  </node>
+  <node id='2590589772' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='3' changeset='59829449' lat='59.94385367984' lon='30.3538792352'>
+    <tag k='contact:vk' v='https://vk.com/zootovarfilya' />
+    <tag k='name' v='Филя' />
+    <tag k='opening_hours' v='Mo-Su,PH 10:00-21:00' />
+    <tag k='operator' v='ИП Дреничев А.А.' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://www.zootovar-spb.ru/magazin/kirochnaya-7.htm' />
+  </node>
+  <node id='2590595068' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='5' changeset='59829449' lat='59.9438355934' lon='30.35482384252'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/myfriendspub' />
+    <tag k='name' v='My friends' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-00:00; Sa, Su 14:00-00:00' />
+    <tag k='phone' v='+7 812 9602534' />
+    <tag k='website' v='http://myfriendspub.ru/' />
+  </node>
+  <node id='2715652075' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='4' changeset='59829449' lat='59.94385385201' lon='30.35360264916'>
+    <tag k='contact:vk' v='https://vk.com/gradusi_market' />
+    <tag k='name' v='Градусы всего мира' />
+    <tag k='opening_hours' v='Mo-Su,PH 09:00-22:00' />
+    <tag k='operator' v='ООО «Брют»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.gradusi.net/shops/spb/567/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2753984839' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='2' changeset='59829449' lat='59.9438451482' lon='30.35432423257'>
+    <tag k='alt_name' v='ЮниКредит Банк' />
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='brand' v='UniCredit' />
+    <tag k='brand:wikidata' v='Q45568' />
+    <tag k='contact:vk' v='https://vk.com/unicreditbank' />
+    <tag k='int_name' v='UniCredit Bank' />
+    <tag k='name' v='ЮниКредит Банк' />
+    <tag k='opening_hours' v='Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 10:00-17:00' />
+    <tag k='operator' v='АО «ЮниКредит Банк»' />
+    <tag k='operator:wikidata' v='Q727011' />
+    <tag k='website' v='https://www.unicreditbank.ru/' />
+  </node>
+  <node id='4317575317' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='3' changeset='59829449' lat='59.94385070128' lon='30.35401321159'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cakeandbreakfast' />
+    <tag k='name' v='Cake and Breakfast' />
+    <tag k='opening_hours' v='Mo-Su 08:00-21:00' />
+    <tag k='operator' v='ООО «Клеверклуб»' />
+    <tag k='phone' v='+7 921 866 00 29' />
+  </node>
+  <node id='4862706660' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='3' changeset='59829449' lat='59.94383333417' lon='30.35494258323'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/ramiclinic' />
+    <tag k='name' v='РАМИ' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-21:00; Su 10:00-19:00' />
+    <tag k='operator' v='ЗАО «Медицинский центр «РАМИ»' />
+    <tag k='phone' v='+7 812 2722666' />
+    <tag k='website' v='http://www.rami-spb.ru/' />
+  </node>
+  <node id='5689339867' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.9438056633' lon='30.35465732083'>
+    <tag k='name' v='ЭКО' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5689339868' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94380700669' lon='30.35462781653'>
+    <tag k='name' v='Фонд СКРИТ' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5689339869' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94382245558' lon='30.35465866193'>
+    <tag k='name' v='Леноблгаз' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5689339870' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94382245558' lon='30.35462915763'>
+    <tag k='name' v='Иммобили' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5689339871' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94383934741' lon='30.35463050645'>
+    <tag k='contact:vk' v='https://vk.com/likilofthotel' />
+    <tag k='name' v='LiKi Loft' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://likihotel.com/' />
+  </node>
+  <node id='5689339872' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94384915928' lon='30.35410347925'>
+    <tag k='contact:vk' v='https://vk.com/iservice.club' />
+    <tag k='name' v='iService' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 11:00-20:00; Su 11:00-19:00' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://shop.9282922.ru/' />
+  </node>
+  <node id='5689339873' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94383622523' lon='30.35407461092'>
+    <tag k='contact:vk' v='https://vk.com/academturspb' />
+    <tag k='name' v='Академия туризма' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://academtur.ru/' />
+  </node>
+  <node id='5689339874' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94384966348' lon='30.35407396354'>
+    <tag k='contact:vk' v='https://vk.com/piter_oldboy' />
+    <tag k='name' v='OldBoy' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://oldboybarbershop.com/spb/kirochnaya' />
+  </node>
+  <node id='5689339876' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94383656108' lon='30.35404711828'>
+    <tag k='contact:vk' v='https://vk.com/mouzenidis.travel' />
+    <tag k='name' v='Mouzenidis Travel' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-17:00; Su 10:00-16:00' />
+    <tag k='operator' v='ООО «Музенидис Северо-Запад»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.mouzenidis-travel.ru/' />
+  </node>
+  <node id='5689339877' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94385007473' lon='30.35404819037'>
+    <tag k='name' v='Grekodom' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-17:00' />
+    <tag k='operator' v='ООО «Грекодом Девелопмент»' />
+    <tag k='website' v='https://www.grekodom.ru/RealtyObjects/OfficesEmployees?regionid=295' />
+  </node>
+  <node id='5689339881' timestamp='2018-06-14T02:54:16Z' uid='437809' user='Anton Khorev' version='1' changeset='59829449' lat='59.94385466521' lon='30.3537990453'>
+    <tag k='contact:vk' v='https://vk.com/nevostyle' />
+    <tag k='name' v='Нево-Стиль.Клуб' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.nsclub.ru/' />
+  </node>
+</osm>

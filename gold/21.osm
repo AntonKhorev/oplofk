@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='710607514' timestamp='2015-01-19T07:16:57Z' uid='392109' user='GaM' version='3' changeset='28246374' lat='59.9314189' lon='30.3437616' />
+  <node id='710607518' timestamp='2011-05-16T17:14:44Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8164336' lat='59.9312916' lon='30.3442724' />
+  <node id='710607549' timestamp='2015-07-05T17:29:14Z' uid='285369' user='avi32' version='3' changeset='32431316' lat='59.9311272' lon='30.3434277' />
+  <node id='710607577' timestamp='2011-05-16T17:14:50Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8164336' lat='59.9313345' lon='30.3441046' />
+  <node id='710607619' timestamp='2015-01-19T07:16:57Z' uid='392109' user='GaM' version='3' changeset='28246374' lat='59.9315863' lon='30.3429131' />
+  <node id='710607646' timestamp='2011-05-16T17:14:54Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8164336' lat='59.9313116' lon='30.3426961' />
+  <node id='710607700' timestamp='2015-07-05T17:35:49Z' uid='285369' user='avi32' version='3' changeset='32431453' lat='59.9310341' lon='30.343808' />
+  <node id='747737007' timestamp='2011-05-16T17:14:57Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8164336' lat='59.9310748' lon='30.3436431'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+    <tag k='motorcar' v='yes' />
+  </node>
+  <node id='1287985303' timestamp='2011-05-16T17:14:37Z' uid='12494' user='Aleksandr Dezhin' version='1' changeset='8164336' lat='59.9309926' lon='30.3439646' />
+  <node id='1287985339' timestamp='2015-07-03T15:32:54Z' uid='700550' user='EIjas' version='2' changeset='32392615' lat='59.9315665' lon='30.3428975'>
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='набережная реки Фонтанки' />
+  </node>
+  <node id='3635648518' timestamp='2015-07-05T17:29:13Z' uid='285369' user='avi32' version='1' changeset='32431316' lat='59.9311084' lon='30.3435049' />
+  <node id='3635654270' timestamp='2015-07-05T17:35:49Z' uid='285369' user='avi32' version='1' changeset='32431453' lat='59.9310453' lon='30.3437629' />
+  <node id='3699710233' timestamp='2018-06-13T22:08:03Z' uid='437809' user='Anton Khorev' version='2' changeset='59825779' lat='59.93100445594' lon='30.3439198617'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='3699710234' timestamp='2015-08-16T12:30:56Z' uid='285369' user='avi32' version='1' changeset='33368526' lat='59.9310537' lon='30.3437288'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='3699710235' timestamp='2018-06-13T22:08:03Z' uid='437809' user='Anton Khorev' version='2' changeset='59825779' lat='59.9311651' lon='30.3432772'>
+    <tag k='entrance' v='yes' />
+    <tag k='inscription' v='обслуживание юридических лиц' />
+  </node>
+  <node id='3699710238' timestamp='2015-08-16T12:30:56Z' uid='285369' user='avi32' version='1' changeset='33368526' lat='59.9314485' lon='30.3428043'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5688998328' timestamp='2018-06-13T22:08:03Z' uid='437809' user='Anton Khorev' version='1' changeset='59825779' lat='59.93094729406' lon='30.34421239601'>
+    <tag k='contact:vk' v='https://vk.com/ic_spb' />
+    <tag k='name' v='Испанский Центр' />
+    <tag k='office' v='ngo' />
+    <tag k='official_name' v='Испанский Центр Культуры, Образования и Бизнеса в Санкт-Петербурге' />
+    <tag k='website' v='https://www.icsanpetersburgo.com/' />
+  </node>
+  <node id='5688998329' timestamp='2018-06-13T22:08:03Z' uid='437809' user='Anton Khorev' version='1' changeset='59825779' lat='59.93102050046' lon='30.34393601235'>
+    <tag k='brand' v='UniCredit' />
+    <tag k='brand:wikidata' v='Q45568' />
+    <tag k='name' v='ЮниКредит Лизинг' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://unicreditleasing.ru/' />
+  </node>
+  <way id='597518843' timestamp='2018-06-13T22:08:03Z' uid='437809' user='Anton Khorev' version='1' changeset='59825779'>
+    <nd ref='1287985303' />
+    <nd ref='710607518' />
+    <nd ref='710607577' />
+    <nd ref='710607514' />
+    <nd ref='710607619' />
+    <nd ref='1287985339' />
+    <nd ref='3699710238' />
+    <nd ref='710607646' />
+    <nd ref='3699710235' />
+    <nd ref='710607549' />
+    <nd ref='3635648518' />
+    <nd ref='747737007' />
+    <nd ref='3699710234' />
+    <nd ref='3635654270' />
+    <nd ref='710607700' />
+    <nd ref='3699710233' />
+    <nd ref='1287985303' />
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='brand' v='UniCredit' />
+    <tag k='brand:wikidata' v='Q45568' />
+    <tag k='contact:vk' v='https://vk.com/unicreditbank' />
+    <tag k='description' v='отделение &quot;Фонтанка&quot;' />
+    <tag k='name' v='ЮниКредит Банк' />
+    <tag k='opening_hours' v='Mo-Th 09:30-17:00; Fr 09:30-16:00' />
+    <tag k='operator' v='АО «ЮниКредит Банк»' />
+    <tag k='operator:wikidata' v='Q727011' />
+    <tag k='website' v='https://www.unicreditbank.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </way>
+</osm>
