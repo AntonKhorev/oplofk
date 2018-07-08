@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1116681555' timestamp='2018-06-22T23:58:56Z' uid='437809' user='Anton Khorev' version='4' changeset='60089896' lat='59.91340665036' lon='30.27684279033'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='name' v='Фармакор' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00' />
+    <tag k='website' v='http://www.pharmacor.ru/' />
+  </node>
+  <node id='1118806883' timestamp='2018-06-22T23:58:56Z' uid='437809' user='Anton Khorev' version='3' changeset='60089896' lat='59.91334962077' lon='30.27519313846'>
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ИП Антонова' />
+    <tag k='shop' v='tyres' />
+  </node>
+  <node id='1161917573' timestamp='2018-06-22T23:58:56Z' uid='437809' user='Anton Khorev' version='5' changeset='60089896' lat='59.91341640846' lon='30.27710010062'>
+    <tag k='amenity' v='fast_food' />
+  </node>
+  <node id='3025312281' timestamp='2018-06-22T23:58:56Z' uid='437809' user='Anton Khorev' version='5' changeset='60089896' lat='59.91340339598' lon='30.27674847097'>
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4740759974' timestamp='2018-06-22T23:58:56Z' uid='437809' user='Anton Khorev' version='2' changeset='60089896' lat='59.91340132652' lon='30.27669606658'>
+    <tag k='brand' v='РЕСО-Гарантия' />
+    <tag k='brand:wikidata' v='Q4386516' />
+    <tag k='contact:vk' v='https://vk.com/reso_garantia' />
+    <tag k='name' v='РЕСО-Гарантия' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 10:00-16:00' />
+    <tag k='website' v='http://www.reso.ru/' />
+  </node>
+</osm>

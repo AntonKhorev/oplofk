@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1158913775' timestamp='2012-03-10T10:36:12Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9230867' lon='30.2823154' />
+  <node id='1158913782' timestamp='2012-03-10T10:36:13Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9226116' lon='30.2821099' />
+  <node id='1158941228' timestamp='2012-03-10T10:36:14Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9231726' lon='30.2822051' />
+  <node id='1158941240' timestamp='2012-03-10T10:36:14Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9231087' lon='30.2824434' />
+  <node id='1313205564' timestamp='2018-07-08T19:19:12Z' uid='437809' user='Anton Khorev' version='6' changeset='60516735' lat='59.92363905217' lon='30.28418720392'>
+    <tag k='name' v='Дом сказки' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Венера»' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='1313317253' timestamp='2016-10-03T13:16:16Z' uid='472653' user='Pavel47' version='6' changeset='42605158' lat='59.9231656' lon='30.2823825' />
+  <node id='1313317262' timestamp='2017-06-25T05:41:48Z' uid='437809' user='Anton Khorev' version='5' changeset='49806503' lat='59.9232848' lon='30.2826189'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Утка по-пекински' />
+  </node>
+  <node id='1313396108' timestamp='2012-03-10T10:36:23Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229516' lon='30.2820303' />
+  <node id='1313396122' timestamp='2012-03-10T10:36:23Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229437' lon='30.2820435' />
+  <node id='1313396129' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229315' lon='30.2822192' />
+  <node id='1313396130' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229643' lon='30.2822967'>
+    <tag k='barrier' v='lift_gate' />
+  </node>
+  <node id='1313396139' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229087' lon='30.2822575' />
+  <node id='1313396141' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230472' lon='30.2822879' />
+  <node id='1313396155' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.922785' lon='30.282346' />
+  <node id='1313396156' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228996' lon='30.2821437' />
+  <node id='1313396170' timestamp='2012-03-10T10:36:25Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228297' lon='30.2817424' />
+  <node id='1313396176' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228801' lon='30.2820976' />
+  <node id='1313396180' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230204' lon='30.2824293' />
+  <node id='1313396194' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230144' lon='30.2822105' />
+  <node id='1313396209' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9227632' lon='30.2822944' />
+  <node id='1313396217' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228768' lon='30.2821819' />
+  <node id='1313396219' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230643' lon='30.282354' />
+  <node id='1313396223' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230409' lon='30.2822988' />
+  <node id='1313396227' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9227422' lon='30.2824183' />
+  <node id='1668470239' timestamp='2012-03-10T10:35:52Z' uid='437809' user='Anton Khorev' version='1' changeset='10930118' lat='59.923214' lon='30.2822379' />
+  <node id='1668470241' timestamp='2012-03-10T10:35:52Z' uid='437809' user='Anton Khorev' version='1' changeset='10930118' lat='59.9232384' lon='30.2823415' />
+  <node id='2589394480' timestamp='2018-07-08T19:19:12Z' uid='437809' user='Anton Khorev' version='4' changeset='60516735' lat='59.92332278709' lon='30.28278416283'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='name' v='Брегор-Фарм' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Брегор-Фарм»' />
+  </node>
+  <node id='4193708223' timestamp='2018-07-08T19:19:12Z' uid='437809' user='Anton Khorev' version='2' changeset='60516735' lat='59.9229143' lon='30.2819868'>
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Red Stars' />
+    <tag k='note' v='в русской версии сайта про хостел больше не написано, и ссылка http://red-stars-hotel.ru/hostel не работает' />
+    <tag k='phone' v='+7 (812) 640-40-00' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://red-stars-hotel.ru/hostel' />
+  </node>
+  <node id='4428965718' timestamp='2016-10-03T13:16:09Z' uid='472653' user='Pavel47' version='1' changeset='42605158' lat='59.9231933' lon='30.2822215'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4428965719' timestamp='2016-10-03T13:16:09Z' uid='472653' user='Pavel47' version='1' changeset='42605158' lat='59.9231972' lon='30.2825207' />
+  <node id='4428965720' timestamp='2017-09-23T12:28:38Z' uid='472653' user='Pavel47' version='2' changeset='52302702' lat='59.9232318' lon='30.2823135'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 00:20,16:55; Sa 09:05; Su 16:55' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='161' />
+  </node>
+  <node id='4428965721' timestamp='2016-10-03T13:16:09Z' uid='472653' user='Pavel47' version='1' changeset='42605158' lat='59.9232668' lon='30.2824622' />
+  <node id='5747730746' timestamp='2018-07-08T19:19:12Z' uid='437809' user='Anton Khorev' version='1' changeset='60516735' lat='59.92338443495' lon='30.28304548367'>
+    <tag k='contact:vk' v='https://vk.com/miroir_studio' />
+    <tag k='name' v='Miroir' />
+    <tag k='note' v='рядом с ещё одной на Декабристов 58: https://vk.com/wall-76206152_256' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ИП Макарчук Ю.В.' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://miroir.spb.ru/' />
+  </node>
+  <way id='116527201' timestamp='2017-06-25T05:41:48Z' uid='437809' user='Anton Khorev' version='4' changeset='49806503'>
+    <nd ref='1313396141' />
+    <nd ref='1313396223' />
+    <nd ref='1313396219' />
+    <nd ref='1313396180' />
+    <nd ref='1313396130' />
+    <nd ref='1313396129' />
+    <nd ref='1313396139' />
+    <nd ref='1313396217' />
+    <nd ref='1313396156' />
+    <nd ref='1313396176' />
+    <nd ref='1313396209' />
+    <nd ref='1313396155' />
+    <nd ref='1313396227' />
+    <nd ref='1158913782' />
+    <nd ref='1313396170' />
+    <nd ref='1313396108' />
+    <nd ref='1313396122' />
+    <nd ref='1313396194' />
+    <nd ref='1313396141' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='набережная реки Пряжки' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='5' />
+    <tag k='contact:vk' v='https://vk.com/redstarshotel' />
+    <tag k='email' v='res@red-stars-hotel.ru' />
+    <tag k='name' v='Red Stars' />
+    <tag k='phone' v='+7 812 6404000' />
+    <tag k='stars' v='3' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://red-stars-hotel.ru' />
+  </way>
+  <way id='445472021' timestamp='2017-10-31T22:02:11Z' uid='3580412' user='Alexander-II' version='3' changeset='53409542'>
+    <nd ref='1313396219' />
+    <nd ref='1158941240' />
+    <nd ref='1313317253' />
+    <nd ref='4428965719' />
+    <nd ref='4428965721' />
+    <nd ref='1668470241' />
+    <nd ref='4428965720' />
+    <nd ref='1668470239' />
+    <nd ref='4428965718' />
+    <nd ref='1158941228' />
+    <nd ref='1158913775' />
+    <nd ref='1313396219' />
+    <tag k='amenity' v='post_office' />
+    <tag k='contact:facebook' v='https://www.facebook.com/ruspost' />
+    <tag k='contact:phone' v='+7 812 4952627' />
+    <tag k='contact:twitter' v='https://twitter.com/ruspostofficial' />
+    <tag k='contact:vk' v='https://vk.com/russianpost' />
+    <tag k='contact:website' v='https://www.pochta.ru' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 190121' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-13:00,14:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='operator:wikidata' v='Q1502763' />
+    <tag k='operator:wikipedia' v='ru:Почта России' />
+    <tag k='ref' v='190121' />
+  </way>
+</osm>

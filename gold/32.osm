@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4740809367' timestamp='2018-06-23T00:18:39Z' uid='437809' user='Anton Khorev' version='2' changeset='60090021' lat='59.90957655555' lon='30.26320785688'>
+    <tag k='name' v='Еврокрепёж' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='shop' v='hardware' />
+    <tag k='website' v='http://evrokrepejspb.ru/' />
+  </node>
+</osm>

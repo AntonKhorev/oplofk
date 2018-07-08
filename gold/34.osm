@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5721740043' timestamp='2018-06-27T04:59:34Z' uid='437809' user='Anton Khorev' version='1' changeset='60200423' lat='59.9337464' lon='30.3108591'>
+    <tag k='int_name' v='Irena' />
+    <tag k='name' v='Ирэна' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5721740053' timestamp='2018-06-27T04:59:34Z' uid='437809' user='Anton Khorev' version='1' changeset='60200423' lat='59.9339274' lon='30.3109433'>
+    <tag k='name' v='Gran de Mar' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5721740055' timestamp='2018-06-27T04:59:34Z' uid='437809' user='Anton Khorev' version='1' changeset='60200423' lat='59.9339907' lon='30.3111087'>
+    <tag k='alt_name' v='Центр Соколинского' />
+    <tag k='contact:vk' v='https://vk.com/sokolinskycenter' />
+    <tag k='name' v='Рецепты здоровья' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 11:00-18:00' />
+    <tag k='shop' v='nutrition_supplements' />
+    <tag k='website' v='https://www.pobedi2.ru/buy/kupit-v-peterburge/' />
+  </node>
+  <node id='5721740060' timestamp='2018-06-27T04:59:34Z' uid='437809' user='Anton Khorev' version='1' changeset='60200423' lat='59.9338544' lon='30.3115261'>
+    <tag k='contact:vk' v='https://vk.com/everest_hostel' />
+    <tag k='name' v='EveRest' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://everesthostel.ru/' />
+  </node>
+</osm>

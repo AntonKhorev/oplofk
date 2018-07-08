@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1152675663' timestamp='2012-03-10T08:05:46Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.927778' lon='30.2811678' />
+  <node id='1152675723' timestamp='2012-03-10T08:05:46Z' uid='437809' user='Anton Khorev' version='3' changeset='10928991' lat='59.9269514' lon='30.2817194' />
+  <node id='1152675748' timestamp='2015-03-12T15:25:14Z' uid='395588' user='Danidin9' version='3' changeset='29428559' lat='59.9260027' lon='30.2805666' />
+  <node id='1152675789' timestamp='2012-03-10T08:05:46Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9265119' lon='30.2801006' />
+  <node id='1152676243' timestamp='2012-03-10T08:05:47Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9265643' lon='30.2800608' />
+  <node id='1152676334' timestamp='2012-03-10T08:05:47Z' uid='437809' user='Anton Khorev' version='3' changeset='10928991' lat='59.9268373' lon='30.2809959' />
+  <node id='1152676365' timestamp='2012-03-10T08:05:47Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9276699' lon='30.2807561' />
+  <node id='1152676412' timestamp='2015-03-12T15:25:15Z' uid='395588' user='Danidin9' version='3' changeset='29428559' lat='59.9264087' lon='30.2802257' />
+  <node id='1152676629' timestamp='2012-03-10T08:05:48Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9265325' lon='30.2802066' />
+  <node id='1152676777' timestamp='2012-03-10T08:05:49Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9275076' lon='30.2815699' />
+  <node id='1152676894' timestamp='2012-03-10T08:05:49Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9266623' lon='30.2799155' />
+  <node id='1152676997' timestamp='2012-03-10T08:05:49Z' uid='437809' user='Anton Khorev' version='3' changeset='10928991' lat='59.9269417' lon='30.2816525' />
+  <node id='1152677019' timestamp='2012-03-10T08:05:49Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9278283' lon='30.2810651' />
+  <node id='1152677053' timestamp='2012-03-10T08:05:50Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.926706' lon='30.2799429' />
+  <node id='1152677207' timestamp='2015-03-12T15:25:15Z' uid='395588' user='Danidin9' version='3' changeset='29428559' lat='59.9264245' lon='30.2803004' />
+  <node id='1152677368' timestamp='2012-03-10T08:05:50Z' uid='437809' user='Anton Khorev' version='3' changeset='10928991' lat='59.9264369' lon='30.2812493' />
+  <node id='1152677421' timestamp='2012-03-10T08:05:51Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9265731' lon='30.2799989' />
+  <node id='1668308208' timestamp='2012-03-10T08:05:42Z' uid='437809' user='Anton Khorev' version='1' changeset='10928991' lat='59.9270066' lon='30.2820674' />
+  <node id='1668308212' timestamp='2012-03-10T08:05:42Z' uid='437809' user='Anton Khorev' version='1' changeset='10928991' lat='59.9275343' lon='30.2817376' />
+  <node id='1754392057' timestamp='2012-08-18T05:45:13Z' uid='623185' user='coho' version='2' changeset='12769454' lat='59.9275854' lon='30.2805807'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1799575770' timestamp='2012-06-23T16:17:02Z' uid='217275' user='Алексей Шифрин' version='1' changeset='11990733' lat='59.9273555' lon='30.2818493'>
+    <tag k='barrier' v='entrance' />
+  </node>
+  <node id='3900212766' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9267685' lon='30.2799043' />
+  <node id='3900212767' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9268406' lon='30.2798597' />
+  <node id='3900212768' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9268571' lon='30.2797846' />
+  <node id='3900212770' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9269168' lon='30.2797425' />
+  <node id='3900212778' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9269691' lon='30.2797022' />
+  <node id='3900212782' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9270434' lon='30.2796711' />
+  <node id='3900212789' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9270973' lon='30.2796758' />
+  <node id='3900212792' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9271407' lon='30.2797132' />
+  <node id='3900212794' timestamp='2015-12-19T17:07:21Z' uid='386821' user='paavolobja' version='1' changeset='36050545' lat='59.9272132' lon='30.2798066' />
+  <node id='4016258433' timestamp='2018-07-08T20:11:19Z' uid='437809' user='Anton Khorev' version='3' changeset='60517701' lat='59.92613094386' lon='30.28137319216'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/degaclinic' />
+    <tag k='int_name' v='DEGA' />
+    <tag k='name' v='ДЕГА' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://dega-clinic.com/' />
+  </node>
+  <node id='4016263297' timestamp='2016-02-20T11:18:11Z' uid='386821' user='paavolobja' version='1' changeset='37326535' lat='59.9259337' lon='30.2806267' />
+  <node id='4016263308' timestamp='2016-02-20T11:18:11Z' uid='386821' user='paavolobja' version='1' changeset='37326535' lat='59.9259857' lon='30.2809777'>
+    <tag k='barrier' v='entrance' />
+    <tag k='bicycle' v='yes' />
+    <tag k='foot' v='yes' />
+  </node>
+  <node id='4016263311' timestamp='2016-02-20T11:18:11Z' uid='386821' user='paavolobja' version='1' changeset='37326535' lat='59.9259904' lon='30.2810098'>
+    <tag k='barrier' v='gate' />
+    <tag k='bicycle' v='yes' />
+    <tag k='foot' v='yes' />
+  </node>
+  <node id='4016263313' timestamp='2016-02-20T11:18:11Z' uid='386821' user='paavolobja' version='1' changeset='37326535' lat='59.9259937' lon='30.2810343' />
+  <node id='4016263369' timestamp='2016-02-20T11:18:12Z' uid='386821' user='paavolobja' version='1' changeset='37326535' lat='59.9261842' lon='30.2809068' />
+  <node id='4016263372' timestamp='2016-02-20T11:18:12Z' uid='386821' user='paavolobja' version='1' changeset='37326535' lat='59.9262158' lon='30.2809192' />
+  <node id='4016263381' timestamp='2016-02-20T11:18:13Z' uid='386821' user='paavolobja' version='1' changeset='37326535' lat='59.9263768' lon='30.2809584' />
+  <node id='4466718017' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.9274728' lon='30.2813351' />
+  <node id='4466718018' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.9276234' lon='30.2810347' />
+  <node id='4466718019' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.9276543' lon='30.2812171' />
+  <node id='4466718020' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.927664' lon='30.2809454' />
+  <way id='462457328' timestamp='2016-12-29T03:56:17Z' uid='437809' user='Anton Khorev' version='1' changeset='44746845'>
+    <nd ref='4016263297' />
+    <nd ref='1152675748' />
+    <nd ref='1152676412' />
+    <nd ref='1152677207' />
+    <nd ref='1152676629' />
+    <nd ref='1152675789' />
+    <nd ref='1152676243' />
+    <nd ref='1152677421' />
+    <nd ref='1152676894' />
+    <nd ref='1152677053' />
+    <nd ref='3900212766' />
+    <nd ref='3900212767' />
+    <nd ref='3900212768' />
+    <nd ref='3900212770' />
+    <nd ref='3900212778' />
+    <nd ref='3900212782' />
+    <nd ref='3900212789' />
+    <nd ref='3900212792' />
+    <nd ref='3900212794' />
+    <nd ref='1754392057' />
+    <nd ref='1152676365' />
+    <nd ref='1152677019' />
+    <nd ref='1152675663' />
+    <nd ref='4466718020' />
+    <nd ref='4466718018' />
+    <nd ref='4466718019' />
+    <nd ref='4466718017' />
+    <nd ref='1152676777' />
+    <nd ref='1668308212' />
+    <nd ref='1799575770' />
+    <nd ref='1668308208' />
+    <nd ref='1152675723' />
+    <nd ref='1152676997' />
+    <nd ref='1152676334' />
+    <nd ref='1152677368' />
+    <nd ref='4016263381' />
+    <nd ref='4016263372' />
+    <nd ref='4016263369' />
+    <nd ref='4016263313' />
+    <nd ref='4016263311' />
+    <nd ref='4016263308' />
+    <nd ref='4016263297' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа № 235' />
+    <tag k='official_name' v='Государственное бюджетное общеобразовательное учреждение средняя общеобразовательная школа № 235 с углублённым изучением предметов художественно-эстетического цикла имени Д.Д. Шостаковича Адмиралтейского района Санкт-Петербурга' />
+    <tag k='website' v='http://school235.ru/' />
+  </way>
+</osm>

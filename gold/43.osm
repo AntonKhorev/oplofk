@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='664453369' timestamp='2012-02-04T00:31:23Z' uid='437809' user='Anton Khorev' version='4' changeset='10580605' lat='59.9352362' lon='30.3120996' />
+  <node id='664453371' timestamp='2012-02-04T00:31:23Z' uid='437809' user='Anton Khorev' version='4' changeset='10580605' lat='59.9350745' lon='30.3123414' />
+  <node id='664453372' timestamp='2012-02-04T00:31:23Z' uid='437809' user='Anton Khorev' version='4' changeset='10580605' lat='59.935032' lon='30.3124122' />
+  <node id='664453373' timestamp='2012-02-04T00:31:23Z' uid='437809' user='Anton Khorev' version='4' changeset='10580605' lat='59.9349171' lon='30.3125841' />
+  <node id='664453385' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' version='4' changeset='10580605' lat='59.9347828' lon='30.3127993' />
+  <node id='664453387' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' version='6' changeset='10580605' lat='59.9349919' lon='30.313373' />
+  <node id='664453394' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' version='5' changeset='10580605' lat='59.9355747' lon='30.3130309' />
+  <node id='664453397' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' version='5' changeset='10580605' lat='59.935109' lon='30.3136942' />
+  <node id='803391914' timestamp='2012-02-04T00:31:35Z' uid='437809' user='Anton Khorev' version='3' changeset='10580605' lat='59.9348709' lon='30.3126674' />
+  <node id='2423332504' timestamp='2013-08-18T19:57:07Z' uid='1189226' user='hiosm' version='1' changeset='17401793' lat='59.9348905' lon='30.3126321' />
+  <node id='2423332528' timestamp='2013-08-18T19:57:08Z' uid='1189226' user='hiosm' version='1' changeset='17401793' lat='59.9350589' lon='30.3123675' />
+  <node id='2940675135' timestamp='2018-07-08T23:18:54Z' uid='437809' user='Anton Khorev' version='3' changeset='60520359' lat='59.93461113844' lon='30.31310083529'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='streetfoodspb' />
+    <tag k='contact:phone' v='+7 812 9940983' />
+    <tag k='contact:website' v='https://vk.com/streetfoodspb' />
+    <tag k='name' v='Картофель с грибами' />
+    <tag k='name:en' v='Kartofel&apos; s Gribami' />
+    <tag k='note' v='возможно закрыто' />
+    <tag k='opening_hours' v='11:00-23:00' />
+  </node>
+  <node id='4436874649' timestamp='2016-10-07T20:44:43Z' uid='3846961' user='mini-me' version='1' changeset='42721391' lat='59.9354117' lon='30.3125823'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5747987409' timestamp='2018-07-08T23:18:54Z' uid='437809' user='Anton Khorev' version='1' changeset='60520359' lat='59.93472788149' lon='30.31292622294'>
+    <tag k='contact:vk' v='https://vk.com/wrongstore' />
+    <tag k='name' v='Wrong Store' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://wrongstore.ru/' />
+  </node>
+  <way id='533920073' timestamp='2017-10-21T00:19:07Z' uid='437809' user='Anton Khorev' version='1' changeset='53117103'>
+    <nd ref='664453369' />
+    <nd ref='664453371' />
+    <nd ref='2423332528' />
+    <nd ref='664453372' />
+    <nd ref='664453373' />
+    <nd ref='2423332504' />
+    <nd ref='803391914' />
+    <nd ref='664453385' />
+    <nd ref='664453387' />
+    <nd ref='664453397' />
+    <nd ref='664453394' />
+    <nd ref='4436874649' />
+    <nd ref='664453369' />
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Поликлиника №1 МСЧ ГУВД' />
+    <tag k='official_name' v='Поликлиника № 1 федерального казенного учреждения здравоохранения «Медико-санитарная часть Министерства внутренних дел Российской Федерации по г. Санкт-Петербургу и Ленинградской области»' />
+    <tag k='website' v='https://мсч.78.мвд.рф/Podrazdeleniya/Poliklinika_1' />
+  </way>
+</osm>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1446113085' timestamp='2018-07-08T19:41:30Z' uid='437809' user='Anton Khorev' version='2' changeset='60517115' lat='59.92558400578' lon='30.28108148111'>
+    <tag k='amenity' v='arts_centre' />
+    <tag k='contact:vk' v='https://vk.com/tsevvkolomne' />
+    <tag k='name' v='Центр эстетического воспитания «В Коломне»' />
+    <tag k='official_name' v='Государственное образовательное учреждение дополнительного образования детей Дворец детского творчества «У Вознесенского моста» Центр эстетического воспитания «В Коломне»' />
+    <tag k='website' v='http://ddtvm.ru/?page_id=8639' />
+  </node>
+  <node id='2172078581' timestamp='2018-07-08T19:41:30Z' uid='437809' user='Anton Khorev' version='3' changeset='60517115' lat='59.92386724187' lon='30.28187467744'>
+    <tag k='disused:shop' v='florist' />
+    <tag k='name' v='ЦветОптТорг' />
+  </node>
+  <node id='4914580830' timestamp='2018-07-08T19:41:30Z' uid='437809' user='Anton Khorev' version='2' changeset='60517115' lat='59.92349720155' lon='30.28201100164'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/restoraniris' />
+    <tag k='name' v='Ирис' />
+    <tag k='website' v='https://r-iris.ru/' />
+  </node>
+</osm>

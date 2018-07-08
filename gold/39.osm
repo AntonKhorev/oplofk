@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1038373246' timestamp='2012-03-10T08:05:46Z' uid='437809' user='Anton Khorev' version='3' changeset='10928991' lat='59.9278647' lon='30.2811802' />
+  <node id='1152675663' timestamp='2012-03-10T08:05:46Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.927778' lon='30.2811678' />
+  <node id='1152675725' timestamp='2013-11-27T15:55:45Z' uid='368493' user='fserges' version='3' changeset='19146612' lat='59.92803' lon='30.2849103' />
+  <node id='1152676466' timestamp='2012-03-09T08:37:04Z' uid='437809' user='Anton Khorev' version='2' changeset='10917217' lat='59.9279899' lon='30.2842906' />
+  <node id='1152676511' timestamp='2012-03-09T08:37:05Z' uid='437809' user='Anton Khorev' version='2' changeset='10917217' lat='59.9279826' lon='30.284232' />
+  <node id='1152676640' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='5' changeset='42763600' lat='59.9286074' lon='30.28471' />
+  <node id='1152676708' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='4' changeset='42763600' lat='59.9286015' lon='30.2845571' />
+  <node id='1152676777' timestamp='2012-03-10T08:05:49Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9275076' lon='30.2815699' />
+  <node id='1152677019' timestamp='2012-03-10T08:05:49Z' uid='437809' user='Anton Khorev' version='2' changeset='10928991' lat='59.9278283' lon='30.2810651' />
+  <node id='1152677165' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='4' changeset='42763600' lat='59.9285792' lon='30.2840818' />
+  <node id='1668308212' timestamp='2012-03-10T08:05:42Z' uid='437809' user='Anton Khorev' version='1' changeset='10928991' lat='59.9275343' lon='30.2817376' />
+  <node id='1668308216' timestamp='2012-03-10T08:05:42Z' uid='437809' user='Anton Khorev' version='1' changeset='10928991' lat='59.9279156' lon='30.2814993' />
+  <node id='4179579221' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='2' changeset='42763600' lat='59.9285763' lon='30.284043'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4179579224' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='2' changeset='42763600' lat='59.9285248' lon='30.2838675' />
+  <node id='4179579225' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='2' changeset='42763600' lat='59.9285541' lon='30.2838504' />
+  <node id='4179579226' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='2' changeset='42763600' lat='59.9285728' lon='30.2840052' />
+  <node id='4179579227' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' version='2' changeset='42763600' lat='59.9285631' lon='30.2839249'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4439718955' timestamp='2016-10-09T21:42:27Z' uid='3846961' user='mini-me' version='1' changeset='42763600' lat='59.9278466' lon='30.2811231'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4466718017' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.9274728' lon='30.2813351' />
+  <node id='4466718018' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.9276234' lon='30.2810347' />
+  <node id='4466718019' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.9276543' lon='30.2812171' />
+  <node id='4466718020' timestamp='2016-10-27T18:08:39Z' uid='437809' user='Anton Khorev' version='1' changeset='43224650' lat='59.927664' lon='30.2809454' />
+  <node id='5747789591' timestamp='2018-07-08T20:19:37Z' uid='437809' user='Anton Khorev' version='1' changeset='60517843' lat='59.9277501' lon='30.2816028'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='449719734' timestamp='2017-10-01T01:06:33Z' uid='437809' user='Anton Khorev' version='5' changeset='52524880'>
+    <nd ref='1152676511' />
+    <nd ref='1152676466' />
+    <nd ref='1152675725' />
+    <nd ref='1152676640' />
+    <nd ref='1152676708' />
+    <nd ref='1152677165' />
+    <nd ref='4179579221' />
+    <nd ref='4179579226' />
+    <nd ref='4179579227' />
+    <nd ref='4179579225' />
+    <nd ref='4179579224' />
+    <nd ref='1152676511' />
+  </way>
+  <way id='449735528' timestamp='2018-07-08T20:19:37Z' uid='437809' user='Anton Khorev' version='4' changeset='60517843'>
+    <nd ref='4466718018' />
+    <nd ref='4466718020' />
+    <nd ref='1152675663' />
+    <nd ref='1152677019' />
+    <nd ref='4439718955' />
+    <nd ref='1038373246' />
+    <nd ref='1668308216' />
+    <nd ref='5747789591' />
+    <nd ref='1668308212' />
+    <nd ref='1152676777' />
+    <nd ref='4466718017' />
+    <nd ref='4466718019' />
+    <nd ref='4466718018' />
+  </way>
+  <relation id='7618721' timestamp='2018-07-08T20:19:37Z' uid='437809' user='Anton Khorev' version='2' changeset='60517843'>
+    <member type='way' ref='449735528' role='outer' />
+    <member type='way' ref='449719734' role='outer' />
+    <tag k='contact:vk' v='https://vk.com/club137388509' />
+    <tag k='landuse' v='industrial' />
+    <tag k='name' v='ВНИИОкеангеология' />
+    <tag k='office' v='research' />
+    <tag k='official_name' v='Федеральное государственное бюджетное учреждение «Всероссийский научно-исследовательский институт геологии и минеральных ресурсов Мирового океана имени академика И.С. Грамберга»' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='http://вниио.рф/' />
+    <tag k='wikidata' v='Q4101971' />
+    <tag k='wikipedia' v='ru:ВНИИОкеангеология' />
+  </relation>
+</osm>
