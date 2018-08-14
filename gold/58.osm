@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1545549371' timestamp='2018-08-13T22:23:10Z' uid='437809' user='Anton Khorev' version='3' changeset='61640580' lat='59.91542431538' lon='30.30963736949'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/sitaya_akula' />
+    <tag k='name' v='Сытая акула' />
+  </node>
+  <node id='1562459636' timestamp='2018-08-13T22:23:10Z' uid='437809' user='Anton Khorev' version='4' changeset='61640580' lat='59.9158608' lon='30.3098313'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Теремок' />
+    <tag k='brand:wikidata' v='Q4455593' />
+    <tag k='building' v='kiosk' />
+    <tag k='contact:vk' v='https://vk.com/teremok' />
+    <tag k='cuisine' v='pancake' />
+    <tag k='name' v='Теремок' />
+    <tag k='website' v='http://www.teremok.ru/address/spb/1_ya_krasnoarmeyskaya_1407506400/' />
+  </node>
+  <node id='5830820623' timestamp='2018-08-13T22:23:10Z' uid='437809' user='Anton Khorev' version='1' changeset='61640580' lat='59.91546222446' lon='30.30963756075'>
+    <tag k='amenity' v='driving_school' />
+    <tag k='contact:vk' v='https://vk.com/auto_fara' />
+    <tag k='name' v='Фара' />
+    <tag k='website' v='http://auto-fara.ru/company/' />
+  </node>
+</osm>

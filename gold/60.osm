@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2126427681' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61641793' lat='59.91932128652' lon='30.28808480218'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/beerhousebar' />
+    <tag k='name' v='Beer House Staff' />
+    <tag k='opening_hours' v='12:00+' />
+    <tag k='operator' v='ООО «Юник»' />
+    <tag k='website' v='http://beerhousebar.ru/' />
+  </node>
+  <node id='2126432999' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61641793' lat='59.91942126134' lon='30.28799549753'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2126433001' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61641793' lat='59.91963340344' lon='30.28780515257'>
+    <tag k='craft' v='key_cutter' />
+    <tag k='name' v='Сантехника' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa-Su 10:00-18:00' />
+    <tag k='shop' v='bathroom_furnishing' />
+  </node>
+  <node id='2126433004' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='4' changeset='61641793' lat='59.9202344632' lon='30.28726669325'>
+    <tag k='name' v='Тиара' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ПБОЮЛ Кошелева С.В.' />
+    <tag k='phone' v='+7 812 7137846' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='2126433009' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='7' changeset='61641793' lat='59.91955622579' lon='30.28787440598'>
+    <tag k='name' v='Шрек' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='pet' />
+  </node>
+  <node id='5830928392' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.91946227903' lon='30.28795874148'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Винторг»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/84707/' />
+  </node>
+  <node id='5830928393' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.91988669335' lon='30.28735987637' />
+  <node id='5830928394' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.92016392523' lon='30.2871114463' />
+  <node id='5830928395' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.92021222425' lon='30.2873260016' />
+  <node id='5830928396' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.91993499317' lon='30.28757443341' />
+  <node id='5830928397' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.9201920464' lon='30.28730478764'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/kofenechka' />
+    <tag k='name' v='Кофенечка' />
+  </node>
+  <node id='5830928398' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.9199496975' lon='30.28756125666'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5830928399' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793' lat='59.92019788086' lon='30.28733885502'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <way id='616805340' timestamp='2018-08-13T23:54:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61641793'>
+    <nd ref='5830928394' />
+    <nd ref='5830928393' />
+    <nd ref='5830928396' />
+    <nd ref='5830928398' />
+    <nd ref='5830928399' />
+    <nd ref='5830928395' />
+    <nd ref='5830928394' />
+    <tag k='name' v='Торговый дом' />
+    <tag k='shop' v='variety_store' />
+  </way>
+</osm>

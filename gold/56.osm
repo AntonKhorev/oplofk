@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3298035059' timestamp='2018-08-02T23:53:46Z' uid='437809' user='Anton Khorev' version='8' changeset='61312581' lat='59.92846487707' lon='30.35322116559'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/tarelka_st' />
+    <tag k='cuisine' v='russian' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Тарелка столовая' />
+    <tag k='opening_hours' v='Su-We 07:30-23:00; Th-Sa 00:00-24:00' />
+    <tag k='operator' v='ООО «Прогресс+»' />
+    <tag k='phone' v='+7 812 3149949' />
+    <tag k='website' v='http://tarelkas.ru/cafes/kolokolnaya-ul-d-18-19/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5805470541' timestamp='2018-08-02T23:53:46Z' uid='437809' user='Anton Khorev' version='1' changeset='61312581' lat='59.92863614773' lon='30.3516393709'>
+    <tag k='disused:shop' v='beauty' />
+    <tag k='name' v='ЭксЦентриКЛаб' />
+  </node>
+  <node id='5805470542' timestamp='2018-08-02T23:53:46Z' uid='437809' user='Anton Khorev' version='1' changeset='61312581' lat='59.92858858222' lon='30.35205983074'>
+    <tag k='name' v='Адвокатская консультация «Альфа»' />
+    <tag k='office' v='lawyer' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 11:00-14:00' />
+  </node>
+  <node id='5805470543' timestamp='2018-08-02T23:53:46Z' uid='437809' user='Anton Khorev' version='1' changeset='61312581' lat='59.928563256' lon='30.3522844928'>
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 11:00-19:00; Su 11:00-18:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5805470544' timestamp='2018-08-02T23:53:46Z' uid='437809' user='Anton Khorev' version='1' changeset='61312581' lat='59.92854085913' lon='30.35247210111'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/grillbarkoreiko' />
+    <tag k='name' v='Корейко' />
+    <tag k='website' v='http://koreiko.com/' />
+  </node>
+  <node id='5805470545' timestamp='2018-08-02T23:53:46Z' uid='437809' user='Anton Khorev' version='1' changeset='61312581' lat='59.92850631456' lon='30.35275425831'>
+    <tag k='contact:vk' v='https://vk.com/club18809175' />
+    <tag k='name' v='Креатив' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Фирма Интердин»' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://kreativespb.ru/' />
+  </node>
+</osm>

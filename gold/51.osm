@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2060775784' timestamp='2018-07-26T19:36:28Z' uid='437809' user='Anton Khorev' version='5' changeset='61098828' lat='59.92389852064' lon='30.34828727072'>
+    <tag k='contact:vk' v='https://vk.com/razor_russia' />
+    <tag k='contact:vk2' v='https://vk.com/ugearsrussia' />
+    <tag k='name' v='Razor, Ugears' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='toys' />
+    <tag k='website' v='http://www.razor-russia.ru/spb' />
+    <tag k='website2' v='http://ugears-russia.ru/spb-contacts/' />
+  </node>
+  <node id='2696467407' timestamp='2018-07-26T19:36:28Z' uid='437809' user='Anton Khorev' version='3' changeset='61098828' lat='59.92438469577' lon='30.34896187424'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/sgorod26' />
+    <tag k='email' v='oldsitybar@gmail.com' />
+    <tag k='name' v='Старый город' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-23:00; Sa, Su 11:00-23:00' />
+    <tag k='operator' v='ООО «Кедр»' />
+    <tag k='phone' v='+7 812 5721960; +7 911 7991879' />
+    <tag k='website' v='http://cafesg.ru' />
+  </node>
+  <node id='3634521416' timestamp='2018-07-26T19:36:28Z' uid='437809' user='Anton Khorev' version='3' changeset='61098828' lat='59.9242893312' lon='30.34881895822'>
+    <tag k='name' v='Арабески' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-21:00; Su 12:00-18:00' />
+    <tag k='operator' v='ИП Котова' />
+    <tag k='phone' v='+7 812 9054025' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='3634521417' timestamp='2018-07-26T19:36:28Z' uid='437809' user='Anton Khorev' version='3' changeset='61098828' lat='59.92397241913' lon='30.34838657396'>
+    <tag k='contact:vk' v='https://vk.com/clubkopna' />
+    <tag k='name' v='Копна' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='hairdresser_supply' />
+    <tag k='website' v='https://kopna-shop.ru/' />
+  </node>
+  <node id='5787884237' timestamp='2018-07-26T19:36:28Z' uid='437809' user='Anton Khorev' version='1' changeset='61098828' lat='59.92442833678' lon='30.34902720498'>
+    <tag k='name' v='Красотка' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+</osm>

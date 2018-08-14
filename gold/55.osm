@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5805138031' timestamp='2018-08-02T21:03:47Z' uid='437809' user='Anton Khorev' version='1' changeset='61310326' lat='59.92810266464' lon='30.35301638672'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Ростов-Папа' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='http://rostov-papa-spb.ru/' />
+  </node>
+  <node id='5805138032' timestamp='2018-08-02T21:03:47Z' uid='437809' user='Anton Khorev' version='1' changeset='61310326' lat='59.9279590272' lon='30.35292524554'>
+    <tag k='contact:vk' v='https://vk.com/salonpomada' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Помада' />
+    <tag k='note' v='вход под аркой' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://www.salonpomada.ru/' />
+  </node>
+</osm>

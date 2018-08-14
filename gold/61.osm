@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2126417499' timestamp='2018-08-14T00:33:04Z' uid='437809' user='Anton Khorev' version='3' changeset='61642222' lat='59.91886872376' lon='30.28845075989'>
+    <tag k='name' v='Фермерское хозяйство' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='2126427781' timestamp='2018-08-14T00:33:04Z' uid='437809' user='Anton Khorev' version='3' changeset='61642222' lat='59.91903296301' lon='30.28830021916'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='2126427786' timestamp='2018-08-14T00:33:04Z' uid='437809' user='Anton Khorev' version='3' changeset='61642222' lat='59.91914789446' lon='30.28819459973'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2126427790' timestamp='2018-08-14T00:33:04Z' uid='437809' user='Anton Khorev' version='2' changeset='61642222' lat='59.91898250689' lon='30.28834646702'>
+    <tag k='name' v='Шанель' />
+    <tag k='operator' v='ИП Сухова Н.Ю.' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='5830960924' timestamp='2018-08-14T00:33:04Z' uid='437809' user='Anton Khorev' version='1' changeset='61642222' lat='59.91895655051' lon='30.28854623303'>
+    <tag k='building' v='kiosk' />
+    <tag k='shop' v='newsagent' />
+  </node>
+</osm>

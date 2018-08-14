@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1756320356' timestamp='2018-07-28T00:18:10Z' uid='437809' user='Anton Khorev' version='3' changeset='61133092' lat='59.92912373658' lon='30.31490145175'>
+    <tag k='brand' v='Буквоед' />
+    <tag k='brand:wikidata' v='Q4098549' />
+    <tag k='contact:vk' v='https://vk.com/bookvoed' />
+    <tag k='name' v='Буквоед' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa-Su 10:00-22:00' />
+    <tag k='shop' v='books' />
+    <tag k='website' v='https://www.bookvoed.ru/shop?id=19' />
+  </node>
+  <node id='2425120851' timestamp='2018-07-27T03:26:40Z' uid='437809' user='Anton Khorev' version='8' changeset='61105869' lat='59.9296605' lon='30.3143347'>
+    <tag k='disused:shop' v='supermarket' />
+    <tag k='name' v='Полушка' />
+    <tag k='name:ru' v='Полушка' />
+    <tag k='phone' v='+7 800 3330019' />
+    <tag k='website' v='http://www.polushka.info' />
+  </node>
+  <node id='4250116492' timestamp='2018-02-28T03:11:30Z' uid='437809' user='Anton Khorev' version='7' changeset='56741273' lat='59.9288532' lon='30.3151752'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='4556132820' timestamp='2018-07-28T00:18:10Z' uid='437809' user='Anton Khorev' version='2' changeset='61133092' lat='59.92947519651' lon='30.31452913203'>
+    <tag k='contact:vk' v='https://vk.com/club_zyq' />
+    <tag k='disused:office' v='association' />
+    <tag k='name' v='Центр цигун' />
+    <tag k='website' v='http://www.zyq.ru/' />
+  </node>
+</osm>

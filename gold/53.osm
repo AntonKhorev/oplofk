@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3634521415' timestamp='2018-07-28T20:38:42Z' uid='437809' user='Anton Khorev' version='5' changeset='61151296' lat='59.92439257063' lon='30.35073365197'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Macarena' />
+    <tag k='website' v='https://vk.com/macarenabarspb' />
+  </node>
+  <node id='5792857776' timestamp='2018-07-28T20:38:42Z' uid='437809' user='Anton Khorev' version='1' changeset='61151296' lat='59.92451584772' lon='30.35003881413'>
+    <tag k='name' v='Правление ТСЖ «Марата 47-49»' />
+    <tag k='office' v='property_maintenance' />
+  </node>
+</osm>
