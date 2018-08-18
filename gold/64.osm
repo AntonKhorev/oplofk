@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1526377813' timestamp='2018-08-17T21:30:41Z' uid='437809' user='Anton Khorev' version='5' changeset='61758197' lat='59.91471690119' lon='30.30714055245'>
+    <tag k='name' v='Кедр' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://mkkedr.ru/' />
+  </node>
+  <node id='1526377818' timestamp='2018-08-17T21:30:41Z' uid='437809' user='Anton Khorev' version='6' changeset='61758197' lat='59.91498584462' lon='30.30715014654'>
+    <tag k='brand' v='Age Art' />
+    <tag k='contact:vk' v='https://vk.com/ckgspb' />
+    <tag k='name' v='Центр керамического гранита' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 11:00-18:00' />
+    <tag k='shop' v='tiles' />
+    <tag k='website' v='https://ageart.ru/' />
+  </node>
+  <node id='4723627417' timestamp='2018-08-17T21:30:41Z' uid='437809' user='Anton Khorev' version='5' changeset='61758197' lat='59.91491743728' lon='30.30714770622'>
+    <tag k='contact:vk' v='https://vk.com/shop.odintattoo' />
+    <tag k='description' v='тату оборудование' />
+    <tag k='name' v='Odin' />
+    <tag k='opening_hours' v='12:00-20:00' />
+    <tag k='shop' v='tattoo' />
+    <tag k='website' v='https://shop.odintattoo.ru/' />
+  </node>
+</osm>

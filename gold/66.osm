@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='852665973' timestamp='2018-05-04T21:48:26Z' uid='143266' user='Sergey Astakhov' version='5' changeset='58692415' lat='59.9119357' lon='30.3070767' />
+  <node id='852666038' timestamp='2018-05-04T21:48:26Z' uid='143266' user='Sergey Astakhov' version='3' changeset='58692415' lat='59.9120041' lon='30.3067895' />
+  <node id='852666135' timestamp='2018-05-04T21:48:26Z' uid='143266' user='Sergey Astakhov' version='6' changeset='58692415' lat='59.912202' lon='30.3067655' />
+  <node id='852666197' timestamp='2018-05-04T21:48:26Z' uid='143266' user='Sergey Astakhov' version='5' changeset='58692415' lat='59.9122131' lon='30.3070795' />
+  <node id='4459937789' timestamp='2018-08-18T00:19:13Z' uid='437809' user='Anton Khorev' version='3' changeset='61760158' lat='59.91185914923' lon='30.3070400996'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/toperchina' />
+    <tag k='cuisine' v='chinese' />
+    <tag k='name' v='TopEr' />
+    <tag k='website' v='https://toperspb.ru/izmajlovskij' />
+  </node>
+  <node id='5597320934' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' version='1' changeset='58692415' lat='59.9122139' lon='30.3067656' />
+  <node id='5597320935' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' version='1' changeset='58692415' lat='59.912127' lon='30.3067907' />
+  <node id='5597320936' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' version='1' changeset='58692415' lat='59.9121271' lon='30.3067648' />
+  <node id='5839151203' timestamp='2018-08-18T00:19:13Z' uid='437809' user='Anton Khorev' version='1' changeset='61760158' lat='59.91176462792' lon='30.30703915785'>
+    <tag k='name' v='Фруктовый рай' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='И.П.Маджидов' />
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='5839151204' timestamp='2018-08-18T00:19:13Z' uid='437809' user='Anton Khorev' version='1' changeset='61760158' lat='59.9122135' lon='30.30692255'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5839151205' timestamp='2018-08-18T00:19:13Z' uid='437809' user='Anton Khorev' version='1' changeset='61760158' lat='59.91207440029' lon='30.3070781'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5839151206' timestamp='2018-08-18T00:19:13Z' uid='437809' user='Anton Khorev' version='1' changeset='61760158' lat='59.91193642867' lon='30.30678883916' />
+  <way id='617721110' timestamp='2018-08-18T00:19:13Z' uid='437809' user='Anton Khorev' version='1' changeset='61760158'>
+    <nd ref='5597320935' />
+    <nd ref='852666038' />
+    <nd ref='5839151206' />
+    <nd ref='852665973' />
+    <nd ref='5839151205' />
+    <nd ref='852666197' />
+    <nd ref='5839151204' />
+    <nd ref='5597320934' />
+    <nd ref='852666135' />
+    <nd ref='5597320936' />
+    <nd ref='5597320935' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/montanasaloon' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Монтана' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-02:00' />
+    <tag k='website' v='http://triton-restoran.ru/restaurants/montana/about' />
+  </way>
+</osm>

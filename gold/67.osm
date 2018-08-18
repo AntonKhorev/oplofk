@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='860414824' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='5' changeset='61760977' lat='59.91052435963' lon='30.3058245028' />
+  <node id='860415053' timestamp='2010-08-14T18:24:24Z' uid='136198' user='tmprec' version='1' changeset='5493219' lat='59.9112964' lon='30.3068567' />
+  <node id='860415119' timestamp='2010-08-14T18:24:26Z' uid='136198' user='tmprec' version='1' changeset='5493219' lat='59.910835' lon='30.3067181' />
+  <node id='860415444' timestamp='2018-08-18T00:35:53Z' uid='437809' user='Anton Khorev' version='5' changeset='61760283' lat='59.91053762939' lon='30.3070552232' />
+  <node id='860416265' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='5' changeset='61760977' lat='59.91051476067' lon='30.30493423558' />
+  <node id='860416296' timestamp='2018-08-18T00:35:53Z' uid='437809' user='Anton Khorev' version='4' changeset='61760283' lat='59.91083648812' lon='30.30706182201' />
+  <node id='860416535' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='6' changeset='61760977' lat='59.91052135822' lon='30.30554613355' />
+  <node id='860416568' timestamp='2010-08-14T18:25:10Z' uid='136198' user='tmprec' version='1' changeset='5493219' lat='59.9113503' lon='30.306856' />
+  <node id='860416711' timestamp='2010-08-14T18:25:15Z' uid='136198' user='tmprec' version='1' changeset='5493219' lat='59.910834' lon='30.3064298' />
+  <node id='860416799' timestamp='2011-01-19T20:38:46Z' uid='368493' user='fserges' version='2' changeset='7024566' lat='59.9113451' lon='30.3060623' />
+  <node id='860416877' timestamp='2011-01-14T12:48:13Z' uid='368493' user='fserges' version='2' changeset='6966899' lat='59.9108298' lon='30.3062295' />
+  <node id='860416968' timestamp='2011-01-19T20:38:44Z' uid='368493' user='fserges' version='3' changeset='7024566' lat='59.9114936' lon='30.3060577' />
+  <node id='860417028' timestamp='2018-08-18T00:35:53Z' uid='437809' user='Anton Khorev' version='4' changeset='61760283' lat='59.91129732776' lon='30.30707199747' />
+  <node id='860417268' timestamp='2011-01-14T12:08:29Z' uid='368493' user='fserges' version='4' changeset='6966562' lat='59.9115103' lon='30.3070767' />
+  <node id='860418675' timestamp='2011-01-14T12:48:12Z' uid='368493' user='fserges' version='2' changeset='6966899' lat='59.9108301' lon='30.3055988' />
+  <node id='1103190591' timestamp='2011-01-14T12:48:05Z' uid='368493' user='fserges' version='1' changeset='6966899' lat='59.9108519' lon='30.3055988' />
+  <node id='1103190622' timestamp='2011-01-19T20:38:53Z' uid='368493' user='fserges' version='2' changeset='7024566' lat='59.9108296' lon='30.306101' />
+  <node id='1103190659' timestamp='2011-01-14T12:48:07Z' uid='368493' user='fserges' version='1' changeset='6966899' lat='59.9108342' lon='30.3064935' />
+  <node id='1103190666' timestamp='2011-01-14T12:48:07Z' uid='368493' user='fserges' version='1' changeset='6966899' lat='59.9108503' lon='30.3049008' />
+  <node id='1103190667' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.91052686984' lon='30.30605731523' />
+  <node id='1103190670' timestamp='2015-05-21T15:33:25Z' uid='2512300' user='samely' version='2' changeset='31346150' lat='59.9106606' lon='30.3049385' />
+  <node id='1104336618' timestamp='2011-12-14T11:59:30Z' uid='368493' user='fserges' version='2' changeset='10115404' lat='59.9108038' lon='30.3048914' />
+  <node id='1110777265' timestamp='2011-01-19T20:38:26Z' uid='368493' user='fserges' version='1' changeset='7024566' lat='59.9113458' lon='30.3061649' />
+  <node id='1110777282' timestamp='2011-01-19T20:38:26Z' uid='368493' user='fserges' version='1' changeset='7024566' lat='59.9114957' lon='30.3061599' />
+  <node id='1123231542' timestamp='2018-08-18T00:35:53Z' uid='437809' user='Anton Khorev' version='2' changeset='61760283' lat='59.91067270985' lon='30.30705820577'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1545665499' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.91104943034' lon='30.30703059439'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Объект Плюс»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/84640/' />
+  </node>
+  <node id='1545665506' timestamp='2011-12-14T11:24:33Z' uid='368493' user='fserges' version='1' changeset='10115152' lat='59.9108312' lon='30.3062704' />
+  <node id='1545679890' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='4' changeset='61760977' lat='59.90984138061' lon='30.30700401307'>
+    <tag k='contact:vk' v='https://vk.com/extazshop' />
+    <tag k='name' v='Extaz' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='erotic' />
+    <tag k='website' v='https://www.extazshop.ru/spb/1/' />
+  </node>
+  <node id='1545679892' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='6' changeset='61760977' lat='59.9093221' lon='30.3069921'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Аптека Дао-Фарм»' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='1545679899' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='4' changeset='61760977' lat='59.91088778154' lon='30.30702710809'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekaaloea' />
+    <tag k='name' v='Алоэ' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00' />
+    <tag k='website' v='https://aloeapteka.ru/' />
+  </node>
+  <node id='4554020910' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.91140490738' lon='30.30703853401'>
+    <tag k='name' v='Профессионал' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-18:00' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='http://www.mtkspb.ru/public/training_optics_salon/' />
+  </node>
+  <node id='4554020911' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.9112368358' lon='30.30703474983'>
+    <tag k='contact:vk' v='https://vk.com/stmmart' />
+    <tag k='name' v='СТММАРТ' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00' />
+    <tag k='shop' v='bathroom_furnishing' />
+    <tag k='website' v='https://stmmart.ru/' />
+  </node>
+  <node id='4554020912' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.91094447557' lon='30.30702818309'>
+    <tag k='contact:vk' v='https://vk.com/zoo_k9' />
+    <tag k='name' v='K-9' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='pet' />
+  </node>
+  <node id='4554020913' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='4' changeset='61760977' lat='59.90970116844' lon='30.30700091742'>
+    <tag k='contact:vk' v='https://vk.com/stroy_gelios' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Гелиос' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-19:00' />
+    <tag k='operator' v='ООО «Гелиос»' />
+    <tag k='shop' v='doityourself' />
+  </node>
+  <node id='4554020914' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.90954455406' lon='30.30699710129'>
+    <tag k='contact:vk' v='https://vk.com/odintattoo' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Odin' />
+    <tag k='opening_hours' v='12:00-20:00' />
+    <tag k='shop' v='tattoo' />
+    <tag k='website' v='https://www.odintattoo.ru/' />
+  </node>
+  <node id='4554020915' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.90943899706' lon='30.30699512915'>
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа-М»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='4554020916' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='3' changeset='61760977' lat='59.9093681' lon='30.306993'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Kaledoscop' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='shop' v='lighting' />
+    <tag k='website' v='https://aledo-pro.ru/' />
+  </node>
+  <node id='4554054721' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='2' changeset='61760977' lat='59.91146851704' lon='30.30709170122'>
+    <tag k='craft' v='shoemaker' />
+  </node>
+  <node id='5839203829' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61760977' lat='59.91032441434' lon='30.30701467774'>
+    <tag k='contact:vk' v='https://vk.com/gge_ru' />
+    <tag k='name' v='Главгосэкспертиза России' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://gge.ru/contacts/sankt-peterburgskiy-filial/' />
+  </node>
+  <node id='5839203830' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='1' changeset='61760977' lat='59.91034926662' lon='30.30701522645'>
+    <tag k='brand' v='Роснефть' />
+    <tag k='brand:wikidata' v='Q1141123' />
+    <tag k='name' v='РН-Северо-Запад' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.rosneft-opt.ru/Krupnim_kontragentam/OOO_RN_Trejd_Sankt_Peterburg_i_Leningrad' />
+  </node>
+  <way id='72471314' timestamp='2016-12-14T14:56:19Z' uid='437809' user='Anton Khorev' version='4' changeset='44399632'>
+    <nd ref='860416968' />
+    <nd ref='1110777282' />
+    <nd ref='860417268' />
+    <nd ref='860417028' />
+    <nd ref='860415053' />
+    <nd ref='860416568' />
+    <nd ref='1110777265' />
+    <nd ref='860416799' />
+    <nd ref='860416968' />
+    <tag k='addr:housenumber' v='2/23а' />
+    <tag k='addr:street' v='12-я Красноармейская улица' />
+    <tag k='amenity' v='college' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='5' />
+    <tag k='name' v='Санкт-Петербургский медико-технический колледж' />
+  </way>
+  <way id='141193283' timestamp='2018-08-18T02:19:01Z' uid='437809' user='Anton Khorev' version='5' changeset='61760977'>
+    <nd ref='1103190659' />
+    <nd ref='860415119' />
+    <nd ref='860416296' />
+    <nd ref='1123231542' />
+    <nd ref='860415444' />
+    <nd ref='1103190667' />
+    <nd ref='860414824' />
+    <nd ref='860416535' />
+    <nd ref='860416265' />
+    <nd ref='1103190670' />
+    <nd ref='1104336618' />
+    <nd ref='1103190666' />
+    <nd ref='1103190591' />
+    <nd ref='860418675' />
+    <nd ref='1103190622' />
+    <nd ref='860416877' />
+    <nd ref='1545665506' />
+    <nd ref='860416711' />
+    <nd ref='1103190659' />
+    <tag k='amenity' v='university' />
+    <tag k='contact:vk' v='https://vk.com/college_spbgu' />
+    <tag k='name' v='Колледж физической культуры и спорта, экономики и технологии' />
+    <tag k='official_name' v='Колледж физической культуры и спорта, экономики и технологии Санкт-Петербургского государственного университета' />
+    <tag k='short_name' v='КФКиСЭТ СПбГУ' />
+    <tag k='website' v='http://www.sc.spbu.ru/' />
+  </way>
+</osm>
