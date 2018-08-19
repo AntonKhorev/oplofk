@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3517443157' timestamp='2018-08-19T20:08:35Z' uid='437809' user='Anton Khorev' version='6' changeset='61803063' lat='59.92321399843' lon='30.32723817272'>
+    <tag k='contact:vk' v='https://vk.com/spbmmrp' />
+    <tag k='name' v='Выставочный зал музея Разночинный Петербург' />
+    <tag k='opening_hours' v='Tu-Sa 11:00-17:00; Th[-1] off' />
+    <tag k='phone' v='+7 812 4075220' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='http://spbmmrp.ru/' />
+  </node>
+  <node id='4562680238' timestamp='2018-08-19T20:08:35Z' uid='437809' user='Anton Khorev' version='3' changeset='61803063' lat='59.92394541028' lon='30.32572573858'>
+    <tag k='contact:vk' v='https://vk.com/rbtuning' />
+    <tag k='name' v='RBTuning' />
+    <tag k='shop' v='car_parts' />
+    <tag k='website' v='http://www.rbtuning.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1333875744' timestamp='2017-10-02T01:01:29Z' uid='437809' user='Anton Khorev' version='8' changeset='52550288' lat='59.9272029' lon='30.3013444'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='chinese' />
+    <tag k='name' v='Восточная аркадия' />
+    <tag k='old_name' v='Компас, порох и бамбук' />
+    <tag k='phone' v='+7 812 3121857' />
+  </node>
+</osm>

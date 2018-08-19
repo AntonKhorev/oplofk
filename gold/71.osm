@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1439211516' timestamp='2018-08-19T19:47:55Z' uid='437809' user='Anton Khorev' version='7' changeset='61802595' lat='59.92655909302' lon='30.30205676821'>
+    <tag k='contact:vk' v='https://vk.com/flordelsol' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Flor del sol' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='http://flordelsol.ru/' />
+  </node>
+  <node id='4569389615' timestamp='2018-08-19T19:47:55Z' uid='437809' user='Anton Khorev' version='4' changeset='61802595' lat='59.92572249689' lon='30.30204697555'>
+    <tag k='name' v='Учебно-консультационный пункт ГОЧС муниципального совета МО Адмиралтейский округ' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='4569389616' timestamp='2018-08-19T19:47:55Z' uid='437809' user='Anton Khorev' version='4' changeset='61802595' lat='59.92532779516' lon='30.30204269256'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/public105455698' />
+    <tag k='health_specialty:dermatology' v='yes' />
+    <tag k='health_specialty:gynaecology' v='yes' />
+    <tag k='name' v='Клиника Игнатовского' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-18:00' />
+    <tag k='operator' v='ООО «Клиника Дерматологии и Репродуктивного здоровья доктора Игнатовского»' />
+    <tag k='website' v='http://dermklinik.ru/' />
+  </node>
+</osm>

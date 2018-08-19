@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5842357484' timestamp='2018-08-19T19:22:27Z' uid='437809' user='Anton Khorev' version='1' changeset='61802004' lat='59.91964221768' lon='30.28042754408'>
+    <tag k='note' v='возможно общежитие-спб.рф' />
+    <tag k='phone' v='+7 812 7151819' />
+    <tag k='tourism' v='hostel' />
+  </node>
+</osm>

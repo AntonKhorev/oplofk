@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4569371984' timestamp='2018-08-19T19:57:17Z' uid='437809' user='Anton Khorev' version='3' changeset='61802799' lat='59.92511700373' lon='30.30233390488'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/mostikcafe' />
+    <tag k='int_name' v='Mostik' />
+    <tag k='name' v='Мостик' />
+    <tag k='opening_hours' v='12:00-23:00' />
+    <tag k='website' v='http://cafemostik.com/' />
+  </node>
+  <node id='4569371985' timestamp='2018-08-19T19:57:17Z' uid='437809' user='Anton Khorev' version='3' changeset='61802799' lat='59.92494581863' lon='30.3026675879'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='Банк24.ру' />
+  </node>
+  <node id='4569371986' timestamp='2018-08-19T19:57:17Z' uid='437809' user='Anton Khorev' version='3' changeset='61802799' lat='59.92485080931' lon='30.30284274192'>
+    <tag k='contact:vk' v='https://vk.com/lovepiano' />
+    <tag k='name' v='Love-Piano' />
+    <tag k='opening_hours' v='09:30-21:00' />
+    <tag k='shop' v='musical_instrument' />
+    <tag k='website' v='https://love-piano.ru/' />
+  </node>
+</osm>
