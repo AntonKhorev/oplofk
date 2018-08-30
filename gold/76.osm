@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1072598550' timestamp='2018-08-20T23:05:12Z' uid='437809' user='Anton Khorev' version='7' changeset='61838413' lat='59.92890937149' lon='30.35770384797'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Лиговский переулок' />
+    <tag k='amenity' v='bureau_de_change' />
+    <tag k='contact:vk' v='https://vk.com/ligovka_skv' />
+    <tag k='email' v='obmen@ligovka.ru' />
+    <tag k='name' v='Лиговский' />
+    <tag k='official_name' v='Центр обмена СКВ «Лиговский»' />
+    <tag k='opening_hours' v='Mo-Su 08:45-21:00' />
+    <tag k='operator' v='Банк &quot;Авангард&quot;' />
+    <tag k='phone' v='+7 812 3251093' />
+    <tag k='website' v='https://ligovka.ru/' />
+  </node>
+  <node id='2997189152' timestamp='2018-08-20T23:05:12Z' uid='437809' user='Anton Khorev' version='5' changeset='61838413' lat='59.92878647356' lon='30.35848881762'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='191040' />
+    <tag k='addr:street' v='Лиговский переулок' />
+    <tag k='contact:vk' v='https://vk.com/hobbygames_sp' />
+    <tag k='name' v='Hobby Games' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='operator' v='ООО «Лавка чудес»' />
+    <tag k='phone' v='+7 812 7482050' />
+    <tag k='shop' v='games' />
+    <tag k='website' v='https://hobbygames.ru/magazin_na_ploshhadi_vosstanija' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5844613922' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92898807845' lon='30.35720751295'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='АктивКапитал Банк' />
+  </node>
+  <node id='5844866108' timestamp='2018-08-20T23:05:12Z' uid='437809' user='Anton Khorev' version='1' changeset='61838413' lat='59.92880386708' lon='30.3583770863'>
+    <tag k='name' v='Диалог' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 10:00-16:00' />
+    <tag k='operator' v='ООО «Диалог»' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:avia' v='yes' />
+    <tag k='tickets:train' v='yes' />
+    <tag k='website' v='https://www.dialog-ticket.ru/' />
+  </node>
+  <node id='5844866109' timestamp='2018-08-20T23:05:12Z' uid='437809' user='Anton Khorev' version='1' changeset='61838413' lat='59.92881742587' lon='30.35828998822'>
+    <tag k='contact:vk' v='https://vk.com/expert_grupp' />
+    <tag k='name' v='Эксперт Групп' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-18:00' />
+    <tag k='operator' v='ООО «Эксперт Групп»' />
+    <tag k='website' v='https://expert-spb.com/' />
+  </node>
+  <node id='5844866110' timestamp='2018-08-20T23:05:12Z' uid='437809' user='Anton Khorev' version='1' changeset='61838413' lat='59.92882397882' lon='30.35824789379'>
+    <tag k='contact:vk' v='https://vk.com/zaputevkoy' />
+    <tag k='name' v='ЗаПутёвкой.рф' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-18:00' />
+    <tag k='operator' v='ООО «Золотые Ворота»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://запутевкой.рф/' />
+  </node>
+  <node id='5844866111' timestamp='2018-08-20T23:05:12Z' uid='437809' user='Anton Khorev' version='1' changeset='61838413' lat='59.92887430326' lon='30.35792587576'>
+    <tag k='name' v='ТрансИнкасс' />
+    <tag k='office' v='security' />
+    <tag k='website' v='http://www.transinkass.ru/' />
+  </node>
+  <node id='5844866112' timestamp='2018-08-20T23:05:12Z' uid='437809' user='Anton Khorev' version='1' changeset='61838413' lat='59.92887972753' lon='30.35789153307'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:vk' v='https://vk.com/bankavangard' />
+    <tag k='name' v='Авангард' />
+    <tag k='opening_hours' v='08:45-21:00' />
+    <tag k='website' v='https://www.avangard.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1172875650' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='3' changeset='60639961' lat='59.9334221' lon='30.3660258' />
+  <node id='1172875893' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='3' changeset='60639961' lat='59.9329788' lon='30.3654366' />
+  <node id='2536850130' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='2' changeset='60639961' lat='59.9328835' lon='30.3656097' />
+  <node id='2536850132' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='2' changeset='60639961' lat='59.9329269' lon='30.3654795' />
+  <node id='2536850133' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='2' changeset='60639961' lat='59.932953' lon='30.3655141' />
+  <node id='2965346293' timestamp='2018-08-30T01:56:41Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62123808' lat='59.93279612469' lon='30.36581448406' />
+  <node id='2965346303' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='2' changeset='60639961' lat='59.9330609' lon='30.3655457' />
+  <node id='2965346308' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='2' changeset='60639961' lat='59.9333365' lon='30.3664755' />
+  <node id='2965346311' timestamp='2018-07-12T08:03:22Z' uid='368493' user='fserges' visible='true' version='2' changeset='60639961' lat='59.9334717' lon='30.3660961' />
+  <node id='2992148899' timestamp='2014-08-02T12:04:42Z' uid='503446' user='alt-sysrq' visible='true' version='1' changeset='24497071' lat='59.9321824' lon='30.3676373'>
+    <tag k='craft' v='shoemaker' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+  </node>
+  <node id='5866930324' timestamp='2018-08-30T01:56:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62123808' lat='59.9328940381' lon='30.36557808571'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5866930325' timestamp='2018-08-30T01:56:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62123808' lat='59.93287040926' lon='30.36559134655' />
+  <way id='621006436' timestamp='2018-08-30T01:56:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62123808'>
+    <nd ref='2965346293' />
+    <nd ref='2965346308' />
+    <nd ref='2965346311' />
+    <nd ref='1172875650' />
+    <nd ref='2965346303' />
+    <nd ref='1172875893' />
+    <nd ref='2536850133' />
+    <nd ref='2536850132' />
+    <nd ref='5866930324' />
+    <nd ref='2536850130' />
+    <nd ref='5866930325' />
+    <nd ref='2965346293' />
+    <tag k='name' v='Северо-Западный научный центр гигиены и общественного здоровья' />
+    <tag k='office' v='research' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-17:30' />
+    <tag k='phone' v='+7 812 7179636' />
+    <tag k='website' v='http://s-znc.ru/' />
+  </way>
+</osm>

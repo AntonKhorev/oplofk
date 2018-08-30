@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='792653559' timestamp='2018-08-22T23:11:54Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='61904480' lat='59.91350432113' lon='30.32178739405' />
+  <node id='792653561' timestamp='2018-08-22T20:03:33Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='61900627' lat='59.9133848931' lon='30.32190610318' />
+  <node id='792653586' timestamp='2018-08-22T22:35:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='61903856' lat='59.9137086' lon='30.32136' />
+  <node id='792653587' timestamp='2018-08-22T20:03:33Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61900627' lat='59.91324053272' lon='30.32136331319' />
+  <node id='792653616' timestamp='2018-08-22T22:35:20Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='61903856' lat='59.91328770952' lon='30.32123248057' />
+  <node id='792653669' timestamp='2018-08-22T22:35:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='61903856' lat='59.9136756' lon='30.3211837' />
+  <node id='1569178417' timestamp='2018-08-22T22:35:20Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61903856' lat='59.91324985948' lon='30.32135333614' />
+  <node id='1569178419' timestamp='2018-08-22T20:03:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='61900627' lat='59.91328750354' lon='30.32120731742' />
+  <node id='4712762524' timestamp='2018-08-22T23:11:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='61904480' lat='59.913856' lon='30.3212088'>
+    <tag k='name' v='Жилкомсервис адмиралтейского района' />
+    <tag k='office' v='property_maintenance' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00; 13:00-14:00 off' />
+    <tag k='website' v='http://www.gks-ar.ru/' />
+  </node>
+  <node id='5849979880' timestamp='2018-08-22T22:35:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61903856' lat='59.9132494652' lon='30.32131142847' />
+  <node id='5849979881' timestamp='2018-08-22T22:35:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61903856' lat='59.9132571971' lon='30.32127052411' />
+  <node id='5849979882' timestamp='2018-08-22T22:35:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61903856' lat='59.91327064329' lon='30.32124772534' />
+  <node id='5849979894' timestamp='2018-08-22T22:35:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61903856' lat='59.9137157089' lon='30.32139792971' />
+  <node id='5850014946' timestamp='2018-08-22T23:11:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61904480' lat='59.9134406535' lon='30.32119799759'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5850014947' timestamp='2018-08-22T23:11:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61904480' lat='59.91373251675' lon='30.32149448857' />
+  <node id='5850014948' timestamp='2018-08-22T23:11:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61904480' lat='59.91361678364' lon='30.32150198058' />
+  <node id='5850014949' timestamp='2018-08-22T23:11:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61904480' lat='59.91360025379' lon='30.32169203854' />
+  <way id='619002738' timestamp='2018-08-22T23:11:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61904480'>
+    <nd ref='792653561' />
+    <nd ref='792653559' />
+    <nd ref='5850014949' />
+    <nd ref='5850014948' />
+    <nd ref='5850014947' />
+    <nd ref='5849979894' />
+    <nd ref='792653586' />
+    <nd ref='792653669' />
+    <nd ref='5850014946' />
+    <nd ref='1569178419' />
+    <nd ref='792653616' />
+    <nd ref='5849979882' />
+    <nd ref='5849979881' />
+    <nd ref='5849979880' />
+    <nd ref='1569178417' />
+    <nd ref='792653587' />
+    <nd ref='792653561' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа №5' />
+    <tag k='website' v='http://sc.adm-edu.spb.ru/5kor/' />
+  </way>
+</osm>
