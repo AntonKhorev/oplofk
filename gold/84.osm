@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2624826982' timestamp='2018-08-30T23:24:44Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62156048' lat='59.94190168801' lon='30.36337647339'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/public165968266' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Щегол' />
+    <tag k='opening_hours' v='Mo-Fr 09:15-21:00; Sa-Su 10:15-21:00' />
+  </node>
+  <node id='2974761167' timestamp='2018-08-30T23:24:44Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62156048' lat='59.9416938' lon='30.3634026'>
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='5134883638' timestamp='2018-08-30T23:24:44Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62156048' lat='59.94197502934' lon='30.36341436519'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/eclecticbar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Eclectic bar' />
+  </node>
+  <node id='5438645217' timestamp='2018-02-26T23:27:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='56705989' lat='59.9417602' lon='30.3634066'>
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 10:00-18:00' />
+  </node>
+  <node id='5438645218' timestamp='2018-02-26T23:27:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='56705989' lat='59.9420249' lon='30.3634159'>
+    <tag k='contact:vk' v='https://vk.com/sklon_ru' />
+    <tag k='name' v='Топ Спорт Трэвел' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://sklon.ru/' />
+  </node>
+</osm>

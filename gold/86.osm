@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5395128520' timestamp='2018-02-07T06:46:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='56139489' lat='59.9306921' lon='30.373871'>
+    <tag k='name' v='Бумеранг' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5869753291' timestamp='2018-08-31T01:13:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62157329' lat='59.93028855237' lon='30.37339008132'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Российский научно-исследовательский институт гематологии и трансфузиологии, консультативно-поликлиническое отделение' />
+    <tag k='website' v='http://www.bloodscience.ru/' />
+  </node>
+</osm>

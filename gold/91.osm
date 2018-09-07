@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5880048386' timestamp='2018-09-04T00:30:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62261988' lat='59.93299379971' lon='30.37070591979'>
+    <tag k='massage' v='sexual' />
+    <tag k='name' v='Gently' />
+    <tag k='shop' v='massage' />
+    <tag k='website' v='https://www.massagspb.ru/salon/gently' />
+  </node>
+  <node id='5880048387' timestamp='2018-09-04T00:30:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62261988' lat='59.93271655872' lon='30.37149605474'>
+    <tag k='contact:vk' v='https://vk.com/vostoksbs' />
+    <tag k='name' v='Восточная лавка' />
+    <tag k='note' v='также возможно http://hleb.spb.ru/' />
+    <tag k='shop' v='spices' />
+  </node>
+</osm>

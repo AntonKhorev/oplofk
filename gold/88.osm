@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2368121837' timestamp='2018-08-31T02:46:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62158181' lat='59.93241022568' lon='30.37234087358'>
+    <tag k='brand' v='Народная 7Я семьЯ' />
+    <tag k='brand:wikidata' v='Q4032436' />
+    <tag k='contact:vk' v='https://vk.com/7yarus' />
+    <tag k='name' v='Народная 7Я семьЯ' />
+    <tag k='name:ru' v='Народная 7Я семьЯ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.7-ya.ru/' />
+  </node>
+  <node id='5869824458' timestamp='2018-08-31T02:46:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62158181' lat='59.93203097696' lon='30.37344327446'>
+    <tag k='amenity' v='bank' />
+    <tag k='name' v='РосДорБанк' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-16:45; 13:00-13:45 off' />
+    <tag k='website' v='https://www.rdb.ru/' />
+  </node>
+  <node id='5869824459' timestamp='2018-08-31T02:46:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62158181' lat='59.93195679394' lon='30.37365890175'>
+    <tag k='amenity' v='dentist' />
+    <tag k='note' v='вход под арку' />
+    <tag k='phone' v='+7 812 9543577' />
+  </node>
+  <node id='5869824460' timestamp='2018-08-31T02:46:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62158181' lat='59.93185484362' lon='30.37395505706'>
+    <tag k='amenity' v='events_venue' />
+    <tag k='contact:vk' v='https://vk.com/canelecatering' />
+    <tag k='name' v='Canele' />
+    <tag k='phone' v='+7 812 9396424' />
+  </node>
+  <node id='5869824461' timestamp='2018-08-31T02:46:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62158181' lat='59.93171140555' lon='30.37437216719'>
+    <tag k='name' v='ТК Нева' />
+    <tag k='note' v='адрес упоминается на http://www.tk-neva.ru/userfiles/pagefiles/pdf/oficialny_predstavitel_xbk.pdf' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.tk-neva.ru/' />
+  </node>
+</osm>
