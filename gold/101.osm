@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1579801422' timestamp='2018-08-01T00:08:59Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='61245132' lat='59.925525' lon='30.2834147'>
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='brand:wikipedia' v='ru:Пятёрочка' />
+    <tag k='contact:email' v='vopros@5ka.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pyaterochka' />
+    <tag k='contact:ok' v='https://ok.ru/x5pyaterka' />
+    <tag k='contact:phone' v='+7 800 5555505' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='2527970095' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62391166' lat='59.92447130495' lon='30.28408843086'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='ВОскресенье' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 10:00-20:00' />
+    <tag k='phone' v='+7 812 7147862' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://barber-shop-1173.business.site/' />
+  </node>
+  <node id='2528032091' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391166' lat='59.92525609885' lon='30.28358659286'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='Гута банк' />
+    <tag k='note' v='закрыт http://www.gutabank.ru/press-sluzhba/news/1456/' />
+    <tag k='website' v='http://www.gutabank.ru/' />
+  </node>
+  <node id='3621089981' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62391166' lat='59.92404454261' lon='30.28437824863'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4503538131' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62391166' lat='59.92514019213' lon='30.28366075098'>
+    <tag k='disused:shop' v='convenience' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Продукты' />
+  </node>
+  <node id='4503538132' timestamp='2018-08-01T00:08:59Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61245132' lat='59.9254515' lon='30.2834617'>
+    <tag k='name' v='Пчеловодство' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='honey' />
+  </node>
+  <node id='4503538133' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391166' lat='59.9260164' lon='30.2831008'>
+    <tag k='name' v='Аджей' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4503538134' timestamp='2017-10-01T01:36:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='52525144' lat='59.9269027' lon='30.2826123'>
+    <tag k='amenity' v='stripclub' />
+    <tag k='contact:vk' v='https://vk.com/wclubcabaret' />
+    <tag k='name' v='W' />
+    <tag k='website' v='http://wklub.ru/' />
+  </node>
+  <node id='4503538135' timestamp='2016-11-16T03:27:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='43687689' lat='59.9273562' lon='30.2822588'>
+    <tag k='name' v='Монтажная база' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://m-baza.ru/' />
+  </node>
+  <node id='4545902117' timestamp='2018-08-01T00:08:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='61245132' lat='59.9255778' lon='30.2835691'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='name' v='ЛенОблФарм' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Аптека «Семейная-2»' />
+    <tag k='website' v='https://lenoblpharm.ru/' />
+  </node>
+  <node id='4545902118' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391166' lat='59.9255523' lon='30.283586'>
+    <tag k='contact:vk' v='https://vk.com/votonia' />
+    <tag k='name' v='ВотОнЯ' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Вотоня»' />
+    <tag k='shop' v='baby_goods' />
+    <tag k='website' v='https://www.votonia.ru/adresa-magazinov/angliyskiy/' />
+  </node>
+  <node id='4846753418' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62391166' lat='59.92429619648' lon='30.28420037805'>
+    <tag k='amenity' v='recycling' />
+    <tag k='level' v='-1' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 09:00-19:00' />
+    <tag k='operator' v='ИП Булов С.А.' />
+    <tag k='recycling:aluminium' v='yes' />
+    <tag k='recycling:cardboard' v='yes' />
+    <tag k='recycling:glass' v='yes' />
+    <tag k='recycling:paper' v='yes' />
+    <tag k='recycling:scrap_metal' v='yes' />
+    <tag k='recycling_type' v='centre' />
+  </node>
+  <node id='5140451770' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62391166' lat='59.92443305482' lon='30.28411324141'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/club87801058' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Red Morrison' />
+  </node>
+  <node id='5140451771' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391166' lat='59.9266644' lon='30.2826923'>
+    <tag k='contact:facebook' v='https://www.facebook.com/mod.mil.rus/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/mil_ru/' />
+    <tag k='contact:ok' v='https://ok.ru/mil' />
+    <tag k='contact:twitter' v='https://www.twitter.com/mod_russia' />
+    <tag k='contact:vk' v='https://vk.com/mil' />
+    <tag k='contact:website' v='http://mil.ru/enlistment_contract/commisariats/info.htm?id=9602@egOrganization' />
+    <tag k='contact:youtube' v='https://www.youtube.com/channel/UCQGqX5Ndpm4snE0NTjyOJnA' />
+    <tag k='military' v='office' />
+    <tag k='name' v='Военный комиссариат города Санкт-Петербурга' />
+    <tag k='office' v='government' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-16:45' />
+  </node>
+  <node id='5140451772' timestamp='2017-10-01T01:36:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='52525144' lat='59.9279332' lon='30.2819024'>
+    <tag k='name' v='Ассоль' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.as-f.ru/' />
+  </node>
+  <node id='5800006252' timestamp='2018-08-01T00:08:58Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61245132' lat='59.9255129' lon='30.2835732'>
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ИП Комилов Х.О.' />
+    <tag k='shop' v='spices' />
+  </node>
+  <node id='5891866486' timestamp='2018-09-08T00:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62391166' lat='59.92417693066' lon='30.284276606'>
+    <tag k='amenity' v='pub' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Beer Pub' />
+  </node>
+</osm>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1366435225' timestamp='2018-09-08T00:32:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391283' lat='59.93197365732' lon='30.29509184145'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/aidafamily' />
+    <tag k='name' v='Тётя Аида' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='website' v='http://aidafamily.ru/' />
+  </node>
+  <node id='1366435227' timestamp='2018-09-08T00:32:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391283' lat='59.93178526801' lon='30.29444478116'>
+    <tag k='alt_name' v='Бульвар' />
+    <tag k='contact:vk' v='https://vk.com/blvdsalon' />
+    <tag k='name' v='BLVD' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 11:00-20:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://salon-blvd.ru/' />
+  </node>
+  <node id='1366435228' timestamp='2018-09-08T00:32:02Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='62391283' lat='59.93210131265' lon='30.29553016127'>
+    <tag k='name' v='лучОк' />
+    <tag k='opening_hours' v='Mo-Fr 07:30-22:30; Sa-Su 08:00-23:00' />
+    <tag k='operator' v='ООО «Твин»' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4069507353' timestamp='2018-09-08T00:32:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62391283' lat='59.93158625735' lon='30.29376154153'>
+    <tag k='contact:vk' v='https://vk.com/redoctoberstore' />
+    <tag k='email' v='redoctoberstore@gmail.com' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Red October' />
+    <tag k='opening_hours' v='Mo-Su 10:00-19:00' />
+    <tag k='phone' v='+78123120604' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://redoctoberstore.com' />
+  </node>
+  <node id='4798719157' timestamp='2018-09-08T00:32:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62391283' lat='59.93188915735' lon='30.29480124155'>
+    <tag k='contact:vk' v='https://vk.com/public117406159' />
+    <tag k='name' v='Lumi Рolar' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://lumipolar.ru/' />
+  </node>
+  <node id='4798719158' timestamp='2018-09-08T00:32:02Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62391283' lat='59.93172560201' lon='30.29424012173'>
+    <tag k='brand' v='Ароматный мир' />
+    <tag k='contact:facebook' v='https://www.facebook.com/amwine.ru' />
+    <tag k='contact:instagram' v='https://instagram.com/amwine.ru' />
+    <tag k='contact:twitter' v='https://twitter.com/amwineru' />
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='drink:beer' v='bottled' />
+    <tag k='drink:cider' v='bottled' />
+    <tag k='drink:cognac' v='bottled' />
+    <tag k='drink:soft_drink' v='bottled' />
+    <tag k='drink:sparkling_wine' v='bottled' />
+    <tag k='drink:vodka' v='bottled' />
+    <tag k='drink:whisky' v='bottled' />
+    <tag k='drink:wine' v='bottled' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='name:ru' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «АМ-1 СПб»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/181220/' />
+  </node>
+</osm>
