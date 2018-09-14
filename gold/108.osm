@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='773932374' timestamp='2018-09-14T01:44:45Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='62569531' lat='59.9253386' lon='30.3139735'>
+    <tag k='brand' v='Ювелирторг' />
+    <tag k='contact:vk' v='https://vk.com/juvelirtorg' />
+    <tag k='name' v='Агат' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 11:00-18:00' />
+    <tag k='operator' v='АО «Ювелирторг»' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='http://www.juvelirtorg.spb.ru/stores/sankt-peterburg/1' />
+  </node>
+  <node id='2512796943' timestamp='2018-09-14T01:44:45Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62569531' lat='59.9255095' lon='30.3137989'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/toscanagrill' />
+    <tag k='cuisine' v='italian' />
+    <tag k='name' v='Toscana grill' />
+    <tag k='opening_hours' v='12:00-24:00' />
+    <tag k='website' v='http://toscanagrill.ru/' />
+  </node>
+</osm>

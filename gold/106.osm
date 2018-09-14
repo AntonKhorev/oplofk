@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='915666760' timestamp='2018-09-14T01:21:12Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62569306' lat='59.92760544226' lon='30.31134857163'>
+    <tag k='contact:vk' v='https://vk.com/f.volchek' />
+    <tag k='inscription' v='Булочная № 74' />
+    <tag k='name' v='Пекарня Ф. Вольчека' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='ref' v='74' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://fvolchek.ru/' />
+  </node>
+  <node id='2425120852' timestamp='2018-09-14T01:21:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62569306' lat='59.92746386469' lon='30.31150952963'>
+    <tag k='name' v='Калинка' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='4636283666' timestamp='2018-08-21T20:11:42Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='61868145' lat='59.9269707' lon='30.3120681'>
+    <tag k='clothes' v='women' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4636283667' timestamp='2018-09-14T01:21:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62569306' lat='59.9269862' lon='30.3120503'>
+    <tag k='name' v='ЕвропаПроф' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП «Зильвестр А.Р.»' />
+    <tag k='shop' v='hairdresser_supply' />
+    <tag k='website' v='https://europaprof.ru/' />
+  </node>
+  <node id='4636283669' timestamp='2018-08-22T03:36:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='61875033' lat='59.9270552' lon='30.3118446'>
+    <tag k='clothes' v='children' />
+    <tag k='name' v='Островок' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4636283671' timestamp='2018-08-22T03:36:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='61875033' lat='59.927082' lon='30.3119411'>
+    <tag k='clothes' v='women' />
+    <tag k='contact:instagram' v='https://www.instagram.com/karmanstock/' />
+    <tag k='name' v='Карман' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4636283672' timestamp='2018-09-14T01:21:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62569306' lat='59.9272098281' lon='30.31179986514'>
+    <tag k='name' v='Хорошая оптика' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 11:00-19:00' />
+    <tag k='operator' v='ИП Корабельников' />
+    <tag k='shop' v='optician' />
+  </node>
+  <node id='4636283673' timestamp='2018-09-14T01:21:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62569306' lat='59.92729171029' lon='30.31170748935'>
+    <tag k='name' v='Профи' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00' />
+    <tag k='operator' v='ООО «Нева-Стиль»' />
+    <tag k='shop' v='radiotechnics' />
+    <tag k='website' v='http://siriust.ru/' />
+  </node>
+  <node id='5847700714' timestamp='2018-08-22T03:36:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61875033' lat='59.9270385' lon='30.3117845'>
+    <tag k='contact:vk' v='https://vk.com/siburka' />
+    <tag k='name' v='Сивка-Бурка' />
+    <tag k='shop' v='toys' />
+    <tag k='website' v='http://www.sivka-burka.com/' />
+  </node>
+  <node id='5847700715' timestamp='2018-08-22T03:36:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61875033' lat='59.9270715' lon='30.3118266'>
+    <tag k='craft' v='tailor' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 11:00-16:00' />
+  </node>
+  <node id='5847700716' timestamp='2018-08-22T03:36:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61875033' lat='59.9270655' lon='30.3118817'>
+    <tag k='shop' v='bed' />
+  </node>
+</osm>

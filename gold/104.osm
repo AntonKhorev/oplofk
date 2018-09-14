@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4605242024' timestamp='2018-09-14T00:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568335' lat='59.92915128707' lon='30.30318687106'>
+    <tag k='description' v='сервис-центр' />
+    <tag k='name' v='Superwave' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='website' v='http://superwave.ru/' />
+  </node>
+  <node id='4605242025' timestamp='2018-09-14T00:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568335' lat='59.92916189908' lon='30.30324823458'>
+    <tag k='description' v='пункт выдачи заказов типографии' />
+    <tag k='name' v='Super Print House' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.sph.ru/' />
+  </node>
+  <node id='4879145819' timestamp='2018-09-14T00:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568335' lat='59.92924495837' lon='30.30373196249'>
+    <tag k='note' v='возможно &quot;Журавлик&quot; (https://www.booking.com/hotel/ru/hostel-zhuravlik.ru.html)' />
+    <tag k='phone' v='+7 911 7692766' />
+    <tag k='tourism' v='hotel' />
+  </node>
+</osm>

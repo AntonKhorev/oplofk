@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4605228534' timestamp='2018-09-14T00:34:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568774' lat='59.92970908909' lon='30.30644038266'>
+    <tag k='name' v='Центр содействия строительству' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.gov.spb.ru/gov/otrasl/komstroy/spb-gup-centr-sodejstviya-stroitelstvu/' />
+  </node>
+  <node id='4605228535' timestamp='2018-09-14T00:34:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568774' lat='59.92970023974' lon='30.30638866647'>
+    <tag k='name' v='Управление строительными проектами' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://www.uspspb.ru/' />
+  </node>
+  <node id='4605228536' timestamp='2018-09-14T00:34:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62568774' lat='59.92995557831' lon='30.30786996606'>
+    <tag k='contact:vk' v='https://vk.com/hannibalbs' />
+    <tag k='description' v='Мастерская мужских стрижек' />
+    <tag k='int_name' v='Hannibal' />
+    <tag k='name' v='Ганнибал' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ИП Бутенков Ю.И.' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://hannibalbs.ru/' />
+  </node>
+  <node id='4879139346' timestamp='2018-09-14T00:34:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568774' lat='59.92960424489' lon='30.30566363031'>
+    <tag k='craft' v='tailor;upholsterer' />
+    <tag k='opening_hours' v='Mo-Fr 10:30-19:00' />
+    <tag k='phone' v='+7 921 7960895' />
+    <tag k='shop' v='dry_cleaning' />
+  </node>
+  <node id='5905416340' timestamp='2018-09-14T00:34:53Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62568774' lat='59.92986705087' lon='30.30735562877'>
+    <tag k='name' v='Северо-Западное пароходство' />
+    <tag k='office' v='logistics' />
+    <tag k='website' v='http://www.nwship.com/' />
+  </node>
+  <node id='5905416344' timestamp='2018-09-14T00:34:53Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62568774' lat='59.92952768517' lon='30.30522682298'>
+    <tag k='contact:vk' v='https://vk.com/apart_hotel_oficer' />
+    <tag k='name' v='Офицеръ' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hoteloficer.ru/' />
+  </node>
+</osm>
