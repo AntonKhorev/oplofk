@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1137622535' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780340' lat='59.94202922982' lon='30.36263808221' />
+  <node id='1137622539' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62780775' lat='59.94202691263' lon='30.36285626313' />
+  <node id='1137622556' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780340' lat='59.94203382982' lon='30.36223468221' />
+  <node id='1137622560' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780340' lat='59.94228344906' lon='30.36278258938' />
+  <node id='1137622567' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780340' lat='59.94215280414' lon='30.36223662331' />
+  <node id='1137622684' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780340' lat='59.94229146003' lon='30.36223571544' />
+  <node id='1137622686' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780340' lat='59.94203902981' lon='30.36266728221' />
+  <node id='1431083876' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62780340' lat='59.94202662983' lon='30.36282068221' />
+  <node id='1431083887' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62780340' lat='59.94203562982' lon='30.36209998221' />
+  <node id='1431083893' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62780340' lat='59.94204082981' lon='30.36280158221' />
+  <node id='1431083895' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62780340' lat='59.94204152981' lon='30.36176218221' />
+  <node id='1431083897' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62780340' lat='59.94204442981' lon='30.36164898221' />
+  <node id='1431083927' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780775' lat='59.94215554376' lon='30.36286372888' />
+  <node id='1431083928' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62780340' lat='59.94215595317' lon='30.36278286481' />
+  <node id='1431083929' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780775' lat='59.94219462171' lon='30.36166149168' />
+  <node id='1431083958' timestamp='2018-09-21T00:48:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62780340' lat='59.94229974338' lon='30.36167024729' />
+  <node id='2624824494' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62780775' lat='59.94225786916' lon='30.3632924478'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Пирожки у Кота' />
+  </node>
+  <node id='5380075521' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62780775' lat='59.94228846212' lon='30.3612114558'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='5919531445' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62780775' lat='59.94216064344' lon='30.36223657198' />
+  <node id='5919531446' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62780775' lat='59.94228235219' lon='30.36161864829'>
+    <tag k='contact:vk' v='https://vk.com/ysnshop' />
+    <tag k='name' v='Твой стиль' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Морозова Т.С.' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://www.ysn-shop.ru/' />
+  </node>
+  <node id='5919531447' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62780775' lat='59.9422924994' lon='30.36093347833'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Пойдём!' />
+    <tag k='brand:wikidata' v='Q4368966' />
+    <tag k='contact:vk' v='https://vk.com/bankpoidem' />
+    <tag k='name' v='Пойдём!' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='operator' v='ОАО КБ «Пойдём!»' />
+    <tag k='operator:wikidata' v='Q4368966' />
+    <tag k='website' v='https://www.poidem.ru/' />
+  </node>
+  <way id='627049588' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62780775'>
+    <nd ref='1137622560' />
+    <nd ref='1431083928' />
+    <nd ref='1431083927' />
+    <nd ref='1137622539' />
+    <nd ref='1431083876' />
+    <nd ref='1431083893' />
+    <nd ref='1137622686' />
+    <nd ref='1137622535' />
+    <nd ref='1137622556' />
+    <nd ref='1137622567' />
+    <nd ref='5919531445' />
+    <nd ref='1137622684' />
+    <nd ref='1137622560' />
+    <tag k='amenity' v='embassy' />
+    <tag k='country' v='LT' />
+    <tag k='diplomatic' v='consulate_general' />
+    <tag k='name' v='Генеральное консульство Литовской Республики' />
+    <tag k='website' v='https://consulate-stpetersburg.mfa.lt/' />
+  </way>
+  <way id='627049589' timestamp='2018-09-21T01:27:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62780775'>
+    <nd ref='1431083958' />
+    <nd ref='1431083929' />
+    <nd ref='1431083897' />
+    <nd ref='1431083895' />
+    <nd ref='1431083887' />
+    <nd ref='1137622556' />
+    <nd ref='1137622567' />
+    <nd ref='5919531445' />
+    <nd ref='1137622684' />
+    <nd ref='1431083958' />
+    <tag k='amenity' v='embassy' />
+    <tag k='country' v='IN' />
+    <tag k='diplomatic' v='consulate_general' />
+    <tag k='name' v='Генеральное консульство Индии' />
+    <tag k='website' v='http://www.indianconsulate.ru/' />
+  </way>
+</osm>
