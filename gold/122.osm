@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2425120854' timestamp='2018-09-28T03:45:20Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62995867' lat='59.9268944215' lon='30.31337794565'>
+    <tag k='name' v='Гастроном и Ко' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4572603866' timestamp='2018-09-28T03:45:20Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62995867' lat='59.92679429888' lon='30.31300794609'>
+    <tag k='contact:vk' v='https://vk.com/viktoriabrand' />
+    <tag k='int_name' v='Viktoriya Brand' />
+    <tag k='name' v='Салон красоты Виктории Бранд' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://viktoriyabrand.ru/' />
+  </node>
+  <node id='4572603867' timestamp='2018-09-28T03:45:20Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62995867' lat='59.92687130264' lon='30.31329314308'>
+    <tag k='contact:vk' v='https://vk.com/boom.salon' />
+    <tag k='name' v='ВооМ' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='phone' v='+7 812 5716527' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='4572603868' timestamp='2018-09-28T03:45:20Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62995867' lat='59.92700390527' lon='30.31378328618'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/stomastudio32' />
+    <tag k='name' v='Cтудия 32' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://www.studio32spb.ru/' />
+  </node>
+  <node id='5935987246' timestamp='2018-09-28T03:45:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62995867' lat='59.92673074603' lon='30.31277398651'>
+    <tag k='description' v='Магазин химических реактивов' />
+    <tag k='name' v='Химмаг-СПб' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Экспит»' />
+    <tag k='shop' v='chemical' />
+    <tag k='website' v='https://himmag-spb.ru/' />
+  </node>
+</osm>

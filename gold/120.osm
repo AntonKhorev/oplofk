@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1574302183' timestamp='2018-09-28T00:37:30Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62993634' lat='59.9432152' lon='30.3440645'>
+    <tag k='medical_supply' v='orthopedic' />
+    <tag k='name' v='Нью Лайф' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='phone' v='+7 812 5791148' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='http://newlifeorto.ru/' />
+  </node>
+  <node id='5935807015' timestamp='2018-09-28T00:37:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62993634' lat='59.9432677' lon='30.343616'>
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='phone' v='+7 812 9833987' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+</osm>

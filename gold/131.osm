@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6018586158' timestamp='2018-10-28T01:02:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63939975' lat='59.9202032' lon='30.3009286'>
+    <tag k='name' v='Troika Art Store' />
+    <tag k='opening_hours' v='09:00-19:00' />
+    <tag k='operator' v='ООО «100 матрёшек»' />
+    <tag k='shop' v='gift' />
+  </node>
+</osm>

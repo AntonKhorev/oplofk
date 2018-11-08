@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5667565919' timestamp='2018-10-28T01:02:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63939975' lat='59.9210608' lon='30.3017332'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='brand' v='Hard Rock Cafe' />
+    <tag k='brand:wikidata' v='Q918151' />
+    <tag k='contact:facebook' v='https://www.facebook.com/HardRockCafeStPetersburg/' />
+    <tag k='contact:vk' v='https://vk.com/hardrockcafespb' />
+    <tag k='name' v='Hard Rock Cafe' />
+    <tag k='opening_hours' v='12:00-02:00' />
+    <tag k='operator' v='ООО «Кафе «Никольские ряды»' />
+    <tag k='website' v='https://hardrockcafespb.ru/' />
+  </node>
+  <node id='6018586132' timestamp='2018-10-28T01:02:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63939975' lat='59.9210461' lon='30.3016678'>
+    <tag k='contact:vk' v='https://vk.com/hardrockcafespb' />
+    <tag k='name' v='Rock Shop' />
+    <tag k='opening_hours' v='10:00-02:00' />
+    <tag k='operator' v='ООО «Кафе «Никольские ряды»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://hardrockcafespb.ru/' />
+  </node>
+  <node id='6018586135' timestamp='2018-10-28T01:02:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63939975' lat='59.921304' lon='30.3028197'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='Meininger Bar' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='operator' v='АО «Никольские ряды»' />
+  </node>
+</osm>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5963311977' timestamp='2018-10-07T04:35:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63270209' lat='59.92019725715' lon='30.35309432244'>
+    <tag k='office' v='lawyer' />
+    <tag k='opening_hours' v='09:00-21:00' />
+  </node>
+</osm>

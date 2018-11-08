@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4392004189' timestamp='2018-11-08T09:54:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64286593' lat='59.94195747227' lon='30.3608927454'>
+    <tag k='alt_name' v='Небо внутри' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafeukrop' />
+    <tag k='cuisine' v='vegan;breakfast;vegetarian' />
+    <tag k='name' v='Укроп' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='website' v='http://cafe-ukrop.ru' />
+  </node>
+  <node id='5919531447' timestamp='2018-09-21T01:27:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62780775' lat='59.9422925' lon='30.3609335'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Пойдём!' />
+    <tag k='brand:wikidata' v='Q4368966' />
+    <tag k='contact:vk' v='https://vk.com/bankpoidem' />
+    <tag k='name' v='Пойдём!' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='operator' v='ОАО КБ «Пойдём!»' />
+    <tag k='operator:wikidata' v='Q4368966' />
+    <tag k='website' v='https://www.poidem.ru/' />
+  </node>
+  <node id='6045854972' timestamp='2018-11-08T09:54:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64286593' lat='59.94178429104' lon='30.36089318574'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/pandent' />
+    <tag k='name' v='Пандент' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://pandent.ru/kliniki/vosstaniya.php' />
+  </node>
+  <node id='6045854973' timestamp='2018-11-08T09:54:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64286593' lat='59.94185253168' lon='30.36088791384'>
+    <tag k='contact:vk' v='https://vk.com/marysia_ekb' />
+    <tag k='name' v='Марыся' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://marisya-rus.ru/' />
+  </node>
+</osm>

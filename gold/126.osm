@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5859147785' timestamp='2018-10-04T23:55:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63212805' lat='59.9207715832' lon='30.34787881538'>
+    <tag k='name' v='КиК-софт' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='operator' v='ООО «КиК-софт»' />
+    <tag k='phone' v='+7 812 6002160' />
+    <tag k='website' v='http://prokkm.ru/' />
+  </node>
+</osm>
