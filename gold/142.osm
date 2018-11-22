@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1682549516' timestamp='2018-11-22T02:56:56Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='64760380' lat='59.9196579' lon='30.329153'>
+    <tag k='brand' v='Fix Price' />
+    <tag k='brand:wikidata' v='Q4038791' />
+    <tag k='brand:wikipedia' v='ru:Fix Price (сеть магазинов)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/fixprice.russia' />
+    <tag k='contact:instagram' v='https://www.instagram.com/fixprice.russia/' />
+    <tag k='contact:ok' v='https://ok.ru/fixprice' />
+    <tag k='contact:phone' v='+7 800 7753515' />
+    <tag k='contact:twitter' v='https://twitter.com/fix_price' />
+    <tag k='contact:vk' v='https://vk.com/fix_price' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/fixprice36' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Fix Price' />
+    <tag k='name:en' v='Fix Price' />
+    <tag k='opening_hours' v='Mo-Su 08:00-22:00' />
+    <tag k='shop' v='variety_store' />
+    <tag k='website' v='https://fix-price.ru/' />
+  </node>
+  <node id='4622052091' timestamp='2018-11-22T02:56:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64760380' lat='59.9193226' lon='30.3295209'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/gorzdrav' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Горздрав' />
+    <tag k='note' v='нет на сайте' />
+    <tag k='opening_hours' v='Mo-Su 08:00-20:00' />
+    <tag k='operator' v='АО «Фармакор»' />
+    <tag k='website' v='https://gorzdrav.org/' />
+  </node>
+  <node id='4622052092' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64760380' lat='59.9195782' lon='30.3292386'>
+    <tag k='level' v='1' />
+    <tag k='shop' v='confectionery' />
+  </node>
+  <node id='4622071891' timestamp='2018-11-22T02:56:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64760380' lat='59.9194113' lon='30.3294258'>
+    <tag k='level' v='1' />
+    <tag k='name' v='Великолукский мясокомбинат' />
+    <tag k='name:ru' v='Великолукский мясокомбинат' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-21:00; Su 08:00-20:00' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='4622072091' timestamp='2018-11-22T02:56:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64760380' lat='59.9191485' lon='30.3297179'>
+    <tag k='level' v='1' />
+    <tag k='name' v='Зенит' />
+    <tag k='name:ru' v='Зенит' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='operator' v='ООО &quot;Все путем&quot;' />
+    <tag k='phone' v='+78129285445' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4622072193' timestamp='2018-11-22T02:56:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64760380' lat='59.919076' lon='30.3298013'>
+    <tag k='level' v='1' />
+    <tag k='opening_hours' v='Mo-Su 05:30-24:00' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:suburban_train' v='yes' />
+  </node>
+  <node id='4622072389' timestamp='2018-11-22T02:56:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64760380' lat='59.9192408' lon='30.3296198'>
+    <tag k='contact:vk' v='https://vk.com/shirshovbakery' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Shirshov' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://shirshov-bakery.com/' />
+  </node>
+  <node id='4622072489' timestamp='2018-11-22T02:56:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64760380' lat='59.9194967' lon='30.3293214'>
+    <tag k='level' v='1' />
+    <tag k='name' v='Попутчик' />
+    <tag k='name:ru' v='Попутчик' />
+    <tag k='opening_hours' v='Mo-Su 06:00-24:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='6081167232' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64760380' lat='59.9196919' lon='30.3298893'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='6081167233' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64760380' lat='59.9197948' lon='30.3298949'>
+    <tag k='amenity' v='cafe' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='6081167234' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64760380' lat='59.9198507' lon='30.3296354'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='6081167236' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64760380' lat='59.9198551' lon='30.3294754'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='6081167237' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64760380' lat='59.919822' lon='30.3293757'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='level' v='1' />
+  </node>
+  <node id='6081167238' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64760380' lat='59.9196596' lon='30.3293909'>
+    <tag k='level' v='1' />
+    <tag k='shop' v='newsagent' />
+  </node>
+  <node id='6081167239' timestamp='2018-11-22T02:56:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64760380' lat='59.9196911' lon='30.3295762'>
+    <tag k='level' v='1' />
+    <tag k='shop' v='newsagent' />
+  </node>
+</osm>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5650395135' timestamp='2018-10-28T01:02:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63939975' lat='59.9213494' lon='30.3033166'>
+    <tag k='brand' v='Meininger' />
+    <tag k='brand:wikidata' v='Q42773330' />
+    <tag k='contact:vk' v='https://vk.com/meininger_st.petersburg' />
+    <tag k='name' v='Meininger Hotel Saint Petersburg Nikolsky' />
+    <tag k='operator' v='АО «Никольские ряды»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.meininger-hotels.com/ru/oteli/sankt-peterburg/otel-sankt-peterburg-nikolsky/' />
+  </node>
+</osm>

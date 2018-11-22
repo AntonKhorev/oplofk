@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4709408743' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64403261' lat='59.9035362435' lon='30.29001887081'>
+    <tag k='contact:vk' v='https://vk.com/club122038477' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='disused:cuisine' v='regional' />
+    <tag k='name' v='Именины' />
+    <tag k='website' v='http://кафе-именины.рф/' />
+  </node>
+  <node id='4762856290' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64403261' lat='59.90570169726' lon='30.29218575243'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/helix_lab' />
+    <tag k='health_facility:type' v='laboratory' />
+    <tag k='name' v='Helix' />
+    <tag k='website' v='https://helix.ru/center/17450' />
+  </node>
+  <node id='4762856291' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64403261' lat='59.9055553564' lon='30.29199834855'>
+    <tag k='contact:vk' v='https://vk.com/salonvitalyvolgin' />
+    <tag k='name' v='Салон красоты Виталия Волгина' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://salon-volgina.ru/' />
+  </node>
+  <node id='4762856292' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64403261' lat='59.90543065222' lon='30.29183838494'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/cartelhookahbar' />
+    <tag k='name' v='Cartel' />
+    <tag k='website' v='http://cartelloungebar.ru/' />
+  </node>
+  <node id='4762856293' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64403261' lat='59.90531227381' lon='30.29163309691'>
+    <tag k='contact:vk' v='https://vk.com/armygoods' />
+    <tag k='name' v='Тельняшка' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='outdoor' />
+    <tag k='website' v='http://армейскиймагазин.рф/contacts/stores/99/' />
+  </node>
+  <node id='4762856294' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64403261' lat='59.90484909436' lon='30.29119099729'>
+    <tag k='contact:vk' v='https://vk.com/club114271187' />
+    <tag k='name' v='Paris' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='4762856295' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64403261' lat='59.90435958028' lon='30.29059808194'>
+    <tag k='contact:vk' v='https://vk.com/pivoriba' />
+    <tag k='drink:beer' v='yes' />
+    <tag k='name' v='Пиворыба' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ИП Сергеева М.А.' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://pivoriba.ru/' />
+  </node>
+  <node id='5697796949' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64403261' lat='59.90502198846' lon='30.29141310821'>
+    <tag k='contact:vk' v='https://vk.com/floristenot' />
+    <tag k='name' v='Флорист-Енот' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://florist-enot.ru/' />
+  </node>
+  <node id='6054724100' timestamp='2018-11-12T12:06:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64403261' lat='59.90545655437' lon='30.29187134401'>
+    <tag k='brand' v='Главстрой' />
+    <tag k='brand:wikidata' v='Q4139230' />
+    <tag k='contact:vk' v='https://vk.com/panorama360_official' />
+    <tag k='name' v='Панорама 360, Отдел продаж' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='http://panorama360spb.ru/contacts/object/' />
+  </node>
+</osm>

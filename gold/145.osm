@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='857382805' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.921809' lon='30.3060609' />
+  <node id='857382835' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='45403806' lat='59.9222709' lon='30.3069873' />
+  <node id='857382990' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='45403806' lat='59.9216034' lon='30.3054554' />
+  <node id='857383023' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9220371' lon='30.3059686' />
+  <node id='857383075' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9218916' lon='30.3065692' />
+  <node id='857383226' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='45403806' lat='59.922067' lon='30.3061053' />
+  <node id='857383295' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9215795' lon='30.3062059' />
+  <node id='857383331' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9218123' lon='30.3062067' />
+  <node id='857383333' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9219059' lon='30.3054712' />
+  <node id='857383473' timestamp='2017-01-23T16:02:18Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='45403806' lat='59.9218982' lon='30.3070101' />
+  <node id='857383577' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9218677' lon='30.3061308' />
+  <node id='857384064' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='45403806' lat='59.9216542' lon='30.3054581' />
+  <node id='857384100' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.921872' lon='30.3065303' />
+  <node id='857384127' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='45403806' lat='59.9218954' lon='30.3068212' />
+  <node id='857384224' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='45403806' lat='59.921343' lon='30.3054418' />
+  <node id='857384282' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='45403806' lat='59.9219008' lon='30.3071797' />
+  <node id='857384325' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9213906' lon='30.3062194' />
+  <node id='857384481' timestamp='2017-01-23T16:02:20Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9219349' lon='30.305523' />
+  <node id='1860446692' timestamp='2017-01-23T16:02:20Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='45403806' lat='59.9218413' lon='30.3060524' />
+  <node id='1869999305' timestamp='2017-01-23T16:02:21Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='45403806' lat='59.9216339' lon='30.305457'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1870013137' timestamp='2017-01-23T16:02:21Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='45403806' lat='59.9220495' lon='30.3060317'>
+    <tag k='barrier' v='lift_gate' />
+  </node>
+  <node id='2187132242' timestamp='2018-11-22T04:41:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64762252' lat='59.92236303771' lon='30.30747507422'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Академический медицинский центр' />
+    <tag k='opening_hours' v='09:00-17:00' />
+    <tag k='website' v='http://www.sad56.ru/' />
+  </node>
+  <node id='2187132243' timestamp='2018-11-22T04:41:11Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64762252' lat='59.9223180931' lon='30.30727949362'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Я люблю хинкали' />
+    <tag k='opening_hours' v='09:30+' />
+  </node>
+  <node id='2187132246' timestamp='2018-11-22T04:41:11Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64762252' lat='59.92238550301' lon='30.30757364123'>
+    <tag k='contact:vk' v='https://vk.com/nipponsupermarket' />
+    <tag k='name' v='Nippon' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='origin' v='japanese' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://nippononline.ru/contacts/stores/114958/' />
+  </node>
+  <node id='4604960678' timestamp='2018-11-22T04:41:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64762252' lat='59.92234791982' lon='30.30740969521'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/coffeemoon_spb' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Coffee Moon' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa-Su 10:00-20:00' />
+  </node>
+  <node id='4604960679' timestamp='2018-11-22T04:41:11Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='64762252' lat='59.92233398319' lon='30.30734924601'>
+    <tag k='name' v='Нотариус Козлов Кирилл Викторович' />
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Th 10:00-18:00; Fr 10:00-17:00; 13:00-14:00 off' />
+    <tag k='website' v='http://notarykozlov.ru/' />
+  </node>
+  <node id='4801076746' timestamp='2018-11-22T04:41:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64762252' lat='59.92240334655' lon='30.30765119681'>
+    <tag k='alt_name' v='Фермер' />
+    <tag k='contact:vk' v='https://vk.com/farmermeat' />
+    <tag k='name' v='Фермерское мясо' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='butcher' />
+    <tag k='website' v='http://farmer-meat.ru/' />
+  </node>
+  <node id='5304178945' timestamp='2017-12-26T05:38:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='54921089' lat='59.92232' lon='30.3073619'>
+    <tag k='name' v='Эдикт' />
+    <tag k='office' v='accountant' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00' />
+    <tag k='website' v='http://www.edict.ru/' />
+  </node>
+  <way id='526911042' timestamp='2017-09-23T00:20:58Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='52292542'>
+    <nd ref='857384224' />
+    <nd ref='857384325' />
+    <nd ref='857383295' />
+    <nd ref='857383331' />
+    <nd ref='857382805' />
+    <nd ref='1860446692' />
+    <nd ref='857383577' />
+    <nd ref='857383023' />
+    <nd ref='857384481' />
+    <nd ref='857383333' />
+    <nd ref='857384064' />
+    <nd ref='1869999305' />
+    <nd ref='857382990' />
+    <nd ref='857384224' />
+    <tag k='alt_name' v='Пожарная часть №2 Адмиралтейского района' />
+    <tag k='amenity' v='fire_station' />
+    <tag k='fire_station:type' v='fpo' />
+    <tag k='name' v='Пожарная часть №2' />
+    <tag k='official_name' v='2-я пожарная часть 9-го отряда Федеральной Противопожарной Службы МЧС по Санкт-Петербургу' />
+    <tag k='operator' v='9-ОФПС по Санкт-Петербургу' />
+    <tag k='ref' v='2-ПЧ' />
+  </way>
+  <way id='647582604' timestamp='2018-11-22T04:41:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64762252'>
+    <nd ref='857382835' />
+    <nd ref='857383226' />
+    <nd ref='1870013137' />
+    <nd ref='857383023' />
+    <nd ref='857383577' />
+    <nd ref='1860446692' />
+    <nd ref='857382805' />
+    <nd ref='857383331' />
+    <nd ref='857384100' />
+    <nd ref='857383075' />
+    <nd ref='857384127' />
+    <nd ref='857383473' />
+    <nd ref='857384282' />
+    <nd ref='857382835' />
+    <tag k='amenity' v='police' />
+    <tag k='name' v='2 отдел полиции' />
+    <tag k='website' v='https://адмирал.78.мвд.рф/' />
+  </way>
+</osm>

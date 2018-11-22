@@ -1,0 +1,149 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='392059029' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='64768033' lat='59.93048897949' lon='30.30523630846'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/amclinic_spb' />
+    <tag k='name' v='Американская Медицинская Клиника' />
+    <tag k='name:en' v='American Medical Clinic' />
+    <tag k='name:ru' v='Американская Медицинская Клиника' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='operator' v='ООО «Американская Медицинская Клиника»' />
+    <tag k='website' v='http://amclinic.ru/' />
+  </node>
+  <node id='510825568' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='64768033' lat='59.93034078786' lon='30.30539841657' />
+  <node id='510825571' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='64768033' lat='59.93051623176' lon='30.30530448651' />
+  <node id='510825575' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='9' changeset='17200254' lat='59.9304374' lon='30.3046875' />
+  <node id='510825581' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='64768033' lat='59.93002439755' lon='30.30505603039' />
+  <node id='510826082' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='6' changeset='17200254' lat='59.9300716' lon='30.3053802' />
+  <node id='510826084' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='6' changeset='17200254' lat='59.9299649' lon='30.3058454' />
+  <node id='510826760' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64768033' lat='59.93041046823' lon='30.30604669203' />
+  <node id='510827022' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='5' changeset='17200254' lat='59.930357' lon='30.3056384' />
+  <node id='510827603' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='62568774' lat='59.9297689' lon='30.3057232' />
+  <node id='510828256' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='62568774' lat='59.9297677' lon='30.305535' />
+  <node id='510828265' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62568774' lat='59.9299382' lon='30.3056499' />
+  <node id='534086739' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='7' changeset='17200254' lat='59.9300024' lon='30.3071549' />
+  <node id='534086742' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='5' changeset='17200254' lat='59.9298447' lon='30.3062272' />
+  <node id='534086744' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='5' changeset='17200254' lat='59.9298731' lon='30.3062175' />
+  <node id='534086745' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='7' changeset='17200254' lat='59.9299405' lon='30.3066483' />
+  <node id='534086746' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='6' changeset='17200254' lat='59.9299181' lon='30.3066779' />
+  <node id='581131677' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='5' changeset='17200254' lat='59.930003' lon='30.304909' />
+  <node id='581131678' timestamp='2013-08-03T06:54:43Z' uid='368493' user='fserges' visible='true' version='6' changeset='17200254' lat='59.9299121' lon='30.3049554' />
+  <node id='815360679' timestamp='2013-08-03T06:54:44Z' uid='368493' user='fserges' visible='true' version='4' changeset='17200254' lat='59.9302933' lon='30.3052545' />
+  <node id='815360883' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64768033' lat='59.93031695607' lon='30.30540907546' />
+  <node id='815361033' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62568774' lat='59.9299768' lon='30.3054217' />
+  <node id='815361183' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64768033' lat='59.93059244763' lon='30.30589129203' />
+  <node id='1226648959' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62568774' lat='59.929864' lon='30.3056937' />
+  <node id='1226648967' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62568774' lat='59.9298284' lon='30.3055021' />
+  <node id='1633792096' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62568774' lat='59.9295838' lon='30.3058245' />
+  <node id='1633792098' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62568774' lat='59.9296112' lon='30.3058129' />
+  <node id='1633792099' timestamp='2013-08-03T06:54:42Z' uid='368493' user='fserges' visible='true' version='2' changeset='17200254' lat='59.9298386' lon='30.3073017' />
+  <node id='2405751016' timestamp='2013-08-03T14:47:44Z' uid='368493' user='fserges' visible='true' version='2' changeset='17204791' lat='59.9297233' lon='30.3066331'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2405751032' timestamp='2013-08-03T06:54:37Z' uid='368493' user='fserges' visible='true' version='1' changeset='17200254' lat='59.9299188' lon='30.3065094' />
+  <node id='2405751035' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568774' lat='59.9299588' lon='30.3052919' />
+  <node id='2405751040' timestamp='2013-08-03T06:54:37Z' uid='368493' user='fserges' visible='true' version='1' changeset='17200254' lat='59.9300512' lon='30.3052402' />
+  <node id='2406045577' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568774' lat='59.9297737' lon='30.3057488' />
+  <node id='2406056849' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568774' lat='59.9304432' lon='30.3046846' />
+  <node id='3629490391' timestamp='2018-09-14T00:34:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62568774' lat='59.9295903' lon='30.3058626'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='переулок Пирогова' />
+  </node>
+  <node id='4436986345' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64768033' lat='59.93085783134' lon='30.30693675341'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/restdom' />
+    <tag k='name' v='Дом' />
+    <tag k='website' v='http://rest-dom.ru/' />
+  </node>
+  <node id='5905416342' timestamp='2018-09-14T00:34:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62568774' lat='59.9297489' lon='30.3056011' />
+  <node id='6081606838' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033' lat='59.93078740305' lon='30.30668054827'>
+    <tag k='name' v='Адамант Офис' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.adamantoffice.ru/' />
+  </node>
+  <node id='6081606839' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033' lat='59.9305875081' lon='30.3060315536'>
+    <tag k='contact:vk' v='https://vk.com/adamant_stroy' />
+    <tag k='name' v='Адамант-Строй, проектное бюро' />
+    <tag k='note' v='возможно www.adamant-proekt.ru' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.adamant-stroy.ru/' />
+  </node>
+  <node id='6081606840' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033' lat='59.9306053532' lon='30.30601382699'>
+    <tag k='name' v='Управляющая компания «Адамант»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.tkspb.ru/' />
+  </node>
+  <node id='6081606846' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033' lat='59.93053714287' lon='30.30560849292'>
+    <tag k='name' v='Фонд капитального строительства и реконструкции' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='6081606853' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033' lat='59.93055433972' lon='30.30559788927'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='6081606862' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033' lat='59.9305225198' lon='30.30530126014' />
+  <node id='6081606863' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033' lat='59.93044662213' lon='30.30490456848'>
+    <tag k='name' v='Система торговых комплексов «Альянс»' />
+    <tag k='office' v='association' />
+  </node>
+  <way id='45574369' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='64768033'>
+    <nd ref='510826084' />
+    <nd ref='510828265' />
+    <nd ref='1226648959' />
+    <nd ref='2406045577' />
+    <nd ref='534086742' />
+    <nd ref='534086744' />
+    <nd ref='2405751032' />
+    <nd ref='534086745' />
+    <nd ref='534086746' />
+    <nd ref='534086739' />
+    <nd ref='1633792099' />
+    <nd ref='2405751016' />
+    <nd ref='3629490391' />
+    <nd ref='1633792096' />
+    <nd ref='1633792098' />
+    <nd ref='510827603' />
+    <nd ref='5905416342' />
+    <nd ref='510828256' />
+    <nd ref='1226648967' />
+    <nd ref='815361033' />
+    <nd ref='2405751035' />
+    <nd ref='581131678' />
+    <nd ref='581131677' />
+    <nd ref='510825581' />
+    <nd ref='2405751040' />
+    <nd ref='510826082' />
+    <nd ref='815360679' />
+    <nd ref='815360883' />
+    <nd ref='510825568' />
+    <nd ref='510825571' />
+    <nd ref='6081606853' />
+    <nd ref='815361183' />
+    <nd ref='510826760' />
+    <nd ref='510827022' />
+    <nd ref='510826084' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='набережная реки Мойки' />
+    <tag k='building' v='office' />
+    <tag k='name' v='Комитет по строительству' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://gov.spb.ru/gov/otrasl/komstroy/' />
+  </way>
+  <way id='647628670' timestamp='2018-11-22T08:01:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64768033'>
+    <nd ref='6081606862' />
+    <nd ref='2406056849' />
+    <nd ref='510825575' />
+    <nd ref='581131677' />
+    <nd ref='510825581' />
+    <nd ref='2405751040' />
+    <nd ref='510826082' />
+    <nd ref='815360679' />
+    <nd ref='815360883' />
+    <nd ref='510825568' />
+    <nd ref='510825571' />
+    <nd ref='6081606862' />
+    <tag k='landuse' v='commercial' />
+    <tag k='name' v='Холдинг «Адамант»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.adamant.ru/' />
+  </way>
+</osm>
