@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3396434597' timestamp='2018-10-09T12:02:32Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='63343443' lat='59.9184273' lon='30.3521721'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/kvartira162' />
+    <tag k='name' v='Квартира №162' />
+    <tag k='opening_hours' v='Mo-Su 09:00-06:00' />
+    <tag k='phone' v='+7 812 4933162' />
+    <tag k='website' v='http://restoranchik-kv.ru/' />
+  </node>
+  <node id='6133655694' timestamp='2018-12-12T22:53:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65425168' lat='59.9184975241' lon='30.35173114558'>
+    <tag k='contact:vk' v='https://vk.com/bulavkaspb' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Bulavka' />
+  </node>
+  <node id='6133655696' timestamp='2018-12-12T22:53:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65425168' lat='59.91855678224' lon='30.35135972584'>
+    <tag k='contact:vk' v='https://vk.com/sk_guideh' />
+    <tag k='name' v='Гайде' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:30' />
+    <tag k='website' v='https://guideh.com/' />
+  </node>
+  <node id='6133655698' timestamp='2018-12-12T22:53:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65425168' lat='59.91861080343' lon='30.35102112981'>
+    <tag k='brand' v='HP' />
+    <tag k='brand:wikidata' v='Q21404084' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Complete' />
+    <tag k='website' v='https://www.complete.ru/service/saint-petersburg' />
+  </node>
+  <node id='6133655700' timestamp='2018-12-12T22:53:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65425168' lat='59.91866012622' lon='30.35071198213'>
+    <tag k='amenity' v='bank' />
+    <tag k='name' v='Инбанк' />
+    <tag k='website' v='https://www.in-bank.ru/' />
+  </node>
+  <node id='6133655702' timestamp='2018-12-12T22:53:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65425168' lat='59.91871287539' lon='30.35038135787'>
+    <tag k='name' v='Торговый дом «Рубеж»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://td.rubezh.ru/' />
+  </node>
+</osm>

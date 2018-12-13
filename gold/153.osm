@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1107648167' timestamp='2018-11-27T05:56:50Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64921531' lat='59.91339384237' lon='30.2927403435'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Чача &amp; Пури' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='phone' v='+7 969 7151818' />
+  </node>
+  <node id='4807813562' timestamp='2018-11-27T05:56:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64921531' lat='59.91284777752' lon='30.29274796046'>
+    <tag k='disused:office' v='estate_agent' />
+    <tag k='name' v='Gloria' />
+  </node>
+</osm>

@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4812446658' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65417627' lat='59.90506750462' lon='30.31230681752'>
+    <tag k='contact:instagram' v='https://www.instagram.com/wildperch_beershop/' />
+    <tag k='drink:beer' v='yes' />
+    <tag k='name' v='Wild Perch' />
+    <tag k='opening_hours' v='12:00-22:00' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='4812446659' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65417627' lat='59.90795998953' lon='30.31227146423'>
+    <tag k='contact:vk' v='https://vk.com/beauty_fix' />
+    <tag k='name' v='Beauty Fix' />
+    <tag k='opening_hours' v='10:30-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://бьютификс.рф/' />
+  </node>
+  <node id='4812446660' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65417627' lat='59.90792434187' lon='30.3122721366'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Ла нуэз»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/84790/' />
+  </node>
+  <node id='4812446661' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65417627' lat='59.90771880325' lon='30.31227601309'>
+    <tag k='name' v='Mini Market' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:30; Sa,Su,PH 10:00-22:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4974274347' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65417627' lat='59.9076773374' lon='30.31227679515'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/sisterscafe' />
+    <tag k='cuisine' v='cake;coffee_shop' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:ssid' v='sisters' />
+    <tag k='name' v='Sisters' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00' />
+    <tag k='website' v='http://thesisters.cafe/' />
+  </node>
+  <node id='5526528998' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65417627' lat='59.9071915228' lon='30.31228596289'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/club168883980' />
+    <tag k='name' v='NK-Clinic' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00' />
+    <tag k='phone' v='+7 812 9951550' />
+    <tag k='website' v='https://nevrovclinic.ru/' />
+  </node>
+  <node id='5526528999' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65417627' lat='59.90667385167' lon='30.31229589728'>
+    <tag k='contact:vk' v='https://vk.com/panda.beauty' />
+    <tag k='name' v='Panda Beauty' />
+    <tag k='opening_hours' v='Su-We 10:00-21:00; Th-Sa 10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://www.pandabeauty.ru/' />
+  </node>
+  <node id='6133192019' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65417627' lat='59.90404859131' lon='30.31232838636'>
+    <tag k='contact:vk' v='https://vk.com/rangemma' />
+    <tag k='leisure' v='sports_centre' />
+    <tag k='name' v='Range' />
+    <tag k='sport' v='martial_arts' />
+    <tag k='website' v='https://rangemma.ru/' />
+  </node>
+  <node id='6133192020' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65417627' lat='59.90428336941' lon='30.31232447593'>
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа Ижевск»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='6133192021' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65417627' lat='59.9071292322' lon='30.3122872385'>
+    <tag k='contact:vk' v='https://vk.com/brioshspb' />
+    <tag k='name' v='Бриошь' />
+    <tag k='opening_hours' v='Mo-Fr 07:30-21:30; Sa-Su 10:00-21:00' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://brioshspb.ru/' />
+  </node>
+  <node id='6133192022' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65417627' lat='59.90741212277' lon='30.31228174082'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/glazcentre' />
+    <tag k='health_specialty:ophthalmology' v='main' />
+    <tag k='name' v='ГлазЦентр' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Новый взгляд+»' />
+    <tag k='website' v='http://spb.glazcentre.ru/' />
+  </node>
+  <node id='6133192024' timestamp='2018-12-12T17:56:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65417627' lat='59.90777877963' lon='30.31227488186'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:instagram' v='https://www.instagram.com/dd.beer_shop/' />
+    <tag k='name' v='D&amp;D Beer' />
+    <tag k='opening_hours' v='12:00-22:00' />
+  </node>
+</osm>

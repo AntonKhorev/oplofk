@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='702786929' timestamp='2018-11-25T23:43:27Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='64879787' lat='59.91743512225' lon='30.28721716872' />
+  <node id='702786931' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64883878' lat='59.9175759889' lon='30.28787146627' />
+  <node id='702786934' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64883878' lat='59.91754668891' lon='30.28789676627' />
+  <node id='702786937' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64883878' lat='59.91757417456' lon='30.28802279451' />
+  <node id='702786939' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64883878' lat='59.91755100657' lon='30.28804257755' />
+  <node id='702786947' timestamp='2018-11-26T05:14:05Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64884211' lat='59.91731150592' lon='30.28732376881' />
+  <node id='932585367' timestamp='2013-03-06T14:10:32Z' uid='368493' user='fserges' visible='true' version='3' changeset='15271041' lat='59.9174466' lon='30.2872654' />
+  <node id='2127622376' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64883878' lat='59.91707893448' lon='30.28752982109' />
+  <node id='2127622378' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64883878' lat='59.91720620975' lon='30.28810267768' />
+  <node id='2127622380' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64883878' lat='59.91733458332' lon='30.28798537302' />
+  <node id='2127622383' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64883878' lat='59.91734558332' lon='30.28803697302' />
+  <node id='2127622386' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64883878' lat='59.91737738332' lon='30.28801027302' />
+  <node id='2127622387' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64883878' lat='59.91739698332' lon='30.28810357302' />
+  <node id='2189653795' timestamp='2018-11-25T23:43:27Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64879787' lat='59.91727312229' lon='30.28735686872'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2189653799' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64883878' lat='59.91740988822' lon='30.2881630776' />
+  <node id='2189653802' timestamp='2018-11-26T04:49:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64883878' lat='59.9175652889' lon='30.28798206627'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='6091647660' timestamp='2018-11-26T05:14:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64884211' lat='59.91746754564' lon='30.28919032149'>
+    <tag k='name' v='ФГУП Экран' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://ekran-1992.ru/' />
+  </node>
+  <node id='6091647661' timestamp='2018-11-26T05:14:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64884211' lat='59.91752868759' lon='30.28946542706'>
+    <tag k='contact:vk' v='https://vk.com/atelier_chezelle' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Chezelle' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='website' v='http://atelier-chezelle.ru/' />
+  </node>
+  <way id='648976735' timestamp='2018-11-26T05:14:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64884211'>
+    <nd ref='2127622376' />
+    <nd ref='2189653795' />
+    <nd ref='702786947' />
+    <nd ref='702786929' />
+    <nd ref='932585367' />
+    <nd ref='702786931' />
+    <nd ref='702786934' />
+    <nd ref='2189653802' />
+    <nd ref='702786937' />
+    <nd ref='702786939' />
+    <nd ref='2189653799' />
+    <nd ref='2127622387' />
+    <nd ref='2127622386' />
+    <nd ref='2127622383' />
+    <nd ref='2127622380' />
+    <nd ref='2127622378' />
+    <nd ref='2127622376' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа №234, начальная школа' />
+    <tag k='website' v='http://sc.adm-edu.spb.ru/234/' />
+  </way>
+</osm>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4813962749' timestamp='2018-12-12T18:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65418742' lat='59.90805434345' lon='30.31324226714'>
+    <tag k='name' v='Korona Boutique' />
+    <tag k='note' v='возможно не работает' />
+    <tag k='shop' v='jewelry' />
+  </node>
+  <node id='4813962750' timestamp='2018-12-12T18:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65418742' lat='59.90803445135' lon='30.31286819874'>
+    <tag k='name' v='Центр дизайна волос' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='wigs' />
+    <tag k='website' v='http://www.hairdesign.ru/' />
+  </node>
+  <node id='4813962751' timestamp='2018-12-12T18:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65418742' lat='59.90805264245' lon='30.3128668905'>
+    <tag k='contact:vk' v='https://vk.com/volosy24' />
+    <tag k='name' v='Волосы24' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://www.volosy24.ru/' />
+  </node>
+  <node id='4813962752' timestamp='2018-12-12T18:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65418742' lat='59.90805153379' lon='30.31265624351'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/clinic.mama.i.malysh' />
+    <tag k='name' v='Мама и малыш' />
+    <tag k='website' v='https://mamababy-spb.ru/' />
+  </node>
+  <node id='4813962753' timestamp='2018-12-12T18:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65418742' lat='59.90805079346' lon='30.31248704529'>
+    <tag k='contact:vk' v='https://vk.com/galereyasporta' />
+    <tag k='name' v='Галерея спорта' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='sports' />
+    <tag k='website' v='https://galereya-sporta.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2314630123' timestamp='2018-11-24T01:22:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64835388' lat='59.92788600609' lon='30.31712839111'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='переулок Гривцова' />
+    <tag k='contact:vk' v='https://vk.com/sport_meloman' />
+    <tag k='name' v='Спортивный меломан' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='outdoor' />
+    <tag k='website' v='http://komissionnyi-magazin.ru/' />
+  </node>
+  <node id='4951572651' timestamp='2018-11-24T01:22:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64835388' lat='59.92828834687' lon='30.31783575383'>
+    <tag k='contact:vk' v='https://vk.com/club89686021' />
+    <tag k='name' v='Вкусная лавка' />
+    <tag k='shop' v='tea' />
+  </node>
+  <node id='4951572652' timestamp='2018-11-24T01:22:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64835388' lat='59.92830708349' lon='30.3178047149'>
+    <tag k='contact:vk' v='https://vk.com/club17419497' />
+    <tag k='name' v='Алиса' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-18:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.alisatravelspb.ru/' />
+  </node>
+  <node id='4951572653' timestamp='2018-11-24T01:22:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64835388' lat='59.92836893536' lon='30.31800780022'>
+    <tag k='contact:vk' v='https://vk.com/onservice' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='OnService' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-18:00' />
+    <tag k='website' v='http://onservice.su/' />
+  </node>
+  <node id='4951572654' timestamp='2018-11-24T01:22:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64835388' lat='59.92837452439' lon='30.31782397546'>
+    <tag k='name' v='Региональный ипотечный центр' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:30; Sa 10:00-16:00' />
+    <tag k='short_name' v='РИЦ' />
+    <tag k='website' v='http://ric-spb.com/' />
+  </node>
+  <node id='4951572655' timestamp='2018-11-24T01:22:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64835388' lat='59.92783957077' lon='30.31701009003'>
+    <tag k='contact:vk' v='https://vk.com/tsmobi' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='The МаSтерская' />
+    <tag k='website' v='http://themasterskaya.ru/' />
+  </node>
+  <node id='6086784427' timestamp='2018-11-24T01:22:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64835388' lat='59.92826127177' lon='30.31810243508'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:vk' v='https://vk.com/karina_salon' />
+    <tag k='name' v='Карина' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://свадьбанедорого.рф/' />
+  </node>
+</osm>
