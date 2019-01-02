@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2283447471' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65903230' lat='59.94252786976' lon='30.35956551999'>
+    <tag k='contact:vk' v='https://vk.com/alpina_shop' />
+    <tag k='name' v='Альпина' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='phone' v='+7 812 2758586' />
+    <tag k='shop' v='outdoor' />
+    <tag k='website' v='http://alpequip.ru/alpina-poi-promalp/spb-promalp' />
+  </node>
+  <node id='2869691338' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65903230' lat='59.94252268296' lon='30.35988723746'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='улица Рылеева' />
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «АМ-3 СПб»' />
+    <tag k='phone' v='+7 812 2753263' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/84669/' />
+  </node>
+  <node id='4876850394' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65903230' lat='59.94257838651' lon='30.35653710866'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/pickwick_pub' />
+    <tag k='name' v='Pickwick' />
+    <tag k='note' v='возможно занят BeardBeer или не работает' />
+  </node>
+  <node id='5249624715' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65903230' lat='59.94251430967' lon='30.36043013465'>
+    <tag k='contact:vk' v='https://vk.com/wgart' />
+    <tag k='name' v='WGart' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa, Su 11:00-19:00' />
+    <tag k='phone' v='+7 812 9248927' />
+    <tag k='shop' v='curtain' />
+    <tag k='website' v='http://wgart.ru/' />
+  </node>
+  <node id='6174140598' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94251699679' lon='30.36021733898'>
+    <tag k='contact:vk' v='https://vk.com/alldreamshotel' />
+    <tag k='name' v='All Dreams' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://alldreamshotel.ru/' />
+  </node>
+  <node id='6174140600' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94256771362' lon='30.35976827011'>
+    <tag k='contact:vk' v='https://vk.com/azgard_spb' />
+    <tag k='name' v='Асгард' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.azgard-spb.ru/' />
+  </node>
+  <node id='6174140601' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94255360758' lon='30.35976961121'>
+    <tag k='contact:vk' v='https://vk.com/terra_geodesy' />
+    <tag k='office' v='geodesist' />
+    <tag k='website' v='http://www.ooo-terra.ru/' />
+  </node>
+  <node id='6174140602' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94253882981' lon='30.35976961121'>
+    <tag k='int_name' v='Candy Tour' />
+    <tag k='name' v='Кэнди-тур' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://candy-tour.ru/' />
+  </node>
+  <node id='6174140603' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.942524444' lon='30.35977088904'>
+    <tag k='name' v='Теплоход СПб' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://teplohodspb.com/' />
+  </node>
+  <node id='6174140604' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94255495101' lon='30.35973876581'>
+    <tag k='contact:vk' v='https://vk.com/gusecheu' />
+    <tag k='name' v='Городское учреждение судебной экспертизы' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.goexpert.ru/' />
+  </node>
+  <node id='6174140605' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94253950153' lon='30.3597374247'>
+    <tag k='name' v='Питер бегом' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://piter-begom.ru/' />
+  </node>
+  <node id='6174140606' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94252500415' lon='30.35973730935'>
+    <tag k='contact:vk' v='https://vk.com/azbukaturizma' />
+    <tag k='name' v='Азбука туризма' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://azbuka-turizma.ru/' />
+  </node>
+  <node id='6174140607' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94253216383' lon='30.35930809601'>
+    <tag k='contact:vk' v='https://vk.com/lamodaru' />
+    <tag k='name' v='Lamoda' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.lamoda.ru/' />
+  </node>
+  <node id='6174140608' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94253551947' lon='30.35910693013'>
+    <tag k='contact:vk' v='https://vk.com/larougespb' />
+    <tag k='name' v='Ля Руж' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='6174140609' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94253706284' lon='30.35901440722'>
+    <tag k='name' v='Русский портрет' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='art' />
+    <tag k='website' v='http://rupo.ru/' />
+  </node>
+  <node id='6174140610' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94254149109' lon='30.35874893965'>
+    <tag k='brand' v='Согаз' />
+    <tag k='brand:wikidata' v='Q4426676' />
+    <tag k='contact:vk' v='https://vk.com/sogaz_med' />
+    <tag k='name' v='Согаз-мед' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-19:00; Sa 11:00-15:00' />
+    <tag k='website' v='https://www.sogaz-med.ru/branches/szfo/branch7.html' />
+  </node>
+  <node id='6174140611' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94254940757' lon='30.35827435773'>
+    <tag k='amenity' v='embassy' />
+    <tag k='country' v='KZ' />
+    <tag k='diplomatic' v='consulate_general' />
+    <tag k='name' v='Генеральное консульство Республики Казахстан' />
+    <tag k='website' v='http://mfa.gov.kz/ru/s-petersburg' />
+  </node>
+  <node id='6174140612' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94255417845' lon='30.35798834973'>
+    <tag k='contact:vk' v='https://vk.com/tkanimiamoda' />
+    <tag k='name' v='Mia Moda' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='https://tkanimiamoda.ru/' />
+  </node>
+  <node id='6174140613' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94257577421' lon='30.35757019982'>
+    <tag k='club' v='yes' />
+    <tag k='contact:vk' v='https://vk.com/binomrobo' />
+    <tag k='name' v='Бином' />
+    <tag k='website' v='http://binomrobo.ru/' />
+  </node>
+  <node id='6174140614' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94256113553' lon='30.35757128218'>
+    <tag k='amenity' v='language_school' />
+    <tag k='contact:vk' v='https://vk.com/infinitive_school' />
+    <tag k='name' v='Infinitive' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-22:00; Sa 10:00-14:00' />
+    <tag k='website' v='https://infinitive-spb.ru/' />
+  </node>
+  <node id='6174140615' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94256505763' lon='30.35733615749'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/moonrocketlounge' />
+    <tag k='name' v='Moon Rocket' />
+  </node>
+  <node id='6174140616' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94257100132' lon='30.35697984113'>
+    <tag k='name' v='Клео' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 10:00-20:00' />
+    <tag k='operator' v='ООО «Клео»' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='6174140617' timestamp='2018-12-31T03:51:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65903230' lat='59.94258021684' lon='30.35642738288'>
+    <tag k='contact:vk' v='https://vk.com/beardbeerbs' />
+    <tag k='name' v='BeardBeer' />
+    <tag k='opening_hours' v='12:00-22:00' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+</osm>

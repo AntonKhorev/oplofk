@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='446064739' timestamp='2018-12-15T19:46:49Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65507963' lat='59.919457287' lon='30.35374269806'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/bar_smiley' />
+    <tag k='int_name' v='Smiley' />
+    <tag k='name' v='Смайли' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='phone' v='+7 812 3269644' />
+  </node>
+  <node id='6139424243' timestamp='2018-12-15T19:46:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65507963' lat='59.91938473558' lon='30.35371050104'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='building' v='kiosk' />
+    <tag k='contact:instagram' v='https://www.instagram.com/walkmancoffee/' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Walkman Coffee' />
+  </node>
+  <node id='6139424244' timestamp='2018-12-15T19:46:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65507963' lat='59.91912375006' lon='30.3559269142'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:vk' v='https://vk.com/vestabride' />
+    <tag k='name' v='Vesta-Bride' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.vesta-bride.ru/' />
+  </node>
+  <node id='6139424245' timestamp='2018-12-15T19:46:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65507963' lat='59.91919162721' lon='30.35596991792'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/pitersmile' />
+    <tag k='name' v='Совершенство' />
+    <tag k='website' v='http://pitersmile.com/' />
+  </node>
+  <node id='6139424260' timestamp='2018-12-15T19:46:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65507963' lat='59.91905067088' lon='30.35624532476'>
+    <tag k='contact:vk' v='https://vk.com/mira_nails' />
+    <tag k='name' v='Miranails' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://www.miranails.top/' />
+  </node>
+  <node id='6139424266' timestamp='2018-12-15T19:46:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65507963' lat='59.91886704685' lon='30.35739951627'>
+    <tag k='office' v='lawyer' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00' />
+  </node>
+</osm>

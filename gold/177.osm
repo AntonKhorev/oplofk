@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='344885730' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='65798033' lat='59.93167392293' lon='30.36184109325' />
+  <node id='344885731' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65798033' lat='59.9311656231' lon='30.36323109325' />
+  <node id='344885732' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65798033' lat='59.93119632309' lon='30.36348799325' />
+  <node id='1416241560' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65798033' lat='59.93153659933' lon='30.36192128707' />
+  <node id='1416244124' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65798033' lat='59.93141315197' lon='30.36255420186'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='1683544140' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65798033' lat='59.9317597229' lon='30.36186029325'>
+    <tag k='contact:vk' v='https://vk.com/f.volchek' />
+    <tag k='disused:shop' v='bakery' />
+    <tag k='name' v='Булочные Ф. Вольчека' />
+    <tag k='website' v='http://fvolchek.ru/' />
+  </node>
+  <node id='2980074713' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65798033' lat='59.9311719231' lon='30.36328359325'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='2996733447' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65798033' lat='59.93161286974' lon='30.36200805083'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='3590941741' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65798033' lat='59.93156382804' lon='30.36196036512' />
+  <node id='3590941742' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65798033' lat='59.9315679094' lon='30.36183403932' />
+  <node id='3590941743' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65798033' lat='59.9315951381' lon='30.36187311738' />
+  <node id='6164796885' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65798033' lat='59.93159923382' lon='30.36238619168' />
+  <node id='6164796886' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65798033' lat='59.93173494746' lon='30.36201506553' />
+  <node id='6164796887' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65798033' lat='59.93151791044' lon='30.36226772829' />
+  <node id='6164796888' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65798033' lat='59.9317003025' lon='30.36183591155'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6164796889' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65798033' lat='59.93172572212' lon='30.36183091841' />
+  <way id='353314781' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65798033'>
+    <nd ref='1416241560' />
+    <nd ref='3590941741' />
+    <nd ref='3590941743' />
+    <nd ref='3590941742' />
+    <nd ref='1416241560' />
+    <tag k='building' v='pavilion' />
+    <tag k='building:levels' v='1' />
+    <tag k='contact:vk' v='https://vk.com/ispb_info' />
+    <tag k='information' v='office' />
+    <tag k='opening_hours' v='10:00-19:00' />
+    <tag k='operator' v='СПб ГБУ «Городское туристско-информационное бюро»' />
+    <tag k='tourism' v='information' />
+    <tag k='website' v='http://ispb.info/' />
+  </way>
+  <way id='658305456' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65798033'>
+    <nd ref='6164796885' />
+    <nd ref='344885732' />
+    <nd ref='2980074713' />
+    <nd ref='344885731' />
+    <nd ref='1416244124' />
+    <nd ref='6164796887' />
+    <nd ref='6164796885' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/schelkunchikspb' />
+    <tag k='name' v='Щелкунчик' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='website' v='http://www.schelkunchik.spb.ru/' />
+  </way>
+  <way id='658305458' timestamp='2018-12-26T23:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65798033'>
+    <nd ref='6164796889' />
+    <nd ref='6164796886' />
+    <nd ref='6164796885' />
+    <nd ref='6164796887' />
+    <nd ref='2996733447' />
+    <nd ref='344885730' />
+    <nd ref='6164796888' />
+    <nd ref='6164796889' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/club12879930' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Столовая №1' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Алгос-Фудс «Октябрьский»' />
+    <tag k='website' v='https://st1.one/' />
+  </way>
+</osm>

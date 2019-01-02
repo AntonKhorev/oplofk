@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6164724354' timestamp='2018-12-26T22:54:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65797456' lat='59.93133203011' lon='30.36046966776'>
+    <tag k='building' v='kiosk' />
+    <tag k='name' v='Ежедневник' />
+    <tag k='shop' v='newsagent' />
+  </node>
+  <node id='6164724355' timestamp='2018-12-26T22:54:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65797456' lat='59.93136226722' lon='30.36025039785'>
+    <tag k='building' v='kiosk' />
+    <tag k='name' v='Невский символ' />
+    <tag k='shop' v='gift' />
+  </node>
+</osm>

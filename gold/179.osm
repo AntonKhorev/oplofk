@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5664012018' timestamp='2018-12-27T02:19:21Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799920' lat='59.93767077421' lon='30.33736003357'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:phone' v='+7 812 5954042' />
+    <tag k='contact:vk' v='https://vk.com/menua.restaurant' />
+    <tag k='contact:website' v='http://menua.spb.ru' />
+    <tag k='name' v='Менуа' />
+    <tag k='opening_hours' v='Su-Th 12:00-23:00; Fr-Sa 12:00-24:00' />
+  </node>
+  <node id='5664012019' timestamp='2018-12-27T02:19:21Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799920' lat='59.93759895637' lon='30.33672819381'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:phone' v='+7 812 5705005' />
+    <tag k='contact:vk' v='https://vk.com/estespb' />
+    <tag k='contact:website' v='https://www.este-centre.ru' />
+    <tag k='healthcare' v='clinic' />
+    <tag k='healthcare:speciality' v='orthodontics' />
+    <tag k='name' v='Эсте' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+  </node>
+  <node id='6164967896' timestamp='2018-12-27T02:19:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799920' lat='59.93760602649' lon='30.33710501766'>
+    <tag k='contact:vk' v='https://vk.com/sunmar_turoperator' />
+    <tag k='name' v='Sunmar' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 12:00-17:00' />
+    <tag k='operator' v='ООО «Фреш туризм»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.sunmar.ru/offices/sunmar-fresh-tourizm-s-petersburg' />
+  </node>
+  <node id='6164967897' timestamp='2018-12-27T02:19:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799920' lat='59.93762088743' lon='30.33709198771'>
+    <tag k='contact:vk' v='https://vk.com/openkey_spb' />
+    <tag k='name' v='Золотой ключ и Ко' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='website' v='http://openkey.spb.ru/' />
+  </node>
+  <node id='6164967898' timestamp='2018-12-27T02:19:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799920' lat='59.93761532464' lon='30.33705261434'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/obsch' />
+    <tag k='name' v='Открытая Школа Бизнеса' />
+    <tag k='website' v='https://www.obs.ru/' />
+  </node>
+  <node id='6164967899' timestamp='2018-12-27T02:19:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799920' lat='59.93759888495' lon='30.3370640291'>
+    <tag k='contact:vk' v='https://vk.com/fantaziyatour' />
+    <tag k='name' v='Фантазия' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://fantaziya.spb.ru/' />
+  </node>
+</osm>

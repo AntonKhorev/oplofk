@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1297456425' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93070873967' lon='30.36527790369' />
+  <node id='1297456755' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93062187567' lon='30.36518980369' />
+  <node id='2613371832' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='65799230' lat='59.93073916359' lon='30.36423004665'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='2952628589' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65799230' lat='59.9306653077' lon='30.36523385369'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='2978827207' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='65799230' lat='59.93072820006' lon='30.36447187728'>
+    <tag k='brand' v='Ортека' />
+    <tag k='contact:email' v='info@orteka.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/orteka.rus' />
+    <tag k='contact:instagram' v='https://www.instagram.com/orteka_rus/' />
+    <tag k='contact:phone' v='+7 800 3333112' />
+    <tag k='contact:vk' v='https://vk.com/orteka_ru' />
+    <tag k='contact:website' v='https://orteka.ru/salon/orteka-nevskii-prospekt.php' />
+    <tag k='medical_supply' v='orthopedic' />
+    <tag k='name' v='Ортека' />
+    <tag k='name:ru' v='Ортека' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Никамед»' />
+    <tag k='shop' v='medical_supply' />
+  </node>
+  <node id='2978840045' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65799230' lat='59.93078027933' lon='30.36420008773'>
+    <tag k='contact:vk' v='https://vk.com/nevskybereg122' />
+    <tag k='name' v='Невский берег' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://nevskybereg.ru/' />
+  </node>
+  <node id='2980148380' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93087542788' lon='30.3643177782'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='2980148390' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65799230' lat='59.93069764735' lon='30.36522643162'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/zagadkabar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Загадка' />
+  </node>
+  <node id='4272135290' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65799230' lat='59.93086481773' lon='30.36342340335'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Bomba' />
+  </node>
+  <node id='5010434813' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93076264785' lon='30.36419004499'>
+    <tag k='alt_name' v='Причал 122' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Причаль!' />
+    <tag k='website' v='http://nevskybereg.ru/ru/nebesnyj-portal/restoran-nevskaya-volna' />
+  </node>
+  <node id='5010434814' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93070674362' lon='30.36464817472'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Кебаб-микс' />
+  </node>
+  <node id='5010434815' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93067769274' lon='30.3648845791'>
+    <tag k='addr:floor' v='3' />
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:vk' v='https://vk.com/catartclub' />
+    <tag k='name' v='Чеширский Кот' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='website' v='https://www.catartclub.com/' />
+  </node>
+  <node id='5010434816' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93067299274' lon='30.3649234791'>
+    <tag k='addr:floor' v='2' />
+    <tag k='contact:vk' v='https://vk.com/monte_carlo_dance' />
+    <tag k='dance:teaching' v='yes' />
+    <tag k='int_name' v='Monte Carlo' />
+    <tag k='leisure' v='dance' />
+    <tag k='name' v='Монте Карло' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-23:00; Sa-Su 10:00-20:00' />
+    <tag k='website' v='http://montecarlodance.ru/' />
+  </node>
+  <node id='5663623615' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65799230' lat='59.93077737864' lon='30.36406866237'>
+    <tag k='contact:vk' v='https://vk.com/brusnikabrand' />
+    <tag k='name' v='Brusnika' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Брусника Юг»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://brusnikabrand.com/' />
+  </node>
+  <node id='6164915332' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93062603396' lon='30.3651557768'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='6164915333' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93068451788' lon='30.36509615832' />
+  <node id='6164915334' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93069676522' lon='30.36500378491' />
+  <node id='6164915335' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93074640557' lon='30.36517299243' />
+  <node id='6164915336' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93064763957' lon='30.3649789802' />
+  <node id='6164915337' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93068866727' lon='30.36479458062'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Shawarma Mix' />
+  </node>
+  <node id='6164915341' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93088270803' lon='30.36426741831' />
+  <node id='6164915342' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.9308542075' lon='30.36446456836' />
+  <node id='6164915343' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.93071858131' lon='30.36439846998' />
+  <node id='6164915344' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230' lat='59.9307429089' lon='30.36419939909' />
+  <way id='658317868' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230'>
+    <nd ref='6164915336' />
+    <nd ref='6164915334' />
+    <nd ref='6164915333' />
+    <nd ref='6164915335' />
+    <nd ref='1297456425' />
+    <nd ref='2952628589' />
+    <nd ref='1297456755' />
+    <nd ref='6164915332' />
+    <nd ref='6164915336' />
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/planeta_zdorovo' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Планета здоровья' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Парус»' />
+    <tag k='website' v='https://planetazdorovo.ru/' />
+  </way>
+  <way id='658317870' timestamp='2018-12-27T01:15:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65799230'>
+    <nd ref='2980148380' />
+    <nd ref='6164915341' />
+    <nd ref='6164915344' />
+    <nd ref='2613371832' />
+    <nd ref='6164915343' />
+    <nd ref='6164915342' />
+    <nd ref='2980148380' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Subway' />
+    <tag k='brand:wikidata' v='Q244457' />
+    <tag k='brand:wikipedia' v='ru:Subway (сеть ресторанов)' />
+    <tag k='contact:email' v='subway@subway.ru' />
+    <tag k='contact:vk' v='https://vk.com/subwayrussia' />
+    <tag k='contact:website' v='https://subway.ru/stores/detail/53194/' />
+    <tag k='cuisine' v='sandwich' />
+    <tag k='diet:vegetarian' v='no' />
+    <tag k='int_name' v='Subway' />
+    <tag k='name' v='Сабвэй' />
+    <tag k='name:en' v='Subway' />
+    <tag k='name:ru' v='Сабвэй' />
+    <tag k='opening_hours' v='08:00-07:00' />
+    <tag k='operator' v='ИП Сидоров' />
+    <tag k='takeaway' v='yes' />
+  </way>
+</osm>

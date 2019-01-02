@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1501785216' timestamp='2016-01-14T20:58:06Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.9163112' lon='30.3518884' />
+  <node id='1501785234' timestamp='2016-01-14T20:58:05Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.9167616' lon='30.3521503' />
+  <node id='1501785237' timestamp='2016-01-14T20:58:06Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.916284' lon='30.3518702' />
+  <node id='1501785242' timestamp='2016-01-14T20:58:05Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.9162575' lon='30.351717' />
+  <node id='1501785258' timestamp='2016-01-14T20:58:05Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.916237' lon='30.3518387' />
+  <node id='1501785260' timestamp='2016-01-14T20:58:05Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.91681' lon='30.3521828' />
+  <node id='1501785270' timestamp='2016-01-14T20:58:05Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.9167548' lon='30.3519949' />
+  <node id='1501785284' timestamp='2016-01-14T20:58:06Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.9163317' lon='30.3517667' />
+  <node id='1501785295' timestamp='2016-01-14T20:58:05Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='36580454' lat='59.9168329' lon='30.3520473' />
+  <node id='2751753604' timestamp='2016-01-14T20:58:05Z' uid='446083' user='yuryleb' visible='true' version='2' changeset='36580454' lat='59.916732' lon='30.3521304' />
+  <way id='136891921' timestamp='2018-12-16T03:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65513639'>
+    <nd ref='1501785237' />
+    <nd ref='1501785258' />
+    <nd ref='1501785242' />
+    <nd ref='1501785284' />
+    <nd ref='1501785216' />
+    <nd ref='1501785237' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='chapel' />
+    <tag k='building:levels' v='1' />
+    <tag k='denomination' v='orthodox' />
+    <tag k='opening_hours' v='10:00-19:00' />
+    <tag k='religion' v='christian' />
+    <tag k='roof:shape' v='dome' />
+  </way>
+  <way id='391450373' timestamp='2018-12-16T03:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65513639'>
+    <nd ref='1501785270' />
+    <nd ref='1501785295' />
+    <nd ref='1501785260' />
+    <nd ref='1501785234' />
+    <nd ref='2751753604' />
+    <nd ref='1501785270' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='chapel' />
+    <tag k='building:levels' v='1' />
+    <tag k='denomination' v='orthodox' />
+    <tag k='opening_hours' v='10:00-19:00' />
+    <tag k='religion' v='christian' />
+    <tag k='roof:shape' v='dome' />
+  </way>
+</osm>

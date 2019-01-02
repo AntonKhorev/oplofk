@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3774553563' timestamp='2018-12-30T21:13:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65898143' lat='59.94194741729' lon='30.3517932288'>
+    <tag k='int_name' v='Arbat Nord' />
+    <tag k='name' v='Арбат Норд' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://arbat-nord.ru/' />
+  </node>
+  <node id='3797888848' timestamp='2018-12-30T22:05:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65899193' lat='59.94194383167' lon='30.35061741885'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cofe_slivki' />
+    <tag k='cuisine' v='european' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Кофе &amp; сливки' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa 10:00-22:00' />
+    <tag k='outdoor_seating' v='yes' />
+  </node>
+  <node id='3797888849' timestamp='2018-12-30T22:05:26Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65899193' lat='59.94189562311' lon='30.35373890127'>
+    <tag k='amenity' v='clinic' />
+    <tag k='contact:vk' v='https://vk.com/linlineclinic' />
+    <tag k='name' v='Линлайн' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='phone' v='+7 812 6120060' />
+    <tag k='website' v='https://www.linline-clinic.ru/st-petersburg/artilleriyskaya.html' />
+  </node>
+  <node id='6173625788' timestamp='2018-12-30T22:05:26Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65899193' lat='59.94190632469' lon='30.35304583019'>
+    <tag k='name' v='Комитет по контролю за имуществом' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.gov.spb.ru/gov/otrasl/kki/' />
+  </node>
+  <node id='6173625789' timestamp='2018-12-30T22:05:26Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65899193' lat='59.94191203697' lon='30.35267588328'>
+    <tag k='contact:vk' v='https://vk.com/scrapbooksale' />
+    <tag k='name' v='Scrapbooking' />
+    <tag k='shop' v='craft' />
+    <tag k='website' v='https://www.scrapbooksale.ru/' />
+  </node>
+  <node id='6173625790' timestamp='2018-12-30T22:05:26Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65899193' lat='59.94191663147' lon='30.35237832745'>
+    <tag k='contact:instagram' v='https://www.instagram.com/kabinet_hair_sevil/' />
+    <tag k='name' v='Kabinet' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='6173625791' timestamp='2018-12-30T22:05:26Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65899193' lat='59.94192569505' lon='30.35179133836'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Арбат' />
+    <tag k='opening_hours' v='07:30-24:00' />
+    <tag k='website' v='http://arbat-nord.ru/restoran-gostinicy/' />
+  </node>
+</osm>

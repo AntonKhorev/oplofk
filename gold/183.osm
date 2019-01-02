@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5209297572' timestamp='2018-12-30T22:57:46Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65900076' lat='59.94220963191' lon='30.35517238285'>
+    <tag k='contact:vk' v='https://vk.com/alkazarsalon' />
+    <tag k='name' v='Alkazar' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://alkazar.biz/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

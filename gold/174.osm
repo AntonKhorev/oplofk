@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1304505037' timestamp='2018-12-11T19:19:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65386874' lat='59.9326635' lon='30.3523484'>
+    <tag k='amenity' v='doctors' />
+    <tag k='health_specialty:ophthalmology' v='main' />
+    <tag k='name' v='Центр лечения катаракты' />
+    <tag k='opening_hours' v='Mo,Tu,Th,Sa 09:00-18:00; We,Fr 09:00-21:00' />
+    <tag k='website' v='https://katarakta.pro/' />
+  </node>
+  <node id='1304505065' timestamp='2018-12-21T18:45:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65676993' lat='59.9326555' lon='30.3529919'>
+    <tag k='name' v='Ломбард на Невском' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Ломбард на Невском»' />
+    <tag k='shop' v='pawnbroker' />
+    <tag k='website' v='https://lombard-nevsky.ru/' />
+  </node>
+  <node id='1304505074' timestamp='2018-12-11T19:19:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65386874' lat='59.932685' lon='30.3526065'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/mediest_ru' />
+    <tag k='name' v='МедиЭстетик' />
+    <tag k='website' v='https://mediest.ru/' />
+  </node>
+  <node id='1304505076' timestamp='2018-12-21T18:45:03Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65676993' lat='59.9326886' lon='30.353309'>
+    <tag k='contact:vk' v='https://vk.com/topgunspb' />
+    <tag k='name' v='Topgun' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://spb.topgunbarbershop.ru/barbershop/topgun-spbmayakovskaya/' />
+  </node>
+  <node id='1304505116' timestamp='2018-12-21T18:45:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65676993' lat='59.9327096' lon='30.3534613'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/policestationbar' />
+    <tag k='name' v='Police Station' />
+    <tag k='website' v='https://www.police-station.ru/' />
+  </node>
+  <node id='1304505126' timestamp='2018-12-21T18:45:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65676993' lat='59.9328568' lon='30.3529782'>
+    <tag k='amenity' v='bank' />
+    <tag k='branch' v='Невский' />
+    <tag k='brand' v='Промсвязьбанк' />
+    <tag k='brand:wikidata' v='Q649100' />
+    <tag k='contact:vk' v='https://vk.com/psbank_ru' />
+    <tag k='name' v='Промсвязьбанк' />
+    <tag k='opening_hours:juridical' v='Mo-Fr 09:30-17:30' />
+    <tag k='website' v='https://www.psbank.ru/Office?OfficeId=459' />
+  </node>
+  <node id='1304505134' timestamp='2018-12-21T18:45:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65676993' lat='59.9325752' lon='30.3532564'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:instagram' v='https://www.instagram.com/mundshtuk.spb/' />
+    <tag k='contact:vk' v='https://vk.com/mundshtuk_spb' />
+    <tag k='name' v='Mundshtuk' />
+    <tag k='opening_hours' v='12:00-06:00' />
+  </node>
+  <node id='1304505139' timestamp='2018-12-11T19:19:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65386874' lat='59.9325475' lon='30.3526564'>
+    <tag k='contact:vk' v='https://vk.com/bonnebeauty' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Bonne Beauty' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 11:00-20:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://bonne-beauty.ru/' />
+  </node>
+  <node id='1304505143' timestamp='2018-12-21T18:45:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65676993' lat='59.9328655' lon='30.3529082'>
+    <tag k='brand' v='Л1' />
+    <tag k='brand:wikidata' v='Q4251546' />
+    <tag k='contact:vk' v='https://vk.com/l1_company' />
+    <tag k='name' v='Л1' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='https://www.l1-stroy.ru/ContactsPoints/?id=10' />
+  </node>
+  <node id='1304505202' timestamp='2018-12-21T18:45:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65676993' lat='59.9334115' lon='30.3527199'>
+    <tag k='contact:vk' v='https://vk.com/hotel_vesta_spb' />
+    <tag k='int_name' v='Vesta' />
+    <tag k='name' v='Веста' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.vesta-hotel.ru/' />
+  </node>
+  <node id='6152315065' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9326542' lon='30.3524197'>
+    <tag k='amenity' v='stripclub' />
+    <tag k='contact:vk' v='https://vk.com/chicago_x_spb' />
+    <tag k='name' v='Chicago-X' />
+    <tag k='website' v='https://chicago-x.ru/' />
+  </node>
+  <node id='6152315066' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9335416' lon='30.3527711'>
+    <tag k='contact:vk' v='https://vk.com/mks_v' />
+    <tag k='name' v='MKC-V' />
+    <tag k='note' v='упоминается на mks-v.ru/mksv/novosti/513-otkryt-ofis-na-nevskom' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.mks-v.ru/' />
+  </node>
+  <node id='6152315067' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9337484' lon='30.3538874'>
+    <tag k='name' v='Жилищное агентство Центрального района' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='6152315068' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9332134' lon='30.3536067'>
+    <tag k='contact:vk' v='https://vk.com/barakatattoo' />
+    <tag k='name' v='Baraka' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='tattoo' />
+    <tag k='website' v='https://barakatattoo.ru/studio/nevskij-prospekt-mayakovskaya' />
+  </node>
+  <node id='6152315069' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9330815' lon='30.3535493'>
+    <tag k='addr:floor' v='2' />
+    <tag k='contact:vk' v='https://vk.com/porthostel' />
+    <tag k='name' v='Порт' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://porthostel.ru/' />
+  </node>
+  <node id='6152315070' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.933078' lon='30.3535778'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://www.instagram.com/lak.lab.studio/' />
+    <tag k='name' v='Палитра' />
+    <tag k='website' v='http://deti-art.ru/' />
+  </node>
+  <node id='6152315071' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9329728' lon='30.3535022'>
+    <tag k='contact:instagram' v='https://www.instagram.com/lak.lab.studio/' />
+    <tag k='name' v='Lak.Lab' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://lak-lab.ru/' />
+  </node>
+  <node id='6152315072' timestamp='2018-12-21T18:45:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9329297' lon='30.3534833'>
+    <tag k='amenity' v='music_school' />
+    <tag k='contact:vk' v='https://vk.com/academy_igorkrutoy_spb' />
+    <tag k='name' v='Академия Игоря Крутого' />
+    <tag k='website' v='http://aik-spb.ru/' />
+  </node>
+  <node id='6152315073' timestamp='2018-12-21T18:45:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9327818' lon='30.3534191'>
+    <tag k='name' v='Православный паломнический центр имени св. Афанасия Афонского' />
+    <tag k='office' v='religion' />
+  </node>
+  <node id='6152315074' timestamp='2018-12-21T18:45:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.9324835' lon='30.3530817'>
+    <tag k='contact:vk' v='https://vk.com/avepeter' />
+    <tag k='int_name' v='Ave Peter' />
+    <tag k='name' v='Аве Питер' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='6152315076' timestamp='2018-12-21T18:45:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65676993' lat='59.933165' lon='30.3525906'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/actertrening' />
+    <tag k='description' v='Школа актерского мастерства' />
+    <tag k='name' v='Первый шаг в кино' />
+    <tag k='website' v='http://actertrening.ru/' />
+  </node>
+</osm>
