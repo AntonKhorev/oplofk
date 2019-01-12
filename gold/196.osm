@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3929750318' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66233100' lat='59.9463392' lon='30.3539533'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Серебро' />
+    <tag k='shop' v='jewelry' />
+  </node>
+  <node id='5322743258' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66233100' lat='59.9462848' lon='30.3539512'>
+    <tag k='clothes' v='underwear' />
+    <tag k='level' v='-1' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5322743259' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66233100' lat='59.946275' lon='30.3540578'>
+    <tag k='craft' v='tailor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='5322743260' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66233100' lat='59.9463385' lon='30.3540245'>
+    <tag k='level' v='-1' />
+    <tag k='shop' v='optician' />
+  </node>
+  <node id='5322743261' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66233100' lat='59.9463207' lon='30.3539881'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='TianDe' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://saint-petersburg.rustiande.ru/' />
+  </node>
+  <node id='5322743262' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66233100' lat='59.9462932' lon='30.3540223'>
+    <tag k='contact:vk' v='https://vk.com/club13937708' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Афродита' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 11:00-19:00; Su 11:00-18:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://afrodita-spb.ru/' />
+  </node>
+  <node id='5708549730' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66233100' lat='59.946357' lon='30.353954'>
+    <tag k='contact:vk' v='https://vk.com/homycottondreams' />
+    <tag k='level' v='-1' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='bed' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5708549732' timestamp='2019-01-11T17:18:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66233100' lat='59.9463026' lon='30.3539875'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Товары из Финляндии и Швеции' />
+    <tag k='origin' v='finnish' />
+    <tag k='shop' v='general' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='6201560336' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66233100' lat='59.9463033' lon='30.3539164'>
+    <tag k='contact:vk' v='https://vk.com/ulakshmi' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Лакшми' />
+    <tag k='shop' v='esoteric' />
+    <tag k='website' v='https://ulakshmi.ru/' />
+  </node>
+  <node id='6201560339' timestamp='2019-01-11T17:18:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66233100' lat='59.946356' lon='30.3540606'>
+    <tag k='level' v='-1' />
+    <tag k='shop' v='toys' />
+  </node>
+</osm>

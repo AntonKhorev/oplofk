@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1696235831' timestamp='2019-01-12T10:10:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66247216' lat='59.93668938875' lon='30.36055385928'>
+    <tag k='contact:vk' v='https://vk.com/club91732834' />
+    <tag k='name' v='Brand&apos;s' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://www.boutonshoes.ru/' />
+  </node>
+  <node id='2401367149' timestamp='2019-01-12T10:10:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66247216' lat='59.9369344263' lon='30.3605642594'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Уралсиб' />
+    <tag k='brand:wikidata' v='Q4476693' />
+    <tag k='contact:vk' v='https://vk.com/bankuralsib' />
+    <tag k='name' v='Уралсиб' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-19:30' />
+    <tag k='operator' v='ПАО «Банк Уралсиб»' />
+    <tag k='operator:wikidata' v='Q4476693' />
+    <tag k='website' v='https://www.uralsib.ru/office-atm/office/data/158' />
+  </node>
+  <node id='2624824493' timestamp='2019-01-12T10:10:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66247216' lat='59.93687275436' lon='30.36056141059'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Pasta-Fresca-1578216338879286/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/pastafrescaspb/' />
+    <tag k='cuisine' v='italian' />
+    <tag k='name' v='Pasta Fresca' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5611461007' timestamp='2019-01-12T10:10:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66247216' lat='59.93662117755' lon='30.36054664907'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='building' v='kiosk' />
+    <tag k='contact:instagram' v='https://www.instagram.com/procoffee_piter/' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Pro Coffee' />
+    <tag k='opening_hours' v='08:00-20:00' />
+    <tag k='takeaway' v='only' />
+  </node>
+</osm>

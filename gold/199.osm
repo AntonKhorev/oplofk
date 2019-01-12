@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2624824495' timestamp='2019-01-12T09:38:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66246782' lat='59.93813537927' lon='30.36070286112'>
+    <tag k='contact:vk' v='https://vk.com/ulybka_radugi' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Улыбка радуги' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Южное»' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://www.r-ulybka.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='2946084334' timestamp='2019-01-12T09:38:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66246782' lat='59.93856695041' lon='30.36071105806'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafeliman' />
+    <tag k='cuisine' v='pizza' />
+    <tag k='name' v='Liman' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-00:00; Sa-Su 11:00-00:00' />
+  </node>
+  <node id='2946084345' timestamp='2019-01-12T09:38:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66246782' lat='59.93834591987' lon='30.36070655562'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Возрождение' />
+    <tag k='brand:wikidata' v='Q4114952' />
+    <tag k='contact:vk' v='https://vk.com/vozrozhdenie_time' />
+    <tag k='name' v='Возрождение' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-19:00; Sa 10:00-16:30' />
+    <tag k='website' v='https://www.vbank.ru/' />
+  </node>
+  <node id='6202940734' timestamp='2019-01-12T09:38:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66246782' lat='59.93862512685' lon='30.36071234459'>
+    <tag k='contact:instagram' v='https://www.instagram.com/dom_buta/' />
+    <tag k='contact:vk' v='https://vk.com/dom_buta852258' />
+    <tag k='craft' v='electronics_repair;engraver;key_cutter;optician;photographer;shoemaker;tailor;watchmaker' />
+    <tag k='name' v='Дом быта' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='dry_cleaning' />
+  </node>
+</osm>

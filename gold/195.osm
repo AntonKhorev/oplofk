@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3593498223' timestamp='2019-01-10T09:48:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66188869' lat='59.94083251847' lon='30.36084034514'>
+    <tag k='contact:vk' v='https://vk.com/zaoujut' />
+    <tag k='email' v='vos43@ujut.ru' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Уют' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 11:00-18:00' />
+    <tag k='phone' v='+7 812 5799276' />
+    <tag k='shop' v='window_blind' />
+    <tag k='website' v='https://www.ujut.com/roznichnym-klientam/sankt-peterburg/?ELEMENT_ID=72' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5611461008' timestamp='2019-01-10T09:48:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66188869' lat='59.9405609003' lon='30.36083181021'>
+    <tag k='contact:vk' v='https://vk.com/antenna_express' />
+    <tag k='name' v='Антенный супермаркет' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa, Su 11:00-19:00' />
+    <tag k='shop' v='electronics' />
+    <tag k='website' v='http://www.antenna.com.ru/index.php?p=shop3' />
+  </node>
+  <node id='6197818647' timestamp='2019-01-10T09:48:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66188869' lat='59.94031503079' lon='30.36082370588'>
+    <tag k='name' v='Сюрприз' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='houseware' />
+  </node>
+  <node id='6197818648' timestamp='2019-01-10T09:48:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66188869' lat='59.94052462418' lon='30.36083061933'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:facebook' v='https://www.facebook.com/tandbride/' />
+    <tag k='name' v='T &amp; Bride' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6197818650' timestamp='2019-01-10T09:48:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66188869' lat='59.94063611262' lon='30.36083412232'>
+    <tag k='name' v='Un Jour Ailleurs' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 11:00-19:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.unjourailleurs.com/ru/' />
+  </node>
+</osm>

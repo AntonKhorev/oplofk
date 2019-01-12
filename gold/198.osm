@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2583768679' timestamp='2019-01-12T08:26:33Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66245904' lat='59.93939342136' lon='30.36076385639'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/amulet35' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Амулет' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='operator' v='ООО «Альянс»' />
+    <tag k='website' v='https://www.amuletresto.com/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2624824496' timestamp='2019-01-12T08:30:31Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='66245943' lat='59.9388683' lon='30.3607654'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='РосАл' />
+    <tag k='opening_hours' v='11:00-22:00 open &quot;магазин и бар&quot;, 22:00-11:00 open &quot;бар&quot;' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://rosal24.ru/' />
+  </node>
+  <node id='2946084339' timestamp='2019-01-12T08:26:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66245904' lat='59.93914286378' lon='30.3607472999'>
+    <tag k='contact:vk' v='https://vk.com/yummpizza_spb' />
+    <tag k='disused:amenity' v='fast_food' />
+    <tag k='int_name' v='Yumm Pizza' />
+    <tag k='name' v='Ямм Пицца' />
+    <tag k='note' v='&quot;скоро&quot;' />
+    <tag k='website' v='https://www.yummpizza.ru/' />
+  </node>
+  <node id='3593498218' timestamp='2019-01-12T08:26:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66245904' lat='59.93909869444' lon='30.3607443973'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/theplace_bar.eda/' />
+    <tag k='name' v='The Place' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:00; Fr-Sa 11:00-24:00' />
+  </node>
+  <node id='6202833254' timestamp='2019-01-12T08:26:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66245904' lat='59.9388872' lon='30.3607305'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/midimodi' />
+    <tag k='name' v='Midi Modi' />
+    <tag k='website' v='https://midimodi.cafe/' />
+  </node>
+  <node id='6202833256' timestamp='2019-01-12T08:26:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66245904' lat='59.93927748485' lon='30.36079287395'>
+    <tag k='contact:vk' v='https://vk.com/globalconsalting' />
+    <tag k='name' v='Глобал Консалтинг' />
+    <tag k='note' v='адрес упоминался на global-cons.ru/dzerzhinskiy-rayonnyy-sud-sankt-peterburga.html' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='http://global-cons.ru/' />
+  </node>
+  <node id='6202833257' timestamp='2019-01-12T08:26:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66245904' lat='59.93927831905' lon='30.36075620142'>
+    <tag k='contact:vk' v='https://vk.com/superhostel' />
+    <tag k='int_name' v='SuperHostel' />
+    <tag k='name' v='СуперХостел' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://superhostel.ru/hostels/vosstaniya-35' />
+  </node>
+</osm>
