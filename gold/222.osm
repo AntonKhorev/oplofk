@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1211887473' timestamp='2019-01-26T00:19:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66646897' lat='59.93788462183' lon='30.36383475604'>
+    <tag k='contact:vk' v='https://vk.com/mesopharmspb' />
+    <tag k='name' v='Mesopharm' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://www.mesopharm.ru/' />
+  </node>
+  <node id='6237225764' timestamp='2019-01-26T00:19:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66646897' lat='59.9378698315' lon='30.36474909061'>
+    <tag k='brand' v='Kartell' />
+    <tag k='brand:wikidata' v='Q2262005' />
+    <tag k='contact:facebook' v='https://www.facebook.com/kartellflagrussia' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kartellflagstore/' />
+    <tag k='contact:vk' v='https://vk.com/kartellflag' />
+    <tag k='name' v='Kartell' />
+    <tag k='website' v='http://www.kartell.com/' />
+  </node>
+  <node id='6237225765' timestamp='2019-01-26T00:19:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66646897' lat='59.93787928299' lon='30.36420222297'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/mc_anledent' />
+    <tag k='name' v='Анле-Дент' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Озерной»' />
+    <tag k='website' v='https://anle-dent.ru/kontakty/vosstaniya/' />
+  </node>
+</osm>

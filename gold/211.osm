@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2282044884' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='66522509' lat='59.94302807516' lon='30.36010967041'>
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='улица Восстания' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='capacity' v='100' />
+    <tag k='contact:vk' v='https://vk.com/spbpar' />
+    <tag k='cuisine' v='international' />
+    <tag k='delivery' v='no' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Par' />
+    <tag k='opening_hours' v='11:00-02:00' />
+    <tag k='operator' v='ООО «Компания Гранд»' />
+    <tag k='phone' v='+7 812 9850074' />
+    <tag k='smoking' v='yes' />
+    <tag k='takeaway' v='no' />
+    <tag k='website' v='https://www.spbpar.ru/vosstaniya' />
+    <tag k='wlan' v='free' />
+  </node>
+  <node id='2283447469' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66522509' lat='59.9430203344' lon='30.36046097163'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bar_smiley_spb/' />
+    <tag k='name' v='Smiley' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2283447478' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66522509' lat='59.94303015488' lon='30.36001664418'>
+    <tag k='contact:vk' v='https://vk.com/mirsh' />
+    <tag k='name' v='Планета Секонд Хенд' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ООО «Милена»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://planetashspb.ru/' />
+  </node>
+  <node id='2557306076' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66522509' lat='59.94311621561' lon='30.3556826517'>
+    <tag k='contact:vk' v='https://vk.com/club144216822' />
+    <tag k='disused:shop' v='convenience' />
+    <tag k='name' v='СантаМаг' />
+    <tag k='website' v='http://santa-mag.ru/' />
+  </node>
+  <node id='6226231991' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94302716311' lon='30.36016004026'>
+    <tag k='contact:vk' v='https://vk.com/spbshisha' />
+    <tag k='name' v='Мир кальянов' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:30, Fr-Sa 11:00-02:00' />
+    <tag k='shop' v='tobacco' />
+    <tag k='website' v='https://www.alkalyans.ru/shops/restoran_par2871/' />
+  </node>
+  <node id='6226231992' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94303250179' lon='30.35990394169'>
+    <tag k='contact:vk' v='https://vk.com/iriskprospb' />
+    <tag k='name' v='Irisk Professional' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://www.irisk.ru/' />
+  </node>
+  <node id='6226231993' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94303750485' lon='30.35966368595'>
+    <tag k='name' v='ArtApart' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotel-art-apart.ru/' />
+  </node>
+  <node id='6226231995' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94304130454' lon='30.3594789437'>
+    <tag k='contact:vk' v='https://vk.com/brandrussia' />
+    <tag k='name' v='Mother Russia' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://motherrussia.ru/' />
+  </node>
+  <node id='6226231996' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94306052374' lon='30.35855047289'>
+    <tag k='contact:vk' v='https://vk.com/simmetriyaspa' />
+    <tag k='name' v='Симметрия' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://simmetriyaspa.ru/' />
+  </node>
+  <node id='6226231997' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.9430681205' lon='30.3581885589'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/gruzdev_clinic' />
+    <tag k='name' v='Клиника доктора Груздева' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://www.gruzdevclinic.ru/' />
+  </node>
+  <node id='6226231998' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94307419736' lon='30.35789636638'>
+    <tag k='amenity' v='events_venue' />
+    <tag k='contact:vk' v='https://vk.com/domgnomaclub' />
+    <tag k='name' v='Дом Гнома' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00' />
+    <tag k='operator' v='ООО «Уютный дом»' />
+  </node>
+  <node id='6226231999' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94307977069' lon='30.35762838479'>
+    <tag k='contact:vk' v='https://vk.com/numero_tredici' />
+    <tag k='int_name' v='Numero Tredici' />
+    <tag k='name' v='Ткани №13' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='https://tkani13.ru/' />
+  </node>
+  <node id='6226232000' timestamp='2019-01-22T00:35:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66522509' lat='59.94308603072' lon='30.35732794061'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Центр лечения волос' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-21:00; Sa 11:00-19:00' />
+    <tag k='website' v='http://www.doctorvolos-spb.ru/' />
+  </node>
+</osm>

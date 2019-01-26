@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6225662880' timestamp='2019-01-21T18:49:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66514540' lat='59.93056407749' lon='30.35016794703'>
+    <tag k='contact:vk' v='https://vk.com/wearhouse' />
+    <tag k='name' v='Wear House' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.wearhouse.ru/' />
+  </node>
+  <node id='6225662881' timestamp='2019-01-21T18:49:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66514540' lat='59.92991480492' lon='30.34985268065'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №112' />
+    <tag k='website' v='http://gbdou112.3dn.ru/' />
+  </node>
+  <node id='6225662882' timestamp='2019-01-21T18:49:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66514540' lat='59.92963111202' lon='30.34971170535'>
+    <tag k='contact:vk' v='https://vk.com/amadey.group' />
+    <tag k='name' v='Амадей' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://amadey-group.ru/' />
+  </node>
+  <node id='6225662883' timestamp='2019-01-21T18:49:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66514540' lat='59.92957216281' lon='30.3496496366'>
+    <tag k='brand' v='CompAir' />
+    <tag k='brand:wikidata' v='Q1120849' />
+    <tag k='name' v='Комптех' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.comptechspb.com/' />
+  </node>
+  <node id='6225662884' timestamp='2019-01-21T18:49:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66514540' lat='59.92956826323' lon='30.34968095946'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/tcsexrf' />
+    <tag k='name' v='Секс.рф' />
+    <tag k='website' v='https://spb.sexrf.com/' />
+  </node>
+</osm>

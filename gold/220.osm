@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4988799222' timestamp='2019-01-25T01:12:47Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='66617451' lat='59.93843915911' lon='30.36498938376'>
+    <tag k='brand' v='Spar' />
+    <tag k='brand:wikidata' v='Q610492' />
+    <tag k='brand:wikipedia' v='ru:Spar' />
+    <tag k='contact:email' v='info@spar.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sparspb' />
+    <tag k='contact:vk' v='https://vk.com/spar_spb' />
+    <tag k='name' v='Spar' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 800 2344776;+7 812 6221090' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.sparspb.ru' />
+  </node>
+</osm>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6225677388' timestamp='2019-01-21T19:00:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66514749' lat='59.94151112204' lon='30.34958009642'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/bistrolunchbox' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='ЛанчБокс' />
+    <tag k='website' v='https://www.bistrolunchbox.ru/' />
+  </node>
+</osm>

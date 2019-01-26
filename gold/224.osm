@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1138394588' timestamp='2011-02-06T02:11:51Z' uid='231182' user='klif22' visible='true' version='1' changeset='7199498' lat='59.9373315' lon='30.3641096' />
+  <node id='4761642578' timestamp='2017-03-29T11:10:26Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47256908' lat='59.937334' lon='30.3639828'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4761642579' timestamp='2017-03-29T11:10:26Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47256908' lat='59.9373841' lon='30.3641132' />
+  <node id='4761642580' timestamp='2017-03-29T11:10:26Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47256908' lat='59.9373871' lon='30.3639674' />
+  <node id='4761642581' timestamp='2017-03-29T11:10:26Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47256908' lat='59.9373344' lon='30.3639628' />
+  <node id='4761642582' timestamp='2019-01-26T00:52:42Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647172' lat='59.93736066108' lon='30.36347276627'>
+    <tag k='contact:email' v='nstarhostel@yandex.ru' />
+    <tag k='contact:vk' v='https://vk.com/north_star_hostel' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Северная звезда' />
+    <tag k='phone' v='+7 911 1502618' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://nshostel.ru/' />
+  </node>
+  <node id='6237241468' timestamp='2019-01-26T00:52:42Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647172' lat='59.93736928757' lon='30.36305717165'>
+    <tag k='contact:vk' v='https://vk.com/public171837214' />
+    <tag k='name' v='Ковенский' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://kovensky-hotel.ru/' />
+  </node>
+  <node id='6237241469' timestamp='2019-01-26T00:52:42Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647172' lat='59.9373448891' lon='30.36444873452'>
+    <tag k='contact:vk' v='https://vk.com/mislistudio' />
+    <tag k='name' v='mislistudio' />
+    <tag k='note' v='магазин, скорее всего, в другом месте' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.mislistudio.com/' />
+  </node>
+  <way id='483428630' timestamp='2019-01-26T00:52:42Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647172'>
+    <nd ref='4761642581' />
+    <nd ref='4761642580' />
+    <nd ref='4761642579' />
+    <nd ref='1138394588' />
+    <nd ref='4761642578' />
+    <nd ref='4761642581' />
+    <tag k='beauty' v='nails' />
+    <tag k='contact:vk' v='https://vk.com/leonanails' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Leona' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='operator' v='ИП Пискарев Д. Г.' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://salon-leona.ru/' />
+  </way>
+</osm>

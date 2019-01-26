@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6237210287' timestamp='2019-01-25T23:52:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66646602' lat='59.9380951261' lon='30.36419123277'>
+    <tag k='contact:vk' v='https://vk.com/antreesol' />
+    <tag k='name' v='Антресоль' />
+    <tag k='note' v='возможно вместе с D.O.M.' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6237210288' timestamp='2019-01-25T23:52:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66646602' lat='59.93808053263' lon='30.36419139116'>
+    <tag k='contact:vk' v='https://vk.com/open_manufactory' />
+    <tag k='name' v='D.O.M.' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6237210289' timestamp='2019-01-25T23:52:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66646602' lat='59.93821848649' lon='30.36465062235'>
+    <tag k='contact:vk' v='https://vk.com/stationhotels' />
+    <tag k='name' v='Station L1' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://station-hotels.ru/l1' />
+  </node>
+</osm>

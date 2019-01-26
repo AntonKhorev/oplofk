@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5686394902' timestamp='2018-06-13T01:28:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59794521' lat='59.942604' lon='30.3534741'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/krasotamed' />
+    <tag k='name' v='Бионика' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Планета красоты»' />
+    <tag k='website' v='http://www.krasotamed.ru/' />
+  </node>
+  <node id='6226085312' timestamp='2019-01-21T22:52:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66520665' lat='59.94281945914' lon='30.35348699918'>
+    <tag k='name' v='Manly Pro' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://www.manlycosmetics.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1135910548' timestamp='2019-01-24T23:28:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66616283' lat='59.94206879195' lon='30.3604401887' />
+  <node id='1135910759' timestamp='2019-01-24T23:28:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66616283' lat='59.94207206071' lon='30.36006710552' />
+  <node id='1135910815' timestamp='2019-01-24T23:28:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66616283' lat='59.94207138182' lon='30.36014459208' />
+  <node id='1135910903' timestamp='2018-07-04T11:47:55Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60406495' lat='59.9423217' lon='30.3604498' />
+  <node id='1438400705' timestamp='2018-07-04T11:47:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60406495' lat='59.9423279' lon='30.3600751' />
+  <node id='5421397532' timestamp='2019-01-24T23:28:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66616283' lat='59.94208970336' lon='30.3604409834'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5738911322' timestamp='2018-07-04T11:47:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='60406495' lat='59.9423258' lon='30.3602044'>
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='улица Рылеева' />
+  </node>
+  <way id='98186679' timestamp='2019-01-24T23:28:04Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66616283'>
+    <nd ref='1438400705' />
+    <nd ref='5738911322' />
+    <nd ref='1135910903' />
+    <nd ref='5421397532' />
+    <nd ref='1135910548' />
+    <nd ref='1135910815' />
+    <nd ref='1135910759' />
+    <nd ref='1438400705' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='улица Восстания' />
+    <tag k='amenity' v='courthouse' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Дзержинский районный суд Санкт-Петербурга' />
+    <tag k='website' v='http://dzr.spb.sudrf.ru/' />
+  </way>
+</osm>

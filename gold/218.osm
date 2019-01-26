@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3593498220' timestamp='2019-01-25T00:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66616717' lat='59.94154487842' lon='30.36035839685'>
+    <tag k='contact:vk' v='https://vk.com/bagginsru' />
+    <tag k='name' v='Baggins' />
+    <tag k='opening_hours' v='Mo-Su 10:00-20:00' />
+    <tag k='phone' v='+7 812 9924825' />
+    <tag k='shop' v='bag' />
+    <tag k='website' v='https://baggins.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='3892595656' timestamp='2019-01-25T00:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66616717' lat='59.94108442047' lon='30.36032039919'>
+    <tag k='brand' v='Полушка' />
+    <tag k='brand:wikidata' v='Q4371080' />
+    <tag k='name' v='Полушка' />
+    <tag k='name:ru' v='Полушка' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Сити Ритейл»' />
+    <tag k='phone' v='+7 800 3330019' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.polushka.info/vkladki-karty/sankt-peterburg/sapernyj-per-d-16-258' />
+  </node>
+  <node id='5249624714' timestamp='2019-01-25T00:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66616717' lat='59.94133526636' lon='30.36034128786'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/club141062502' />
+    <tag k='fast_food' v='Shawarma' />
+    <tag k='name' v='Шаверма+' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='takeaway' v='yes' />
+  </node>
+</osm>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='762198012' timestamp='2019-01-25T00:27:03Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66616872' lat='59.94103421436' lon='30.36198459614'>
+    <tag k='name' v='Тоаз' />
+    <tag k='note' v='возможно не работает' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://toazhotel.com/' />
+  </node>
+  <node id='6235100838' timestamp='2019-01-25T00:27:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66616872' lat='59.94102443536' lon='30.36252536241'>
+    <tag k='contact:vk' v='https://vk.com/spb_petropol' />
+    <tag k='name' v='Петрополь' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='http://www.petropol.ru/' />
+  </node>
+</osm>

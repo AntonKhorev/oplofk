@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2283447469' timestamp='2019-01-22T00:34:59Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66522509' lat='59.9430203' lon='30.360461'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bar_smiley_spb/' />
+    <tag k='name' v='Smiley' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='5249624715' timestamp='2018-12-31T03:51:19Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65903230' lat='59.9425143' lon='30.3604301'>
+    <tag k='contact:vk' v='https://vk.com/wgart' />
+    <tag k='name' v='WGart' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa, Su 11:00-19:00' />
+    <tag k='phone' v='+7 812 9248927' />
+    <tag k='shop' v='curtain' />
+    <tag k='website' v='http://wgart.ru/' />
+  </node>
+  <node id='5249624716' timestamp='2019-01-24T00:24:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66584660' lat='59.94282642463' lon='30.36045031428'>
+    <tag k='contact:vk' v='https://vk.com/belorusdvorik' />
+    <tag k='name' v='Белорусский дворик' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='http://belorusdvorik.ru/' />
+  </node>
+  <node id='6231371486' timestamp='2019-01-24T00:24:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66584660' lat='59.94260104604' lon='30.36043636719'>
+    <tag k='name' v='Детский магазин' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='toys' />
+  </node>
+  <node id='6231371487' timestamp='2019-01-24T00:24:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66584660' lat='59.94267511334' lon='30.36044095068'>
+    <tag k='contact:vk' v='https://vk.com/bags_mattioli' />
+    <tag k='name' v='Mattioli' />
+    <tag k='shop' v='bag' />
+    <tag k='website' v='https://mattiolispb.ru/' />
+  </node>
+  <node id='6231371488' timestamp='2019-01-24T00:24:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66584660' lat='59.94279202478' lon='30.36044818551'>
+    <tag k='name' v='Real' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://manreal.ru/' />
+  </node>
+  <node id='6231371489' timestamp='2019-01-24T00:24:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66584660' lat='59.94286407025' lon='30.36045141064'>
+    <tag k='craft' v='jeweller;key_cutter;watchmaker' />
+    <tag k='name' v='Дом быта' />
+  </node>
+</osm>
