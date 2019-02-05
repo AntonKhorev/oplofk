@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='747186455' timestamp='2018-07-11T00:23:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='60592405' lat='59.9351424' lon='30.3267078' />
+  <node id='1118634203' timestamp='2018-07-11T00:23:26Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='60592405' lat='59.9348189' lon='30.3291775'>
+    <tag k='brand' v='New Balance' />
+    <tag k='brand:wikidata' v='Q742988' />
+    <tag k='contact:vk' v='https://vk.com/nb_russia' />
+    <tag k='name' v='New Balance' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ЗАО «Джамилько»' />
+    <tag k='operator:wikidata' v='Q4159814' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='https://newbalance.ru/' />
+  </node>
+  <node id='1522675067' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='66667333' lat='59.93502885204' lon='30.32747649886'>
+    <tag k='contact:vk' v='https://vk.com/jhouse_spb' />
+    <tag k='name' v='Российский ювелирный дом' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='phone' v='+7 812 3102883' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://rus-jewelry.com/' />
+  </node>
+  <node id='4340518699' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66667333' lat='59.9349682' lon='30.3279679'>
+    <tag k='contact:facebook' v='https://www.facebook.com/elbrus.store' />
+    <tag k='name' v='каRUSель' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='http://elbrus.store/' />
+  </node>
+  <node id='5221740325' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66667333' lat='59.93492351522' lon='30.32833061911'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/sb_burgers' />
+    <tag k='name' v='SB Burgers' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:00; Fr-Sa 00:00-24:00' />
+    <tag k='website' v='http://sbburgers.me/' />
+  </node>
+  <node id='5255950845' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66667333' lat='59.93488530375' lon='30.32864024865'>
+    <tag k='amenity' v='bank' />
+    <tag k='bic' v='VTBRRUMM' />
+    <tag k='brand' v='ВТБ' />
+    <tag k='brand:wikidata' v='Q1549389' />
+    <tag k='contact:email' v='info@vtb.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vtbrussia' />
+    <tag k='contact:ok' v='https://ok.ru/vtb' />
+    <tag k='contact:phone' v='+7 800 2007799' />
+    <tag k='contact:twitter' v='https://twitter.com/vtb' />
+    <tag k='contact:vk' v='https://vk.com/vtb' />
+    <tag k='contact:website' v='https://www.vtb.ru/o-banke/kontakty/otdeleniya/imported/office-2386/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/vtbgroup' />
+    <tag k='name' v='ВТБ' />
+    <tag k='name:en' v='VTB' />
+    <tag k='name:ru' v='ВТБ' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='operator' v='Банк ВТБ (публичное акционерное общество)' />
+    <tag k='operator:wikidata' v='Q1549389' />
+    <tag k='operator:wikipedia' v='ru:Банк ВТБ' />
+  </node>
+  <node id='5255950846' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66667333' lat='59.93493013156' lon='30.32827776467'>
+    <tag k='contact:vk' v='https://vk.com/present_ru' />
+    <tag k='name' v='Наследие' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://www.present.ru/salony/sankt-peterburg-nevskiy-pr-29/' />
+  </node>
+  <node id='5255950848' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66667333' lat='59.93498671672' lon='30.32781910822'>
+    <tag k='clothes' v='leather;fur' />
+    <tag k='int_name' v='Broadway' />
+    <tag k='name' v='Бродвей' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.nevskiy-broadway.ru/shops/2/' />
+  </node>
+  <node id='5255950849' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66667333' lat='59.93504746621' lon='30.32732553633'>
+    <tag k='brand' v='Билайн' />
+    <tag k='brand:wikidata' v='Q402880' />
+    <tag k='brand:wikipedia' v='ru:Билайн' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Beelinerus' />
+    <tag k='contact:instagram' v='https://www.instagram.com/beelinerus' />
+    <tag k='contact:ok' v='https://ok.ru/beeline' />
+    <tag k='contact:phone' v='+7 800 7000611' />
+    <tag k='contact:twitter' v='https://twitter.com/Beeline_RUS' />
+    <tag k='contact:vk' v='https://vk.com/beeline' />
+    <tag k='contact:website' v='https://spb.beeline.ru/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/beelineru' />
+    <tag k='name' v='Билайн' />
+    <tag k='name:en' v='Beeline' />
+    <tag k='name:ru' v='Билайн' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ПАО «ВымпелКом»' />
+    <tag k='shop' v='mobile_phone' />
+  </node>
+  <node id='5255950850' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66667333' lat='59.93506294329' lon='30.32720135093'>
+    <tag k='name' v='Ам!' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ИП Кудрявцев А.В.' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://www.amtasty.ru/' />
+  </node>
+  <node id='5479085339' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66667333' lat='59.9348367' lon='30.3290337'>
+    <tag k='brand' v='Timberland' />
+    <tag k='brand:wikidata' v='Q1539185' />
+    <tag k='contact:vk' v='https://vk.com/timbrussia' />
+    <tag k='name' v='Timberland' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ЗАО «Джамилько»' />
+    <tag k='operator:wikidata' v='Q4159814' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='https://timberland.ru/helpdesc/shops/sankt_peterburg/77703/' />
+  </node>
+  <node id='6238873486' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66667333' lat='59.9349543595' lon='30.32808137204'>
+    <tag k='brand' v='Фабрика имени Крупской' />
+    <tag k='brand:wikidata' v='Q4480319' />
+    <tag k='name' v='Фирменный магазин фабрики имени Крупской' />
+    <tag k='note' v='название дано в том виде, в котором написано на дверях; см. также https://www.restate.ru/material/na-nevskom-otkrylsya-flagmanskiy-magazin-fabriki-im-krupskoy-168834.html' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='confectionery' />
+  </node>
+  <node id='6238873491' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66667333' lat='59.93513757572' lon='30.32674686354'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6238873492' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66667333' lat='59.9350903827' lon='30.32712899846'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6238873493' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66667333' lat='59.93502764102' lon='30.32712077614' />
+  <node id='6238873494' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66667333' lat='59.93508774527' lon='30.32715035445' />
+  <node id='6238873495' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66667333' lat='59.93508160256' lon='30.32668382624' />
+  <way id='666380373' timestamp='2019-01-27T00:40:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66667333'>
+    <nd ref='6238873495' />
+    <nd ref='6238873493' />
+    <nd ref='6238873494' />
+    <nd ref='6238873492' />
+    <nd ref='6238873491' />
+    <nd ref='747186455' />
+    <nd ref='6238873495' />
+    <tag k='brand' v='Рив Гош' />
+    <tag k='brand:wikidata' v='Q4394330' />
+    <tag k='contact:vk' v='https://vk.com/rivegauche' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Рив Гош' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «АромаЛюкс»' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://www.rivegauche.ru/content/nevskiy-pr-27-3' />
+  </way>
+</osm>

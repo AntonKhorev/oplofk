@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2952630826' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='66793116' lat='59.94789880964' lon='30.3588846431'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/cafeizum/' />
+    <tag k='contact:vk' v='https://vk.com/cafeizum' />
+    <tag k='cuisine' v='caucasian;azerbaijanian' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Изюм' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='phone' v='+7 812 9392576' />
+    <tag k='website' v='http://cafe-izum.com/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5964510971' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66793116' lat='59.94790348274' lon='30.35851766552'>
+    <tag k='contact:vk' v='https://vk.com/vinofeel' />
+    <tag k='name' v='VinoFeel' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ООО «Винофил»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://vinofeel.ru/' />
+  </node>
+  <node id='6248763728' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94790801658' lon='30.35816162276'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='6248763729' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94791204197' lon='30.35784787229'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Винторг»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/84706/' />
+  </node>
+  <node id='6248763730' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.9479148307' lon='30.35762651067'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Мерани' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='phone' v='+7 921 3081441' />
+  </node>
+  <node id='6248763731' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94791661044' lon='30.35749921248'>
+    <tag k='clothes' v='children' />
+    <tag k='contact:vk' v='https://vk.com/kidsbest_ru' />
+    <tag k='name' v='Лучшее – Детям!' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.kidsbest.ru/' />
+  </node>
+  <node id='6248763732' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94792483173' lon='30.3568417721'>
+    <tag k='contact:vk' v='https://vk.com/skaprizyvnik' />
+    <tag k='name' v='Призывник' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://www.prizyv.net/' />
+  </node>
+  <node id='6248763733' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94792628445' lon='30.35672795469'>
+    <tag k='contact:vk' v='https://vk.com/dance_open' />
+    <tag k='name' v='Dance Open' />
+    <tag k='office' v='ngo' />
+    <tag k='website' v='http://www.danceopen.com/' />
+  </node>
+  <node id='6248763734' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94792695333' lon='30.35667554893'>
+    <tag k='name' v='Oasis' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.oasis.spb.ru/' />
+  </node>
+  <node id='6248763735' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94793008507' lon='30.35643018366'>
+    <tag k='contact:instagram' v='https://www.instagram.com/freedomspb12/' />
+    <tag k='name' v='Free-дом' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='6248763736' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94793734049' lon='30.35585876382'>
+    <tag k='name' v='Управление по вопросам миграции ГУ МВД' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://78.мвд.рф/ms' />
+  </node>
+  <node id='6248763741' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.9479691958' lon='30.35336633647'>
+    <tag k='name' v='Центр пенсионного обслуживания ГУ МВД' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://78.мвд.рф/gumvd/structure/item/609276/' />
+  </node>
+  <node id='6248763742' timestamp='2019-01-31T07:45:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66793116' lat='59.94798187685' lon='30.35237334492'>
+    <tag k='name' v='Гостиница ГУ МВД' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://78.мвд.рф/slujba/priem/gostinica' />
+  </node>
+</osm>

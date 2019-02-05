@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1085331347' timestamp='2018-10-11T11:24:07Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='63413490' lat='59.9309464' lon='30.3601421'>
+    <tag k='contact:vk' v='https://vk.com/zoloto585gold' />
+    <tag k='name' v='585 Gold' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://zoloto585.ru/about/address/sankt-peterburg/211/' />
+  </node>
+  <node id='1085331754' timestamp='2018-08-14T21:46:08Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='61670944' lat='59.9310055' lon='30.3596928'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Cofix' />
+    <tag k='brand:wikidata' v='Q16132717' />
+    <tag k='brand:wikipedia' v='en:Cofix' />
+    <tag k='contact:email' v='info@cofix.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/cofixrussia' />
+    <tag k='contact:instagram' v='https://www.instagram.com/cofixrussia' />
+    <tag k='contact:phone' v='+7 996 7661445' />
+    <tag k='contact:vk' v='https://vk.com/cofixrussia' />
+    <tag k='contact:website' v='http://www.cofix.ru' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='delivery' v='no' />
+    <tag k='name' v='Cofix' />
+    <tag k='name:en' v='Cofix' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='ООО «Урбан Кофикс СПб»' />
+  </node>
+  <node id='1284680602' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='66944251' lat='59.9310244' lon='30.3595416'>
+    <tag k='alt_name' v='ПрофМатрёшка' />
+    <tag k='contact:vk' v='https://vk.com/profmatreshka' />
+    <tag k='name' v='Матрёшка' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ИП Разумов Д.В.' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://profmatreshka.ru/' />
+  </node>
+  <node id='1284680653' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='66944251' lat='59.9310961' lon='30.3589687'>
+    <tag k='alt_name' v='spb-souvenirs.ru' />
+    <tag k='name' v='Taste of Russia' />
+    <tag k='operator' v='ООО «ТФ «Сувенир»' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://spb-souvenirs.ru' />
+  </node>
+  <node id='1284680728' timestamp='2018-12-04T12:31:55Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='65158813' lat='59.9311781' lon='30.3583069'>
+    <tag k='brand' v='Алёнка' />
+    <tag k='brand:wikidata' v='Q4063776' />
+    <tag k='contact:vk' v='https://vk.com/shopalenka' />
+    <tag k='name' v='Алёнка' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ООО «Объединенная кондитерская сеть»' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='https://shop.alenka.ru/' />
+  </node>
+  <node id='1284680749' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66944251' lat='59.9310669' lon='30.3592048'>
+    <tag k='name' v='Шаг навстречу' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Меркурий»' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://obuvshag.ru/' />
+  </node>
+  <node id='1284920498' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='66944251' lat='59.9311754' lon='30.3582207'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/neopharm_official' />
+    <tag k='name' v='Неофарм' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Неофарм Северо-Запад»' />
+    <tag k='phone' v='+7 812 3892143' />
+    <tag k='website' v='http://neopharm.ru/stores/465/' />
+  </node>
+  <node id='3163681652' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66944251' lat='59.9310376' lon='30.3594376'>
+    <tag k='contact:vk' v='https://vk.com/anspb1993' />
+    <tag k='name' v='Александр Недвижимость' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='https://anspb.ru/office.php?id=860' />
+  </node>
+  <node id='4969369424' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66944251' lat='59.9308976' lon='30.3604566'>
+    <tag k='name' v='Всё что нужно' />
+    <tag k='shop' v='variety_store' />
+  </node>
+  <node id='4969369425' timestamp='2018-10-11T11:24:08Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='63413490' lat='59.9309873' lon='30.3598335'>
+    <tag k='brand' v='МТС' />
+    <tag k='brand:wikidata' v='Q1368919' />
+    <tag k='contact:vk' v='https://vk.com/mts' />
+    <tag k='name' v='МТС' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='МТС' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.mts.ru/' />
+  </node>
+  <node id='5974829266' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66944251' lat='59.9309554' lon='30.3600725'>
+    <tag k='contact:vk' v='https://vk.com/mascotte_shoes' />
+    <tag k='name' v='Mascotte' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='https://www.mascotte.ru/' />
+  </node>
+  <node id='6260682429' timestamp='2019-02-05T20:50:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66944251' lat='59.93102461409' lon='30.35942695968'>
+    <tag k='brand' v='Интурист' />
+    <tag k='brand:wikidata' v='Q995224' />
+    <tag k='contact:vk' v='https://vk.com/ntcintourist' />
+    <tag k='int_name' v='Intourist' />
+    <tag k='name' v='Интурист' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa 11:00-18:00' />
+    <tag k='operator' v='ООО «НТК Интурист»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://intourist.ru/ofs_office.aspx?id=6' />
+  </node>
+</osm>

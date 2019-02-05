@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1210888358' timestamp='2018-05-15T00:23:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='58968154' lat='59.9353429' lon='30.3433932'>
+    <tag k='contact:vk' v='https://vk.com/guinot' />
+    <tag k='name' v='Guinot' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-22:00; Sa-Su 11:00-20:00' />
+    <tag k='operator' v='ООО «Гино-спа»' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://guinot-salon.ru/' />
+  </node>
+  <node id='3872532443' timestamp='2019-01-26T23:45:08Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='66666839' lat='59.93544163107' lon='30.34258296592'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafezavtrak' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Клуб Завтрак' />
+    <tag k='name:en' v='The Breakfast Club' />
+    <tag k='name:ru' v='Клуб Завтрак' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su,PH 10:00-21:00' />
+    <tag k='payment:cash' v='only' />
+    <tag k='phone' v='+7 812 9035152' />
+    <tag k='takeaway' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3907632020' timestamp='2019-01-26T23:45:08Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66666839' lat='59.93548512373' lon='30.34222525415'>
+    <tag k='name' v='Лето' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4875044168' timestamp='2019-01-26T23:45:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66666839' lat='59.93556327206' lon='30.34160512666'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Открытие' />
+    <tag k='brand:wikidata' v='Q4327204' />
+    <tag k='contact:vk' v='https://vk.com/otkritiecorp' />
+    <tag k='name' v='Открытие Private Banking' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-17:45' />
+    <tag k='operator' v='ПАО Банк «ФК Открытие»' />
+    <tag k='operator:wikidata' v='Q4327204' />
+    <tag k='website' v='https://pb.open.ru/' />
+  </node>
+  <node id='4876383867' timestamp='2019-01-26T23:45:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66666839' lat='59.93540531228' lon='30.34288043323'>
+    <tag k='contact:vk' v='https://vk.com/public.experts' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Народные эксперты' />
+    <tag k='office' v='ngo' />
+    <tag k='website' v='http://narodnye-experty.ru/' />
+  </node>
+  <node id='4876383868' timestamp='2019-01-26T23:45:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66666839' lat='59.93539944752' lon='30.34292850789'>
+    <tag k='contact:vk' v='https://vk.com/vinissimoshop' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Vinissimo' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://vinissimo.biz/st-petersburg/wine/italian-16-19/' />
+  </node>
+  <node id='4876383869' timestamp='2019-01-26T23:45:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66666839' lat='59.93546745781' lon='30.34237007178'>
+    <tag k='amenity' v='cafe' />
+    <tag k='charge' v='200 RUB/person' />
+    <tag k='contact:vk' v='https://vk.com/chesnoknet' />
+    <tag k='description' v='Вход в кафе платный, блюда оплачиваются отдельно' />
+    <tag k='fee' v='yes' />
+    <tag k='level' v='-0.5' />
+    <tag k='name' v='Чеснок' />
+    <tag k='website' v='http://chesnok.net/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4876383870' timestamp='2019-01-26T23:45:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66666839' lat='59.93550753781' lon='30.34204065489'>
+    <tag k='contact:vk' v='https://vk.com/ekaterina.smolina' />
+    <tag k='name' v='Ekaterina Smolina' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://ekaterinasmolina.ru/sankt-peterburg' />
+  </node>
+</osm>
