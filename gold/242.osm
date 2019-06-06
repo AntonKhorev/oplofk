@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1000806099' timestamp='2019-02-08T10:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='67021423' lat='59.94703699535' lon='30.38237622782'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='1713425868' timestamp='2016-05-18T15:38:16Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9470621' lon='30.3814242' />
+  <node id='1713425870' timestamp='2016-05-18T15:38:16Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9470685' lon='30.3807822' />
+  <node id='1713425871' timestamp='2016-05-18T15:38:16Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9470937' lon='30.3807832' />
+  <node id='1713425872' timestamp='2016-05-18T15:38:16Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9470981' lon='30.3803364' />
+  <node id='1713425873' timestamp='2016-05-18T15:38:16Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9471955' lon='30.3803403' />
+  <node id='1713425874' timestamp='2016-05-18T15:38:16Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9471951' lon='30.3803802' />
+  <node id='1713425877' timestamp='2016-05-18T15:38:17Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9472651' lon='30.3814323' />
+  <node id='1713425895' timestamp='2016-05-18T15:38:17Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9472712' lon='30.3808231' />
+  <node id='1713425900' timestamp='2016-05-18T15:38:17Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9472928' lon='30.380824' />
+  <node id='1713425901' timestamp='2016-05-18T15:38:17Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='39403538' lat='59.9472971' lon='30.3803843' />
+  <node id='6265645664' timestamp='2019-02-08T10:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67021423' lat='59.94706275117' lon='30.38000276231'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/cor_spb' />
+    <tag k='health_specialty:cardiology' v='main' />
+    <tag k='name' v='Международный центр сердца' />
+    <tag k='website' v='http://www.corspb.ru/' />
+  </node>
+  <node id='6265645665' timestamp='2019-02-08T10:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67021423' lat='59.94706653123' lon='30.37960099897'>
+    <tag k='name' v='ТК Мурино' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='6265645667' timestamp='2019-02-08T10:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67021423' lat='59.94706945412' lon='30.37929034053'>
+    <tag k='name' v='Tverskaya IV' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su,PH 10:00-18:00' />
+    <tag k='operator' v='ООО «Тавифа»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://tverskaya4.com/' />
+  </node>
+  <node id='6265645668' timestamp='2019-02-08T10:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67021423' lat='59.94707415807' lon='30.37879038139'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/fenomen_center' />
+    <tag k='name' v='Феномен' />
+    <tag k='website' v='http://fenomen-ege.ru/' />
+  </node>
+  <node id='6265645669' timestamp='2019-02-08T10:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67021423' lat='59.94707576002' lon='30.37862011803'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/volkovabeauty' />
+    <tag k='name' v='Центр медицинской косметологии Оксаны Волковой' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ООО «Таврия»' />
+    <tag k='website' v='http://volkovabeauty.ru/' />
+  </node>
+  <way id='159249897' timestamp='2019-02-08T10:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67021423'>
+    <nd ref='1713425901' />
+    <nd ref='1713425874' />
+    <nd ref='1713425873' />
+    <nd ref='1713425872' />
+    <nd ref='1713425871' />
+    <nd ref='1713425870' />
+    <nd ref='1713425868' />
+    <nd ref='1713425877' />
+    <nd ref='1713425895' />
+    <nd ref='1713425900' />
+    <nd ref='1713425901' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Тверская улица' />
+    <tag k='alt_name' v='Церковь Знамения Пресвятой Богородицы' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='church' />
+    <tag k='denomination' v='old_believers' />
+    <tag k='name' v='Церковь иконы Божией Матери «Знамение»' />
+    <tag k='religion' v='christian' />
+    <tag k='start_date' v='1906-1907' />
+    <tag k='website' v='http://pomorian.ru/' />
+    <tag k='wikidata' v='Q11867902' />
+    <tag k='wikipedia' v='ru:Церковь Знамения Пресвятой Богородицы (Санкт-Петербург, старообрядческая)' />
+  </way>
+</osm>

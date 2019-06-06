@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='332784760' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='67024854' lat='59.94611693462' lon='30.3844253' />
+  <node id='332784761' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='67024854' lat='59.9461909942' lon='30.38442408221' />
+  <node id='332784762' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='67024854' lat='59.94619236735' lon='30.38430696442' />
+  <node id='6265753586' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94551002289' lon='30.3833850738' />
+  <node id='6265753587' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94612903146' lon='30.38341339865' />
+  <node id='6265753588' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94616254337' lon='30.38349106774' />
+  <node id='6265753589' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94616052844' lon='30.38369491562' />
+  <node id='6265753590' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94620015537' lon='30.38378074631' />
+  <node id='6265899821' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67024854' lat='59.94549728181' lon='30.38606099596'>
+    <tag k='emergency' v='ambulance_station' />
+    <tag k='name' v='Городская поликлиника №38, Отделение скорой медицинской помощи' />
+    <tag k='operator' v='СПб ГБУЗ «Городская поликлиника № 38»' />
+    <tag k='website' v='https://gp38.spb.ru/' />
+  </node>
+  <node id='6265899822' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67024854' lat='59.94554190554' lon='30.38413378869'>
+    <tag k='amenity' v='social_facility' />
+    <tag k='name' v='Развитие' />
+    <tag k='website' v='http://www.razvitie.edusite.ru/' />
+  </node>
+  <node id='6265899823' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67024854' lat='59.94550103674' lon='30.3841680297' />
+  <node id='6265899825' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67024854' lat='59.94550161039' lon='30.38411804818' />
+  <node id='6265899830' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67024854' lat='59.94549840884' lon='30.38439699726' />
+  <way id='669130512' timestamp='2019-02-08T12:59:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67024854'>
+    <nd ref='332784760' />
+    <nd ref='332784761' />
+    <nd ref='332784762' />
+    <nd ref='6265753590' />
+    <nd ref='6265753589' />
+    <nd ref='6265753588' />
+    <nd ref='6265753587' />
+    <nd ref='6265753586' />
+    <nd ref='6265899825' />
+    <nd ref='6265899823' />
+    <nd ref='6265899830' />
+    <nd ref='332784760' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №155' />
+    <tag k='website' v='http://gbdou155spb.caduk.ru/' />
+  </way>
+</osm>

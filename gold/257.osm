@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1275130016' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='70386842' lat='59.92235505104' lon='30.29299594874'>
+    <tag k='brand' v='Ароматный мир' />
+    <tag k='contact:facebook' v='https://www.facebook.com/amwine.ru' />
+    <tag k='contact:instagram' v='https://instagram.com/amwine.ru' />
+    <tag k='contact:twitter' v='https://twitter.com/amwineru' />
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='drink:beer' v='bottled' />
+    <tag k='drink:cider' v='bottled' />
+    <tag k='drink:cognac' v='bottled' />
+    <tag k='drink:soft_drink' v='bottled' />
+    <tag k='drink:sparkling_wine' v='bottled' />
+    <tag k='drink:vodka' v='bottled' />
+    <tag k='drink:whisky' v='bottled' />
+    <tag k='drink:wine' v='bottled' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='name:ru' v='Ароматный мир' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='operator' v='ООО «Объект Плюс»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/433803/' />
+  </node>
+  <node id='4464785455' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='70386842' lat='59.92293547555' lon='30.29251502437'>
+    <tag k='contact:vk' v='https://vk.com/club40510175' />
+    <tag k='name' v='Le Monde' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='4464785456' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='70386842' lat='59.92332159784' lon='30.29219080503'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/araratwine' />
+    <tag k='name' v='Арарат' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='http://www.ararat-wine.ru/' />
+  </node>
+  <node id='4464785457' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='70386842' lat='59.92264107552' lon='30.29275892438'>
+    <tag k='contact:vk' v='https://vk.com/salon_lermontovski10' />
+    <tag k='name' v='Цирюльня на Лермонтовском' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='4464785458' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='70386842' lat='59.92250896888' lon='30.29286813109'>
+    <tag k='amenity' v='cafe' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='4464785459' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='70386842' lat='59.9225699444' lon='30.29281785547'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/dedushka_ho' />
+    <tag k='name' v='Дедушка Хо' />
+    <tag k='opening_hours' v='11:00-23:00' />
+  </node>
+  <node id='4464785460' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='70386842' lat='59.9227097574' lon='30.29270181456'>
+    <tag k='disused:shop' v='convenience' />
+  </node>
+  <node id='6482377628' timestamp='2019-05-18T13:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70386842' lat='59.92358321898' lon='30.29197675538'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='int_name' v='Chaikhana Kosher' />
+    <tag k='name' v='Чайхана Кошер' />
+    <tag k='opening_hours' v='Mo-Th 12:00-23:00; Fr 10:00-sunset; Su 10:00-00:00' />
+    <tag k='phone' v='+7 812 7707770' />
+  </node>
+</osm>

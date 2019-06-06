@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='910724680' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='67637286' lat='59.92250642766' lon='30.35028290738'>
+    <tag k='craft' v='engraver;jeweller;key_cutter;shoemaker;tailor;watchmaker' />
+    <tag k='name' v='Дом быта' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 12:00-18:00' />
+    <tag k='phone' v='+7 911 9946972' />
+    <tag k='shop' v='dry_cleaning' />
+  </node>
+  <node id='6307358836' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67637286' lat='59.92252795716' lon='30.35036947385'>
+    <tag k='shop' v='electronics' />
+  </node>
+  <node id='6307358837' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67637286' lat='59.92256391204' lon='30.35028832092'>
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='6307358840' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67637286' lat='59.92253942734' lon='30.35031641009'>
+    <tag k='shop' v='bag' />
+  </node>
+  <node id='6307358842' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67637286' lat='59.92250787994' lon='30.35033420396'>
+    <tag k='craft' v='photographer' />
+    <tag k='name' v='Оранж' />
+  </node>
+  <node id='6307358844' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67637286' lat='59.92245015607' lon='30.35032808257'>
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:30; Sa 11:00-18:00' />
+    <tag k='shop' v='optician' />
+  </node>
+  <node id='6307358845' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67637286' lat='59.92245174165' lon='30.35037865671'>
+    <tag k='craft' v='electronics_repair' />
+  </node>
+  <node id='6307358847' timestamp='2019-02-28T03:01:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67637286' lat='59.9224859668' lon='30.35043757253'>
+    <tag k='shop' v='clothes' />
+  </node>
+</osm>

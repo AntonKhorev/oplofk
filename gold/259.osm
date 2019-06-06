@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='806647335' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='70516668' lat='59.92866973525' lon='30.32195920174'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='806647476' timestamp='2019-04-13T19:54:57Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='69187142' lat='59.9288622' lon='30.322028' />
+  <node id='811008180' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='70516668' lat='59.92913580502' lon='30.32300782302'>
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:vk' v='https://vk.com/priut_komedianta' />
+    <tag k='name' v='Приют комедианта' />
+    <tag k='website' v='http://www.pkteatr.ru/' />
+  </node>
+  <node id='4184451733' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='70516668' lat='59.92901621331' lon='30.32272326454'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='brand' v='Эвалар' />
+    <tag k='brand:wikidata' v='Q4529583' />
+    <tag k='contact:vk' v='https://vk.com/evalar_ru' />
+    <tag k='name' v='Эвалар' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-23:00; Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Аптека на Садовой»' />
+    <tag k='website' v='https://www.evalar.ru/' />
+  </node>
+  <node id='4184451740' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='70516668' lat='59.92937423966' lon='30.32357851133'>
+    <tag k='contact:vk' v='https://vk.com/podrygkashop' />
+    <tag k='name' v='Подружка' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://www.podrygka.ru/shoplist/281_sankt_peterburg_na_sadovoy/' />
+  </node>
+  <node id='4184451763' timestamp='2019-04-13T19:59:10Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9294348' lon='30.3237256'>
+    <tag k='contact:vk' v='https://vk.com/zoloto585gold' />
+    <tag k='name' v='585 Gold' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://zoloto585.ru/about/address/sankt-peterburg/64/' />
+  </node>
+  <node id='5015615596' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='70516668' lat='59.92933171976' lon='30.32347664006'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/barhorosho' />
+    <tag k='name' v='Vsёхорошо' />
+    <tag k='opening_hours' v='Su-Th 12:00-02:00; Fr-Sa 12:00-06:00' />
+    <tag k='website' v='https://barhorosho.ru/restaurants/addresses/sadovaya-27/' />
+  </node>
+  <node id='5015615597' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='70516668' lat='59.92929702875' lon='30.32339398082'>
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5015615598' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='70516668' lat='59.92928561131' lon='30.32336665295'>
+    <tag k='contact:vk' v='https://vk.com/galary95' />
+    <tag k='name' v='Galary' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Веселова' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='5015615599' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='70516668' lat='59.92923609329' lon='30.32324763386'>
+    <tag k='contact:vk' v='https://vk.com/dresscodewear' />
+    <tag k='name' v='Dress Code' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://d-o.ru/stores/dress_code_sennaya_ploshchad' />
+  </node>
+  <node id='5015615600' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='70516668' lat='59.92896272501' lon='30.32259652403'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Север' />
+    <tag k='brand:wikidata' v='Q4411982' />
+    <tag k='contact:vk' v='https://vk.com/sever.metropol.official' />
+    <tag k='name' v='Север-Метрополь' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ООО «Софит»' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='https://sever-metropol.ru/wheretobuy/spb/kafe-konditerskie/sadovaya-d-29/' />
+  </node>
+  <node id='5015615601' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='70516668' lat='59.92890657186' lon='30.32246323883'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/v_gosti_restaurant_bar' />
+    <tag k='name' v='Вгости' />
+  </node>
+  <node id='5015615602' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='70516668' lat='59.92884543866' lon='30.32232146186'>
+    <tag k='name' v='Петроторг' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='general' />
+    <tag k='website' v='http://www.петроторг-атк.рф/' />
+  </node>
+  <node id='6491220367' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70516668' lat='59.9287639042' lon='30.32218336123'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6491220368' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70516668' lat='59.92887740286' lon='30.32206629726' />
+  <node id='6491220369' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70516668' lat='59.92889015045' lon='30.32198402938' />
+  <node id='6491220370' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70516668' lat='59.92878187346' lon='30.32222613528' />
+  <node id='6491220371' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70516668' lat='59.92880722114' lon='30.32175815618' />
+  <way id='691683175' timestamp='2019-05-22T14:01:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70516668'>
+    <nd ref='6491220369' />
+    <nd ref='6491220371' />
+    <nd ref='806647335' />
+    <nd ref='6491220367' />
+    <nd ref='6491220370' />
+    <nd ref='6491220368' />
+    <nd ref='806647476' />
+    <nd ref='6491220369' />
+    <tag k='brand' v='Рив Гош' />
+    <tag k='brand:wikidata' v='Q4394330' />
+    <tag k='contact:vk' v='https://vk.com/rivegauche' />
+    <tag k='name' v='Рив Гош' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «АромаЛюкс»' />
+    <tag k='phone' v='+7 812 3108255' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://www.rivegauche.ru/content/sadovaya-ul-31' />
+  </way>
+</osm>

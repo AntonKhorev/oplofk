@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4695801594' timestamp='2019-03-05T07:16:20Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='67793372' lat='59.9223005' lon='30.3297987'>
+    <tag k='contact:vk' v='https://vk.com/stationhotels' />
+    <tag k='name' v='Station G73' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://station-hotels.ru/g73' />
+  </node>
+  <node id='6317612337' timestamp='2019-03-05T07:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67793372' lat='59.9223965' lon='30.3299881'>
+    <tag k='amenity' v='music_school' />
+    <tag k='contact:vk' v='https://vk.com/guitarschoolspb' />
+    <tag k='name' v='Guitar Masters' />
+    <tag k='website' v='https://guitar-masters.ru/' />
+  </node>
+</osm>

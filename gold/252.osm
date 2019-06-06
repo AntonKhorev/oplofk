@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6403063945' timestamp='2019-04-13T22:15:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='69189543' lat='59.9405255' lon='30.3225442'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №22' />
+    <tag k='website' v='http://www.детсад22.рф/' />
+  </node>
+  <node id='6403063959' timestamp='2019-04-13T22:15:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='69189543' lat='59.9402257' lon='30.3234786'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Элерим' />
+    <tag k='website' v='http://elerim.com/' />
+  </node>
+  <node id='6403146958' timestamp='2019-04-14T00:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='69190683' lat='59.9405603' lon='30.3234306'>
+    <tag k='contact:vk' v='https://vk.com/shadowmuseum' />
+    <tag k='name' v='Музей Теней' />
+    <tag k='name:en' v='Shadow Museum' />
+    <tag k='name:ru' v='Музей Теней' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://shadowmuseum.ru/' />
+  </node>
+  <node id='6403146960' timestamp='2019-04-14T00:01:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='69190683' lat='59.9405143' lon='30.323226'>
+    <tag k='contact:vk' v='https://vk.com/retrofotostudio_spb' />
+    <tag k='craft' v='photographer' />
+    <tag k='name' v='Retro Foto' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='website' v='https://retrofotostudio.ru/' />
+  </node>
+</osm>

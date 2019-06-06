@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2590275034' timestamp='2019-02-13T00:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147963' lat='59.94332852947' lon='30.39084209814'>
+    <tag k='contact:vk' v='https://vk.com/tsvetopttorgspb' />
+    <tag k='name' v='ЦветОптТорг' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='http://cvetopttorg.spb.ru/' />
+  </node>
+  <node id='2974761158' timestamp='2019-02-13T00:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='67147963' lat='59.9436285435' lon='30.39024163806'>
+    <tag k='name' v='Усадьба Бахаревых' />
+    <tag k='shop' v='farm' />
+    <tag k='website' v='http://baharev.spb.ru/' />
+  </node>
+</osm>

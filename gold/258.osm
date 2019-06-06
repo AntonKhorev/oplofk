@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='829060909' timestamp='2018-06-15T23:29:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='59885876' lat='59.9215591' lon='30.2969624' />
+  <node id='829060932' timestamp='2018-06-15T23:29:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='59885876' lat='59.9216664' lon='30.2970108' />
+  <node id='829061028' timestamp='2018-06-16T01:11:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='59886587' lat='59.9216537' lon='30.2971259' />
+  <node id='829061064' timestamp='2018-06-15T23:59:21Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='59886097' lat='59.9214023' lon='30.296579' />
+  <node id='829061248' timestamp='2018-06-15T23:29:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='59885876' lat='59.9216021' lon='30.2967345' />
+  <node id='829061303' timestamp='2018-06-15T23:59:21Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='59886097' lat='59.9213102' lon='30.2970886' />
+  <node id='1303804278' timestamp='2019-05-18T13:30:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='70387261' lat='59.9216371' lon='30.2953867'>
+    <tag k='name' v='Межрайонная инспекция ФНС России № 7' />
+    <tag k='office' v='government' />
+    <tag k='opening_hours' v='Mo,We 09:00-18:00; Tu,Th 09:00-20:00; Fr 09:00-16:45; Sa[2,4] 10:00-15:00' />
+    <tag k='website' v='https://www.nalog.ru/rn78/ifns/imns78_38/' />
+  </node>
+  <node id='1303804287' timestamp='2019-05-18T13:30:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='70387261' lat='59.9216127' lon='30.2955217'>
+    <tag k='name' v='Межрайонная инспекция ФНС России № 8' />
+    <tag k='office' v='government' />
+    <tag k='opening_hours' v='Mo,We 09:00-18:00; Tu,Th 09:00-20:00; Fr 09:00-16:45; Sa[2,4] 10:00-15:00' />
+    <tag k='website' v='https://www.nalog.ru/rn78/ifns/imns78_39/' />
+  </node>
+  <node id='1303804300' timestamp='2019-05-18T13:30:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='70387261' lat='59.9212847' lon='30.2978913'>
+    <tag k='contact:vk' v='https://vk.com/club94019156' />
+    <tag k='name' v='Northern Venice' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='4563921028' timestamp='2018-06-16T01:11:07Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='59886587' lat='59.9213023' lon='30.2972378'>
+    <tag k='contact:vk' v='https://vk.com/kofcheg' />
+    <tag k='name' v='Kofcheg.ru' />
+    <tag k='shop' v='coffee' />
+    <tag k='website' v='https://kofcheg.ru/' />
+  </node>
+  <node id='5694015921' timestamp='2018-06-16T01:11:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59886587' lat='59.9213819' lon='30.2970964' />
+  <node id='6482395799' timestamp='2019-05-18T13:30:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70387261' lat='59.92133981575' lon='30.29703040827'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/laardo' />
+    <tag k='name' v='Laardo' />
+    <tag k='website' v='http://laardo.ru/' />
+  </node>
+  <node id='6482395800' timestamp='2019-05-18T13:30:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70387261' lat='59.92139396189' lon='30.2966251358'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='69103987' timestamp='2019-05-18T13:30:32Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='70387261'>
+    <nd ref='829061064' />
+    <nd ref='829061248' />
+    <nd ref='829060909' />
+    <nd ref='829060932' />
+    <nd ref='829061028' />
+    <nd ref='5694015921' />
+    <nd ref='829061303' />
+    <nd ref='6482395800' />
+    <nd ref='829061064' />
+    <tag k='addr:housenumber' v='133А' />
+    <tag k='addr:street' v='набережная канала Грибоедова' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='4' />
+    <tag k='contact:vk' v='https://vk.com/alborahotel' />
+    <tag k='name' v='Albora' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://albora-hotel.ru/' />
+  </way>
+</osm>
