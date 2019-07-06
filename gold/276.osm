@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2112312114' timestamp='2019-07-05T03:03:47Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='71915304' lat='59.9199403' lon='30.2843304'>
+    <tag k='brand' v='Народная 7Я семьЯ' />
+    <tag k='brand:wikidata' v='Q4032436' />
+    <tag k='contact:vk' v='https://vk.com/7yarus' />
+    <tag k='name' v='Народная 7Я семьЯ' />
+    <tag k='name:ru' v='Народная 7Я семьЯ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.7-ya.ru/' />
+  </node>
+  <node id='4140238317' timestamp='2019-07-05T03:03:47Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='71915304' lat='59.92013364711' lon='30.28476300732'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/vesenniy' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Весенний' />
+    <tag k='opening_hours' v='12:00-20:00' />
+    <tag k='reservation' v='required' />
+    <tag k='website' v='https://vesenniy.com/restorany-dlya-svadby/rimskogo.php' />
+  </node>
+</osm>

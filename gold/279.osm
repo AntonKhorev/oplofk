@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1454835513' timestamp='2019-07-06T01:44:08Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71948439' lat='59.91367303402' lon='30.29213267355'>
+    <tag k='opening_hours' v='Mo-Fr 06:30-22:00; Sa-Su 07:00-22:00' />
+    <tag k='operator' v='ООО &quot;Орландо&quot;' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1454909539' timestamp='2019-07-06T01:44:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71948439' lat='59.91365371444' lon='30.29153667412'>
+    <tag k='name' v='Носки, колготки, трикотаж' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-19:00' />
+    <tag k='operator' v='ООО «ПФК «Виктория»' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4590753626' timestamp='2019-07-06T01:44:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71948439' lat='59.9136695391' lon='30.29202485681'>
+    <tag k='name' v='Kifato' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://kifatospb-teplo.ru/' />
+  </node>
+  <node id='4590753627' timestamp='2019-07-06T01:44:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71948439' lat='59.91366101134' lon='30.29176177981'>
+    <tag k='amenity' v='coworking_space' />
+    <tag k='contact:vk' v='https://vk.com/beauty_loft_spb' />
+    <tag k='name' v='Beauty Loft' />
+  </node>
+</osm>

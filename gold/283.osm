@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1161917581' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='71949810' lat='59.91319504955' lon='30.27727585059'>
+    <tag k='disused:shop' v='supermarket' />
+    <tag k='name' v='Полушка' />
+  </node>
+  <node id='1812757473' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='71949810' lat='59.91317735459' lon='30.27653356981'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/flotilla_spb' />
+    <tag k='name' v='Флотилия' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='website' v='http://www.flotilia.su/' />
+  </node>
+  <node id='1812771046' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71949810' lat='59.91307131571' lon='30.27371468203'>
+    <tag k='name' v='Фудекс' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='convenience' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1815040128' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71949810' lat='59.91296965547' lon='30.27088880391'>
+    <tag k='cuisine' v='chinese' />
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Дружба' />
+  </node>
+  <node id='4564435196' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71949810' lat='59.91318511872' lon='30.27676428088'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cafe' v='bistrot' />
+    <tag k='name' v='Уют' />
+    <tag k='name:ru' v='Уют' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa 10:00-20:00' />
+    <tag k='website' v='https://stolovayauyut.business.site/' />
+  </node>
+  <node id='5072221022' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71949810' lat='59.91308672922' lon='30.2749207408'>
+    <tag k='contact:vk' v='https://vk.com/citygrafika' />
+    <tag k='email' v='pr@citygrafika.ru' />
+    <tag k='name' v='Ситиграфика' />
+    <tag k='name:en' v='Citygrafika' />
+    <tag k='name:ru' v='Ситиграфика' />
+    <tag k='office' v='advertising_agency' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-18:00' />
+    <tag k='phone' v='+7 812 5785278' />
+    <tag k='website' v='https://www.citygrafika.ru/' />
+  </node>
+  <node id='6592502467' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71949810' lat='59.91308417454' lon='30.27484880511'>
+    <tag k='name' v='Гипробум' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.giprobum.spb.ru/' />
+  </node>
+  <node id='6592502468' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71949810' lat='59.91305415891' lon='30.27497961983'>
+    <tag k='name' v='Логус' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://loguslab.ru/' />
+  </node>
+  <node id='6592502469' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71949810' lat='59.91307096676' lon='30.27497693762'>
+    <tag k='name' v='Госметр' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://gosmetr.ru/' />
+  </node>
+  <node id='6592502470' timestamp='2019-07-06T03:39:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71949810' lat='59.91308861536' lon='30.27497385159'>
+    <tag k='name' v='Нева.ком' />
+    <tag k='office' v='security' />
+    <tag k='website' v='http://op-neva.com/' />
+  </node>
+</osm>

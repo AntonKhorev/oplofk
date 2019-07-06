@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4590700079' timestamp='2019-07-06T01:53:32Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71948508' lat='59.91359626658' lon='30.28971599556'>
+    <tag k='name' v='Институт аналитического приборостроения' />
+    <tag k='office' v='research' />
+    <tag k='website' v='http://iairas.ru/' />
+    <tag k='wikidata' v='Q4201408' />
+  </node>
+</osm>

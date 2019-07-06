@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1152675687' timestamp='2012-03-09T08:36:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.927828' lon='30.2836288' />
+  <node id='1152675725' timestamp='2013-11-27T15:55:45Z' uid='368493' user='fserges' visible='true' version='3' changeset='19146612' lat='59.92803' lon='30.2849103' />
+  <node id='1152675935' timestamp='2012-03-09T08:36:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9279' lon='30.2838535' />
+  <node id='1152676164' timestamp='2012-03-09T08:37:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9277938' lon='30.2836525' />
+  <node id='1152676189' timestamp='2012-03-09T08:37:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9277628' lon='30.2832514' />
+  <node id='1152676213' timestamp='2012-03-09T08:37:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9277911' lon='30.2828462' />
+  <node id='1152676381' timestamp='2015-12-13T21:37:54Z' uid='446083' user='yuryleb' visible='true' version='4' changeset='35934237' lat='59.9278505' lon='30.2831915' />
+  <node id='1152676466' timestamp='2012-03-09T08:37:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9279899' lon='30.2842906' />
+  <node id='1152676511' timestamp='2012-03-09T08:37:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9279826' lon='30.284232' />
+  <node id='1152676525' timestamp='2012-03-10T07:02:27Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10928594' lat='59.9278451' lon='30.2825028' />
+  <node id='1152676548' timestamp='2012-03-09T08:37:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9278727' lon='30.283872' />
+  <node id='1152676640' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='42763600' lat='59.9286074' lon='30.28471' />
+  <node id='1152676708' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='42763600' lat='59.9286015' lon='30.2845571' />
+  <node id='1152676734' timestamp='2012-03-09T08:37:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9278142' lon='30.2837503' />
+  <node id='1152676974' timestamp='2012-03-09T08:37:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9279023' lon='30.2840252' />
+  <node id='1152677137' timestamp='2012-03-09T08:37:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.9278797' lon='30.2837117' />
+  <node id='1152677165' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='42763600' lat='59.9285792' lon='30.2840818' />
+  <node id='1152677219' timestamp='2012-03-10T07:02:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10928594' lat='59.9277514' lon='30.2825614' />
+  <node id='1152677301' timestamp='2012-03-09T08:37:14Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10917217' lat='59.927935' lon='30.2842457' />
+  <node id='1383350321' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='42763600' lat='59.9285294' lon='30.2836974' />
+  <node id='1799575779' timestamp='2013-11-27T15:55:47Z' uid='368493' user='fserges' visible='true' version='2' changeset='19146612' lat='59.9284951' lon='30.2836936' />
+  <node id='2554342067' timestamp='2015-04-07T12:50:58Z' uid='476578' user='oberst_' visible='true' version='2' changeset='30038807' lat='59.9277729' lon='30.2827155'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2554342076' timestamp='2013-11-27T15:55:43Z' uid='368493' user='fserges' visible='true' version='1' changeset='19146612' lat='59.9284183' lon='30.2832212'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2554342077' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='42763600' lat='59.9285496' lon='30.2838208'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2554347398' timestamp='2013-11-27T16:02:20Z' uid='368493' user='fserges' visible='true' version='1' changeset='19146745' lat='59.9279193' lon='30.2824626' />
+  <node id='2554347400' timestamp='2013-11-27T16:02:20Z' uid='368493' user='fserges' visible='true' version='1' changeset='19146745' lat='59.9280238' lon='30.2830635' />
+  <node id='2554347403' timestamp='2013-11-27T16:02:20Z' uid='368493' user='fserges' visible='true' version='1' changeset='19146745' lat='59.9282631' lon='30.2829195'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2554347406' timestamp='2013-11-27T16:02:20Z' uid='368493' user='fserges' visible='true' version='1' changeset='19146745' lat='59.9283582' lon='30.2828623' />
+  <node id='4179579221' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='42763600' lat='59.9285763' lon='30.284043'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4179579224' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='42763600' lat='59.9285248' lon='30.2838675' />
+  <node id='4179579225' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='42763600' lat='59.9285541' lon='30.2838504' />
+  <node id='4179579226' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='42763600' lat='59.9285728' lon='30.2840052' />
+  <node id='4179579227' timestamp='2016-10-09T21:42:30Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='42763600' lat='59.9285631' lon='30.2839249'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <way id='449719734' timestamp='2019-06-30T23:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='71767204'>
+    <nd ref='1152676511' />
+    <nd ref='1152676466' />
+    <nd ref='1152675725' />
+    <nd ref='1152676640' />
+    <nd ref='1152676708' />
+    <nd ref='1152677165' />
+    <nd ref='4179579221' />
+    <nd ref='4179579226' />
+    <nd ref='4179579227' />
+    <nd ref='4179579225' />
+    <nd ref='4179579224' />
+    <nd ref='1152676511' />
+    <tag k='contact:vk' v='https://vk.com/vniio' />
+    <tag k='landuse' v='industrial' />
+    <tag k='name' v='ВНИИОкеангеология' />
+    <tag k='office' v='research' />
+    <tag k='official_name' v='Федеральное государственное бюджетное учреждение «Всероссийский научно-исследовательский институт геологии и минеральных ресурсов Мирового океана имени академика И.С. Грамберга»' />
+    <tag k='website' v='http://вниио.рф/' />
+    <tag k='wikidata' v='Q4101971' />
+    <tag k='wikipedia' v='ru:ВНИИОкеангеология' />
+  </way>
+  <way id='700744005' timestamp='2019-06-30T23:39:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71767325'>
+    <nd ref='1152677301' />
+    <nd ref='1152676511' />
+    <nd ref='4179579224' />
+    <nd ref='4179579225' />
+    <nd ref='2554342077' />
+    <nd ref='1383350321' />
+    <nd ref='1799575779' />
+    <nd ref='2554342076' />
+    <nd ref='2554347406' />
+    <nd ref='2554347403' />
+    <nd ref='2554347400' />
+    <nd ref='2554347398' />
+    <nd ref='1152676525' />
+    <nd ref='1152677219' />
+    <nd ref='2554342067' />
+    <nd ref='1152676213' />
+    <nd ref='1152676381' />
+    <nd ref='1152676189' />
+    <nd ref='1152675687' />
+    <nd ref='1152676164' />
+    <nd ref='1152676734' />
+    <nd ref='1152677137' />
+    <nd ref='1152675935' />
+    <nd ref='1152676548' />
+    <nd ref='1152676974' />
+    <nd ref='1152677301' />
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:vk' v='https://vk.com/dommuzyki_spb' />
+    <tag k='name' v='Санкт-Петербургский Дом музыки' />
+    <tag k='name:en' v='Saint Petersburg Music House' />
+    <tag k='name:fr' v='Maison de la musique' />
+    <tag k='phone' v='+7 812 7026096' />
+    <tag k='website' v='http://www.spdm.ru/' />
+    <tag k='wikidata' v='Q4407679' />
+  </way>
+</osm>

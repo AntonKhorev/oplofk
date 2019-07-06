@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4429116272' timestamp='2018-04-22T18:47:40Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58318075' lat='59.9132922' lon='30.2797825'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4429116273' timestamp='2018-04-22T18:47:40Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='58318075' lat='59.9132947' lon='30.2798369'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 07:35,18:50; Sa 09:55; Su 18:50' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='450' />
+  </node>
+  <node id='4564379052' timestamp='2019-07-06T02:33:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71948745' lat='59.91335660375' lon='30.28201116557'>
+    <tag k='craft' v='shoemaker' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Sa 11:00-19:00' />
+    <tag k='operator' v='ИП Короткова Т.М.' />
+    <tag k='shop' v='houseware' />
+  </node>
+  <node id='4564379053' timestamp='2019-07-06T02:33:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71948745' lat='59.91335438903' lon='30.28193868823'>
+    <tag k='contact:vk' v='https://vk.com/zootovarfilya' />
+    <tag k='name' v='Филя' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Дреничев А.А.' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://www.zootovar-spb.ru/magazin/rizhskii-42.htm' />
+  </node>
+  <node id='4564379054' timestamp='2019-07-06T02:33:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71948745' lat='59.91334334517' lon='30.2815827678'>
+    <tag k='name' v='Упаковка' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='operator' v='ИП Данилова А.В.' />
+    <tag k='shop' v='packaging' />
+    <tag k='website' v='http://pak-spb.ru/' />
+  </node>
+  <node id='4564379055' timestamp='2019-07-06T02:33:12Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='71948745' lat='59.9133361' lon='30.2813625'>
+    <tag k='food' v='yes' />
+    <tag k='name' v='Продукты' />
+    <tag k='name:ru' v='Продукты' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-22:00; Su 10:00-21:00' />
+    <tag k='operator' v='ИП Лебеденко Е.А.' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4564379056' timestamp='2019-07-06T02:33:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71948745' lat='59.91328632774' lon='30.28004773751'>
+    <tag k='name' v='OilCity' />
+    <tag k='shop' v='car_parts' />
+    <tag k='website' v='http://www.oilcity.ru/' />
+  </node>
+  <node id='4774759442' timestamp='2018-04-22T18:47:40Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58318075' lat='59.9132971' lon='30.2798973' />
+  <node id='4774759443' timestamp='2017-04-04T13:11:59Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47442320' lat='59.9131524' lon='30.2799068' />
+  <node id='4774759444' timestamp='2017-04-04T13:11:59Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47442320' lat='59.913148' lon='30.2797398' />
+  <node id='4774759445' timestamp='2018-04-22T18:47:39Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58318075' lat='59.9132915' lon='30.2797673' />
+  <node id='6592338302' timestamp='2019-07-06T02:33:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71948745' lat='59.91330208094' lon='30.28040126556'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <way id='484724812' timestamp='2017-10-31T22:02:13Z' uid='3580412' user='Alexander-II' visible='true' version='2' changeset='53409542'>
+    <nd ref='4774759445' />
+    <nd ref='4774759444' />
+    <nd ref='4774759443' />
+    <nd ref='4774759442' />
+    <nd ref='4429116273' />
+    <nd ref='4429116272' />
+    <nd ref='4774759445' />
+    <tag k='amenity' v='post_office' />
+    <tag k='contact:facebook' v='https://www.facebook.com/ruspost' />
+    <tag k='contact:phone' v='+7 812 2512173; +7 812 2514372; +7 812 7130998' />
+    <tag k='contact:twitter' v='https://twitter.com/ruspostofficial' />
+    <tag k='contact:vk' v='https://vk.com/russianpost' />
+    <tag k='contact:website' v='https://www.pochta.ru' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 190020' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-13:00,14:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='operator:wikidata' v='Q1502763' />
+    <tag k='operator:wikipedia' v='ru:Почта России' />
+    <tag k='ref' v='190020' />
+    <tag k='source' v='survey' />
+  </way>
+</osm>

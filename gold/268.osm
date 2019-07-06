@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1152471569' timestamp='2016-05-09T17:46:10Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39196930' lat='59.9321506' lon='30.2902337' />
+  <node id='1152471606' timestamp='2011-02-14T07:50:12Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9323785' lon='30.2898476' />
+  <node id='1152471642' timestamp='2011-02-14T07:50:13Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9324168' lon='30.2895518' />
+  <node id='1152471647' timestamp='2011-02-14T07:50:13Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9327746' lon='30.2891104' />
+  <node id='1152471665' timestamp='2011-02-14T07:50:13Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9328845' lon='30.2895761' />
+  <node id='1152471699' timestamp='2011-03-31T13:13:38Z' uid='368493' user='fserges' visible='true' version='2' changeset='7725944' lat='59.932267' lon='30.2901225' />
+  <node id='1152471711' timestamp='2011-03-31T13:13:43Z' uid='368493' user='fserges' visible='true' version='2' changeset='7725944' lat='59.9323635' lon='30.2900299' />
+  <node id='1152471725' timestamp='2011-03-31T11:00:50Z' uid='368493' user='fserges' visible='true' version='2' changeset='7725026' lat='59.9327597' lon='30.2891231' />
+  <node id='1152471728' timestamp='2011-02-14T07:50:15Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9324008' lon='30.2876119' />
+  <node id='1152471747' timestamp='2016-05-09T17:46:11Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39196930' lat='59.9317126' lon='30.2886751' />
+  <node id='1152471753' timestamp='2011-02-14T07:50:15Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9326606' lon='30.289349' />
+  <node id='1152471773' timestamp='2011-03-31T13:13:40Z' uid='368493' user='fserges' visible='true' version='2' changeset='7725944' lat='59.9322247' lon='30.2899681' />
+  <node id='1152471851' timestamp='2011-02-14T07:50:18Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9324964' lon='30.2880154' />
+  <node id='1152471913' timestamp='2011-02-14T07:50:19Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9327176' lon='30.2896223' />
+  <node id='1152471918' timestamp='2011-03-31T13:13:37Z' uid='368493' user='fserges' visible='true' version='2' changeset='7725944' lat='59.9321804' lon='30.2898066' />
+  <node id='1152471961' timestamp='2016-05-09T17:46:11Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39196930' lat='59.9316063' lon='30.2882966' />
+  <node id='1152471984' timestamp='2011-02-14T07:50:21Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9323456' lon='30.2896735' />
+  <node id='1152472024' timestamp='2011-02-14T07:50:22Z' uid='43262' user='KonTur' visible='true' version='1' changeset='7283467' lat='59.9324738' lon='30.2898251' />
+  <node id='1152472043' timestamp='2016-05-09T17:46:10Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39196930' lat='59.9320182' lon='30.2897623' />
+  <node id='1152472054' timestamp='2011-03-31T13:13:42Z' uid='368493' user='fserges' visible='true' version='2' changeset='7725944' lat='59.9325903' lon='30.2898323' />
+  <node id='1631063209' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71767780' lat='59.93307349995' lon='30.29054832343'>
+    <tag k='name' v='51 центральный конструкторско-технологический институт судоремонта' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://51cktis.ru/' />
+    <tag k='wikidata' v='Q4031715' />
+  </node>
+  <node id='3169340490' timestamp='2016-05-09T21:45:19Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39202279' lat='59.9324172' lon='30.287681'>
+    <tag k='entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3169340494' timestamp='2014-11-05T21:45:16Z' uid='345975' user='VlIvYur' visible='true' version='1' changeset='26581236' lat='59.9328323' lon='30.2893548'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='3625611724' timestamp='2016-05-09T17:46:10Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39196930' lat='59.9321331' lon='30.2901713'>
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Галерная улица' />
+  </node>
+  <node id='3625611727' timestamp='2015-06-29T18:24:38Z' uid='700550' user='EIjas' visible='true' version='1' changeset='32291125' lat='59.9324776' lon='30.2879359'>
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:street' v='Английская набережная' />
+  </node>
+  <node id='4174870242' timestamp='2016-05-09T21:44:44Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='39202279' lat='59.9320812' lon='30.2899864'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4174870243' timestamp='2016-05-09T21:44:44Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='39202279' lat='59.9322028' lon='30.2898882' />
+  <node id='4174870244' timestamp='2016-05-09T21:44:44Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='39202279' lat='59.9323628' lon='30.2897643' />
+  <node id='4174870245' timestamp='2016-05-09T21:44:44Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='39202279' lat='59.932447' lon='30.2896966' />
+  <node id='4174870249' timestamp='2016-05-09T21:44:44Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='39202279' lat='59.9320646' lon='30.2899276'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='4174870269' timestamp='2016-05-09T21:44:48Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='39202279' lat='59.9316588' lon='30.2884834'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4174870274' timestamp='2016-05-09T21:44:48Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='39202279' lat='59.9316475' lon='30.2884432'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='4583585336' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71767780' lat='59.9313949' lon='30.2834019'>
+    <tag k='name' v='Аргус' />
+    <tag k='office' v='security' />
+    <tag k='website' v='http://www.argus-group.ru/' />
+  </node>
+  <node id='4583585337' timestamp='2017-01-01T08:48:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='44818754' lat='59.931542' lon='30.2840556'>
+    <tag k='name' v='Межгосударственная корпорация развития' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.globalintercorp.ru/' />
+  </node>
+  <node id='4583585342' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71767780' lat='59.93228853351' lon='30.28730034208'>
+    <tag k='amenity' v='events_venue' />
+    <tag k='contact:vk' v='https://vk.com/clubbanzalocobnak' />
+    <tag k='name' v='Особняк князя Михаила Александровича' />
+    <tag k='website' v='http://bzokm.ru/' />
+  </node>
+  <node id='4583585343' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71767780' lat='59.93253680049' lon='30.28827052568'>
+    <tag k='contact:vk' v='https://vk.com/gutenmorgenspb' />
+    <tag k='name' v='Guten Morgen' />
+    <tag k='note' v='Сейчас написано &quot;Bidebao&quot;, может не работать из-за ремонта здания' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='4583585344' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71767780' lat='59.93266417572' lon='30.28880740893'>
+    <tag k='name' v='Park River' />
+    <tag k='operator' v='ООО «ГК «Отель Парк Крестовский»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://otelpark2.ru/' />
+  </node>
+  <node id='4583585345' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71767780' lat='59.93289923253' lon='30.2897589253'>
+    <tag k='name' v='Санкт-Петербургское Морское Собрание' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://morskoesobranie.ru/' />
+  </node>
+  <node id='4914713554' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71767780' lat='59.93289905034' lon='30.28981003691'>
+    <tag k='amenity' v='embassy' />
+    <tag k='country' v='MC' />
+    <tag k='diplomatic' v='honorary_consulate' />
+    <tag k='note' v='консул почётный, хотя написано, что генеральное' />
+  </node>
+  <node id='5378608245' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71767780' lat='59.9325213' lon='30.2882834'>
+    <tag k='disused:tourism' v='hotel' />
+    <tag k='name' v='Николаевская' />
+    <tag k='website' v='http://nikolaevskaya.spb.ru/' />
+  </node>
+  <node id='6035389440' timestamp='2019-05-14T20:17:13Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='70251604' lat='59.9317085' lon='30.2886604'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом доме жил Александр Сергеевич Пушкин в 1831-1832 г.' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='А. С. Пушкину' />
+    <tag k='subject:wikidata' v='Q7200' />
+    <tag k='subject:wikipedia' v='ru:Пушкин, Александр Сергеевич' />
+  </node>
+  <node id='6035389441' timestamp='2019-05-14T20:17:12Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='70251604' lat='59.9316107' lon='30.2883123'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом доме в 1887-88 годах жил великий русский путешественник и учёный Николай Николаевич Миклухо-Маклай' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='Н. Н. Миклухо-Маклаю' />
+    <tag k='subject:wikidata' v='Q312499' />
+    <tag k='subject:wikipedia' v='ru:Миклухо-Маклай, Николай Николаевич' />
+  </node>
+  <node id='6436751786' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71767780' lat='59.9314553833' lon='30.2836755791'>
+    <tag k='contact:phone' v='+ 7 812 3124414' />
+    <tag k='contact:website' v='http://hotelmolvo.com' />
+    <tag k='name' v='Особняк Молво' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='6580689948' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71767780' lat='59.93230381845' lon='30.28728558488'>
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='6580689949' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71767780' lat='59.93159072534' lon='30.28427789259'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/atrium.hall' />
+    <tag k='name' v='Атриум-Холл' />
+    <tag k='website' v='https://atriumhall.ru/atrium/' />
+  </node>
+  <way id='99677512' timestamp='2016-05-09T21:45:24Z' uid='3846961' user='mini-me' visible='true' version='8' changeset='39202279'>
+    <nd ref='1152471665' />
+    <nd ref='1152472054' />
+    <nd ref='1152471711' />
+    <nd ref='1152471699' />
+    <nd ref='1152471569' />
+    <nd ref='3625611724' />
+    <nd ref='4174870242' />
+    <nd ref='4174870249' />
+    <nd ref='1152472043' />
+    <nd ref='1152471725' />
+    <nd ref='1152471647' />
+    <nd ref='3169340494' />
+    <nd ref='1152471665' />
+  </way>
+  <way id='99677525' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='71767780'>
+    <nd ref='1152471851' />
+    <nd ref='1152471747' />
+    <nd ref='6035389440' />
+    <nd ref='4174870269' />
+    <nd ref='4174870274' />
+    <nd ref='6035389441' />
+    <nd ref='1152471961' />
+    <nd ref='1152471728' />
+    <nd ref='3169340490' />
+    <nd ref='3625611727' />
+    <nd ref='1152471851' />
+    <tag k='contact:vk' v='https://vk.com/happypushkinhotel' />
+    <tag k='name' v='Счастливый Пушкин' />
+    <tag k='name:en' v='Happy Pushkin' />
+    <tag k='name:ru' v='Счастливый Пушкин' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.happypushkin.com/' />
+  </way>
+  <way id='99677531' timestamp='2016-05-09T21:45:25Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39202279'>
+    <nd ref='1152471642' />
+    <nd ref='1152471753' />
+    <nd ref='1152471913' />
+    <nd ref='1152472024' />
+    <nd ref='4174870245' />
+    <nd ref='1152471642' />
+  </way>
+  <way id='99677576' timestamp='2016-05-09T21:45:25Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='39202279'>
+    <nd ref='1152471918' />
+    <nd ref='1152471984' />
+    <nd ref='4174870244' />
+    <nd ref='1152471606' />
+    <nd ref='1152471773' />
+    <nd ref='4174870243' />
+    <nd ref='1152471918' />
+  </way>
+  <relation id='1426086' timestamp='2019-07-01T00:40:25Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='71767780'>
+    <member type='way' ref='99677512' role='outer' />
+    <member type='way' ref='99677531' role='inner' />
+    <member type='way' ref='99677576' role='inner' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='190000' />
+    <tag k='addr:street' v='Английская набережная' />
+    <tag k='architect' v='Василий Алексеевич Глинка' />
+    <tag k='architect:wikidata' v='Q21523606' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='3' />
+    <tag k='contact:vk' v='https://vk.com/club31752242' />
+    <tag k='heritage' v='2' />
+    <tag k='heritage:name' v='Дом Н.П. Румянцева (Е.Л. Кочубея)' />
+    <tag k='name' v='Особняк Румянцева' />
+    <tag k='opening_hours' v='11:00-18:00; We off' />
+    <tag k='operator' v='СПб ГБУК «Государственный музей истории Санкт-Петербурга»' />
+    <tag k='operator:wikidata' v='Q4146886' />
+    <tag k='ref:egrokn' v='781510342780006' />
+    <tag k='start_date' v='~1730' />
+    <tag k='tourism' v='museum' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='https://www.spbmuseum.ru/themuseum/museum_complex/rumyantsev_mansion/' />
+    <tag k='wikidata' v='Q3360919' />
+    <tag k='wikipedia' v='ru:Особняк Румянцева' />
+  </relation>
+</osm>

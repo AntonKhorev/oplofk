@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6590078374' timestamp='2019-07-05T01:28:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71913976' lat='59.91881894393' lon='30.278452097'>
+    <tag k='brand' v='Ozon.ru' />
+    <tag k='brand:wikidata' v='Q2365235' />
+    <tag k='contact:vk' v='https://vk.com/ozon' />
+    <tag k='name' v='Ozon.ru' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://www.ozon.ru/' />
+  </node>
+</osm>
