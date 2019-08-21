@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803916923' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='72035359' lat='59.92866030458' lon='30.32271333486'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='dispensing' v='yes' />
+    <tag k='name' v='Петербургские аптеки' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='АО «Петербургские аптеки»' />
+    <tag k='phone' v='+7 812 7000303' />
+    <tag k='ref' v='224' />
+    <tag k='website' v='http://papteki.ru/apteki/apteka-48/' />
+  </node>
+  <node id='3509063897' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72035359' lat='59.92919549638' lon='30.32395179687'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='cuisine' v='donut' />
+    <tag k='loc_name' v='Пышки' />
+    <tag k='name' v='Пышечная' />
+    <tag k='opening_hours' v='Mo 09:00-18:00; Tu-Sa 09:00-19:30; Su 10:00-19:00' />
+  </node>
+  <node id='4184451723' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72035359' lat='59.92848872642' lon='30.32229468879'>
+    <tag k='name' v='Galary' />
+    <tag k='opening_hours' v='10:00-21:00; PH 10:00-22:00; Jun-Aug 10:00-22:00' />
+    <tag k='operator' v='ИП Веселова' />
+    <tag k='phone' v='+7 812 3108458' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='https://vk.com/galary95' />
+  </node>
+  <node id='4184451748' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72035359' lat='59.92914816425' lon='30.32384669791'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Теремок' />
+    <tag k='brand:wikidata' v='Q4455593' />
+    <tag k='contact:vk' v='https://vk.com/teremok' />
+    <tag k='cuisine' v='pancake' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Теремок' />
+    <tag k='opening_hours' v='07:30-22:00' />
+    <tag k='operator' v='ООО «Теремок — Русские блины»' />
+    <tag k='website' v='https://teremok.ru/places/r_sadovaya__32/' />
+  </node>
+  <node id='4184451750' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='72035359' lat='59.9288222' lon='30.3231088'>
+    <tag k='alt_name' v='Мимо не проходим' />
+    <tag k='name' v='Всё по 500 руб.' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4184451752' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72035359' lat='59.92858530458' lon='30.32253073485'>
+    <tag k='contact:vk' v='https://vk.com/goodcom_pro' />
+    <tag k='name' v='Хорошая связь' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://goodcom.ru/' />
+  </node>
+  <node id='4184451756' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72035359' lat='59.92851934825' lon='30.32236934273'>
+    <tag k='alt_name' v='Табак Сити' />
+    <tag k='name' v='Табак Sity' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ИП Исмаилов Т.И.о.' />
+    <tag k='shop' v='tobacco' />
+    <tag k='website' v='http://tabaksity.ru/' />
+  </node>
+  <node id='4931782470' timestamp='2018-07-04T14:58:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60411707' lat='59.9292734' lon='30.324129'>
+    <tag k='name' v='Фабрика' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4931782471' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72035359' lat='59.92922929855' lon='30.32402663875'>
+    <tag k='contact:vk' v='https://vk.com/club142822864' />
+    <tag k='name' v='Дёшево сердито' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='4931782472' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72035359' lat='59.92905645885' lon='30.32364196483'>
+    <tag k='brand' v='Билайн' />
+    <tag k='brand:wikidata' v='Q402880' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Beelinerus' />
+    <tag k='contact:instagram' v='https://www.instagram.com/beelinerus/' />
+    <tag k='contact:ok' v='https://ok.ru/beeline' />
+    <tag k='contact:twitter' v='https://twitter.com/Beeline_RUS' />
+    <tag k='contact:vk' v='https://vk.com/beeline' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/beelineru' />
+    <tag k='name' v='Билайн' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.beeline.ru/' />
+  </node>
+  <node id='4931782473' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72035359' lat='59.92902762264' lon='30.32357742596'>
+    <tag k='name' v='Мармеладная бочка' />
+    <tag k='shop' v='confectionery' />
+  </node>
+  <node id='4931782474' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72035359' lat='59.928934' lon='30.3234759'>
+    <tag k='brand' v='МегаФон' />
+    <tag k='brand:wikidata' v='Q1720713' />
+    <tag k='contact:vk' v='https://vk.com/megafon' />
+    <tag k='name' v='МегаФон' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='АО «МегаФон Ритейл»' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.megafon.ru/' />
+  </node>
+  <node id='4931782475' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72035359' lat='59.9289156' lon='30.3233774'>
+    <tag k='craft' v='photographer' />
+    <tag k='opening_hours' v='Mo-Th 11:00-16:00' />
+  </node>
+  <node id='4931782476' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72035359' lat='59.92892759355' lon='30.32335202756'>
+    <tag k='amenity' v='music_school' />
+    <tag k='name' v='Детская музыкальная школа имени С. С. Ляховицкой' />
+    <tag k='website' v='http://www.gdmsh.ru/' />
+  </node>
+  <node id='4931782477' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72035359' lat='59.92889412796' lon='30.32327668963'>
+    <tag k='brand' v='Gloria Jeans' />
+    <tag k='brand:wikidata' v='Q4139985' />
+    <tag k='contact:vk' v='https://vk.com/gloria.jeans' />
+    <tag k='name' v='Gloria Jeans' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='АО «Глория Джинс»' />
+    <tag k='operator:wikidata' v='Q4139985' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.gloria-jeans.ru/' />
+  </node>
+  <node id='5334043012' timestamp='2019-04-13T20:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='69188020' lat='59.9289948' lon='30.3235036'>
+    <tag k='name' v='Всё по 1500 рублей' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5398807898' timestamp='2019-07-09T03:12:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72035359' lat='59.9289611' lon='30.3234277'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/zernacafe' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Зерна' />
+    <tag k='website' v='http://zernacafe.com/' />
+  </node>
+  <node id='5398807901' timestamp='2019-01-14T15:16:41Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66305022' lat='59.9287558' lon='30.3229467'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Шаурма' />
+  </node>
+</osm>

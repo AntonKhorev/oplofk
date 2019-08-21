@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6652297638' timestamp='2019-07-27T02:13:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='72707290' lat='59.9361446' lon='30.3132293'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Профидент' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00' />
+    <tag k='phone' v='+7 812 3128262' />
+  </node>
+</osm>

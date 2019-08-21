@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1269132606' timestamp='2019-07-10T03:11:31Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='72075702' lat='59.92382688938' lon='30.29177504929'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/makko_li' />
+    <tag k='cuisine' v='korean' />
+    <tag k='name' v='МаккоЛи' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='website' v='https://makkoli-spb.ru/' />
+  </node>
+  <node id='4526524111' timestamp='2019-07-10T03:11:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72075702' lat='59.92429290311' lon='30.29377688993'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №6' />
+    <tag k='website' v='http://dou6-spb.ucoz.ru/' />
+  </node>
+  <node id='4526524112' timestamp='2019-07-10T03:11:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72075702' lat='59.92419207025' lon='30.29334462511'>
+    <tag k='name' v='Самокат' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://samokat.ru/' />
+  </node>
+  <node id='4526524113' timestamp='2019-07-10T03:11:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72075702' lat='59.92412918204' lon='30.29307451667'>
+    <tag k='contact:vk' v='https://vk.com/mariinsk_hostel' />
+    <tag k='int_name' v='Mariinsk' />
+    <tag k='name' v='Мариинск' />
+    <tag k='phone' v='+7 931 3233040' />
+    <tag k='tourism' v='hostel' />
+  </node>
+  <node id='4526524114' timestamp='2019-07-10T03:11:31Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72075702' lat='59.92403781466' lon='30.29268194464'>
+    <tag k='beauty' v='spa' />
+    <tag k='contact:vk' v='https://vk.com/vremyaspa' />
+    <tag k='name' v='Время spa' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://timespa.ru/' />
+  </node>
+  <node id='4526524115' timestamp='2019-07-10T03:11:31Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='72075702' lat='59.92394605236' lon='30.29228939842'>
+    <tag k='name' v='Жилищный проект' />
+    <tag k='office' v='property_maintenance' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-17:00' />
+    <tag k='website' v='http://uk-spb.ru/' />
+  </node>
+</osm>

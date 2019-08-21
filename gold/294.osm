@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5254940724' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72330401' lat='59.9329664' lon='30.325974'>
+    <tag k='contact:vk' v='https://vk.com/dancehighschool' />
+    <tag k='dance:teaching' v='yes' />
+    <tag k='leisure' v='dance' />
+    <tag k='name' v='Dance High School' />
+    <tag k='note' v='возможно переехала' />
+    <tag k='website' v='https://www.dancehighschool.ru/' />
+  </node>
+  <node id='5254940725' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72330401' lat='59.9330312' lon='30.3259284'>
+    <tag k='contact:vk' v='https://vk.com/room.store' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Room Store' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5254940726' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72330401' lat='59.9329785' lon='30.3259063'>
+    <tag k='contact:instagram' v='https://www.instagram.com/vardui_mirzoyan/' />
+    <tag k='contact:vk' v='https://vk.com/beauty_from_vardui_mirzoyan' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Vardui Mirzoyan' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5254940727' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72330401' lat='59.9329201' lon='30.3259185'>
+    <tag k='contact:vk' v='https://vk.com/gravita' />
+    <tag k='leisure' v='amusement_arcade' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Гравитация' />
+    <tag k='note' v='возможно переехал' />
+    <tag k='opening_hours' v='Mo-Th 12:00-22:00; Fr-Su 10:00-24:00' />
+    <tag k='website' v='http://vrclub.spb.ru/' />
+  </node>
+  <node id='5254940728' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72330401' lat='59.9329113' lon='30.3259145'>
+    <tag k='contact:vk' v='https://vk.com/eraminerals_spb' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Era Minerals' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='http://puellaminerals.ru/' />
+  </node>
+  <node id='5254940729' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72330401' lat='59.9329304' lon='30.3258294'>
+    <tag k='contact:vk' v='https://vk.com/printsova' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Сова' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-17:00' />
+    <tag k='shop' v='copyshop' />
+    <tag k='website' v='http://supersova.ru/' />
+  </node>
+  <node id='5254940731' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72330401' lat='59.9329249' lon='30.325882'>
+    <tag k='level' v='1' />
+    <tag k='name' v='ТИС-Тур' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 12:00-17:00' />
+    <tag k='operator' v='ООО «ТрансИнфоСеть-СПб»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.spb-tour.com/' />
+  </node>
+  <node id='5254940732' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72330401' lat='59.9329141' lon='30.3258959'>
+    <tag k='contact:vk' v='https://vk.com/parilka_vape_shop' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Парилка' />
+    <tag k='opening_hours' v='12:00-23:00' />
+    <tag k='shop' v='e-cigarette' />
+  </node>
+  <node id='5254940733' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='72330401' lat='59.932904' lon='30.325819'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/soupperia' />
+    <tag k='level' v='0' />
+    <tag k='name' v='City Soup' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-21:00; Sa,Su,PH 11:00-21:00' />
+    <tag k='phone' v='+7 963 3098260' />
+    <tag k='website' v='http://soupperia.ru/' />
+  </node>
+  <node id='6621790293' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='72330401' lat='59.9329799' lon='30.3259802'>
+    <tag k='level' v='2' />
+    <tag k='note' v='New Life' />
+  </node>
+  <node id='6621790300' timestamp='2019-07-17T05:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='72330401' lat='59.9329006' lon='30.3259287'>
+    <tag k='level' v='2' />
+    <tag k='note' v='Paper Crane, ООО Крэйн' />
+  </node>
+</osm>

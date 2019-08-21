@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4497775904' timestamp='2019-08-13T02:44:19Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='73288321' lat='59.92208237557' lon='30.29160595209'>
+    <tag k='contact:vk' v='https://vk.com/kladovaya_zdorovya' />
+    <tag k='medical_supply' v='orthopedic' />
+    <tag k='name' v='Кладовая здоровья' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 11:00-20:00' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='https://kladzdor.ru/adresa-magazinov/sankt-peterburg/rimskogo-korsakova-pr-d-57/' />
+  </node>
+  <node id='4497775905' timestamp='2019-08-13T02:44:19Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='73288321' lat='59.92211605244' lon='30.29178844988'>
+    <tag k='name' v='Сдоба' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+    <tag k='shop' v='bakery' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

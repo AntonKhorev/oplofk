@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1355728025' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='73289059' lat='59.92376650497' lon='30.29974349999'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/poliklinika27' />
+    <tag k='name' v='Детское отделение городской поликлиники № 27' />
+    <tag k='website' v='http://p27spb.ru/' />
+  </node>
+  <node id='2306225729' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='73289059' lat='59.92417605521' lon='30.30163961342'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kafebarpelikan/' />
+    <tag k='name' v='Пеликан' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3892518958' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='73289059' lat='59.92404483147' lon='30.30103211662'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ПАМ-Лимитед»' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4530999009' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='73289059' lat='59.9240237901' lon='30.30093394936'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Хороший день' />
+  </node>
+  <node id='4949945018' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='73289059' lat='59.92413945996' lon='30.3014699324'>
+    <tag k='contact:vk' v='https://vk.com/botanic_hostel' />
+    <tag k='name' v='Botanic' />
+    <tag k='tourism' v='hostel' />
+  </node>
+  <node id='4949945019' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='73289059' lat='59.9240758498' lon='30.30117538051'>
+    <tag k='disused:amenity' v='fast_food' />
+  </node>
+  <node id='4949945721' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='73289059' lat='59.92396245483' lon='30.30065000625'>
+    <tag k='name' v='Всё от 39 рублей' />
+    <tag k='shop' v='variety_store' />
+  </node>
+  <node id='6704724458' timestamp='2019-08-13T03:41:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='73289059' lat='59.92430639619' lon='30.30224306232'>
+    <tag k='name' v='Корпоративное телевидение' />
+    <tag k='office' v='company' />
+  </node>
+</osm>

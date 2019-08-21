@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='938387036' timestamp='2012-02-17T13:58:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10711386' lat='59.923238' lon='30.2948422' />
+  <node id='938387077' timestamp='2012-02-17T13:58:05Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10711386' lat='59.92312' lon='30.294306' />
+  <node id='938387172' timestamp='2012-02-17T13:58:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.922674' lon='30.2946985' />
+  <node id='938387215' timestamp='2012-02-17T13:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9227876' lon='30.2952222' />
+  <node id='1275068326' timestamp='2012-02-17T13:57:41Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9228393' lon='30.294553' />
+  <node id='1275068345' timestamp='2012-02-17T13:57:42Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9230505' lon='30.2943671' />
+  <node id='1385116813' timestamp='2012-02-17T13:57:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9227786' lon='30.2951808'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1385116838' timestamp='2012-02-17T13:57:50Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9229995' lon='30.2944121' />
+  <node id='1385116840' timestamp='2012-02-17T13:57:50Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9231153' lon='30.2949457' />
+  <node id='2171718100' timestamp='2019-08-13T03:14:10Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='73288680' lat='59.92306767158' lon='30.2964040903'>
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='проспект Римского-Корсакова' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/romeosrest' />
+    <tag k='cuisine' v='italian' />
+    <tag k='name' v='Romeo&apos;s' />
+    <tag k='operator' v='ООО «Джульетта»' />
+    <tag k='phone' v='+7 812 5725448' />
+    <tag k='website' v='https://romeos.rest/' />
+  </node>
+  <node id='4530956102' timestamp='2019-08-13T03:14:10Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73288680' lat='59.92290790359' lon='30.2956864338'>
+    <tag k='contact:email' v='r.korsakov.hotel@mail.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/rimskykorsakovhotel' />
+    <tag k='contact:phone' v='+7 812 4154055;+7 931 2381039' />
+    <tag k='contact:vk' v='https://vk.com/rkhotel' />
+    <tag k='contact:website' v='http://otel-rk.ru/' />
+    <tag k='name' v='На Римского-Корсакова' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='4530956103' timestamp='2019-08-13T03:14:10Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73288680' lat='59.92267424948' lon='30.29460857913'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club28313329' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Чито Гврито' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='http://chitogvrito.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4530956104' timestamp='2019-08-13T03:14:10Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73288680' lat='59.92256052916' lon='30.29408468399'>
+    <tag k='disused:shop' v='bakery' />
+    <tag k='name' v='Калачи' />
+  </node>
+  <node id='4530956105' timestamp='2019-08-13T03:14:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='73288680' lat='59.92238032434' lon='30.2932529877'>
+    <tag k='contact:vk' v='https://vk.com/club87756299' />
+    <tag k='name' v='Общество Коллекционеров Санкт-Петербурга' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://o-k-spb.ru/' />
+  </node>
+  <node id='5615073552' timestamp='2019-08-13T03:14:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='73288680' lat='59.92282925867' lon='30.29524130061'>
+    <tag k='contact:email' v='info@da-travel.ru' />
+    <tag k='contact:phone' v='+7 812 6779100' />
+    <tag k='contact:website' v='http://da-travel.ru' />
+    <tag k='name' v='Da-Travel' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 09:00-20:00' />
+    <tag k='shop' v='travel_agency' />
+  </node>
+  <node id='6497992795' timestamp='2019-05-24T15:18:17Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70590224' lat='59.9227331' lon='30.2949708'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6704694277' timestamp='2019-08-13T03:14:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='73288680' lat='59.92281397457' lon='30.29525303489'>
+    <tag k='amenity' v='cafe' />
+    <tag k='note' v='возможно http://otel-rk.ru/restaurant' />
+    <tag k='opening_hours' v='08:00-20:00' />
+  </node>
+  <way id='504898174' timestamp='2019-05-24T15:18:18Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='70590224'>
+    <nd ref='938387036' />
+    <nd ref='938387077' />
+    <nd ref='1275068345' />
+    <nd ref='1385116838' />
+    <nd ref='1275068326' />
+    <nd ref='938387172' />
+    <nd ref='6497992795' />
+    <nd ref='1385116813' />
+    <nd ref='938387215' />
+    <nd ref='1385116840' />
+    <nd ref='938387036' />
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Банк Санкт-Петербург' />
+    <tag k='brand:wikidata' v='Q4407652' />
+    <tag k='contact:vk' v='https://vk.com/bspb' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='Санкт-Петербург' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:00' />
+    <tag k='operator' v='ПАО «Банк «Санкт-Петербург»' />
+    <tag k='operator:wikidata' v='Q4407652' />
+    <tag k='toilets' v='yes' />
+    <tag k='toilets:access' v='free' />
+    <tag k='website' v='https://www.bspb.ru/' />
+  </way>
+</osm>
