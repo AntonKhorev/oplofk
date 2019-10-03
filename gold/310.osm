@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='830500417' timestamp='2018-05-06T23:34:03Z' uid='143266' user='Sergey Astakhov' visible='true' version='6' changeset='58742565' lat='59.9128397' lon='30.3080339' />
+  <node id='830500477' timestamp='2018-05-06T23:34:03Z' uid='143266' user='Sergey Astakhov' visible='true' version='6' changeset='58742565' lat='59.9128366' lon='30.3084649' />
+  <node id='830500485' timestamp='2018-05-06T23:34:03Z' uid='143266' user='Sergey Astakhov' visible='true' version='5' changeset='58742565' lat='59.9124458' lon='30.3080224' />
+  <node id='830500492' timestamp='2018-05-06T23:34:04Z' uid='143266' user='Sergey Astakhov' visible='true' version='5' changeset='58742565' lat='59.9124487' lon='30.3084645' />
+  <node id='1562459635' timestamp='2019-03-30T21:13:35Z' uid='9451067' user='b-jazz-bot' visible='true' version='4' changeset='68709891' lat='59.9124642' lon='30.3082487'>
+    <tag k='name' v='Лотос' />
+    <tag k='opening_hours' v='08:00-20:00' />
+    <tag k='shop' v='dry_cleaning' />
+    <tag k='website' v='https://himchistka.spb.ru/page_9.html' />
+  </node>
+  <node id='5468813197' timestamp='2018-05-06T23:34:10Z' uid='143266' user='Sergey Astakhov' visible='true' version='3' changeset='58742565' lat='59.9128381' lon='30.3082544'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5597523684' timestamp='2018-05-06T23:34:10Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='58742565' lat='59.9124442' lon='30.3082483'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5597523685' timestamp='2019-09-18T13:19:55Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74626865' lat='59.9128219' lon='30.308253'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/bonomispb' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Bonomi' />
+    <tag k='note' v='возможно не работает' />
+  </node>
+  <node id='5597523686' timestamp='2018-05-05T01:57:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58694987' lat='59.9127899' lon='30.3083529'>
+    <tag k='craft' v='tailor' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Пчёлка' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-18:00' />
+  </node>
+  <node id='5597523691' timestamp='2019-09-18T13:19:55Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74626865' lat='59.9126494' lon='30.3081973'>
+    <tag k='level' v='1' />
+    <tag k='name' v='Секонд хэнд Англия' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5597523693' timestamp='2018-05-05T01:57:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58694987' lat='59.9126831' lon='30.3081977'>
+    <tag k='contact:vk' v='https://vk.com/labirint_ru' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Лабиринт' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Лабиринт.ру»' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='books' />
+    <tag k='website' v='https://www.labirint.ru/help/?cardhelp=1585' />
+  </node>
+  <node id='5597523695' timestamp='2018-05-05T01:57:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58694987' lat='59.9127169' lon='30.3081981'>
+    <tag k='level' v='1' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 11:00-20:00' />
+    <tag k='shop' v='outpost' />
+  </node>
+  <node id='5597523697' timestamp='2018-05-05T01:57:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58694987' lat='59.9127506' lon='30.3081984'>
+    <tag k='contact:vk' v='https://vk.com/domaletto' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Текстиль для дома' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Текстиль для дома»' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='https://domaletto.ru/' />
+  </node>
+  <node id='5597523699' timestamp='2018-05-05T01:57:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58694987' lat='59.9127843' lon='30.3081988'>
+    <tag k='contact:instagram' v='https://www.instagram.com/salon_luckyday/' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Lucky Day' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5597523701' timestamp='2018-05-05T01:57:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58694987' lat='59.9128181' lon='30.3081992'>
+    <tag k='contact:vk' v='https://vk.com/rembrick' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='level' v='1' />
+    <tag k='name' v='RemBrick' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ИП Стуколов Р.В.' />
+    <tag k='website' v='http://rembrick.ru/' />
+  </node>
+  <node id='5597523702' timestamp='2019-09-18T13:19:55Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74626865' lat='59.9128261' lon='30.3083497'>
+    <tag k='contact:vk' v='https://vk.com/kaktus_podarki' />
+    <tag k='disused:shop' v='gift' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Пушистый кактус' />
+  </node>
+  <node id='5597523704' timestamp='2018-05-05T01:57:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58694987' lat='59.9128263' lon='30.3083246'>
+    <tag k='brand' v='Ситилинк' />
+    <tag k='brand:wikidata' v='Q16698091' />
+    <tag k='contact:vk' v='https://vk.com/citilink_ru' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Ситилинк-мини' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Ситилинк»' />
+    <tag k='shop' v='electronics' />
+    <tag k='website' v='https://www.citilink.ru/about/stores/mini/spmizmal/' />
+  </node>
+  <node id='5597523706' timestamp='2018-11-04T10:30:55Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64162005' lat='59.912795' lon='30.3083004'>
+    <tag k='brand' v='Fix Price' />
+    <tag k='brand:wikidata' v='Q4038791' />
+    <tag k='brand:wikipedia' v='ru:Fix Price (сеть магазинов)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/fixprice.russia' />
+    <tag k='contact:instagram' v='https://www.instagram.com/fixprice.russia/' />
+    <tag k='contact:ok' v='https://ok.ru/fixprice' />
+    <tag k='contact:phone' v='+7 800 7753515' />
+    <tag k='contact:twitter' v='https://twitter.com/fix_price' />
+    <tag k='contact:vk' v='https://vk.com/fix_price' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/fixprice36' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Fix Price' />
+    <tag k='name:en' v='Fix Price' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Бэст Прайс»' />
+    <tag k='shop' v='variety_store' />
+    <tag k='website' v='https://fix-price.ru/' />
+  </node>
+  <node id='5597523708' timestamp='2019-09-18T13:19:55Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74626865' lat='59.9125893' lon='30.3082502'>
+    <tag k='level' v='1' />
+    <tag k='name' v='ЗабериОбувь' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='5600962341' timestamp='2018-05-06T23:33:59Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58742565' lat='59.9124426' lon='30.3084643' />
+  <node id='5600962342' timestamp='2018-05-06T23:33:59Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58742565' lat='59.9128365' lon='30.3084756' />
+  <node id='5600962352' timestamp='2018-05-06T23:33:59Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58742565' lat='59.9125588' lon='30.3085013' />
+  <node id='5600962353' timestamp='2018-05-06T23:33:59Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58742565' lat='59.9125225' lon='30.3085002' />
+  <node id='5600962354' timestamp='2018-05-06T23:33:59Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58742565' lat='59.9125227' lon='30.3084666' />
+  <node id='5600962355' timestamp='2018-05-06T23:33:59Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58742565' lat='59.912559' lon='30.3084675' />
+  <node id='6518281092' timestamp='2019-06-03T13:20:09Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70886111' lat='59.9124436' lon='30.308328' />
+  <node id='6518281093' timestamp='2019-06-03T13:20:09Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70886111' lat='59.9124448' lon='30.3081698' />
+  <node id='6518281105' timestamp='2019-06-03T13:20:09Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70886111' lat='59.9128384' lon='30.3082121' />
+  <way id='69306297' timestamp='2019-06-03T13:20:09Z' uid='3846961' user='mini-me' visible='true' version='8' changeset='70886111'>
+    <nd ref='830500417' />
+    <nd ref='830500485' />
+    <nd ref='6518281093' />
+    <nd ref='5597523684' />
+    <nd ref='6518281092' />
+    <nd ref='5600962341' />
+    <nd ref='830500492' />
+    <nd ref='5600962354' />
+    <nd ref='5600962353' />
+    <nd ref='5600962352' />
+    <nd ref='5600962355' />
+    <nd ref='5600962342' />
+    <nd ref='830500477' />
+    <nd ref='5468813197' />
+    <nd ref='6518281105' />
+    <nd ref='830500417' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Измайловский проспект' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='2' />
+    <tag k='name' v='ТК Термин' />
+    <tag k='shop' v='mall' />
+    <tag k='website' v='http://termin-spb.ru/' />
+  </way>
+</osm>

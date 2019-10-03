@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3517244102' timestamp='2019-05-31T20:31:55Z' uid='125897' user='overflorian' visible='true' version='5' changeset='70822206' lat='59.9382677' lon='30.3200126'>
+    <tag k='contact:vk' v='https://vk.com/musey_pechati' />
+    <tag k='name' v='Музей печати' />
+    <tag k='name:en' v='Museum of printing' />
+    <tag k='name:fr' v='Musée de l&apos;écriture' />
+    <tag k='name:zh' v='博物馆的印刷' />
+    <tag k='opening_hours' v='Mo-Su 11:00-18:00; Tu 11:00-17:00; We off' />
+    <tag k='phone' v='+7 812 5710270' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://www.spbmuseum.ru/themuseum/museum_complex/museum_of_printing/' />
+  </node>
+  <node id='4340518700' timestamp='2019-08-27T02:53:49Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='73775225' lat='59.9384244' lon='30.3208124'>
+    <tag k='name' v='Illicit' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://illicit143.com/' />
+  </node>
+  <node id='4350036497' timestamp='2019-08-27T02:53:49Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73775225' lat='59.9385374' lon='30.3230021'>
+    <tag k='brand' v='Kiton' />
+    <tag k='brand:wikidata' v='Q3197595' />
+    <tag k='name' v='Kiton' />
+    <tag k='opening_hours' v='Mo-Su 11:00-21:00' />
+    <tag k='operator' v='ООО «Юпитер»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://kitonspb.ru/' />
+  </node>
+  <node id='4595655391' timestamp='2019-04-13T19:59:40Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9383656' lon='30.3210672'>
+    <tag k='alt_name' v='Hamlet &amp; Jacks' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='description' v='Гастропаб' />
+    <tag k='name' v='Hamlet + Jacks' />
+    <tag k='opening_hours' v='Su-Th 13:00-00:00, Fr-Sa 13:00-02:00' />
+    <tag k='operator' v='ООО «Любимая кухня моего папы»' />
+    <tag k='phone' v='+7 812 9070735' />
+    <tag k='website' v='http://hamletandjacks.ru' />
+  </node>
+  <node id='5612432211' timestamp='2019-08-27T02:53:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='73775225' lat='59.9384948' lon='30.3225064'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/EZO-Izakaya-1173094632850467/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/ezoizakaya/' />
+    <tag k='name' v='Ezo Izakaya' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-02:00' />
+  </node>
+  <node id='5612432212' timestamp='2019-08-27T02:53:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='73775225' lat='59.9384843' lon='30.3223847'>
+    <tag k='contact:vk' v='https://vk.com/flowerssecret' />
+    <tag k='name' v='The Secret' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://secretspb.ru/' />
+  </node>
+  <node id='5612432213' timestamp='2018-05-11T21:27:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58890225' lat='59.9384568' lon='30.3220653'>
+    <tag k='contact:vk' v='https://vk.com/21shopspb' />
+    <tag k='name' v='21Shop' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://21-shop.ru/spb/' />
+  </node>
+  <node id='5612432214' timestamp='2019-08-27T02:53:49Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='73775225' lat='59.9384791' lon='30.3216346'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/sokol_coffee' />
+    <tag k='name' v='Sokol' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ИП «Соколовский А.Ю.»' />
+    <tag k='website' v='http://www.sokolcoffee.com/' />
+  </node>
+  <node id='5612432215' timestamp='2019-04-13T20:00:59Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9384637' lon='30.3214793'>
+    <tag k='name' v='Concept' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://www.conceptspb.com/' />
+  </node>
+  <node id='5612432216' timestamp='2019-04-13T20:00:59Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='69187243' lat='59.9384457' lon='30.3212982'>
+    <tag k='contact:vk' v='https://vk.com/golaba' />
+    <tag k='disused:shop' v='beauty' />
+    <tag k='name' v='Laba' />
+    <tag k='website' v='http://golaba.ru/' />
+  </node>
+  <node id='5612432219' timestamp='2019-08-27T02:53:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='73775225' lat='59.9384113' lon='30.3204178'>
+    <tag k='name' v='SoHaus' />
+    <tag k='note' v='возможно закрыт' />
+    <tag k='reservation' v='recommended' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='http://sohaus-interior.com/' />
+  </node>
+  <node id='5621050599' timestamp='2018-05-16T03:21:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59002506' lat='59.9385308' lon='30.322926'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Альфа-Банк' />
+    <tag k='brand:wikidata' v='Q1377835' />
+    <tag k='contact:vk' v='https://vk.com/alfabank' />
+    <tag k='name' v='Альфа-Банк' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-19:00' />
+    <tag k='operator' v='АО «Альфа-Банк»' />
+    <tag k='operator:wikidata' v='Q1377835' />
+    <tag k='website' v='https://alfabank.ru/office/peterburg/griboedovsky/' />
+  </node>
+</osm>

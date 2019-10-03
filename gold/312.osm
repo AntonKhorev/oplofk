@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='802408378' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='73396754' lat='59.9271264' lon='30.3364332' />
+  <node id='802408457' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73396754' lat='59.9275831' lon='30.3371946' />
+  <node id='802408513' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='73396754' lat='59.926599' lon='30.3366704' />
+  <node id='802408551' timestamp='2010-12-26T16:49:15Z' uid='24305' user='ZCC' visible='true' version='3' changeset='6769873' lat='59.9272827' lon='30.33857' />
+  <node id='802409067' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='73396754' lat='59.9272979' lon='30.3367191' />
+  <node id='802409158' timestamp='2018-05-27T21:25:02Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='59322688' lat='59.9260694' lon='30.3375939' />
+  <node id='802409307' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='73396754' lat='59.9272307' lon='30.3366071' />
+  <node id='802409761' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73396754' lat='59.927761' lon='30.3374912' />
+  <node id='802410796' timestamp='2010-12-26T16:49:15Z' uid='24305' user='ZCC' visible='true' version='2' changeset='6769873' lat='59.9268912' lon='30.3400463' />
+  <node id='802411018' timestamp='2015-06-24T05:13:20Z' uid='392109' user='GaM' visible='true' version='4' changeset='32174851' lat='59.9273638' lon='30.3383105'>
+    <tag k='amenity' v='clock' />
+  </node>
+  <node id='802411062' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73396754' lat='59.9270639' lon='30.336329' />
+  <node id='866491079' timestamp='2010-12-26T16:49:17Z' uid='24305' user='ZCC' visible='true' version='2' changeset='6769873' lat='59.9269768' lon='30.3398038' />
+  <node id='1013309057' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='73396754' lat='59.9266083' lon='30.3366525' />
+  <node id='1013309108' timestamp='2010-12-26T16:49:15Z' uid='24305' user='ZCC' visible='true' version='2' changeset='6769873' lat='59.9275403' lon='30.338121' />
+  <node id='1066100208' timestamp='2010-12-26T16:49:09Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9273704' lon='30.3383971' />
+  <node id='1066100212' timestamp='2010-12-26T16:49:09Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9274713' lon='30.3381887' />
+  <node id='1066100214' timestamp='2018-05-27T21:25:02Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='59322688' lat='59.926333' lon='30.3392986' />
+  <node id='1066100217' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='73396754' lat='59.927517' lon='30.3370844' />
+  <node id='1066100219' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='73396754' lat='59.9265287' lon='30.3367518' />
+  <node id='1066100225' timestamp='2018-05-27T21:25:02Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='59322688' lat='59.9260437' lon='30.3375494' />
+  <node id='1066100228' timestamp='2018-05-27T21:25:02Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='59322688' lat='59.925758' lon='30.3382237' />
+  <node id='1066100230' timestamp='2010-12-26T16:49:09Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9272624' lon='30.3388229' />
+  <node id='1066100235' timestamp='2010-12-26T16:49:10Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.927324' lon='30.3385396' />
+  <node id='1066100238' timestamp='2010-12-26T16:49:10Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9273034' lon='30.3385076' />
+  <node id='1066100242' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='73396754' lat='59.9275581' lon='30.3371529' />
+  <node id='1066100254' timestamp='2018-05-27T21:25:02Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='59322688' lat='59.9263513' lon='30.3392197' />
+  <node id='1066100255' timestamp='2010-12-26T16:49:10Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9275204' lon='30.3381673' />
+  <node id='1066100260' timestamp='2010-12-26T16:49:10Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9274007' lon='30.3382404' />
+  <node id='1066100263' timestamp='2010-12-26T16:49:10Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9272811' lon='30.338903' />
+  <node id='1066100269' timestamp='2018-05-27T21:25:02Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='59322688' lat='59.9261279' lon='30.3376924' />
+  <node id='1066100276' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='73396754' lat='59.9274246' lon='30.3369305' />
+  <node id='1066100278' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='73396754' lat='59.9265486' lon='30.3367874' />
+  <node id='1066100282' timestamp='2010-12-26T16:49:10Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9273463' lon='30.3383633' />
+  <node id='1066100289' timestamp='2010-12-26T16:49:10Z' uid='24305' user='ZCC' visible='true' version='1' changeset='6769873' lat='59.9272579' lon='30.3386679' />
+  <node id='1102175312' timestamp='2011-01-13T16:02:28Z' uid='231182' user='klif22' visible='true' version='1' changeset='6958517' lat='59.9263674' lon='30.3393488' />
+  <node id='1836925361' timestamp='2019-09-27T01:10:01Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='74985285' lat='59.92637506886' lon='30.34163133563'>
+    <tag k='contact:facebook' v='https://www.facebook.com/149487445642900' />
+    <tag k='contact:instagram' v='https://www.instagram.com/sprayregata/' />
+    <tag k='contact:vk' v='https://vk.com/thespraybar' />
+    <tag k='disused:amenity' v='bar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Spray' />
+    <tag k='name:en' v='The Spray' />
+    <tag k='name:ru' v='Спрэй' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='phone' v='+7 953 3643503' />
+  </node>
+  <node id='3525642293' timestamp='2019-09-27T01:10:01Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='74985285' lat='59.9261819' lon='30.3421505'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/robataspb' />
+    <tag k='cuisine' v='japanese' />
+    <tag k='name' v='Robata' />
+    <tag k='opening_hours' v='12:00-02:00' />
+    <tag k='phone' v='+7 812 9150013' />
+    <tag k='website' v='http://robatabar.ru/' />
+  </node>
+  <node id='4959148416' timestamp='2019-09-27T01:10:01Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='74985285' lat='59.92675135282' lon='30.34037067932'>
+    <tag k='amenity' v='college' />
+    <tag k='name' v='Санкт-Петербургская академия постдипломного педагогического образования' />
+    <tag k='website' v='https://spbappo.ru/' />
+  </node>
+  <node id='4959148417' timestamp='2019-09-27T01:10:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74985285' lat='59.92632102295' lon='30.34177654521'>
+    <tag k='contact:vk' v='https://vk.com/optisse' />
+    <tag k='name' v='Невская оптика' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 11:00-18:00' />
+    <tag k='operator' v='ЗАО «Невская Оптика Холдинг»' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='https://noptica.ru/saloni/nevskaya_optika_33/' />
+  </node>
+  <node id='5181936787' timestamp='2017-10-22T15:37:46Z' uid='381925' user='pokakukam' visible='true' version='1' changeset='53154735' lat='59.9274872' lon='30.3381818' />
+  <node id='6713703391' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='73396754' lat='59.9268857' lon='30.336032' />
+  <way id='73010075' timestamp='2010-08-18T10:28:50Z' uid='122300' user='IsVlad' visible='true' version='2' changeset='5525357'>
+    <nd ref='802410796' />
+    <nd ref='866491079' />
+    <tag k='barrier' v='fence' />
+  </way>
+  <way id='87137051' timestamp='2016-07-24T22:28:29Z' uid='345975' user='VlIvYur' visible='true' version='3' changeset='41000131'>
+    <nd ref='802409761' />
+    <nd ref='1013309108' />
+    <tag k='barrier' v='fence' />
+  </way>
+  <way id='91741459' timestamp='2017-10-22T15:37:46Z' uid='381925' user='pokakukam' visible='true' version='2' changeset='53154735'>
+    <nd ref='1013309108' />
+    <nd ref='1066100255' />
+    <nd ref='5181936787' />
+    <nd ref='1066100212' />
+    <nd ref='1066100260' />
+    <nd ref='802411018' />
+    <nd ref='1066100282' />
+    <nd ref='1066100208' />
+    <nd ref='1066100235' />
+    <nd ref='1066100238' />
+    <nd ref='802408551' />
+    <nd ref='1066100289' />
+    <nd ref='1066100230' />
+    <nd ref='1066100263' />
+    <nd ref='866491079' />
+  </way>
+  <way id='91741460' timestamp='2019-08-16T02:31:05Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73396754'>
+    <nd ref='802410796' />
+    <nd ref='1102175312' />
+    <nd ref='1066100214' />
+    <nd ref='1066100254' />
+    <nd ref='1066100228' />
+    <nd ref='1066100225' />
+    <nd ref='802409158' />
+    <nd ref='1066100269' />
+    <nd ref='1066100219' />
+    <nd ref='1066100278' />
+    <nd ref='802408513' />
+    <nd ref='1013309057' />
+    <nd ref='6713703391' />
+    <nd ref='802411062' />
+    <nd ref='802408378' />
+    <nd ref='802409307' />
+    <nd ref='802409067' />
+    <nd ref='1066100276' />
+    <nd ref='1066100217' />
+    <nd ref='1066100242' />
+    <nd ref='802408457' />
+    <nd ref='802409761' />
+  </way>
+  <relation id='1343236' timestamp='2019-09-27T01:10:01Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='74985285'>
+    <member type='way' ref='87137051' role='outer' />
+    <member type='way' ref='91741459' role='outer' />
+    <member type='way' ref='73010075' role='outer' />
+    <member type='way' ref='91741460' role='outer' />
+    <tag k='amenity' v='university' />
+    <tag k='contact:vk' v='https://vk.com/itmoru' />
+    <tag k='name' v='Университет ИТМО' />
+    <tag k='official_name' v='Федеральное государственное автономное образовательное учреждение высшего образования «Санкт-Петербургский национальный исследовательский университет информационных технологий, механики и оптики»' />
+    <tag k='old_name' v='Санкт-Петербургский государственный университет низкотемпературных и пищевых технологий' />
+    <tag k='source' v='rgis' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='https://www.ifmo.ru/' />
+  </relation>
+</osm>

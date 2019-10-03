@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2197659020' timestamp='2018-05-31T14:18:12Z' uid='103003' user='Alexandrcfif' visible='true' version='4' changeset='59431701' lat='59.9254861' lon='30.3153455'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Фергана' />
+    <tag k='toilets' v='yes' />
+  </node>
+  <node id='2197659023' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='74396208' lat='59.9253389' lon='30.3155954'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='Luxor' />
+    <tag k='website' v='http://luxorbar.ru/' />
+  </node>
+  <node id='2197659024' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='74396208' lat='59.92527791643' lon='30.31592632431'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/kafe_kattakurgan_bar' />
+    <tag k='name' v='Каттакурган' />
+  </node>
+  <node id='3423550123' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='74396208' lat='59.9252685' lon='30.315715'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «МФА»' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4582341891' timestamp='2019-09-12T14:24:41Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='74396275' lat='59.92543641982' lon='30.31631446024'>
+    <tag k='contact:vk' v='https://vk.com/gagagames' />
+    <tag k='disused:shop' v='games' />
+    <tag k='name' v='GaGa.ru' />
+    <tag k='website' v='https://gaga.ru/delivery/sennaya/' />
+  </node>
+  <node id='4609140515' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='74396208' lat='59.92579800062' lon='30.31722358336'>
+    <tag k='alt_name' v='Carnaby' />
+    <tag k='contact:vk' v='https://vk.com/welovetjcollection' />
+    <tag k='name' v='TJ Collection' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «КЛ Групп»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://tjcollection.ru/' />
+  </node>
+  <node id='4609140516' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74396208' lat='59.92565839265' lon='30.31686975662'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='name' v='Кальян Хочу!' />
+    <tag k='website' v='http://kalyan-hochu.ru/' />
+  </node>
+  <node id='4609140517' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74396208' lat='59.92556274555' lon='30.31663057987'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:vk' v='https://vk.com/m.l.salon' />
+    <tag k='name' v='Пудра' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4609140518' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='74396208' lat='59.92551946468' lon='30.316522427'>
+    <tag k='contact:vk' v='https://vk.com/strizhkagorodru' />
+    <tag k='name' v='Adel' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://www.strizhka-gorod.ru/' />
+  </node>
+  <node id='4609140519' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='74396208' lat='59.9253812' lon='30.3155237'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/hochushashlik' />
+    <tag k='cuisine' v='kebab' />
+    <tag k='name' v='Хочу шашлык' />
+  </node>
+  <node id='4609140520' timestamp='2018-04-29T22:12:23Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='58538834' lat='59.9255131' lon='30.3152996'>
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='4609140521' timestamp='2018-08-29T01:29:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62088714' lat='59.9255255' lon='30.3152786'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/leoncoffeespb' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Leon Coffee' />
+  </node>
+  <node id='6790576547' timestamp='2019-09-12T14:23:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='74396208' lat='59.92536349751' lon='30.31613558256'>
+    <tag k='name' v='Astra Law Company' />
+    <tag k='office' v='lawyer' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-15:00' />
+    <tag k='website' v='https://urist-78.ru/' />
+  </node>
+</osm>
