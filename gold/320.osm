@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1933986019' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75331834' lat='59.9207898' lon='30.3424497'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/karaman.food/' />
+    <tag k='name' v='Караман' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+  </node>
+  <node id='2085640760' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75331834' lat='59.9213627' lon='30.3444504'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/cafeliman' />
+    <tag k='name' v='Liman' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-23:00; Sa-Su 11:00-23:00' />
+  </node>
+  <node id='4590826397' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='75331834' lat='59.9207359' lon='30.3422614'>
+    <tag k='disused:shop' v='supermarket' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Дикси' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='5780478076' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331834' lat='59.9213234' lon='30.3443136'>
+    <tag k='contact:vk' v='https://vk.com/pulkovo_etc' />
+    <tag k='name' v='Pulkovo-ETC' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa-Su 11:00-17:00' />
+    <tag k='operator' v='ООО «Аэропорт сервис»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://pulkovo-etc.ru/' />
+  </node>
+  <node id='5780478077' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331834' lat='59.9212356' lon='30.344006'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='GyroPlate' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='operator' v='ООО «Гиро Групп»' />
+    <tag k='website' v='http://gyroplate.ru/' />
+  </node>
+  <node id='5780478078' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331834' lat='59.921147' lon='30.3436946'>
+    <tag k='contact:vk' v='https://vk.com/club38073861' />
+    <tag k='disused:shop' v='florist' />
+    <tag k='name' v='Цвет Сити' />
+  </node>
+  <node id='5780478080' timestamp='2018-07-24T00:08:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61002059' lat='59.920967' lon='30.3430206'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Уральский банк реконструкции и развития' />
+    <tag k='brand:wikidata' v='Q4476745' />
+    <tag k='contact:vk' v='https://vk.com/bank_ubrr' />
+    <tag k='name' v='Уральский банк реконструкции и развития' />
+    <tag k='website' v='https://spb.ubrr.ru/' />
+  </node>
+  <node id='5780478081' timestamp='2018-07-24T00:08:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61002059' lat='59.9208355' lon='30.3426092'>
+    <tag k='amenity' v='bank' />
+    <tag k='name' v='Московский Нефтехимический банк' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+    <tag k='website' v='http://www.mnhb.ru/about/bank_today/sankt-peterburgskiy-filial-banka/' />
+  </node>
+  <node id='5780478082' timestamp='2018-07-24T00:08:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61002059' lat='59.9208333' lon='30.3425243'>
+    <tag k='name' v='Бюро Проект' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://buro-project.ru/' />
+  </node>
+  <node id='5780478083' timestamp='2018-07-24T00:08:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61002059' lat='59.9208252' lon='30.3424962'>
+    <tag k='contact:vk' v='https://vk.com/indeks_expert' />
+    <tag k='name' v='Индекс-Петербург' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://expertizaindex.ru/' />
+  </node>
+  <node id='5780478084' timestamp='2018-07-24T00:08:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61002059' lat='59.9208127' lon='30.3425296'>
+    <tag k='contact:vk' v='https://vk.com/alexhotelspb' />
+    <tag k='name' v='Алекс Отель' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://alexhotels.ru/hotels/marata3/' />
+  </node>
+  <node id='5780478085' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331834' lat='59.9207143' lon='30.3421859'>
+    <tag k='disused:shop' v='antiques' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='5780478086' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331834' lat='59.9206096' lon='30.34182'>
+    <tag k='contact:vk' v='https://vk.com/allbpspb' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Центр продажи бизнеса' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.allpbspb.ru/' />
+  </node>
+  <node id='5780478087' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331834' lat='59.9205065' lon='30.3414598'>
+    <tag k='contact:vk' v='https://vk.com/clubgderm' />
+    <tag k='name' v='G-Derm' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://g-derm.ru/' />
+  </node>
+  <node id='5780478088' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75331834' lat='59.920473456' lon='30.3413434222'>
+    <tag k='contact:vk' v='https://vk.com/tuinakitaisskiimassazh' />
+    <tag k='disused:shop' v='massage' />
+    <tag k='name' v='Tui Na' />
+    <tag k='note' v='переехали' />
+    <tag k='website' v='https://www.chinese-massage.ru/' />
+  </node>
+  <node id='5780478091' timestamp='2018-07-24T00:08:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61002059' lat='59.919986' lon='30.3398723'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='building' v='kiosk' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Бери и беги' />
+    <tag k='opening_hours' v='Mo-Fr 17:30-20:00; Sa-Su,PH 09:00-21:00' />
+  </node>
+  <node id='6854568340' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92106120063' lon='30.34322510635'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='RV Medical' />
+    <tag k='website' v='http://www.rv-medical.ru/' />
+  </node>
+  <node id='6854568341' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.9210677298' lon='30.34325039458'>
+    <tag k='brand' v='Circle K' />
+    <tag k='brand:wikidata' v='Q3268010' />
+    <tag k='contact:vk' v='https://vk.com/circlek' />
+    <tag k='name' v='Circle K' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://circlekrussia.ru/' />
+  </node>
+  <node id='6854568342' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92107349083' lon='30.34327108495'>
+    <tag k='brand' v='Яндекс.Такси' />
+    <tag k='brand:wikidata' v='Q16723302' />
+    <tag k='name' v='Яндекс.Такси' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://driver.yandex/' />
+  </node>
+  <node id='6854568343' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92104430159' lon='30.34321591063'>
+    <tag k='name' v='Heurtey Petrochem' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.heurtey.net/' />
+  </node>
+  <node id='6854568344' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92105006263' lon='30.34323813362'>
+    <tag k='brand' v='Samsung' />
+    <tag k='brand:wikidata' v='Q20716' />
+    <tag k='contact:vk' v='https://vk.com/samsung' />
+    <tag k='name' v='Samsung' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.samsung.com/ru/' />
+  </node>
+  <node id='6854568345' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.9210565918' lon='30.34326112292'>
+    <tag k='brand' v='GridGain' />
+    <tag k='brand:wikidata' v='Q22084391' />
+    <tag k='name' v='GridGain Systems' />
+    <tag k='office' v='it' />
+    <tag k='website' v='https://www.gridgain.com/' />
+  </node>
+  <node id='6854568346' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92106273691' lon='30.34328334591'>
+    <tag k='brand' v='KPMG' />
+    <tag k='brand:wikidata' v='Q493751' />
+    <tag k='contact:vk' v='https://vk.com/kpmggraduate' />
+    <tag k='name' v='KPMG' />
+    <tag k='office' v='accountant' />
+    <tag k='website' v='https://home.kpmg/ru/ru/home/about/our-offices/st-petersburg-1.html' />
+  </node>
+  <node id='6854568347' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92103969276' lon='30.34325575875'>
+    <tag k='name' v='Hauni' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.hauni.com/' />
+  </node>
+  <node id='6854568348' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92104430159' lon='30.34327185126'>
+    <tag k='brand' v='КИТ Финанс' />
+    <tag k='brand:wikidata' v='Q4206336' />
+    <tag k='contact:vk' v='https://vk.com/brokerkf' />
+    <tag k='name' v='КИТ Финанс' />
+    <tag k='office' v='financial' />
+    <tag k='website' v='https://brokerkf.ru/offices/office_286/' />
+  </node>
+  <node id='6854568349' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92105198336' lon='30.34329790503'>
+    <tag k='name' v='ТКБ Инвестмент Партнерс' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://tkbip.ru/' />
+  </node>
+  <node id='6854568350' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92103184556' lon='30.34310600164'>
+    <tag k='contact:vk' v='https://vk.com/rendvlp_official' />
+    <tag k='name' v='Renaissance Development' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.rendvlp.com/' />
+  </node>
+  <node id='6854568351' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92103724882' lon='30.34313187558'>
+    <tag k='name' v='Nayada' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.nayada-neva.ru/' />
+  </node>
+  <node id='6854568352' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92101887771' lon='30.34311893861'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Danske Bank' />
+    <tag k='brand:wikidata' v='Q1636974' />
+    <tag k='name' v='Danske Bank' />
+    <tag k='website' v='https://danskebank.ru/' />
+  </node>
+  <node id='6854568353' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92102536163' lon='30.3431480468'>
+    <tag k='brand' v='СПбМТСБ' />
+    <tag k='brand:wikidata' v='Q4407671' />
+    <tag k='contact:vk' v='https://vk.com/spimex' />
+    <tag k='name' v='Санкт-Петербургская международная товарно-сырьевая биржа' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://spimex.com/' />
+  </node>
+  <node id='6854568354' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92099996626' lon='30.3431135482'>
+    <tag k='brand' v='Huawei' />
+    <tag k='brand:wikidata' v='Q160120' />
+    <tag k='contact:vk' v='https://vk.com/huaweirussiaofficial' />
+    <tag k='name' v='Huawei' />
+    <tag k='office' v='telecommunication' />
+    <tag k='website' v='https://www.huawei.com/ru/' />
+  </node>
+  <node id='6854568355' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92100645019' lon='30.34313618791'>
+    <tag k='brand' v='JTI' />
+    <tag k='brand:wikidata' v='Q397401' />
+    <tag k='name' v='Japan Tobacco International' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.jti.com/ru/europe/russia' />
+  </node>
+  <node id='6854568356' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92102049869' lon='30.34318362347'>
+    <tag k='brand' v='Essity' />
+    <tag k='brand:wikidata' v='Q30938280' />
+    <tag k='name' v='Essity' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.essity.ru/' />
+  </node>
+  <node id='6854568357' timestamp='2019-10-06T04:30:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331834' lat='59.92101401477' lon='30.34316098377'>
+    <tag k='brand' v='SKF' />
+    <tag k='brand:wikidata' v='Q52846' />
+    <tag k='name' v='SKF' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.skf.com/ru/' />
+  </node>
+</osm>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5529450594' timestamp='2019-10-06T02:35:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75331138' lat='59.9208475' lon='30.3385382'>
+    <tag k='contact:vk' v='https://vk.com/funt_iziyma' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Фунт изюма' />
+    <tag k='website' v='https://funtizumz.jimdo.com/' />
+  </node>
+  <node id='5764032704' timestamp='2019-10-06T02:35:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331138' lat='59.920468' lon='30.3390226'>
+    <tag k='contact:vk' v='https://vk.com/vgarageclub' />
+    <tag k='name' v='Гараж' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='operator' v='ИП Югай Виктор Валерьевич' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://vintage-garage.club/' />
+  </node>
+  <node id='5764032705' timestamp='2019-04-16T00:03:10Z' uid='9451067' user='b-jazz-bot' visible='true' version='2' changeset='69252354' lat='59.9205263' lon='30.3389828'>
+    <tag k='contact:vk' v='https://vk.com/cse.russia' />
+    <tag k='name' v='КурьерСервисЭкспресс' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.cse.ru/' />
+  </node>
+  <node id='5764032706' timestamp='2018-07-16T15:16:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='60768636' lat='59.9205155' lon='30.3389969'>
+    <tag k='contact:vk' v='https://vk.com/fabrikaputeshestvii' />
+    <tag k='name' v='Фабрика путешествий' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://fab-travel.ru/' />
+  </node>
+  <node id='5764032707' timestamp='2018-07-16T15:16:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='60768636' lat='59.9205186' lon='30.3389577'>
+    <tag k='name' v='Паланна' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='http://palanna.ru/' />
+  </node>
+  <node id='5764032708' timestamp='2018-07-16T15:16:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='60768636' lat='59.9205036' lon='30.3390113'>
+    <tag k='alt_name' v='Netbynet' />
+    <tag k='contact:vk' v='https://vk.com/netbynetru' />
+    <tag k='name' v='Wifire' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://spb.wifire.ru/' />
+  </node>
+  <node id='5764032709' timestamp='2018-07-16T15:16:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='60768636' lat='59.9204956' lon='30.3389872'>
+    <tag k='name' v='Медведь' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://7106862.ru/' />
+  </node>
+  <node id='5764032710' timestamp='2018-07-16T15:16:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='60768636' lat='59.9205087' lon='30.3389704'>
+    <tag k='contact:vk' v='https://vk.com/dlyafrendov' />
+    <tag k='name' v='ForFriends' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://ffriends.ru/' />
+  </node>
+  <node id='5764032712' timestamp='2019-10-06T02:35:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331138' lat='59.9207271' lon='30.3386907'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/dentideal' />
+    <tag k='name' v='ДентИдеал' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 09:00-15:00' />
+    <tag k='operator' v='ООО «ДентИдеал Центр»' />
+    <tag k='website' v='https://dentideal.ru/clinics/center/' />
+  </node>
+  <node id='5764528210' timestamp='2018-07-16T20:43:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='60775837' lat='59.9205214' lon='30.3390214'>
+    <tag k='contact:vk' v='https://vk.com/rem_labs_service_spb' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Rem Labs' />
+  </node>
+</osm>

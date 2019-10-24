@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5805138031' timestamp='2019-10-24T11:29:16Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76148828' lat='59.92811995632' lon='30.35302734467'>
+    <tag k='contact:facebook' v='https://www.facebook.com/vkusvill.ru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/izbenka_vkusvill/' />
+    <tag k='contact:vk' v='https://vk.com/vkusvill_ru' />
+    <tag k='name' v='ВкусВилл' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Вкусвилл»' />
+    <tag k='organic' v='yes' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://spb.vkusvill.ru/shops/?shop_id=9427' />
+  </node>
+  <node id='5805138032' timestamp='2018-08-02T21:03:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61310326' lat='59.927959' lon='30.3529252'>
+    <tag k='contact:vk' v='https://vk.com/salonpomada' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Помада' />
+    <tag k='note' v='вход под аркой' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://www.salonpomada.ru/' />
+  </node>
+  <node id='6912188602' timestamp='2019-10-24T11:29:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76148828' lat='59.92808241255' lon='30.35300355272'>
+    <tag k='disused:amenity' v='cafe' />
+  </node>
+</osm>

@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3634521412' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75332330' lat='59.92376146926' lon='30.35033258992'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/artmedicaspb' />
+    <tag k='name' v='АртМедика' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='website' v='http://артмедика.рф/' />
+  </node>
+  <node id='3634521413' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75332330' lat='59.92384127123' lon='30.35038230231'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/mirstomatologii' />
+    <tag k='name' v='Мир стоматологии' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='phone' v='+7 812 5755270' />
+    <tag k='website' v='https://mirstomatologii.com/nashi-kliniki/klinika-na-marata/' />
+  </node>
+  <node id='3634521414' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75332330' lat='59.9240741' lon='30.350531'>
+    <tag k='contact:vk' v='https://vk.com/joyflowerplace' />
+    <tag k='email' v='info9874841@yandex.ru' />
+    <tag k='name' v='Joy' />
+    <tag k='note' v='возможно переехал' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='phone' v='+7 812 9874841;+7 812 7121945' />
+    <tag k='shop' v='florist' />
+    <tag k='shop:gift' v='yes' />
+    <tag k='website' v='https://joyflowerplace.ru/' />
+  </node>
+  <node id='3634521415' timestamp='2019-03-29T12:04:11Z' uid='103003' user='Alexandrcfif' visible='true' version='7' changeset='68662790' lat='59.9243926' lon='30.3507337'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/oldfriendspub' />
+    <tag k='name' v='Old Friends' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='website' v='http://oldfriends.pub/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4331532895' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75332330' lat='59.92398390568' lon='30.35047334624'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/club_eat2fit' />
+    <tag k='description' v='Центр диетологии и правильного питания' />
+    <tag k='healthcare' v='doctor' />
+    <tag k='name' v='Eat2Fit' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 10:00-19:00' />
+    <tag k='phone' v='+7 812 6040264' />
+    <tag k='website' v='http://eat2fit.ru/' />
+  </node>
+  <node id='4978375928' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75332330' lat='59.92372198467' lon='30.35030772186'>
+    <tag k='name' v='ДельтаСервис' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='4978375929' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75332330' lat='59.9237428279' lon='30.35028557669'>
+    <tag k='name' v='ЖДС' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='4978375930' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75332330' lat='59.92373966156' lon='30.35031887395'>
+    <tag k='name' v='РефПеревозки' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5764528211' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75332330' lat='59.9234972' lon='30.3501659'>
+    <tag k='contact:vk' v='https://vk.com/vernoinfo' />
+    <tag k='name' v='Верный' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00' />
+    <tag k='operator' v='ООО «Союз Св. Иоанна Воина»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.verno-info.ru/' />
+  </node>
+  <node id='6854594984' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.92376575293' lon='30.35029873118'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/citilabru' />
+    <tag k='health_facility:type' v='laboratory' />
+    <tag k='name' v='Ситилаб' />
+    <tag k='website' v='https://citilab.ru/sankt-peterburg/sankt-peterburg/medcentr-ligovskij-prospekt.aspx' />
+  </node>
+  <node id='6854619785' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.92331040376' lon='30.35001106493'>
+    <tag k='contact:vk' v='https://vk.com/medmelisru' />
+    <tag k='name' v='Мелис' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://medmelis.ru/' />
+  </node>
+  <node id='6854619786' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.92330737928' lon='30.35002849929'>
+    <tag k='contact:vk' v='https://vk.com/salon5avenue' />
+    <tag k='name' v='5th Avenue' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 11:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='6854619787' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.92330458485' lon='30.35004391492'>
+    <tag k='amenity' v='music_school' />
+    <tag k='contact:vk' v='https://vk.com/decantoschool' />
+    <tag k='name' v='DЭcanto' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 11:00-21:00' />
+  </node>
+  <node id='6854619788' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.92329511198' lon='30.35003763585'>
+    <tag k='contact:vk' v='https://vk.com/evo_spb_ru' />
+    <tag k='name' v='ЭВО' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://evo.spb.ru/' />
+  </node>
+  <node id='6854619789' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.92329192084' lon='30.34999832444'>
+    <tag k='name' v='Аврора' />
+    <tag k='office' v='lawyer' />
+    <tag k='phone' v='+7 904 3305705' />
+  </node>
+  <node id='6854619790' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.9232885603' lon='30.35001508825'>
+    <tag k='contact:vk' v='https://vk.com/planbtour' />
+    <tag k='name' v='Бюро путешествий' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='travel_agency' />
+  </node>
+  <node id='6854619791' timestamp='2019-10-06T05:40:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75332330' lat='59.92328659855' lon='30.35003218104'>
+    <tag k='name' v='BM Group' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://bm-technology.ru/' />
+  </node>
+</osm>
