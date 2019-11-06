@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3942487556' timestamp='2019-10-03T02:59:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75208041' lat='59.9245167' lon='30.3282839'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Бакинский дворик' />
+    <tag k='website' v='http://bakinskiydvorik.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4684937878' timestamp='2019-11-06T03:40:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76675506' lat='59.92501017929' lon='30.32849069274'>
+    <tag k='military' v='office' />
+    <tag k='name' v='Военный комиссариат Ленинградской области' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://mil.ru/enlistment_contract/commisariats/info.htm?id=9598@egOrganization' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

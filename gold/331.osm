@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='646920899' timestamp='2019-11-06T02:55:41Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76674636' lat='59.92157634224' lon='30.319149963'>
+    <tag k='amenity' v='pub' />
+    <tag k='name' v='Диккенс' />
+    <tag k='opening_hours' v='Mo-Su 12:00-02:00' />
+    <tag k='website' v='http://dickensrest.ru/' />
+  </node>
+  <node id='1756377022' timestamp='2019-11-06T02:55:41Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76674636' lat='59.92145512429' lon='30.31872061908'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/vesenniy' />
+    <tag k='name' v='Весенний' />
+    <tag k='opening_hours' v='12:00-20:00' />
+    <tag k='reservation' v='required' />
+    <tag k='website' v='https://vesenniy.com/restorany-dlya-svadby/fontanki.php' />
+  </node>
+  <node id='1989775229' timestamp='2019-11-06T02:55:41Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76674636' lat='59.92131202231' lon='30.31835235216'>
+    <tag k='disused:office' v='company' />
+    <tag k='name' v='Fingers' />
+    <tag k='note' v='возможно https://fingers.su/' />
+  </node>
+  <node id='4547824341' timestamp='2019-11-06T02:55:41Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76674636' lat='59.9212271' lon='30.3181399'>
+    <tag k='contact:vk' v='https://vk.com/plaza_real' />
+    <tag k='name' v='Plaza Real' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Уна Фабрика»' />
+    <tag k='shop' v='kitchen' />
+    <tag k='website' v='https://www.plazareal.ru/kontakty/sankt-peterburg/id-3335' />
+  </node>
+  <node id='6400961116' timestamp='2019-11-06T02:55:41Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76674636' lat='59.92147603111' lon='30.31927217117'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Альбион Диккенс' />
+    <tag k='website' v='http://dickensrest.ru/restaurant' />
+  </node>
+  <node id='6950084599' timestamp='2019-11-06T02:55:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76674636' lat='59.92128502688' lon='30.31828454619'>
+    <tag k='disused:office' v='company' />
+    <tag k='name' v='Элайнс' />
+    <tag k='note' v='дверь закрыта, все контакты указывают другое место: vk.com/markiza_elains , okno812.ru , www.markiza.su' />
+  </node>
+</osm>

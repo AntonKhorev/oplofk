@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4611260803' timestamp='2019-11-06T03:32:02Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76675311' lat='59.92423219015' lon='30.32592929854'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Ясли-сад №135' />
+    <tag k='website' v='http://gbdou135.ucoz.net/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

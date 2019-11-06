@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3504083762' timestamp='2019-11-06T03:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76675061' lat='59.92388845997' lon='30.32504984802'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4200617180' timestamp='2019-11-06T03:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76675061' lat='59.92405517129' lon='30.32546266869'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='BGL' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='phone' v='+7 952 2063356' />
+    <tag k='smoking' v='outside' />
+    <tag k='toilets' v='unisex' />
+    <tag k='website' v='http://vk.com/bglcafe' />
+  </node>
+  <node id='4562776413' timestamp='2019-11-06T03:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76675061' lat='59.92347098564' lon='30.32395823645'>
+    <tag k='contact:vk' v='https://vk.com/organicstudia' />
+    <tag k='name' v='Студия Зеленая' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://greenstudia.com/' />
+  </node>
+  <node id='4562776414' timestamp='2019-11-06T03:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76675061' lat='59.92354235064' lon='30.32414170551'>
+    <tag k='contact:vk' v='https://vk.com/orda_spb' />
+    <tag k='name' v='Orda' />
+    <tag k='opening_hours' v='10:00-19:00' />
+    <tag k='shop' v='cosmetics' />
+  </node>
+  <node id='4562776415' timestamp='2019-11-06T03:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76675061' lat='59.92394311849' lon='30.32518493865'>
+    <tag k='contact:instagram' v='https://www.instagram.com/mikadelmar/' />
+    <tag k='contact:vk' v='https://vk.com/mika_del_mar' />
+    <tag k='name' v='Mika Del Mar' />
+    <tag k='note' v='возможно закрыт' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4562776416' timestamp='2019-11-06T03:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76675061' lat='59.92402437403' lon='30.32538646926'>
+    <tag k='contact:vk' v='https://vk.com/azure_spb' />
+    <tag k='name' v='Azure' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

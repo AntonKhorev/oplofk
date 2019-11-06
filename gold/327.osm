@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1479139290' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76568433' lat='59.91864429634' lon='30.30699161163'>
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='1541175154' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76568433' lat='59.91871516522' lon='30.30732994869'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='chinese' />
+    <tag k='name' v='Тан Чао' />
+  </node>
+  <node id='4715014963' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76568433' lat='59.91789246368' lon='30.30366304045'>
+    <tag k='amenity' v='language_school' />
+    <tag k='contact:vk' v='https://vk.com/denisschool_eng' />
+    <tag k='name' v='Denis&apos; School' />
+    <tag k='website' v='https://spb.dschool.ru/' />
+  </node>
+  <node id='4715014964' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76568433' lat='59.91791817834' lon='30.30377191464'>
+    <tag k='name' v='Мегаполис' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://etc-megapolis.ru/' />
+  </node>
+  <node id='4715014966' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76568433' lat='59.91790137682' lon='30.30370070179'>
+    <tag k='brand' v='Bureau Veritas' />
+    <tag k='brand:wikidata' v='Q1974503' />
+    <tag k='name' v='Бюро Веритас' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.bureau-veritas.ru/' />
+  </node>
+  <node id='4715014969' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76568433' lat='59.91781748982' lon='30.30334703442'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Европейский центр вакцинации' />
+    <tag k='website' v='https://privivka.spb.ru/' />
+  </node>
+  <node id='4715014970' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76568433' lat='59.91650190677' lon='30.29808725263'>
+    <tag k='club' v='photography' />
+    <tag k='contact:vk' v='https://vk.com/comein_studio' />
+    <tag k='name' v='Подростково-молодёжный клуб «Ровесник»' />
+    <tag k='website' v='http://admiralteisky.spb.ru/%d0%ba%d0%bb%d1%83%d0%b1%d1%8b/%d0%bf%d0%bc%d0%ba-%d1%80%d0%be%d0%b2%d0%b5%d1%81%d0%bd%d0%b8%d0%ba/' />
+  </node>
+  <node id='6944197167' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91788270225' lon='30.30376911096'>
+    <tag k='contact:vk' v='https://vk.com/epirweb' />
+    <tag k='name' v='Epir' />
+    <tag k='office' v='it' />
+    <tag k='website' v='https://epir.biz/' />
+  </node>
+  <node id='6944197168' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91787530787' lon='30.30373021893'>
+    <tag k='contact:vk' v='https://vk.com/neva_flot' />
+    <tag k='name' v='Невский флот' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://neva-flot.ru/' />
+  </node>
+  <node id='6944197169' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91790421316' lon='30.30378989808'>
+    <tag k='name' v='Азимут' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://azimut-metall.ru/' />
+  </node>
+  <node id='6944197170' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91787967728' lon='30.30367992751'>
+    <tag k='contact:vk' v='https://vk.com/elseda' />
+    <tag k='name' v='Elseda' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://elseda-shop.ru/spb.html' />
+  </node>
+  <node id='6944197171' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91789480214' lon='30.30375704102'>
+    <tag k='contact:vk' v='https://vk.com/luftpen' />
+    <tag k='name' v='Люфт Пен' />
+    <tag k='office' v='advertising_agency' />
+    <tag k='website' v='http://www.luftpen.ru/' />
+  </node>
+  <node id='6944197172' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91788639944' lon='30.30371814899'>
+    <tag k='amenity' v='training' />
+    <tag k='name' v='Центр бизнес-образования' />
+    <tag k='website' v='http://biz-obraz.ru/' />
+  </node>
+  <node id='6944197173' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91790987339' lon='30.30373677092'>
+    <tag k='name' v='СК-студия' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://centr-pereplanirovok.ru/' />
+  </node>
+  <node id='6944197174' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.9178619007' lon='30.30353526273'>
+    <tag k='contact:vk' v='https://vk.com/gastronomshop' />
+    <tag k='name' v='Сырная биржа' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ООО «РестоХаус»' />
+    <tag k='shop' v='dairy' />
+    <tag k='website' v='http://www.gastronomshop.ru/' />
+  </node>
+  <node id='6944197175' timestamp='2019-11-04T04:15:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76568433' lat='59.91780675298' lon='30.30330207561'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Dental Studio' />
+  </node>
+</osm>

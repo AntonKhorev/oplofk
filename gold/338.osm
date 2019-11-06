@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3395826506' timestamp='2019-11-06T04:25:50Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76676595' lat='59.9267104' lon='30.3325345'>
+    <tag k='contact:vk' v='https://vk.com/gradusi_market' />
+    <tag k='name' v='Градусы' />
+    <tag k='note' v='нет на сайте, раньше был' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Брют»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.gradusi.net/' />
+  </node>
+  <node id='4876802551' timestamp='2019-11-06T04:25:50Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76676595' lat='59.92716127917' lon='30.33370379191'>
+    <tag k='alt_name' v='Республиканское издательство детской и юношеской литературы «Лицей»' />
+    <tag k='contact:vk' v='https://vk.com/club44119354' />
+    <tag k='name' v='ДЕТГИЗ' />
+    <tag k='office' v='publisher' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='website' v='https://www.detgiz.spb.ru/' />
+  </node>
+  <node id='6950218728' timestamp='2019-11-06T04:25:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76676595' lat='59.92684381436' lon='30.33294617996'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/public_heartintelligence' />
+    <tag k='name' v='Интеллект Сердца' />
+  </node>
+  <node id='6950218729' timestamp='2019-11-06T04:25:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76676595' lat='59.92685959034' lon='30.33291816378'>
+    <tag k='contact:instagram' v='https://www.instagram.com/studio_itgirl/' />
+    <tag k='contact:vk' v='https://vk.com/studio_itgirl' />
+    <tag k='name' v='It Girl' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='6950218730' timestamp='2019-11-06T04:25:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76676595' lat='59.92677788444' lon='30.33270967384'>
+    <tag k='contact:vk' v='https://vk.com/gallery78' />
+    <tag k='name' v='Ks &amp; Sh' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Инсайт»' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://galereya-imidzha.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='574259011' timestamp='2018-05-05T15:21:25Z' uid='143266' user='Sergey Astakhov' visible='true' version='3' changeset='58709547' lat='59.9163588' lon='30.3078997' />
+  <node id='574259012' timestamp='2018-05-05T15:21:25Z' uid='143266' user='Sergey Astakhov' visible='true' version='3' changeset='58709547' lat='59.9162203' lon='30.3078943' />
+  <node id='574259013' timestamp='2018-05-05T15:21:25Z' uid='143266' user='Sergey Astakhov' visible='true' version='3' changeset='58709547' lat='59.9161735' lon='30.307952' />
+  <node id='574259014' timestamp='2018-05-05T15:21:25Z' uid='143266' user='Sergey Astakhov' visible='true' version='3' changeset='58709547' lat='59.9161631' lon='30.308009' />
+  <node id='1480225714' timestamp='2018-07-08T22:28:23Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='60519814' lat='59.9187584' lon='30.3080569'>
+    <tag k='disused:craft' v='electronics_repair' />
+    <tag k='name' v='Микробит' />
+    <tag k='website' v='http://www.microbit.ru/' />
+  </node>
+  <node id='1480236242' timestamp='2018-07-08T22:28:23Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60519814' lat='59.9176719' lon='30.3080133'>
+    <tag k='contact:vk' v='https://vk.com/la_beaute_spb' />
+    <tag k='disused:shop' v='hairdresser' />
+    <tag k='name' v='La Beaute' />
+  </node>
+  <node id='1480236245' timestamp='2018-07-08T22:28:23Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60519814' lat='59.9182784' lon='30.3080274'>
+    <tag k='contact:vk' v='https://vk.com/grandcafebatumispb' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Батуми' />
+  </node>
+  <node id='1480236272' timestamp='2018-07-08T22:28:23Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60519814' lat='59.9185038' lon='30.3080404'>
+    <tag k='contact:vk' v='https://vk.com/restoran_galata' />
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Галата' />
+  </node>
+  <node id='1480236275' timestamp='2018-07-08T22:28:23Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='60519814' lat='59.9179681' lon='30.3079786'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/sitinrestoran' />
+    <tag k='name' v='Сытинъ' />
+    <tag k='opening_hours' v='12:00+' />
+    <tag k='website' v='http://sitinrestoran.ru/' />
+  </node>
+  <node id='1528609416' timestamp='2018-05-05T15:21:29Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='58709547' lat='59.9161917' lon='30.3079071' />
+  <node id='4689665896' timestamp='2018-07-08T22:28:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60519814' lat='59.9188187' lon='30.3080611'>
+    <tag k='disused:craft' v='electronics_repair' />
+    <tag k='name' v='Компьютерная клиника №782' />
+    <tag k='website' v='http://itclinic.ru/clinic/main/158/' />
+  </node>
+  <node id='4770401698' timestamp='2018-07-08T22:28:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60519814' lat='59.9183683' lon='30.3080316'>
+    <tag k='contact:vk' v='https://vk.com/sundukfundukshop' />
+    <tag k='disused:shop' v='confectionery' />
+    <tag k='name' v='Сундук-Фундук' />
+    <tag k='website' v='http://www.sundukfunduk.ru/' />
+  </node>
+  <node id='4770401699' timestamp='2018-07-08T22:28:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60519814' lat='59.9181116' lon='30.3080191'>
+    <tag k='disused:office' v='company' />
+    <tag k='name' v='Yes We Can!' />
+    <tag k='website' v='http://www.ywec.ru/' />
+  </node>
+  <node id='4770401700' timestamp='2018-07-08T22:28:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60519814' lat='59.9181123' lon='30.3079818'>
+    <tag k='disused:shop' v='travel_agency' />
+    <tag k='name' v='Московское городское бюро путешествий' />
+    <tag k='website' v='http://www.mbvtravel.ru/' />
+  </node>
+  <node id='4770401701' timestamp='2018-07-08T22:28:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60519814' lat='59.9178246' lon='30.307976'>
+    <tag k='name' v='Межрегиональная инспекция ФНС по Северо-Западному федеральному округу' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.nalog.ru/rn77/about_fts/fts/structure_fts/mri_fns/mi_szfo/' />
+  </node>
+  <node id='4770401702' timestamp='2018-07-08T22:28:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60519814' lat='59.9175785' lon='30.3080099'>
+    <tag k='disused:office' v='company' />
+    <tag k='name' v='Profit Invest' />
+    <tag k='website' v='http://profitinvest.pro/' />
+  </node>
+  <node id='5598886988' timestamp='2019-09-17T13:15:34Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='74580058' lat='59.9163591' lon='30.3081089' />
+  <node id='5816616276' timestamp='2018-08-07T22:42:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61449047' lat='59.9161826' lon='30.3079296'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='5816616286' timestamp='2019-09-17T13:15:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74580058' lat='59.9162255' lon='30.3081089' />
+  <node id='5816616287' timestamp='2019-09-17T13:15:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74580058' lat='59.9161643' lon='30.3081089' />
+  <way id='615016068' timestamp='2019-09-17T13:15:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='74580058'>
+    <nd ref='5598886988' />
+    <nd ref='5816616286' />
+    <nd ref='5816616287' />
+    <nd ref='574259014' />
+    <nd ref='574259013' />
+    <nd ref='5816616276' />
+    <nd ref='1528609416' />
+    <nd ref='574259012' />
+    <nd ref='574259011' />
+    <nd ref='5598886988' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='KFC' />
+    <tag k='brand:wikidata' v='Q524757' />
+    <tag k='breakfast' v='yes' />
+    <tag k='contact:vk' v='https://vk.com/kfcrussia' />
+    <tag k='drive_through' v='no' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='level' v='0;1' />
+    <tag k='name' v='KFC' />
+    <tag k='opening_hours' v='08:00-02:00' />
+    <tag k='operator' v='ООО «АмРест»' />
+    <tag k='phone' v='+7 812 3134694' />
+    <tag k='website' v='https://www.kfc.ru/restaurants/260' />
+  </way>
+</osm>
