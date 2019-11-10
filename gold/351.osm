@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6961988970' timestamp='2019-11-10T13:01:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76867615' lat='59.91475240291' lon='30.28778289633'>
+    <tag k='name' v='Анагаз' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='6961988971' timestamp='2019-11-10T13:01:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76867615' lat='59.91472347993' lon='30.28778395649'>
+    <tag k='name' v='Элан+' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://elan-optics.com/' />
+  </node>
+</osm>

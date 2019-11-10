@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6961546093' timestamp='2019-11-10T10:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76864354' lat='59.9273451' lon='30.3419467'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/dovlatovbar/' />
+    <tag k='name' v='DovLaTov' />
+    <tag k='website' v='https://www.dovlatov.spb.ru/' />
+  </node>
+  <node id='6961546094' timestamp='2019-11-10T10:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76864354' lat='59.9273241' lon='30.3419222'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Клиника докторов остеопатии' />
+    <tag k='website' v='http://www.osteo1.ru/' />
+  </node>
+  <node id='6961546095' timestamp='2019-11-10T10:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76864354' lat='59.9272431' lon='30.3419211'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:facebook' v='https://www.facebook.com/cyberloungespb/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/cyberloungespb/' />
+    <tag k='contact:vk' v='https://vk.com/cyberloungespb' />
+    <tag k='name' v='Cyberlounge' />
+    <tag k='operator' v='ООО «Меркурий 2077»' />
+  </node>
+  <node id='6961546096' timestamp='2019-11-10T10:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76864354' lat='59.9273617' lon='30.3420657'>
+    <tag k='contact:vk' v='https://vk.com/biodenas' />
+    <tag k='name' v='Дэнас МС' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 12:00-19:00; Sa 12:00-16:00' />
+    <tag k='website' v='https://biodenas.ru/' />
+  </node>
+  <node id='6961546097' timestamp='2019-11-10T10:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76864354' lat='59.9271705' lon='30.3422088'>
+    <tag k='contact:vk' v='https://vk.com/yukontravel' />
+    <tag k='name' v='Юкон тревел-люкс' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 11:00-17:00' />
+    <tag k='operator' v='ООО «Юкон тревел-люкс»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://yukon-travelluxe.ru/' />
+  </node>
+  <node id='6961546098' timestamp='2019-11-10T10:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76864354' lat='59.9271616' lon='30.3422164'>
+    <tag k='name' v='Unex' />
+    <tag k='operator' v='ООО «Юнэкс»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.unextour.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1455859651' timestamp='2019-11-10T12:47:32Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76867157' lat='59.91212363328' lon='30.28787126918'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Наша столовая' />
+    <tag k='opening_hours' v='09:00-23:00' />
+  </node>
+  <node id='1455859663' timestamp='2019-11-10T12:47:32Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='76867157' lat='59.91337935868' lon='30.28781073307'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Шесть шампуров' />
+  </node>
+  <node id='1455859682' timestamp='2019-11-10T12:47:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76867157' lat='59.91292333106' lon='30.28780730884'>
+    <tag k='phone' v='+7 812 2516024' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='4427636310' timestamp='2019-11-10T12:47:32Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76867157' lat='59.91345329187' lon='30.28782808341'>
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='phone' v='+7 921 7825618' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5661005184' timestamp='2019-11-10T12:47:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76867157' lat='59.91339869782' lon='30.28781014164'>
+    <tag k='contact:vk' v='https://vk.com/straxovoiagent' />
+    <tag k='name' v='СПб Страхование' />
+    <tag k='office' v='insurance' />
+    <tag k='website' v='http://осаго-24.рф/' />
+  </node>
+  <node id='6961701448' timestamp='2019-11-10T12:47:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76867157' lat='59.91262509686' lon='30.28784886029'>
+    <tag k='name' v='Самсон Групп' />
+    <tag k='office' v='it' />
+    <tag k='website' v='https://samson-rus.com/' />
+  </node>
+</osm>

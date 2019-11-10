@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1280400717' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='76742872' lat='59.9317606' lon='30.3452882'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/fiddlersgreen' />
+    <tag k='cuisine' v='regional' />
+    <tag k='name' v='Fiddler&apos;s Green' />
+    <tag k='smoking' v='outside' />
+    <tag k='website' v='https://hatgroup.ru/fiddlers-green/' />
+  </node>
+  <node id='2447938726' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76742872' lat='59.93273337285' lon='30.34586041655'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/marcellispeople' />
+    <tag k='cuisine' v='italian' />
+    <tag k='int_name' v='Marcelli&apos;s' />
+    <tag k='name' v='Марчеллис' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='outdoor_seating' v='yes' />
+    <tag k='website' v='http://www.marcellis.ru/restaurants/Nevskiy-43/' />
+  </node>
+  <node id='3689523353' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76742872' lat='59.9313514' lon='30.3450503'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/georestspb/' />
+    <tag k='contact:phone' v='+7 812 3400074' />
+    <tag k='contact:website' v='https://geo-rest.com/' />
+    <tag k='name' v='География' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3743279994' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='76742872' lat='59.932151' lon='30.3455226'>
+    <tag k='contact:facebook' v='https://www.facebook.com/varvara.rest/' />
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='int_name' v='Varvara' />
+    <tag k='name' v='Варвара' />
+  </node>
+  <node id='4479611947' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76742872' lat='59.9325563' lon='30.3457591'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/barsaigon' />
+    <tag k='name' v='Сайгон' />
+    <tag k='opening_hours' v='Mo-Su 00:00-05:00,15:00-24:00' />
+    <tag k='website' v='https://barsaigon.ru/' />
+  </node>
+  <node id='4479611948' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76742872' lat='59.9315235' lon='30.3451515'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/48chairs' />
+    <tag k='contact:website' v='https://48chairs.ru/' />
+    <tag k='name' v='48 стульев' />
+    <tag k='name:en' v='48 Chairs' />
+    <tag k='name:ru' v='48 стульев' />
+    <tag k='opening_hours' v='Mo-Su 00:00-02:00,12:00-24:00' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='5234094471' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76742872' lat='59.93261' lon='30.3457524'>
+    <tag k='addr:floor' v='3' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/bargedonist' />
+    <tag k='name' v='Гедонист' />
+    <tag k='opening_hours' v='We-Su 20:00-05:00' />
+    <tag k='website' v='https://gedobar.ru/' />
+  </node>
+  <node id='5234094472' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76742872' lat='59.9326053' lon='30.3457873'>
+    <tag k='addr:floor' v='2' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/commode.club' />
+    <tag k='name' v='Commode' />
+    <tag k='opening_hours' v='Su-Th 18:00-05:00, Fr-Sa 18:00-07:00' />
+    <tag k='website' v='https://commode.club/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5234094473' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76742872' lat='59.93246124772' lon='30.34570438769'>
+    <tag k='brand' v='Аэрофлот' />
+    <tag k='brand:wikidata' v='Q58707' />
+    <tag k='contact:vk' v='https://vk.com/aeroflot' />
+    <tag k='name' v='Аэрофлот' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Sa 09:30-20:30; Su 09:30-16:30' />
+    <tag k='operator' v='ПАО «Аэрофлот»' />
+    <tag k='operator:wikidata' v='Q58707' />
+    <tag k='website' v='https://www.aeroflot.ru/' />
+  </node>
+  <node id='5234094474' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76742872' lat='59.93233839674' lon='30.34563365386'>
+    <tag k='amenity' v='stripclub' />
+    <tag k='contact:vk' v='https://vk.com/zavistbar' />
+    <tag k='int_name' v='Zavist' />
+    <tag k='name' v='Zависть' />
+    <tag k='website' v='http://zavistbar.ru/' />
+  </node>
+  <node id='5234094475' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76742872' lat='59.9319351615' lon='30.34539329581'>
+    <tag k='name' v='Приемная депутата Законодательного собрания Санкт-Петербурга Щербаковой М.Д.' />
+    <tag k='office' v='political_party' />
+    <tag k='opening_hours' v='Mo-We 11:00-16:00; Th 11:00-18:00' />
+  </node>
+  <node id='5234094476' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76742872' lat='59.9316606' lon='30.3452334'>
+    <tag k='addr:floor' v='4' />
+    <tag k='contact:vk' v='https://vk.com/club6727081' />
+    <tag k='name' v='Solo' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.solo-central.ru/solo-na-nevskom' />
+  </node>
+  <node id='5507744338' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76742872' lat='59.9322276' lon='30.3455685'>
+    <tag k='name' v='Лето' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='6953565277' timestamp='2019-11-07T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76742872' lat='59.93097581422' lon='30.34483499894'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/ma.rest.spb/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/ma.rest/' />
+    <tag k='name' v='MA' />
+    <tag k='opening_hours' v='12:00+' />
+    <tag k='website' v='https://ma-rest.com/' />
+  </node>
+</osm>
