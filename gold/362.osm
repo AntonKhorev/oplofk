@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3892564857' timestamp='2019-12-04T11:51:25Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='77933547' lat='59.9348569' lon='30.3374845'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/hachapuri__spb' />
+    <tag k='name' v='Хачапури тётушки Марико' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00; Fr-Sa 12:00-02:00' />
+    <tag k='operator' v='ООО «Проспект»' />
+    <tag k='website' v='https://vhachapuri.ru/spb' />
+  </node>
+  <node id='3927654621' timestamp='2019-12-04T11:51:25Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='77933547' lat='59.9353995115' lon='30.33775224482'>
+    <tag k='email' v='kzdrav@gov.spb.ru' />
+    <tag k='fax' v='+7 812 3141814' />
+    <tag k='name' v='Комитет по здравоохранению' />
+    <tag k='office' v='government' />
+    <tag k='phone' v='+7 812 6355564' />
+    <tag k='website' v='http://zdrav.spb.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4275280892' timestamp='2019-09-23T11:56:11Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='74790822' lat='59.9344249' lon='30.3372722'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/coffeebreakfast' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='The Coffee &amp; Breakfast' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='website' v='https://www.coffee-breakfast.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4275280893' timestamp='2019-12-04T11:51:25Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='77933547' lat='59.9352758' lon='30.3376912'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/pososedski' />
+    <tag k='cuisine' v='regional;russian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Квартирка' />
+    <tag k='opening_hours' v='12:00-01:00' />
+    <tag k='phone' v='+7 812 9006550' />
+    <tag k='toilets' v='yes' />
+    <tag k='toilets:wheelchair' v='no' />
+    <tag k='website' v='http://reca.rest/restaurants/Kvartirkasadovaya' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4275291289' timestamp='2019-12-04T11:51:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='77933547' lat='59.9346418' lon='30.3373788'>
+    <tag k='contact:vk' v='https://vk.com/wolkonskyspb' />
+    <tag k='name' v='Волконский' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://wolkonsky.com/spb' />
+  </node>
+  <node id='4275291290' timestamp='2019-12-04T11:51:25Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='77933547' lat='59.9347503' lon='30.337432'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/evrasiaspb' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='name' v='Евразия' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:00, Fr-Sa 11:00-00:00' />
+    <tag k='operator' v='ООО «Брига»' />
+    <tag k='website' v='https://evrasia.spb.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='4275291589' timestamp='2019-12-04T11:51:25Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='77933547' lat='59.9351271' lon='30.3376179'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/traktirm' />
+    <tag k='name' v='Маша и Медведь' />
+    <tag k='name:en' v='Masha and Bear' />
+    <tag k='name:ru' v='Маша и Медведь' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='https://www.traktirmashaandbear.spb.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4275297489' timestamp='2019-09-23T12:05:28Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='74790822' lat='59.9356242' lon='30.3378624'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='Jasmin' />
+    <tag k='name:ru' v='Жасмин' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='http://jasmine-cafe.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4860348079' timestamp='2019-12-04T11:51:25Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='77933547' lat='59.9342767' lon='30.3372016'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/gogi.spb/' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Gogi' />
+    <tag k='opening_hours' v='Fr-Sa 12:00-01:00, Su-Th 11:00-24:00' />
+    <tag k='operator' v='ООО «Альбатрос»' />
+    <tag k='website' v='https://khinkalnayagogi.com/' />
+  </node>
+</osm>

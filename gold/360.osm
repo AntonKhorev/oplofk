@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='597433075' timestamp='2016-11-29T22:03:22Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44046147' lat='59.9291917' lon='30.3353361' />
+  <node id='597433076' timestamp='2016-11-29T22:03:22Z' uid='345975' user='VlIvYur' visible='true' version='3' changeset='44046147' lat='59.9293175' lon='30.3356241' />
+  <node id='597433079' timestamp='2016-11-29T22:03:22Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44046147' lat='59.9292759' lon='30.3352055' />
+  <node id='774930096' timestamp='2018-06-04T19:04:20Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='59547373' lat='59.9312009' lon='30.3361225' />
+  <node id='774930099' timestamp='2018-06-04T19:04:20Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='59547373' lat='59.9310788' lon='30.3371039' />
+  <node id='774930102' timestamp='2016-11-29T22:03:22Z' uid='345975' user='VlIvYur' visible='true' version='4' changeset='44046147' lat='59.9306683' lon='30.336909' />
+  <node id='805695264' timestamp='2016-11-29T22:03:22Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44046147' lat='59.9304799' lon='30.3369349' />
+  <node id='805695347' timestamp='2016-11-29T22:03:23Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44046147' lat='59.9297768' lon='30.3365998' />
+  <node id='1213988898' timestamp='2016-11-29T22:03:21Z' uid='345975' user='VlIvYur' visible='true' version='3' changeset='44046147' lat='59.9309138' lon='30.337026' />
+  <node id='1224449045' timestamp='2016-11-27T23:13:44Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='43993952' lat='59.9294948' lon='30.3360301' />
+  <node id='1482049790' timestamp='2016-11-29T22:03:22Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44046147' lat='59.9300273' lon='30.3355636' />
+  <node id='2316900912' timestamp='2016-11-29T22:03:22Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44046147' lat='59.930831' lon='30.3369866' />
+  <node id='4529192078' timestamp='2016-11-29T22:03:18Z' uid='345975' user='VlIvYur' visible='true' version='1' changeset='44046147' lat='59.930627' lon='30.3370052' />
+  <node id='4749888126' timestamp='2017-03-22T23:43:43Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47082367' lat='59.9311383' lon='30.3366257'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='площадь Островского' />
+  </node>
+  <node id='5623887957' timestamp='2018-05-17T07:39:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59040297' lat='59.9297583' lon='30.336632' />
+  <node id='5664575396' timestamp='2019-05-14T21:02:26Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='70252742' lat='59.9296453' lon='30.3353815'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом доме с 1917 г. жила, работала и в 1948 г. скончалась народная артистка СССР Вера Аркадьевна Мичурина-Самойлова' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='В. А. Мичуриной-Самойловой' />
+    <tag k='subject:wikidata' v='Q4298294' />
+    <tag k='subject:wikipedia' v='ru:Мичурина-Самойлова, Вера Аркадьевна' />
+  </node>
+  <node id='5664575397' timestamp='2019-05-14T21:02:26Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='70252742' lat='59.9303574' lon='30.3357223'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом здании с 1847 по 1905 год служил во славу русского балета Мариус Иванович Петипа' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='М. И. Петипа' />
+    <tag k='subject:wikidata' v='Q312320' />
+    <tag k='subject:wikipedia' v='ru:Петипа, Мариус Иванович' />
+  </node>
+  <node id='5664575398' timestamp='2018-06-04T19:04:17Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='59547373' lat='59.9302974' lon='30.3356937'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5664575401' timestamp='2018-06-04T19:04:17Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='59547373' lat='59.9302434' lon='30.3356671'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5664575405' timestamp='2018-06-04T19:04:17Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='59547373' lat='59.9294315' lon='30.3352796'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5664575411' timestamp='2018-06-04T19:04:17Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='59547373' lat='59.929828' lon='30.3354685'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5664580340' timestamp='2018-06-04T19:04:18Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='59547373' lat='59.9311183' lon='30.3367864'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='7031621533' timestamp='2019-12-04T10:50:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77929049' lat='59.92923380003' lon='30.3352708'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <way id='588888110' timestamp='2019-12-04T10:50:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='77929049'>
+    <nd ref='597433075' />
+    <nd ref='597433076' />
+    <nd ref='1224449045' />
+    <nd ref='5623887957' />
+    <nd ref='805695347' />
+    <nd ref='805695264' />
+    <nd ref='4529192078' />
+    <nd ref='774930102' />
+    <nd ref='2316900912' />
+    <nd ref='1213988898' />
+    <nd ref='774930099' />
+    <nd ref='5664580340' />
+    <nd ref='4749888126' />
+    <nd ref='774930096' />
+    <nd ref='5664575397' />
+    <nd ref='5664575398' />
+    <nd ref='5664575401' />
+    <nd ref='1482049790' />
+    <nd ref='5664575411' />
+    <nd ref='5664575396' />
+    <nd ref='5664575405' />
+    <nd ref='597433079' />
+    <nd ref='7031621533' />
+    <nd ref='597433075' />
+    <tag k='amenity' v='university' />
+    <tag k='contact:vk' v='https://vk.com/vaganovaacademy' />
+    <tag k='name' v='Академия русского балета имени А. Я. Вагановой' />
+    <tag k='website' v='https://vaganovaacademy.ru/' />
+    <tag k='wikidata' v='Q1357677' />
+  </way>
+</osm>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6971987676' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.927867' lon='30.3236867' />
+  <node id='6971987677' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9278649' lon='30.3237569' />
+  <node id='6971987678' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9277397' lon='30.3233273'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6971987680' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9277478' lon='30.323315' />
+  <node id='6971987681' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9278781' lon='30.3236496' />
+  <node id='6971987682' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9279729' lon='30.3235054' />
+  <node id='6971987683' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9281415' lon='30.3239266' />
+  <node id='6971987684' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9280106' lon='30.3241283' />
+  <node id='6972029585' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9277318' lon='30.3233393' />
+  <node id='6972029587' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582' lat='59.9282946' lon='30.3231023'>
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Th 10:00-18:00; Fr 10:00-17:00; Sa 11:00-17:00' />
+    <tag k='phone' v='+7 812 3100770' />
+  </node>
+  <way id='744874984' timestamp='2019-11-13T10:55:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77005582'>
+    <nd ref='6972029585' />
+    <nd ref='6971987676' />
+    <nd ref='6971987677' />
+    <nd ref='6971987684' />
+    <nd ref='6971987683' />
+    <nd ref='6971987682' />
+    <nd ref='6971987681' />
+    <nd ref='6971987680' />
+    <nd ref='6971987678' />
+    <nd ref='6972029585' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад № 46 «Гармония»' />
+    <tag k='website' v='http://gdouds46ovpoirvtsrg.acentr.gov.spb.ru/' />
+  </way>
+</osm>

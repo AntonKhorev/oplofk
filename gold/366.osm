@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7207014706' timestamp='2020-02-12T22:01:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='80925110' lat='59.9248041' lon='30.3110956'>
+    <tag k='name' v='Жители Блокадного Ленинграда' />
+    <tag k='office' v='ngo' />
+    <tag k='phone' v='+7 812 3102172' />
+  </node>
+</osm>

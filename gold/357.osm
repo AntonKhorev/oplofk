@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7028228915' timestamp='2019-12-03T09:55:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77865910' lat='59.9250299' lon='30.3249379'>
+    <tag k='contact:vk' v='https://vk.com/businka_85' />
+    <tag k='name' v='Бусинка' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='7028228923' timestamp='2019-12-03T09:55:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77865910' lat='59.9257205' lon='30.3238538'>
+    <tag k='contact:vk' v='https://vk.com/fonballet' />
+    <tag k='dance:teaching' v='yes' />
+    <tag k='leisure' v='dance' />
+    <tag k='name' v='Балет на Фонтанке 85' />
+    <tag k='website' v='https://fonballet.business.site/' />
+  </node>
+</osm>

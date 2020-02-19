@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3090167163' timestamp='2017-06-26T12:25:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='49834898' lat='59.933696' lon='30.3381235' />
+  <node id='3090167688' timestamp='2017-06-26T12:25:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='49834898' lat='59.9336795' lon='30.3381154' />
+  <node id='3090167772' timestamp='2017-06-26T12:25:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='49834898' lat='59.9336921' lon='30.3381553' />
+  <node id='3090167773' timestamp='2017-06-26T12:25:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='49834898' lat='59.9336756' lon='30.3381473' />
+  <node id='3962381548' timestamp='2019-12-04T11:24:47Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='77931615' lat='59.9311246' lon='30.33658702108'>
+    <tag k='contact:vk' v='https://vk.com/theatre_museum' />
+    <tag k='description' v='Санкт-Петербургский государственный музей театрального и музыкального искусства' />
+    <tag k='name' v='Музей театрального и музыкального искусства' />
+    <tag k='name:en' v='Museum of Theatre and Music' />
+    <tag k='name:fr' v='Musée du théâtre et de la musique' />
+    <tag k='name:zh' v='圣彼得堡国家博物馆的戏剧和音乐艺术' />
+    <tag k='opening_hours' v='Th-Mo 11:00-19:00; We 13:00-20:00; Tu off; Fr[-1] off' />
+    <tag k='phone' v='+7 812 3101029' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://theatremuseum.ru/filial/muzey_teatralnogo_i_muzykalnogo_iskusstva' />
+    <tag k='wikidata' v='Q19911080' />
+  </node>
+  <node id='4271082289' timestamp='2019-12-04T11:24:47Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='77931615' lat='59.93198952539' lon='30.33764917533'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Газпромбанк' />
+    <tag k='brand:wikidata' v='Q1924338' />
+    <tag k='name' v='Газпромбанк' />
+    <tag k='website' v='https://www.gazprombank.ru/offices/21810/' />
+  </node>
+  <node id='5625643103' timestamp='2018-05-17T23:50:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59064671' lat='59.9317617' lon='30.337467'>
+    <tag k='name' v='Газпром экспорт' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.gazpromexport.ru/' />
+  </node>
+  <node id='5625643104' timestamp='2019-12-04T11:24:47Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='77931615' lat='59.9313149' lon='30.337254'>
+    <tag k='contact:vk' v='https://vk.com/dprof812' />
+    <tag k='name' v='Дорожная территориальная организация Роспрофжел на Октябрьской железной дороге' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://dprof.info/' />
+  </node>
+  <node id='5625643105' timestamp='2018-05-17T23:50:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59064671' lat='59.9312876' lon='30.3372411'>
+    <tag k='brand' v='Российские железные дороги' />
+    <tag k='brand:wikidata' v='Q660770' />
+    <tag k='name' v='Октябрьская железная дорога' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://ozd.rzd.ru/' />
+    <tag k='wikidata' v='Q1327441' />
+  </node>
+  <node id='5625643106' timestamp='2018-05-17T23:50:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59064671' lat='59.931201' lon='30.3371997'>
+    <tag k='brand' v='Российские железные дороги' />
+    <tag k='brand:wikidata' v='Q660770' />
+    <tag k='name' v='Октябрьский территориальный центр фирменного транспортного обслуживания' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.rzd.ru/ent/public/ru?STRUCTURE_ID=5185&amp;layer_id=5554&amp;id=2122' />
+  </node>
+  <node id='5625643107' timestamp='2018-05-17T23:50:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59064671' lat='59.9310643' lon='30.3371348'>
+    <tag k='name' v='Администрация Александринского театра' />
+    <tag k='office' v='theatre' />
+  </node>
+  <node id='5625643108' timestamp='2019-12-04T11:24:47Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='77931615' lat='59.93110043562' lon='30.33678119551'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Дягилев' />
+    <tag k='website' v='https://magnifique.catering/restorany-i-kafe/kafe-dyagilev/' />
+  </node>
+  <node id='5625643109' timestamp='2019-12-04T11:24:47Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='77931615' lat='59.93111678598' lon='30.33664981656'>
+    <tag k='amenity' v='library' />
+    <tag k='contact:vk' v='https://vk.com/club55052134' />
+    <tag k='name' v='Санкт-Петербургская государственная Театральная библиотека' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 11:00-18:00; Fr[-1] off' />
+    <tag k='website' v='http://sptl.spb.ru/' />
+    <tag k='wikidata' v='Q4407659' />
+  </node>
+  <way id='304476062' timestamp='2019-12-04T11:24:47Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='77931615'>
+    <nd ref='3090167163' />
+    <nd ref='3090167688' />
+    <nd ref='3090167773' />
+    <nd ref='3090167772' />
+    <nd ref='3090167163' />
+    <tag k='building' v='yes' />
+    <tag k='contact:vk' v='https://vk.com/bileter' />
+    <tag k='name' v='Bileter' />
+    <tag k='opening_hours' v='Mo-Su 10:00-14:00,15:00-21:00' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:theatre' v='yes' />
+    <tag k='website' v='https://www.bileter.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+</osm>

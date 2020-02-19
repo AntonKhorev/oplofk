@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6188806054' timestamp='2019-11-28T03:42:37Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='77659919' lat='59.9270099' lon='30.2992396'>
+    <tag k='amenity' v='music_rehearsal_place' />
+    <tag k='contact:phone' v='+7 812 3143236' />
+    <tag k='contact:vk' v='https://vk.com/classicpoint' />
+    <tag k='contact:website' v='https://classicpoint.ru/' />
+    <tag k='name' v='Классическая точка' />
+    <tag k='name:en' v='Classic point' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-22:00; Sa-Su 10:00-21:00' />
+  </node>
+</osm>

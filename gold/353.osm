@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6972523944' timestamp='2019-11-13T12:11:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77009911' lat='59.9249012' lon='30.3117127'>
+    <tag k='contact:vk' v='https://vk.com/scarletspb' />
+    <tag k='name' v='Алые паруса' />
+    <tag k='tourism' v='hotel' />
+  </node>
+</osm>
