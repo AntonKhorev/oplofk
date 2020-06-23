@@ -8862,10 +8862,8 @@
   <node id='-124969' action='modify' lat='59.92477188359' lon='30.32448812303' />
   <node id='-124971' action='modify' lat='59.92480883173' lon='30.32433896989' />
   <node id='-124974' action='modify' lat='59.92501583045' lon='30.32399296492' />
-  <node id='-124976' action='modify' lat='59.92505481059' lon='30.3240171048' />
-  <node id='-124984' action='modify' lat='59.92522148374' lon='30.32375424832' />
-  <node id='-124989' action='modify' lat='59.9252671843' lon='30.3235396716' />
-  <node id='-124991' action='modify' lat='59.92534917632' lon='30.32352894276' />
+  <node id='-124976' action='modify' lat='59.92505615473' lon='30.32401442259' />
+  <node id='-124991' action='modify' lat='59.92535052045' lon='30.32353296607' />
   <node id='-124993' action='modify' lat='59.92541503862' lon='30.32342701882' />
   <node id='-124995' action='modify' lat='59.92543251227' lon='30.32326876849' />
   <node id='-124997' action='modify' lat='59.92531422893' lon='30.32299250096' />
@@ -8943,6 +8941,8 @@
   <node id='-218955' action='modify' lat='59.92501448631' lon='30.31104594201' />
   <node id='-218957' action='modify' lat='59.92501448631' lon='30.3107455346' />
   <node id='-218959' action='modify' lat='59.92448874302' lon='30.31079110853' />
+  <node id='-222101' action='modify' lat='59.92558600598' lon='30.32390158818' />
+  <node id='-222102' action='modify' lat='59.92544326461' lon='30.32355442509' />
   <way id='-218960' action='modify'>
     <nd ref='-102244' />
     <nd ref='-118676' />
@@ -26369,8 +26369,6 @@
     <nd ref='-124971' />
     <nd ref='-124974' />
     <nd ref='-124976' />
-    <nd ref='-124984' />
-    <nd ref='-124989' />
     <nd ref='-124991' />
     <nd ref='-124993' />
     <nd ref='-124995' />
@@ -26488,6 +26486,7 @@
     <nd ref='-211106' />
     <nd ref='-211119' />
     <nd ref='-211121' />
+    <nd ref='-222101' />
     <nd ref='-211123' />
     <nd ref='-211125' />
     <nd ref='-211127' />
@@ -26506,5 +26505,20 @@
     <nd ref='-205639' />
     <tag k='description' v='два двора за аркой' />
     <tag k='name' v='Римского-Корсакова пр. 3 - дворы' />
+  </way>
+  <way id='-220063' action='modify'>
+    <nd ref='-211127' />
+    <nd ref='-211125' />
+    <nd ref='-211123' />
+    <nd ref='-222101' />
+    <nd ref='-222102' />
+    <nd ref='-124991' />
+    <nd ref='-124976' />
+    <nd ref='-124974' />
+    <nd ref='-124971' />
+    <nd ref='-124969' />
+    <nd ref='-211127' />
+    <tag k='description' v='дворы за аркой' />
+    <tag k='name' v='Фонтанки наб. 87 - дворы' />
   </way>
 </osm>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5017242936' timestamp='2019-09-23T12:31:49Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='74790822' lat='59.9347985' lon='30.3335495'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Городская стоматологическая поликлиника № 1' />
+    <tag k='note' v='вход под аркой' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-14:00,15:00-21:00' />
+    <tag k='website' v='http://gsp-1.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='5102156426' timestamp='2020-03-07T04:09:01Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='81889292' lat='59.9348031' lon='30.3335108'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/medclinic_center' />
+    <tag k='name' v='МедКлиник' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00' />
+    <tag k='operator' v='ООО «МедКлиник»' />
+    <tag k='website' v='https://medclinic.center/' />
+  </node>
+  <node id='7273515300' timestamp='2020-03-07T04:09:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='81889292' lat='59.93494362511' lon='30.3334600424'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='FS' />
+    <tag k='note' v='возможно &quot;Fresh Smoke Bar&quot;' />
+  </node>
+</osm>
