@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5632815961' timestamp='2020-07-22T16:17:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='88358880' lat='59.921714899' lon='30.36946319035'>
+    <tag k='name' v='ЖК «Царская столица»' />
+    <tag k='office' v='property_management' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-17:00; 12:00-13:00 off' />
+    <tag k='operator' v='ООО «Сервис-Недвижимость»' />
+  </node>
+  <node id='7737497282' timestamp='2020-07-22T16:17:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88358880' lat='59.92184721496' lon='30.37097514384'>
+    <tag k='contact:vk' v='https://vk.com/familyclubsalon' />
+    <tag k='name' v='@oladementeva' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='7737497283' timestamp='2020-07-22T16:17:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88358880' lat='59.92185361677' lon='30.37104401966'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/food_for_you' />
+    <tag k='name' v='Мир лучше' />
+  </node>
+  <node id='7737497284' timestamp='2020-07-22T16:17:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88358880' lat='59.92188631675' lon='30.37140316345'>
+    <tag k='contact:vk' v='https://vk.com/votonia' />
+    <tag k='name' v='ВотОнЯ' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Вотоня»' />
+    <tag k='shop' v='baby_goods' />
+    <tag k='website' v='https://www.votonia.ru/adresa-magazinov/kremenchugskaya-ul-d-13-korp-1/' />
+  </node>
+</osm>

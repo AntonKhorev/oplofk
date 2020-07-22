@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4645179493' timestamp='2020-07-14T17:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87989487' lat='59.92308192321' lon='30.3708154248'>
+    <tag k='contact:instagram' v='https://www.instagram.com/lel_flowers/' />
+    <tag k='name' v='Лель' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://lelflowers.com/' />
+  </node>
+  <node id='7714367592' timestamp='2020-07-14T17:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87989487' lat='59.92310575164' lon='30.37107488218'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='name' v='Мята' />
+  </node>
+  <node id='7714367593' timestamp='2020-07-14T17:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87989487' lat='59.92304791361' lon='30.37044225659'>
+    <tag k='brand' v='Магнит Косметик' />
+    <tag k='brand:wikidata' v='Q62592348' />
+    <tag k='contact:instagram' v='https://www.instagram.com/magnitcosmetic/' />
+    <tag k='contact:ok' v='https://ok.ru/magnitcosmetic' />
+    <tag k='contact:vk' v='https://vk.com/magnitcosmetic' />
+    <tag k='name' v='Магнит Косметик' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='phone' v='+7 800 2009002' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://magnitcosmetic.ru/shops/87012/' />
+  </node>
+  <node id='7714367595' timestamp='2020-07-14T17:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87989487' lat='59.92291915105' lon='30.36910153947'>
+    <tag k='contact:vk' v='https://vk.com/gradusi_market' />
+    <tag k='name' v='Градусы всего мира' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://www.gradusi.net/shops/spb/1335/' />
+  </node>
+  <node id='7714367596' timestamp='2020-07-14T17:13:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87989487' lat='59.92289583869' lon='30.36884506709'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/cityfarmspb' />
+    <tag k='name' v='Сити-Фарм' />
+    <tag k='website' v='https://cityfarm.spb.ru/' />
+  </node>
+</osm>

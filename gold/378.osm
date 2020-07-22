@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4270008658' timestamp='2020-07-14T16:08:09Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='87987125' lat='59.92341071139' lon='30.37176445763'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/warmbreadinbed' />
+    <tag k='name' v='Тёплого Хлеба и Под Одеяло' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «ПКД «Венец»' />
+    <tag k='short_name' v='ТХПО' />
+    <tag k='website' v='https://bushe.ru/' />
+  </node>
+  <node id='7714238854' timestamp='2020-07-14T16:08:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87987125' lat='59.92312806361' lon='30.36861179642'>
+    <tag k='contact:vk' v='https://vk.com/prohvost24' />
+    <tag k='name' v='ProХвост' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='pet' />
+  </node>
+  <node id='7714238855' timestamp='2020-07-14T16:08:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87987125' lat='59.92316540463' lon='30.36900929517'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/sushishop' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='name' v='СушиШоп' />
+    <tag k='website' v='https://www.sushishop.ru/' />
+  </node>
+  <node id='7714238857' timestamp='2020-07-14T16:08:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87987125' lat='59.92325193761' lon='30.37002711281'>
+    <tag k='contact:vk' v='https://vk.com/apelsin_salon' />
+    <tag k='name' v='Апельсин' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://apelsinsalon.ru/master/ul.-kremenchugskaya,-d.-9/1/' />
+  </node>
+  <node id='7714238858' timestamp='2020-07-14T16:08:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87987125' lat='59.92333328615' lon='30.37091760335'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Городская поликлиника №38' />
+    <tag k='operator' v='СПб ГБУЗ «Городская поликлиника №38»' />
+    <tag k='website' v='https://gp38.spb.ru/' />
+  </node>
+  <node id='7714238859' timestamp='2020-07-14T16:08:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87987125' lat='59.9233707473' lon='30.37132767661'>
+    <tag k='contact:facebook' v='https://www.facebook.com/winelabru' />
+    <tag k='name' v='ВинЛаб' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://www.winelab.ru/' />
+  </node>
+  <node id='7714238860' timestamp='2020-07-14T16:08:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87987125' lat='59.92337892884' lon='30.37141723701'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/lacasa_spb/' />
+    <tag k='name' v='La Casa' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='website' v='http://casa.spb.ru/' />
+  </node>
+</osm>

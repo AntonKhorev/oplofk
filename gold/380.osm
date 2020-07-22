@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5632815960' timestamp='2020-07-21T15:09:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='88300911' lat='59.92257016681' lon='30.37074742757'>
+    <tag k='alt_name' v='Mirador Travel' />
+    <tag k='contact:vk' v='https://vk.com/miradortravel' />
+    <tag k='name' v='El Mirador' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ООО «Меркури Тревел»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://mirador-travel.com/' />
+  </node>
+  <node id='7734170168' timestamp='2020-07-21T15:09:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88300911' lat='59.92239340982' lon='30.3688816506'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/changan.food/' />
+    <tag k='name' v='Chang An' />
+  </node>
+  <node id='7734170169' timestamp='2020-07-21T15:09:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88300911' lat='59.92242147031' lon='30.36918883702'>
+    <tag k='construction:amenity' v='events_venue' />
+    <tag k='contact:instagram' v='https://www.instagram.com/babyhouse__spb/' />
+    <tag k='name' v='Бэби Хауз' />
+  </node>
+  <node id='7734170171' timestamp='2020-07-21T15:09:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88300911' lat='59.92252461846' lon='30.37024867181'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/ginkos.medi' />
+    <tag k='name' v='Гинкос Меди' />
+    <tag k='operator' v='ООО «Мадам Тренд»' />
+    <tag k='website' v='https://ginkosmedi.ru/' />
+  </node>
+  <node id='7734170172' timestamp='2020-07-21T15:09:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88300911' lat='59.922565183' lon='30.37069285474'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/cfbar' />
+    <tag k='name' v='Camera Fredda' />
+    <tag k='opening_hours' v='10:00-23:00' />
+  </node>
+  <node id='7734170173' timestamp='2020-07-21T15:09:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88300911' lat='59.9226051763' lon='30.37113078311'>
+    <tag k='amenity' v='internet_cafe' />
+    <tag k='contact:vk' v='https://vk.com/cybcentrspb' />
+    <tag k='name' v='Центр киберспорта' />
+    <tag k='website' v='http://cybcentr.ru/sankt-peterburg' />
+  </node>
+</osm>

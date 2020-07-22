@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='937529260' timestamp='2012-09-25T19:29:21Z' uid='31648' user='asphyx' visible='true' version='2' changeset='13251272' lat='59.92125' lon='30.2921795' />
+  <node id='937529430' timestamp='2011-03-30T15:51:15Z' uid='368493' user='fserges' visible='true' version='2' changeset='7717443' lat='59.9209381' lon='30.2924211' />
+  <node id='937529725' timestamp='2010-10-04T09:09:41Z' uid='43262' user='KonTur' visible='true' version='1' changeset='5951527' lat='59.9208492' lon='30.2924893' />
+  <node id='937529736' timestamp='2012-09-25T19:29:23Z' uid='31648' user='asphyx' visible='true' version='2' changeset='13251272' lat='59.9207801' lon='30.2921926' />
+  <node id='937529909' timestamp='2012-09-25T19:29:24Z' uid='31648' user='asphyx' visible='true' version='2' changeset='13251272' lat='59.9211519' lon='30.2914522' />
+  <node id='937529912' timestamp='2012-09-25T19:29:24Z' uid='31648' user='asphyx' visible='true' version='2' changeset='13251272' lat='59.921171' lon='30.2914719' />
+  <node id='937530022' timestamp='2012-09-25T19:29:24Z' uid='31648' user='asphyx' visible='true' version='2' changeset='13251272' lat='59.9209743' lon='30.2915864' />
+  <node id='937530058' timestamp='2012-09-25T19:29:25Z' uid='31648' user='asphyx' visible='true' version='2' changeset='13251272' lat='59.9209578' lon='30.2915988' />
+  <node id='2104264957' timestamp='2013-01-10T14:13:08Z' uid='368493' user='fserges' visible='true' version='2' changeset='14598430' lat='59.9207035' lon='30.2917838' />
+  <node id='2104264961' timestamp='2013-01-10T13:41:21Z' uid='368493' user='fserges' visible='true' version='1' changeset='14598076' lat='59.9207884' lon='30.2921861' />
+  <node id='2104264962' timestamp='2013-01-10T13:41:21Z' uid='368493' user='fserges' visible='true' version='1' changeset='14598076' lat='59.9208258' lon='30.2923875' />
+  <node id='2104264963' timestamp='2013-01-10T13:41:21Z' uid='368493' user='fserges' visible='true' version='1' changeset='14598076' lat='59.9208453' lon='30.2924738' />
+  <node id='2104279800' timestamp='2013-01-10T13:52:37Z' uid='368493' user='fserges' visible='true' version='1' changeset='14598196' lat='59.9207957' lon='30.292259' />
+  <node id='2104295400' timestamp='2013-01-10T14:13:05Z' uid='368493' user='fserges' visible='true' version='1' changeset='14598430' lat='59.9212079' lon='30.2918021'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2104295409' timestamp='2018-03-18T00:24:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='57279236' lat='59.921299' lon='30.2933442'>
+    <tag k='disused:shop' v='copyshop;stationery' />
+    <tag k='name' v='Согер' />
+    <tag k='website' v='http://soger.ru/' />
+  </node>
+  <node id='7645943371' timestamp='2020-06-23T10:22:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87028161' lat='59.92130865041' lon='30.29287032932'>
+    <tag k='name' v='Green House Trading' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Tu-Sa 09:00-17:00' />
+  </node>
+  <way id='200571274' timestamp='2020-06-23T10:22:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87028161'>
+    <nd ref='2104264961' />
+    <nd ref='937529736' />
+    <nd ref='2104279800' />
+    <nd ref='2104264962' />
+    <nd ref='2104264963' />
+    <nd ref='937529725' />
+    <nd ref='937529430' />
+    <nd ref='937529260' />
+    <nd ref='2104295400' />
+    <nd ref='937529912' />
+    <nd ref='937529909' />
+    <nd ref='937530022' />
+    <nd ref='937530058' />
+    <nd ref='2104264957' />
+    <nd ref='2104264961' />
+    <tag k='amenity' v='embassy' />
+    <tag k='consulate' v='consulate_general' />
+    <tag k='country' v='CN' />
+    <tag k='diplomatic' v='consulate' />
+    <tag k='name' v='Генеральное консульство КНР' />
+    <tag k='name:en' v='Consulate of China' />
+    <tag k='name:ru' v='Генеральное консульство КНР' />
+    <tag k='office' v='diplomatic' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-12:00; 15:00-18:00' />
+    <tag k='website' v='http://stpetersburg.china-consulate.org/' />
+  </way>
+</osm>

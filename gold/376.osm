@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7514891484' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='87089884' lat='59.92377661143' lon='30.37026007888'>
+    <tag k='brand' v='Красное &amp; Белое' />
+    <tag k='brand:en' v='Red&amp;White' />
+    <tag k='brand:wikidata' v='Q24933790' />
+    <tag k='brand:wikipedia' v='en:Krasnoe &amp; Beloe' />
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='name:en' v='Red&amp;White' />
+    <tag k='opening_hours' v='Mo-Su 09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа-М»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='7649675746' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92386896838' lon='30.37127053215'>
+    <tag k='contact:vk' v='https://vk.com/misppro' />
+    <tag k='name' v='Международный институт системной психологии' />
+    <tag k='note' v='юридический адрес, см. http://misp.pro/payment/agreement' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://misp.pro/' />
+  </node>
+  <node id='7649675748' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92384630419' lon='30.37102335142'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Городская поликлиника №38' />
+    <tag k='operator' v='СПб ГБУЗ «Городская поликлиника №38»' />
+    <tag k='website' v='https://gp38.spb.ru/' />
+  </node>
+  <node id='7649675751' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92379872279' lon='30.37050209383'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/tsarskayastolitsa_cafe/' />
+    <tag k='contact:vk' v='https://vk.com/hoteltsarstol' />
+    <tag k='name' v='Царская столица' />
+    <tag k='opening_hours' v='08:00-23:00' />
+  </node>
+  <node id='7649675752' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92379269806' lon='30.37043562956'>
+    <tag k='contact:vk' v='https://vk.com/hoteltsarstol' />
+    <tag k='name' v='Царская столица' />
+    <tag k='operator' v='ПК «Верона»' />
+    <tag k='tourism' v='guest_house' />
+    <tag k='website' v='http://www.tsarskayastolitsa.ru/' />
+  </node>
+  <node id='7649675753' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92375759792' lon='30.37005140213'>
+    <tag k='contact:instagram' v='https://www.instagram.com/bbdog_spb/' />
+    <tag k='contact:vk' v='https://vk.com/public184543666' />
+    <tag k='name' v='BB Dog' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://bbdog.ru/' />
+  </node>
+  <node id='7649675755' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92362004992' lon='30.36862378153'>
+    <tag k='contact:instagram' v='https://www.instagram.com/mks_lerpa/' />
+    <tag k='contact:vk' v='https://vk.com/mkslerpa' />
+    <tag k='name' v='MKS' />
+    <tag k='note' v='непонятно, где вход; возможно вообще не здесь' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='7649675756' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92360725126' lon='30.36848716856'>
+    <tag k='alt_name' v='FrantiAnna' />
+    <tag k='contact:vk' v='https://vk.com/frantianna' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Franti Anna' />
+    <tag k='website' v='http://franti.ru/' />
+  </node>
+  <node id='7649675757' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92359094428' lon='30.3683142322'>
+    <tag k='craft' v='stonemason' />
+    <tag k='name' v='Гранит' />
+    <tag k='website' v='https://granit78spb.com/' />
+  </node>
+  <node id='7649675758' timestamp='2020-06-24T13:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87089884' lat='59.92357194341' lon='30.36811187634'>
+    <tag k='disused:shop' v='bakery' />
+    <tag k='name' v='Нканак' />
+  </node>
+</osm>

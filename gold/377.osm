@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3629363864' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87985270' lat='59.9226278055' lon='30.37197919807' />
+  <node id='3629363865' timestamp='2017-06-28T04:28:14Z' uid='384109' user='misha yakin' visible='true' version='2' changeset='49878214' lat='59.9226552' lon='30.372289' />
+  <node id='3629363866' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87985270' lat='59.92314760591' lon='30.37179619792' />
+  <node id='3629363867' timestamp='2017-06-28T04:28:14Z' uid='384109' user='misha yakin' visible='true' version='2' changeset='49878214' lat='59.923175' lon='30.372106' />
+  <node id='4886696954' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='87985270' lat='59.92312079286' lon='30.37212508422'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='4913771824' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87985270' lat='59.92382167194' lon='30.37185009183'>
+    <tag k='contact:vk' v='https://vk.com/openwinespb' />
+    <tag k='name' v='OpenWine' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://openwine.ru/' />
+  </node>
+  <node id='7714117605' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.9227959051' lon='30.37223946386' />
+  <node id='7714117606' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92278246997' lon='30.3720875266' />
+  <node id='7714117607' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92303319027' lon='30.37199925841' />
+  <node id='7714117608' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92304662529' lon='30.37215119567' />
+  <node id='7714117611' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92262287985' lon='30.37192349442' />
+  <node id='7714117612' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92263099952' lon='30.37201531897'>
+    <tag k='entrance' v='service' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='7714117613' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.9226938577' lon='30.37227539033'>
+    <tag k='entrance' v='service' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='7714117614' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92308354755' lon='30.37170387491'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='7714117615' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.9226179542' lon='30.37186779069' />
+  <node id='7714117616' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92313775478' lon='30.37168479069' />
+  <node id='7714117617' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92352807388' lon='30.37195694675'>
+    <tag k='contact:vk' v='https://vk.com/cvetovikspb' />
+    <tag k='name' v='Цветовик' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://cvetovik.com/' />
+  </node>
+  <node id='7714117618' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270' lat='59.92365551975' lon='30.37191056963'>
+    <tag k='contact:vk' v='https://vk.com/expressoffice' />
+    <tag k='name' v='Экспресс Офис' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://spb.express-office.ru/' />
+  </node>
+  <way id='826205140' timestamp='2020-07-14T15:14:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87985270'>
+    <nd ref='7714117608' />
+    <nd ref='7714117607' />
+    <nd ref='7714117606' />
+    <nd ref='7714117605' />
+    <nd ref='7714117613' />
+    <nd ref='3629363865' />
+    <nd ref='7714117612' />
+    <nd ref='3629363864' />
+    <nd ref='7714117611' />
+    <nd ref='7714117615' />
+    <nd ref='7714117614' />
+    <nd ref='7714117616' />
+    <nd ref='3629363866' />
+    <nd ref='3629363867' />
+    <nd ref='4886696954' />
+    <nd ref='7714117608' />
+    <tag k='alt_name' v='Перекресток' />
+    <tag k='brand' v='Перекрёсток' />
+    <tag k='brand:wikidata' v='Q1684639' />
+    <tag k='brand:wikipedia' v='en:Perekrestok (supermarket chain)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/perekrestok' />
+    <tag k='contact:instagram' v='https://www.instagram.com/perekrestok/' />
+    <tag k='contact:ok' v='https://ok.ru/perekrestok.shop' />
+    <tag k='contact:twitter' v='https://twitter.com/perekrestok' />
+    <tag k='contact:vk' v='https://vk.com/perekrestok_shop' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Перекрёсток' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='АО «Торговый дом «Перекресток»' />
+    <tag k='payment:cards' v='yes' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:contactless' v='yes' />
+    <tag k='phone' v='+7 812 4483010' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://www.perekrestok.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+</osm>
