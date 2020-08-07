@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='923504397' timestamp='2017-06-14T23:57:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='49544591' lat='59.936951' lon='30.311911'>
+    <tag k='disused:shop' v='gift' />
+    <tag k='name' v='Art Space' />
+    <tag k='website' v='http://souvenirboutique.com/' />
+  </node>
+  <node id='3517301262' timestamp='2020-08-07T14:15:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89096846' lat='59.9366157' lon='30.3110094'>
+    <tag k='construction:tourism' v='museum' />
+    <tag k='contact:vk' v='https://vk.com/polithistorymuseum' />
+    <tag k='name' v='Музей политической истории России' />
+    <tag k='name:fr' v='Musée de l&apos;histoire de la police politique' />
+    <tag k='name:pt' v='Museu de História Política da Rússia' />
+    <tag k='note' v='&quot;закрыт на реэкспозицию&quot;' />
+    <tag k='phone' v='+7 812 3122742' />
+    <tag k='website' v='http://www.polithistory.ru/' />
+  </node>
+  <node id='4915750774' timestamp='2020-08-07T14:15:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89096846' lat='59.93659280689' lon='30.31095466653'>
+    <tag k='name' v='Территориальное управление Росимущества в Санкт-Петербурге и Ленинградской области' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://tu78.rosim.ru/' />
+  </node>
+  <node id='4915750776' timestamp='2017-06-14T23:57:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='49544591' lat='59.936556' lon='30.3109346'>
+    <tag k='name' v='Главный федеральный инспектор в Санкт-Петербурге Аппарата полномочного представителя Президента Российской Федерации в Северо-Западном федеральном округе' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://szfo.gov.ru/staff/gfi/spe/' />
+  </node>
+  <node id='7794686416' timestamp='2020-08-07T14:15:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89096846' lat='59.93657375169' lon='30.31090494045'>
+    <tag k='name' v='Депутат Госдумы Романов Михаил Валентинович' />
+    <tag k='office' v='politician' />
+  </node>
+  <node id='7794686417' timestamp='2020-08-07T14:15:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89096846' lat='59.93655133768' lon='30.31084673875'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/petrovvodkin.rest' />
+    <tag k='name' v='Petrov-Vodkin' />
+    <tag k='opening_hours' v='12:00-00:00' />
+    <tag k='operator' v='ООО «Си Продакт»' />
+    <tag k='website' v='https://petrovvodkinrest.ru/' />
+  </node>
+</osm>

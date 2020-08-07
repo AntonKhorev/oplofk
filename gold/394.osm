@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='664453369' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9352418' lon='30.3121119' />
+  <node id='664453371' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9350801' lon='30.3123537' />
+  <node id='664453372' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9350344' lon='30.3124208' />
+  <node id='664453373' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9349195' lon='30.3125927' />
+  <node id='664453385' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10580605' lat='59.9347828' lon='30.3127993' />
+  <node id='664453387' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='10580605' lat='59.9349919' lon='30.313373' />
+  <node id='664453394' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='10580605' lat='59.9355747' lon='30.3130309' />
+  <node id='664453397' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='10580605' lat='59.935109' lon='30.3136942' />
+  <node id='803391914' timestamp='2012-02-04T00:31:35Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10580605' lat='59.9348709' lon='30.3126674' />
+  <node id='2423332504' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='71335774' lat='59.9348939' lon='30.3126316'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2423332528' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='71335774' lat='59.9350571' lon='30.3123874'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2940675135' timestamp='2018-08-01T00:31:47Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61245298' lat='59.9346111' lon='30.3131008'>
+    <tag k='contact:facebook' v='streetfoodspb' />
+    <tag k='contact:phone' v='+7 812 9940983' />
+    <tag k='contact:website' v='https://vk.com/streetfoodspb' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Картофель с грибами' />
+    <tag k='name:en' v='Kartofel&apos; s Gribami' />
+  </node>
+  <node id='4436874649' timestamp='2016-10-07T20:44:43Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42721391' lat='59.9354117' lon='30.3125823'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5747987409' timestamp='2020-08-07T13:30:37Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89095106' lat='59.9347279' lon='30.3129262'>
+    <tag k='construction:shop' v='clothes' />
+    <tag k='note' v='&quot;скоро&quot;, Dickies, Kangol' />
+  </node>
+  <node id='6481181510' timestamp='2019-05-17T16:29:51Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70365225' lat='59.9353959' lon='30.3125387'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом здании с 01.12.1917 по 15.07.1918 располагалось Петроградское столичное управление уголовного розыска' />
+    <tag k='memorial' v='plaque' />
+    <tag k='start_date' v='2018-10-04' />
+  </node>
+  <way id='533920073' timestamp='2019-05-17T16:29:52Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='70365225'>
+    <nd ref='664453369' />
+    <nd ref='664453371' />
+    <nd ref='2423332528' />
+    <nd ref='664453372' />
+    <nd ref='664453373' />
+    <nd ref='2423332504' />
+    <nd ref='803391914' />
+    <nd ref='664453385' />
+    <nd ref='664453387' />
+    <nd ref='664453397' />
+    <nd ref='664453394' />
+    <nd ref='4436874649' />
+    <nd ref='6481181510' />
+    <nd ref='664453369' />
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Поликлиника №1 МСЧ ГУВД' />
+    <tag k='official_name' v='Поликлиника № 1 федерального казенного учреждения здравоохранения «Медико-санитарная часть Министерства внутренних дел Российской Федерации по г. Санкт-Петербургу и Ленинградской области»' />
+    <tag k='website' v='https://мсч.78.мвд.рф/Podrazdeleniya/Poliklinika_1' />
+  </way>
+</osm>

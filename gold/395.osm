@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3143680395' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='72706936' lat='59.9356185' lon='30.3116962'>
+    <tag k='brand' v='Былой Петербург' />
+    <tag k='name' v='Старая Вена' />
+    <tag k='name:en' v='Old Vienna' />
+    <tag k='name:ru' v='Старая Вена' />
+    <tag k='phone' v='+7 812 3143514' />
+    <tag k='smoking' v='no' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.old-spb.ru/otel-na-gorohovoi-vena.html' />
+  </node>
+  <node id='3896075820' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72706936' lat='59.935664' lon='30.3116282'>
+    <tag k='name' v='Food Market' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4262404691' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72706936' lat='59.9361551' lon='30.3108928'>
+    <tag k='addr:postcode' v='191186' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/sicafferussia' />
+    <tag k='name' v='Sicaffe' />
+    <tag k='opening_hours' v='Mo-Su 09:00-23:30' />
+    <tag k='phone' v='+7 812 3852523' />
+    <tag k='website' v='http://sicafferussia.com/' />
+  </node>
+  <node id='4689220091' timestamp='2018-05-11T20:16:27Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='58888560' lat='59.9354674' lon='30.3119427'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Малая Морская улица' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/kazanmangalspb' />
+    <tag k='cuisine' v='georgian;uzbek' />
+    <tag k='name' v='Kazan-Mangal' />
+    <tag k='opening_hours' v='Su-Th 11:00-01:00, Fr-Sa 11:00-03:00' />
+    <tag k='website' v='http://reca.rest/restaurants/kazanmangal' />
+  </node>
+  <node id='5146364825' timestamp='2019-04-28T13:06:37Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='69663337' lat='59.9356403' lon='30.3117581'>
+    <tag k='contact:phone' v='+7 812 3120292' />
+    <tag k='contact:website' v='http://tuchkov-hotel.ru/hotels/tuchkov-u-dvortsovoj' />
+    <tag k='name' v='Тучков у Дворцовой' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5146364826' timestamp='2017-10-04T02:31:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='52612323' lat='59.9356295' lon='30.3117272'>
+    <tag k='name' v='Residence' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://residencehotels.ru/' />
+  </node>
+  <node id='5146364828' timestamp='2020-08-07T13:47:27Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89095782' lat='59.935749' lon='30.3115011'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/inst.kras' />
+    <tag k='healthcare' v='doctor' />
+    <tag k='name' v='Институт красоты на Гороховой' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa 10:00-18:00; Su 10:00-15:00' />
+    <tag k='operator' v='ОАО «Косметологическая поликлиника»' />
+    <tag k='website' v='http://клиника-эстетики.рф/' />
+  </node>
+  <node id='5146364829' timestamp='2020-03-20T16:14:10Z' uid='3664566' user='aleksiy68' visible='true' version='3' changeset='82439234' lat='59.9357697' lon='30.31147'>
+    <tag k='amenity' v='doctors' />
+    <tag k='healthcare' v='doctor' />
+    <tag k='name' v='Городская поликлиника №37' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='website' v='http://gorpol37.spb.ru/' />
+  </node>
+  <node id='5146364830' timestamp='2020-08-07T13:47:27Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89095782' lat='59.9359706' lon='30.3111689'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/polniybalet' />
+    <tag k='name' v='Полный Балет' />
+    <tag k='opening_hours' v='13:00-23:00' />
+    <tag k='operator' v='ООО «Союз»' />
+    <tag k='website' v='https://hatgroup.ru/polniybalet/' />
+  </node>
+  <node id='5146364831' timestamp='2020-08-07T13:47:27Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89095782' lat='59.9360936' lon='30.3109849'>
+    <tag k='amenity' v='embassy' />
+    <tag k='consulate' v='consulate_general' />
+    <tag k='country' v='RO' />
+    <tag k='diplomatic' v='consulate' />
+    <tag k='name' v='Генеральное консульство Румынии' />
+    <tag k='office' v='diplomatic' />
+    <tag k='website' v='http://sanktpetersburg.mae.ro/' />
+  </node>
+</osm>
