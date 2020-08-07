@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1596093872' timestamp='2020-08-06T13:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89041943' lat='59.9180548' lon='30.2962685'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Объект Плюс»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/433813/' />
+  </node>
+  <node id='1596093878' timestamp='2019-11-01T12:31:46Z' uid='3846961' user='mini-me' visible='true' version='7' changeset='76493716' lat='59.9182149' lon='30.2961234'>
+    <tag k='alt_name' v='#BeerHERE' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:phone' v='+7 812 9225587' />
+    <tag k='contact:vk' v='https://vk.com/beer_here' />
+    <tag k='name' v='Beer Here' />
+    <tag k='opening_hours' v='Mo-Su 14:00-01:00' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1596270911' timestamp='2020-08-06T13:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='89041943' lat='59.9173276' lon='30.2969218'>
+    <tag k='contact:facebook' v='https://www.facebook.com/Pro%D0%A6%D0%92%D0%95%D0%A2%D0%AB-2045412002443369/' />
+    <tag k='name' v='Proцветы' />
+    <tag k='opening_hours' v='07:00-23:00' />
+    <tag k='shop' v='florist' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1596270922' timestamp='2017-06-25T08:19:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='49808499' lat='59.9183345' lon='30.296009'>
+    <tag k='contact:vk' v='https://vk.com/club56870117' />
+    <tag k='name' v='Гномик' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='toys' />
+  </node>
+  <node id='1596270964' timestamp='2020-08-06T13:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89041943' lat='59.918556' lon='30.295818'>
+    <tag k='brand' v='Wildberries' />
+    <tag k='brand:wikidata' v='Q24933714' />
+    <tag k='brand:wikipedia' v='ru:Wildberries' />
+    <tag k='contact:phone' v='+7 812 3098091,35397' />
+    <tag k='contact:vk' v='https://vk.com/wildberries_shop' />
+    <tag k='contact:website' v='https://www.wildberries.ru' />
+    <tag k='name' v='Wildberries' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Вайлдберриз»' />
+    <tag k='shop' v='outpost' />
+  </node>
+  <node id='1596270976' timestamp='2017-06-25T08:19:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='49808499' lat='59.9175038' lon='30.2967619'>
+    <tag k='contact:vk' v='https://vk.com/club3591379' />
+    <tag k='name' v='Цветы' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='http://anemoni.ru/' />
+  </node>
+  <node id='2034635129' timestamp='2019-08-17T22:31:17Z' uid='103003' user='Alexandrcfif' visible='true' version='5' changeset='73452872' lat='59.9181526' lon='30.2961796'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/sushishop' />
+    <tag k='cuisine' v='sushi;pizza;wok' />
+    <tag k='delivery' v='yes' />
+    <tag k='name' v='Сушишоп' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://www.sushishop.ru/' />
+  </node>
+  <node id='3994887850' timestamp='2020-08-06T13:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89041943' lat='59.91791827857' lon='30.29631432595'>
+    <tag k='amenity' v='cafe' />
+  </node>
+  <node id='4497692139' timestamp='2020-08-06T13:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89041943' lat='59.91796764753' lon='30.29627004764'>
+    <tag k='disused:shop' v='gift' />
+  </node>
+  <node id='4497692140' timestamp='2020-08-06T13:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89041943' lat='59.917569' lon='30.2967051'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Хань Фын' />
+  </node>
+  <node id='7791650910' timestamp='2020-08-06T13:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89041943' lat='59.91837584328' lon='30.29597318196'>
+    <tag k='brand' v='Всероссийское добровольное пожарное общество' />
+    <tag k='brand:wikidata' v='Q4127565' />
+    <tag k='contact:vk' v='https://vk.com/vdpo_spb' />
+    <tag k='name' v='Всероссийское добровольное пожарное общество, Санкт-Петербургское городское отделение' />
+    <tag k='office' v='ngo' />
+    <tag k='website' v='https://vdpo78.ru/' />
+  </node>
+</osm>

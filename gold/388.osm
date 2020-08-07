@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='937643188' timestamp='2013-02-08T15:34:33Z' uid='368493' user='fserges' visible='true' version='5' changeset='14957273' lat='59.9190726' lon='30.2945165' />
+  <node id='937643236' timestamp='2013-02-15T12:33:33Z' uid='368493' user='fserges' visible='true' version='5' changeset='15039671' lat='59.9193217' lon='30.2943684' />
+  <node id='937643287' timestamp='2013-02-15T12:33:33Z' uid='368493' user='fserges' visible='true' version='5' changeset='15039671' lat='59.9193399' lon='30.2943515' />
+  <node id='937643305' timestamp='2012-11-26T12:59:56Z' uid='368493' user='fserges' visible='true' version='3' changeset='14044489' lat='59.9190946' lon='30.2945702' />
+  <node id='937643321' timestamp='2013-02-15T12:33:33Z' uid='368493' user='fserges' visible='true' version='5' changeset='15039671' lat='59.919098' lon='30.2945874' />
+  <node id='937643384' timestamp='2013-02-15T12:33:33Z' uid='368493' user='fserges' visible='true' version='4' changeset='15039671' lat='59.9195797' lon='30.2949106' />
+  <node id='937643398' timestamp='2013-02-15T12:33:33Z' uid='368493' user='fserges' visible='true' version='5' changeset='15039671' lat='59.9194301' lon='30.2942679' />
+  <node id='937643424' timestamp='2013-02-15T12:33:33Z' uid='368493' user='fserges' visible='true' version='5' changeset='15039671' lat='59.9192454' lon='30.2952205' />
+  <node id='2034635046' timestamp='2013-02-08T15:34:32Z' uid='368493' user='fserges' visible='true' version='3' changeset='14957273' lat='59.9190224' lon='30.2943131' />
+  <node id='2034635058' timestamp='2013-02-15T12:33:32Z' uid='368493' user='fserges' visible='true' version='3' changeset='15039671' lat='59.9191459' lon='30.2947933' />
+  <node id='2034635061' timestamp='2013-02-15T12:33:32Z' uid='368493' user='fserges' visible='true' version='3' changeset='15039671' lat='59.9191544' lon='30.2948296' />
+  <node id='2034635076' timestamp='2013-02-15T12:33:32Z' uid='368493' user='fserges' visible='true' version='3' changeset='15039671' lat='59.9192565' lon='30.2940885' />
+  <node id='2034635093' timestamp='2019-06-19T20:02:54Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='71415177' lat='59.9193813' lon='30.2950945'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2034635130' timestamp='2020-08-06T12:27:20Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89038834' lat='59.91941054715' lon='30.29502786556'>
+    <tag k='contact:vk' v='https://vk.com/tsvetomaniaspb' />
+    <tag k='name' v='Цветомания' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://tsvetomania.ru/shop/lermontovskiy21/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='7791525639' timestamp='2020-08-06T12:27:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89038834' lat='59.91908537471' lon='30.29532429819'>
+    <tag k='name' v='Композит' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='ООО «ТД Композит»' />
+    <tag k='website' v='http://tdcomposite.com/' />
+  </node>
+  <node id='7791525640' timestamp='2020-08-06T12:27:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89038834' lat='59.91943706906' lon='30.295003282'>
+    <tag k='contact:vk' v='https://vk.com/narodny_konditer' />
+    <tag k='name' v='Народный кондитер' />
+    <tag k='note' v='скорее всего вместе с Цветоманией' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='http://narodny-konditer.ru/shop/prospekt-lermontovskiy-d-30' />
+  </node>
+  <way id='452956067' timestamp='2020-06-05T15:37:09Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='86252114'>
+    <nd ref='937643384' />
+    <nd ref='937643398' />
+    <nd ref='937643287' />
+    <nd ref='937643236' />
+    <nd ref='2034635076' />
+    <nd ref='2034635046' />
+    <nd ref='937643188' />
+    <nd ref='937643305' />
+    <nd ref='937643321' />
+    <nd ref='2034635058' />
+    <nd ref='2034635061' />
+    <nd ref='937643424' />
+    <nd ref='2034635093' />
+    <nd ref='937643384' />
+    <tag k='amenity' v='school' />
+    <tag k='contact:email' v='sc260.adm@obr.gov.spb.ru' />
+    <tag k='contact:phone' v='+7 812 7140551' />
+    <tag k='contact:website' v='http://sc260.adm-edu.spb.ru' />
+    <tag k='name' v='Школа № 260' />
+    <tag k='official_name' v='Государственное бюджетное общеобразовательное учреждение средняя общеобразовательная школа № 260 Адмиралтейского района Санкт-Петербурга' />
+    <tag k='ref' v='260' />
+  </way>
+</osm>

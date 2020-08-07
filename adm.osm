@@ -1844,10 +1844,10 @@
   <node id='-105930' action='modify' lat='59.91176792457' lon='30.3180799409' />
   <node id='-105932' action='modify' lat='59.91172274145' lon='30.31819506179' />
   <node id='-105934' action='modify' lat='59.91169861939' lon='30.31819442521' />
-  <node id='-105936' action='modify' lat='59.91164999847' lon='30.31807836358' />
-  <node id='-105938' action='modify' lat='59.91159101562' lon='30.31799091989' />
+  <node id='-105936' action='modify' lat='59.91164379476' lon='30.3180195323' />
+  <node id='-105938' action='modify' lat='59.91159101562' lon='30.31795605117' />
   <node id='-105940' action='modify' lat='59.90981430737' lon='30.31806246473' />
-  <node id='-105942' action='modify' lat='59.90973858194' lon='30.31815149831' />
+  <node id='-105942' action='modify' lat='59.90973320289' lon='30.31807773756' />
   <node id='-105944' action='modify' lat='59.90963894295' lon='30.31830571718' />
   <node id='-105946' action='modify' lat='59.90961816818' lon='30.31830204057' />
   <node id='-105948' action='modify' lat='59.90954084807' lon='30.31814305204' />
@@ -6102,20 +6102,20 @@
   <node id='-114446' action='modify' lat='59.9104976977' lon='30.31437130401' />
   <node id='-114448' action='modify' lat='59.91064292838' lon='30.31436057518' />
   <node id='-114450' action='modify' lat='59.91064292838' lon='30.31433241198' />
-  <node id='-114452' action='modify' lat='59.91160372089' lon='30.31427340338' />
+  <node id='-114452' action='modify' lat='59.91158823591' lon='30.3142538455' />
   <node id='-114454' action='modify' lat='59.91164625502' lon='30.31427201719' />
   <node id='-114456' action='modify' lat='59.9116447338' lon='30.3141580684' />
   <node id='-114458' action='modify' lat='59.90915247974' lon='30.31423551489' />
   <node id='-114460' action='modify' lat='59.90914823229' lon='30.31436929236' />
   <node id='-114462' action='modify' lat='59.90976774565' lon='30.31829875769' />
-  <node id='-114464' action='modify' lat='59.90976773092' lon='30.31819574924' />
+  <node id='-114464' action='modify' lat='59.90976772665' lon='30.31816586603' />
   <node id='-114466' action='modify' lat='59.90979462612' lon='30.31557523103' />
   <node id='-114468' action='modify' lat='59.90942750464' lon='30.31557254882' />
   <node id='-114470' action='modify' lat='59.90942481509' lon='30.31601779552' />
   <node id='-114472' action='modify' lat='59.90909870558' lon='30.31607680412' />
   <node id='-114474' action='modify' lat='59.90904708215' lon='30.3160740395' />
   <node id='-114476' action='modify' lat='59.90963325454' lon='30.31621359678' />
-  <node id='-114478' action='modify' lat='59.90963854009' lon='30.31815755059' />
+  <node id='-114478' action='modify' lat='59.90963832571' lon='30.3180787046' />
   <node id='-114480' action='modify' lat='59.9091330045' lon='30.31622922099' />
   <node id='-114482' action='modify' lat='59.91939851536' lon='30.32577897936' />
   <node id='-114484' action='modify' lat='59.9194630451' lon='30.32569583088' />
@@ -8147,16 +8147,16 @@
   <node id='-118536' action='modify' lat='59.9115792075' lon='30.31328396566' />
   <node id='-118538' action='modify' lat='59.91158862031' lon='30.31371311911' />
   <node id='-118540' action='modify' lat='59.91159668036' lon='30.31411190514' />
-  <node id='-118542' action='modify' lat='59.91160134877' lon='30.31415941663' />
-  <node id='-118544' action='modify' lat='59.91161075783' lon='30.3147778307' />
-  <node id='-118546' action='modify' lat='59.91154083407' lon='30.31491596447' />
+  <node id='-118542' action='modify' lat='59.91158713646' lon='30.31415985829' />
+  <node id='-118544' action='modify' lat='59.91159394925' lon='30.31473759756' />
+  <node id='-118546' action='modify' lat='59.9115307489' lon='30.31483818041' />
   <node id='-118548' action='modify' lat='59.91156638315' lon='30.31680960403' />
-  <node id='-118550' action='modify' lat='59.91160672377' lon='30.31689074085' />
-  <node id='-118552' action='modify' lat='59.91160806846' lon='30.31702216909' />
+  <node id='-118550' action='modify' lat='59.91157915769' lon='30.31689208195' />
+  <node id='-118552' action='modify' lat='59.91158184706' lon='30.31703826234' />
   <node id='-118554' action='modify' lat='59.91158520878' lon='30.31737085627' />
-  <node id='-118556' action='modify' lat='59.9116322728' lon='30.31812321589' />
-  <node id='-118558' action='modify' lat='59.91163292228' lon='30.31819797518' />
-  <node id='-118560' action='modify' lat='59.91169702901' lon='30.31807529589' />
+  <node id='-118556' action='modify' lat='59.91160941314' lon='30.31806957171' />
+  <node id='-118558' action='modify' lat='59.91161197454' lon='30.3181991071' />
+  <node id='-118560' action='modify' lat='59.91169624733' lon='30.31801674318' />
   <node id='-118562' action='modify' lat='59.91381728124' lon='30.31811971519' />
   <node id='-118564' action='modify' lat='59.91385788944' lon='30.31798077734' />
   <node id='-118566' action='modify' lat='59.90182125517' lon='30.27593046159' />
@@ -8943,6 +8943,8 @@
   <node id='-218959' action='modify' lat='59.92448874302' lon='30.31079110853' />
   <node id='-222101' action='modify' lat='59.92558600598' lon='30.32390158818' />
   <node id='-222102' action='modify' lat='59.92544326461' lon='30.32355442509' />
+  <node id='-242443' action='modify' lat='59.91879687809' lon='30.2956454781' />
+  <node id='-242459' action='modify' lat='59.91876380469' lon='30.29590030012' />
   <way id='-218960' action='modify'>
     <nd ref='-102244' />
     <nd ref='-118676' />
@@ -9160,7 +9162,9 @@
   <way id='-218973' action='modify'>
     <nd ref='-102420' />
     <nd ref='-118736' />
+    <nd ref='-242459' />
     <nd ref='-102430' />
+    <nd ref='-242443' />
     <nd ref='-102432' />
     <nd ref='-102434' />
     <nd ref='-102424' />
@@ -10302,7 +10306,9 @@
     <nd ref='-103404' />
     <nd ref='-102434' />
     <nd ref='-102432' />
+    <nd ref='-242459' />
     <nd ref='-102430' />
+    <nd ref='-242443' />
     <nd ref='-103392' />
     <tag k='description' v='южн сторона между Лермонтовским и Климовым' />
     <tag k='name' v='Лабутина ул. 2-4' />
