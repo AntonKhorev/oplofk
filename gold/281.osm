@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1137593725' timestamp='2019-07-06T02:03:14Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='71948575' lat='59.91350864779' lon='30.28725192656'>
+    <tag k='brand' v='Народная 7Я семьЯ' />
+    <tag k='brand:wikidata' v='Q4032436' />
+    <tag k='contact:vk' v='https://vk.com/7yarus' />
+    <tag k='name' v='Народная 7Я семьЯ' />
+    <tag k='name:ru' v='Народная 7Я семьЯ' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.7-ya.ru/' />
+  </node>
+  <node id='4564388774' timestamp='2019-07-06T02:03:14Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71948575' lat='59.91350401081' lon='30.28709804371'>
+    <tag k='disused:shop' v='interior_decoration' />
+    <tag k='name' v='Интерьер' />
+  </node>
+</osm>

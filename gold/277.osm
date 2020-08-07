@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2343455079' timestamp='2019-07-05T03:23:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71915544' lat='59.92087776873' lon='30.28644232407'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Аларчин мост' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://alarchin-most.nethouse.ru/' />
+  </node>
+  <node id='2343455081' timestamp='2019-07-05T03:23:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71915544' lat='59.92069223699' lon='30.28602308498'>
+    <tag k='name' v='Благо' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4523803022' timestamp='2019-07-05T03:23:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71915544' lat='59.92062451625' lon='30.28586749516'>
+    <tag k='name' v='Комок' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 11:00-19:00' />
+    <tag k='shop' v='second_hand' />
+  </node>
+  <node id='4523803023' timestamp='2019-07-05T03:23:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71915544' lat='59.92081301534' lon='30.28629652864'>
+    <tag k='contact:facebook' v='https://www.facebook.com/leningrad.bulochnie/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/leningrad.bulochnie/' />
+    <tag k='contact:vk' v='https://vk.com/leningrad.bulochnie' />
+    <tag k='drink:coffee' v='served' />
+    <tag k='name' v='Ленинградские булочные' />
+    <tag k='opening_hours' v='Mo-Su 08:00-22:00' />
+    <tag k='operator' v='ООО «Смольный»' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://leningradskie.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4949900015' timestamp='2019-07-05T03:23:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71915544' lat='59.92083706437' lon='30.2863505867'>
+    <tag k='alt_name' v='Белорусские продукты' />
+    <tag k='contact:vk' v='https://vk.com/belorusdvorik' />
+    <tag k='name' v='Белорусский дворик' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ИП Мозокин А.В.' />
+    <tag k='origin' v='belorussian' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='http://belorusdvorik.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='6590198326' timestamp='2019-07-05T03:23:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71915544' lat='59.92068018842' lon='30.28599564877'>
+    <tag k='craft' v='electronics_repair' />
+  </node>
+</osm>

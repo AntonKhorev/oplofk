@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4690381013' timestamp='2018-03-20T01:13:00Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57336697' lat='59.9284721' lon='30.3147979'>
+    <tag k='name' v='Балтрос' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.baltrosgroup.ru/' />
+  </node>
+  <node id='4690381014' timestamp='2018-09-28T03:52:33Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62995985' lat='59.9280064' lon='30.3148853'>
+    <tag k='contact:vk' v='https://vk.com/madeinseoul' />
+    <tag k='email' v='info@madeinseoul.ru' />
+    <tag k='name' v='Made in Seoul' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-21:00; Su 12:00-20:00' />
+    <tag k='phone' v='+79062685603' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://madeinseoul.ru/' />
+  </node>
+  <node id='4690381015' timestamp='2018-01-12T01:23:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='55367717' lat='59.927666' lon='30.3148765'>
+    <tag k='contact:vk' v='https://vk.com/griboedovhouse' />
+    <tag k='name' v='Грибоедов хаус' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://griboedovhouse.ru/' />
+  </node>
+</osm>

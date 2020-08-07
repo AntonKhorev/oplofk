@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1442071390' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='4' changeset='61803826' lat='59.92236487029' lon='30.32828134997'>
+    <tag k='contact:vk' v='https://vk.com/sportmixstudio' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='SportMix' />
+    <tag k='website' v='http://sportmixspb.ru/' />
+  </node>
+  <node id='1442130557' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='4' changeset='61803826' lat='59.92231622086' lon='30.32838819771'>
+    <tag k='leisure' v='sauna' />
+    <tag k='name' v='Казачьи бани' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Казачьи бани»' />
+    <tag k='website' v='http://kazbani.ru/' />
+  </node>
+  <node id='3517443157' timestamp='2018-08-19T20:08:35Z' uid='437809' user='Anton Khorev' version='6' changeset='61803063' lat='59.92321399843' lon='30.32723817272'>
+    <tag k='contact:vk' v='https://vk.com/spbmmrp' />
+    <tag k='name' v='Выставочный зал музея Разночинный Петербург' />
+    <tag k='opening_hours' v='Tu-Sa 11:00-17:00; Th[-1] off' />
+    <tag k='phone' v='+7 812 4075220' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='http://spbmmrp.ru/' />
+  </node>
+  <node id='4562671045' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='3' changeset='61803826' lat='59.92301502339' lon='30.32689048945'>
+    <tag k='contact:vk' v='https://vk.com/marseltour' />
+    <tag k='int_name' v='Marsel Tour' />
+    <tag k='name' v='Марсель-Тур' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 12:00-18:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://marseltour.ru/' />
+  </node>
+  <node id='4562671046' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='2' changeset='61803826' lat='59.92290108161' lon='30.32710325586'>
+    <tag k='contact:vk' v='https://vk.com/lumberjackbarbershop' />
+    <tag k='name' v='Lumberjack' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://lumberjackbarbershop.ru/' />
+  </node>
+  <node id='4562671047' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='3' changeset='61803826' lat='59.92282524193' lon='30.32726975463'>
+    <tag k='contact:vk' v='https://vk.com/sevzaprgk' />
+    <tag k='name' v='Газкомплект' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-18:00' />
+    <tag k='shop' v='gas' />
+    <tag k='website' v='http://sevzaprgk.ru/' />
+  </node>
+  <node id='4562671048' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='3' changeset='61803826' lat='59.92269272661' lon='30.32756128177'>
+    <tag k='brand' v='Горячие туры' />
+    <tag k='contact:vk' v='https://vk.com/travelina' />
+    <tag k='name' v='Трэвелина' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-18:00' />
+    <tag k='operator' v='ООО «Трэвелина»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.travelina-spb.ru/' />
+  </node>
+  <node id='4562671050' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='2' changeset='61803826' lat='59.92182889336' lon='30.32943571653'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/allegrostom' />
+    <tag k='name' v='Аллегро' />
+    <tag k='website' v='http://www.allegro-stom.ru/' />
+  </node>
+  <node id='4613708573' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='6' changeset='61803826' lat='59.92145710912' lon='30.33020525251'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Burger King' />
+    <tag k='brand:wikidata' v='Q177054' />
+    <tag k='brand:wikipedia' v='ru:Burger King' />
+    <tag k='contact:email' v='bk-436@burgerking.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/BurgerKingRussia' />
+    <tag k='contact:phone' v='+7 495 5445000-4436' />
+    <tag k='contact:vk' v='https://vk.com/burgerking' />
+    <tag k='cuisine' v='burger' />
+    <tag k='diet:vegetarian' v='no' />
+    <tag k='int_name' v='Burger King' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='Бургер Кинг' />
+    <tag k='name:en' v='Burger King' />
+    <tag k='name:ru' v='Бургер Кинг' />
+    <tag k='note' v='время работы отличается от указанного на сайте' />
+    <tag k='opening_hours' v='06:00-04:00' />
+    <tag k='operator' v='ООО «Бургер Рус»' />
+    <tag k='ref' v='436' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://burgerking.ru/' />
+  </node>
+  <node id='5842459104' timestamp='2018-08-19T20:43:21Z' uid='437809' user='Anton Khorev' version='1' changeset='61803826' lat='59.92165614842' lon='30.32969824073'>
+    <tag k='contact:vk' v='https://vk.com/planeta__spb' />
+    <tag k='name' v='Планета' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.planetaspb.ru/' />
+  </node>
+</osm>

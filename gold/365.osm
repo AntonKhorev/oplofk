@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='560442878' timestamp='2019-12-05T11:36:06Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='77990431' lat='59.9254398' lon='30.3158476'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/barspb_official' />
+    <tag k='name' v='SПБ' />
+    <tag k='opening_hours' v='Su-Th 12:00-01:00, Fr-Sa 12:00-05:00' />
+    <tag k='phone' v='+7 812 3353316' />
+    <tag k='website' v='http://www.barspb.ru/' />
+  </node>
+  <node id='2495052298' timestamp='2018-01-19T04:56:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='55568042' lat='59.9255295' lon='30.3156312'>
+    <tag k='contact:vk' v='https://vk.com/extazshop' />
+    <tag k='name' v='Extaz' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='erotic' />
+    <tag k='website' v='https://www.extazshop.ru/spb/3/' />
+  </node>
+  <node id='4193760045' timestamp='2019-12-05T11:36:06Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='77990431' lat='59.9256424' lon='30.3163295'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/taiyakicafe' />
+    <tag k='cuisine' v='japanese' />
+    <tag k='name' v='Тайяки' />
+    <tag k='name:en' v='Taiyaki' />
+    <tag k='name:ja' v='たいやき' />
+    <tag k='opening_hours' v='Su-Th 11:00-21:00; Fr-Sa 11:00-22:00' />
+    <tag k='website' v='http://taiyakicafe.ru/' />
+  </node>
+  <node id='4637851177' timestamp='2019-12-05T11:36:06Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='77990431' lat='59.9256961' lon='30.3164578'>
+    <tag k='name' v='Цветы' />
+    <tag k='note' v='возможно https://vk.com/mondial_ru' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='4637851178' timestamp='2019-12-05T11:36:06Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='77990431' lat='59.9256116' lon='30.3162564'>
+    <tag k='clothes' v='women' />
+    <tag k='contact:instagram' v='https://www.instagram.com/showroom_mzia/' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4637851179' timestamp='2019-12-05T11:36:06Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='77990431' lat='59.9254958' lon='30.3156877'>
+    <tag k='contact:vk' v='https://vk.com/belkinolukoshko' />
+    <tag k='name' v='Белкино лукошко' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='spices' />
+  </node>
+  <node id='4637851180' timestamp='2018-08-29T01:12:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62088546' lat='59.9256062' lon='30.3155028'>
+    <tag k='level' v='0' />
+    <tag k='name' v='Обувной дом' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='7035732752' timestamp='2019-12-05T11:36:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77990431' lat='59.92575008769' lon='30.31658638251'>
+    <tag k='name' v='Адвокатский кабинет Богдановой Елены Владимировны' />
+    <tag k='office' v='lawyer' />
+    <tag k='phone' v='+7 812 3101001' />
+  </node>
+</osm>

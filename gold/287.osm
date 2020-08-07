@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='805389370' timestamp='2010-07-07T17:08:39Z' uid='40577' user='guggis' visible='true' version='1' changeset='5160016' lat='59.932901' lon='30.3327235' />
+  <node id='805389437' timestamp='2010-07-07T17:08:40Z' uid='40577' user='guggis' visible='true' version='1' changeset='5160016' lat='59.9327422' lon='30.3323348' />
+  <node id='3962508885' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='72035931' lat='59.9326427898' lon='30.33214875649'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/naparah' />
+    <tag k='name' v='На Парах' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «НП-Садовая»' />
+    <tag k='website' v='https://напарах.рф/' />
+  </node>
+  <node id='3962508889' timestamp='2016-05-23T22:11:43Z' uid='472653' user='Pavel47' visible='true' version='2' changeset='39520615' lat='59.9327664' lon='30.3326816' />
+  <node id='3962508891' timestamp='2016-05-23T22:11:43Z' uid='472653' user='Pavel47' visible='true' version='2' changeset='39520615' lat='59.9327462' lon='30.3326347' />
+  <node id='4203252424' timestamp='2016-05-23T22:11:35Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='39520615' lat='59.9326792' lon='30.3324721' />
+  <node id='4203252425' timestamp='2016-05-23T22:11:35Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='39520615' lat='59.9327882' lon='30.3324475'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4203252426' timestamp='2016-05-23T22:11:35Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='39520615' lat='59.9328163' lon='30.3325176'>
+    <tag k='amenity' v='telephone' />
+    <tag k='payment:telephone_cards' v='yes' />
+  </node>
+  <node id='4203252428' timestamp='2016-05-23T22:11:35Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='39520615' lat='59.9328349' lon='30.3325615' />
+  <node id='4203252429' timestamp='2016-05-23T22:11:35Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='39520615' lat='59.9328546' lon='30.3328877' />
+  <node id='4203252430' timestamp='2016-05-23T22:11:35Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='39520615' lat='59.9328627' lon='30.3326298'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4340702489' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72035931' lat='59.93271401335' lon='30.33232310083'>
+    <tag k='contact:vk' v='https://vk.com/milospb' />
+    <tag k='name' v='Milo' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://mi-lo.ru/' />
+  </node>
+  <node id='4749888139' timestamp='2017-03-22T23:43:44Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='47082367' lat='59.9327651' lon='30.3323909'>
+    <tag k='addr:housenumber' v='24/1' />
+    <tag k='addr:street' v='Садовая улица' />
+  </node>
+  <node id='4936757932' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72035931' lat='59.9327858' lon='30.3326095'>
+    <tag k='name' v='Дюйм' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://diuim.ru/' />
+  </node>
+  <node id='4936757933' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72035931' lat='59.9327992' lon='30.3325843'>
+    <tag k='contact:facebook' v='https://www.facebook.com/primaveratour812' />
+    <tag k='contact:vk' v='https://vk.com/primaveratour' />
+    <tag k='name' v='Примавера Тур' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://primavera-spb.ru/' />
+  </node>
+  <node id='4936757935' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72035931' lat='59.93272420758' lon='30.33234766611'>
+    <tag k='contact:vk' v='https://vk.com/bileter' />
+    <tag k='name' v='Bileter' />
+    <tag k='opening_hours' v='Tu-Sa 11:00-20:00; 15:00-16:00 off; Jun-Aug off' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:theatre' v='yes' />
+    <tag k='website' v='https://www.bileter.ru/' />
+  </node>
+  <node id='5334043010' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72035931' lat='59.93267994724' lon='30.33223971205'>
+    <tag k='brand' v='Фабрика имени Крупской' />
+    <tag k='brand:wikidata' v='Q4480319' />
+    <tag k='contact:vk' v='https://vk.com/sladostidlradosti' />
+    <tag k='name' v='Сладости для радости' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='http://sladostispb.ru/' />
+  </node>
+  <node id='5615073551' timestamp='2018-05-13T13:06:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58923928' lat='59.9328116' lon='30.3325615'>
+    <tag k='contact:vk' v='https://vk.com/enotovil' />
+    <tag k='name' v='Енотовиль' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='reservation' v='required' />
+    <tag k='tourism' v='zoo' />
+    <tag k='website' v='http://enotovil.ru/' />
+    <tag k='zoo' v='petting_zoo' />
+  </node>
+  <node id='6597963988' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='72035931' lat='59.93269129608' lon='30.33226749232'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/bagginscoffee' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Baggins Coffee' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00' />
+    <tag k='website' v='http://bagginscoffee.ru/' />
+  </node>
+  <way id='420392077' timestamp='2019-07-09T03:44:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72035931'>
+    <nd ref='3962508889' />
+    <nd ref='4203252429' />
+    <nd ref='805389370' />
+    <nd ref='4203252430' />
+    <nd ref='4203252428' />
+    <nd ref='3962508889' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/strogell' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Штрогель' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='ООО «Сфера»' />
+    <tag k='phone' v='+7 812 4100085;+7 812 4100089' />
+    <tag k='website' v='http://strogell.ru/' />
+  </way>
+  <way id='420392078' timestamp='2018-05-09T22:06:40Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='58833636'>
+    <nd ref='4203252426' />
+    <nd ref='3962508891' />
+    <nd ref='4203252424' />
+    <nd ref='805389437' />
+    <nd ref='4749888139' />
+    <nd ref='4203252425' />
+    <nd ref='4203252426' />
+    <tag k='contact:vk' v='https://vk.com/yarkiy' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Яркий' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 812 6355509' />
+    <tag k='shop' v='photo' />
+    <tag k='website' v='https://www.yarkiy.ru/stores/16-sadovaya-24-magazin' />
+  </way>
+</osm>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6235081541' timestamp='2019-01-25T00:01:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66616607' lat='59.9415919277' lon='30.36011940709'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/reaclinic' />
+    <tag k='name' v='Reaclinic' />
+    <tag k='website' v='http://www.reaclinic.ru/klinika-metro-chernyshevskaja/' />
+  </node>
+  <node id='6235081542' timestamp='2019-01-25T00:01:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66616607' lat='59.94159334505' lon='30.36001618766'>
+    <tag k='contact:vk' v='https://vk.com/xnailspro' />
+    <tag k='name' v='Xnails' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://xnails.pro/' />
+  </node>
+  <node id='6235081543' timestamp='2019-01-25T00:01:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66616607' lat='59.9415957518' lon='30.35987027644'>
+    <tag k='contact:vk' v='https://vk.com/vtour_vosstania36' />
+    <tag k='name' v='Вэл тур' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 12:00-17:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.vtour-spb.ru/' />
+  </node>
+</osm>

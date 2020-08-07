@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6231339682' timestamp='2019-01-23T23:41:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66584223' lat='59.93531450542' lon='30.33926695597'>
+    <tag k='name' v='Русский стиль' />
+    <tag k='note' v='возможно не работает' />
+    <tag k='opening_hours' v='Tu-Sa 12:00-19:00' />
+    <tag k='operator' v='ООО «Русский стиль»' />
+    <tag k='phone' v='+7 812 5711553' />
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='6231339683' timestamp='2019-01-23T23:41:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66584223' lat='59.93511113133' lon='30.33916791104'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/checkpointcafe' />
+    <tag k='name' v='Check Point' />
+    <tag k='opening_hours' v='11:00-22:00' />
+  </node>
+</osm>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5072059423' timestamp='2018-06-09T13:33:28Z' uid='437809' user='Anton Khorev' version='5' changeset='59691154' lat='59.9320154' lon='30.347127'>
+    <tag k='contact:vk' v='https://vk.com/hostelvcentrespb' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Соседи' />
+    <tag k='name:ru' v='Соседи' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='phone' v='+79633474730' />
+    <tag k='tourism' v='hostel' />
+  </node>
+  <node id='5677860888' timestamp='2018-06-09T13:33:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59691154' lat='59.9321672' lon='30.3465804'>
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='5677860889' timestamp='2018-06-09T13:33:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59691154' lat='59.9320255' lon='30.3467171'>
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Th 10:30-18:00; Fr 10:30-17:30; Sa 11:00-15:00' />
+    <tag k='phone' v='+7 812 7640705' />
+  </node>
+  <node id='5677860890' timestamp='2018-06-09T13:33:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59691154' lat='59.9321128' lon='30.3468628'>
+    <tag k='craft' v='photographer' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; 14:00-15:00 off' />
+    <tag k='phone' v='+7 911 2525275' />
+  </node>
+  <node id='5677860891' timestamp='2018-06-09T13:33:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59691154' lat='59.9320584' lon='30.3469071'>
+    <tag k='contact:vk' v='https://vk.com/glmxxvek' />
+    <tag k='name' v='Государственный литературный музей «XX век», дирекция' />
+    <tag k='office' v='museum' />
+    <tag k='website' v='http://museum-xxvek.ru/' />
+  </node>
+  <node id='5677860892' timestamp='2018-06-09T13:33:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59691154' lat='59.9320084' lon='30.3471796'>
+    <tag k='contact:vk' v='https://vk.com/tourworld' />
+    <tag k='name' v='Ателье путешествий Елены Слиозберг' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://tourworld.ru/' />
+  </node>
+  <node id='5677860893' timestamp='2018-06-09T13:33:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59691154' lat='59.9321518' lon='30.3472102'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/bonnielounge' />
+    <tag k='name' v='Bonnie &amp; Clyde' />
+    <tag k='opening_hours' v='Mo-Th 16:00-06:00, Fr-Sa 12:00-06:00' />
+  </node>
+  <node id='5677860894' timestamp='2018-06-09T13:33:25Z' uid='437809' user='Anton Khorev' version='1' changeset='59691154' lat='59.9321518' lon='30.3472303'>
+    <tag k='contact:vk' v='https://vk.com/matreshkispa' />
+    <tag k='massage' v='sexual' />
+    <tag k='name' v='Матрешки' />
+    <tag k='shop' v='massage' />
+    <tag k='website' v='http://spa-matreshki.ru/' />
+  </node>
+</osm>

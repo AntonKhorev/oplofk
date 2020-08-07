@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2992114942' timestamp='2018-08-25T01:38:20Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='61974749' lat='59.93287117577' lon='30.36418207792'>
+    <tag k='name' v='Управление по контролю за оборотом наркотиков по Санкт-Петербургу и Ленинградской области' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://78.мвд.рф/gumvd/structure/item/8348785/' />
+  </node>
+  <node id='2996733445' timestamp='2018-08-25T01:34:39Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='61974731' lat='59.93202964396' lon='30.36297536641'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/wwstom' />
+    <tag k='name' v='Пульс-сервис' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa 09:00-17:00; Su 11:00-17:00' />
+    <tag k='phone' v='+7 812 9277585' />
+    <tag k='website' v='http://wwstom.ru/' />
+  </node>
+  <node id='5854943487' timestamp='2018-08-25T01:34:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61974731' lat='59.9327594762' lon='30.36380728782'>
+    <tag k='name' v='Путешествие' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://puteshestvie.club/' />
+  </node>
+</osm>

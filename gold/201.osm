@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1637483463' timestamp='2019-01-12T10:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='66247913' lat='59.9359717' lon='30.3605552'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='operator' v='ПАО «Сбербанк России»' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='website' v='https://www.sberbank.ru/' />
+  </node>
+  <node id='6203050761' timestamp='2019-01-12T10:49:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66247913' lat='59.93616354651' lon='30.36056178071'>
+    <tag k='contact:vk' v='https://vk.com/belorusdvorik' />
+    <tag k='name' v='Белорусский дворик' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='http://belorusdvorik.ru/' />
+  </node>
+  <node id='6203050762' timestamp='2019-01-12T10:49:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66247913' lat='59.93620585759' lon='30.36056334758'>
+    <tag k='clothes' v='underwear' />
+    <tag k='name' v='Моё бельё' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6203050763' timestamp='2019-01-12T10:49:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66247913' lat='59.93625890804' lon='30.36056580227'>
+    <tag k='contact:vk' v='https://vk.com/bissectrisa' />
+    <tag k='craft' v='window_construction' />
+    <tag k='name' v='Bissectrisa' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 11:00-18:00' />
+    <tag k='website' v='http://www.bissectrisa.ru/' />
+  </node>
+  <node id='6203050764' timestamp='2019-01-12T10:49:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66247913' lat='59.93633301286' lon='30.36056941818'>
+    <tag k='contact:vk' v='https://vk.com/kuchenland_official' />
+    <tag k='name' v='KüchenLand Home' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='houseware' />
+    <tag k='website' v='https://www.kuchenland.ru/shops/30808/' />
+  </node>
+  <node id='6203050765' timestamp='2019-01-12T10:49:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66247913' lat='59.93639118945' lon='30.36057252106'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/cafeshiva' />
+    <tag k='name' v='Shiva' />
+    <tag k='opening_hours' v='Mo-Fr 15:00+; Sa-Su 12:00+' />
+    <tag k='website' v='https://www.cafeshiva.ru/' />
+  </node>
+  <node id='6203050766' timestamp='2019-01-12T10:49:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66247913' lat='59.93648104526' lon='30.36057732472'>
+    <tag k='contact:vk' v='https://vk.com/confaelshop' />
+    <tag k='name' v='Конфаэль' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='https://confaelshop.ru/' />
+  </node>
+</osm>

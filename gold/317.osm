@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='682344151' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='75208669' lat='59.92328522242' lon='30.33479383201'>
+    <tag k='brand' v='Буквоед' />
+    <tag k='brand:wikidata' v='Q4098549' />
+    <tag k='contact:vk' v='https://vk.com/bookvoed' />
+    <tag k='name' v='Буквоед' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa-Su 10:00-22:00' />
+    <tag k='shop' v='books' />
+    <tag k='website' v='https://www.bookvoed.ru/shop?id=8' />
+  </node>
+  <node id='1748537202' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75208669' lat='59.92259076377' lon='30.33304461074'>
+    <tag k='contact:vk' v='https://vk.com/club54835836' />
+    <tag k='name' v='Урожай' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-19:00' />
+    <tag k='shop' v='garden_centre' />
+  </node>
+  <node id='2107701171' timestamp='2019-10-02T12:36:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='75181637' lat='59.9221463' lon='30.3318601'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/ollisclub' />
+    <tag k='cuisine' v='pizza' />
+    <tag k='name' v='Ollis Club' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Сытопьяно»' />
+    <tag k='website' v='https://www.ollis.ru/restaurants/zagorodniy' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2311643220' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75208669' lat='59.92227418189' lon='30.33224565537'>
+    <tag k='name' v='Супер-маркет' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='3942487550' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75208669' lat='59.9234783' lon='30.3352785'>
+    <tag k='contact:vk' v='https://vk.com/podrygkashop' />
+    <tag k='name' v='Подружка' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://www.podrygka.ru/shoplist/300_sankt_peterburg_na_zagorodnom_prospekte/' />
+  </node>
+  <node id='4226727666' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75208669' lat='59.92239684566' lon='30.33255506612'>
+    <tag k='name' v='Электродом' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-18:00' />
+    <tag k='shop' v='electrical' />
+  </node>
+  <node id='4577165186' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75208669' lat='59.92222366436' lon='30.33209321475'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/kitcafe' />
+    <tag k='name' v='Кофе и Тепло' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='short_name' v='КиТ' />
+  </node>
+  <node id='4685108905' timestamp='2017-09-12T06:34:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='51961728' lat='59.9235337' lon='30.3354217'>
+    <tag k='name' v='Империя платья' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://империяплатья.рф/' />
+  </node>
+  <node id='4685108906' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75208669' lat='59.92255446849' lon='30.33295289917'>
+    <tag k='brand' v='New Balance' />
+    <tag k='brand:wikidata' v='Q742988' />
+    <tag k='contact:vk' v='https://vk.com/newbalanceclubspb' />
+    <tag k='name' v='New Balance' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 11:00-21:00' />
+    <tag k='operator' v='ООО «Ренессанс»' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='https://newbalance-spb.ru/' />
+  </node>
+  <node id='4724691691' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='75208669' lat='59.92279044888' lon='30.33354815076'>
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pyaterochka' />
+    <tag k='contact:phone' v='+7 800 5555505' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='phone' v='+7 800 5555505' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='6799746088' timestamp='2019-10-03T03:35:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75208669' lat='59.92230979678' lon='30.3323357298'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bbq_cafe_grill/' />
+    <tag k='cuisine' v='international' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Bar-B-Q' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Гермес»' />
+  </node>
+</osm>

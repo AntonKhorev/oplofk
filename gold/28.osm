@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='768551678' timestamp='2011-10-24T17:43:16Z' uid='336663' user='PavelRus' version='5' changeset='9645616' lat='59.9486969' lon='30.35916' />
+  <node id='768551736' timestamp='2011-10-24T17:43:17Z' uid='336663' user='PavelRus' version='5' changeset='9645616' lat='59.9488865' lon='30.3586698' />
+  <node id='768551746' timestamp='2011-10-24T17:43:17Z' uid='336663' user='PavelRus' version='5' changeset='9645616' lat='59.9488798' lon='30.3591698' />
+  <node id='768551760' timestamp='2011-10-24T17:43:17Z' uid='336663' user='PavelRus' version='5' changeset='9645616' lat='59.9487036' lon='30.3586601' />
+  <node id='1479288995' timestamp='2011-10-24T17:43:09Z' uid='336663' user='PavelRus' version='1' changeset='9645616' lat='59.9486998' lon='30.3589399' />
+  <node id='2952630827' timestamp='2018-06-15T01:15:03Z' uid='437809' user='Anton Khorev' version='2' changeset='59862656' lat='59.94836092817' lon='30.35910626744'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Миндаль' />
+    <tag k='opening_hours' v='12:00+' />
+    <tag k='operator' v='ООО «Астра»' />
+    <tag k='website' v='http://www.mindalcafe.ru/restorany/mindal_na_chernyshevskogo/' />
+  </node>
+  <node id='2955772706' timestamp='2018-06-15T01:15:03Z' uid='437809' user='Anton Khorev' version='2' changeset='59862656' lat='59.94854332709' lon='30.35911595932'>
+    <tag k='contact:vk' v='https://vk.com/coffee_shop_kafema' />
+    <tag k='name' v='Каfема' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 11:00-20:00' />
+    <tag k='operator' v='ИП Ткалич Л.Г.' />
+    <tag k='shop' v='coffee' />
+    <tag k='website' v='http://kafema.ru/' />
+  </node>
+  <node id='3322189461' timestamp='2018-06-15T01:15:03Z' uid='437809' user='Anton Khorev' version='4' changeset='59862656' lat='59.94805852899' lon='30.35909017426'>
+    <tag k='name' v='Т.Д.С.' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='5194952358' timestamp='2018-06-15T01:15:03Z' uid='437809' user='Anton Khorev' version='2' changeset='59862656' lat='59.94805847655' lon='30.35905048099'>
+    <tag k='name' v='Грузинская пекарня' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='5691960111' timestamp='2018-06-15T01:15:03Z' uid='437809' user='Anton Khorev' version='1' changeset='59862656' lat='59.94845624996' lon='30.35911119198'>
+    <tag k='contact:vk' v='https://vk.com/solefreshru' />
+    <tag k='description' v='сникер-химчистка' />
+    <tag k='name' v='Sole Fresh' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='operator' v='ИП Клюкина Мария Юрьевна' />
+    <tag k='shop' v='dry_cleaning' />
+    <tag k='website' v='https://solefresh.ru/' />
+  </node>
+  <node id='5691960112' timestamp='2018-06-15T01:15:03Z' uid='437809' user='Anton Khorev' version='1' changeset='59862656' lat='59.94812361291' lon='30.3590936379'>
+    <tag k='name' v='Ринг отель' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:avia' v='yes' />
+    <tag k='tickets:train' v='yes' />
+  </node>
+  <way id='61649302' timestamp='2017-09-20T21:14:52Z' uid='446083' user='yuryleb' version='8' changeset='52224036'>
+    <nd ref='768551736' />
+    <nd ref='768551746' />
+    <nd ref='768551678' />
+    <nd ref='1479288995' />
+    <nd ref='768551760' />
+    <nd ref='768551736' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='проспект Чернышевского' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='church' />
+    <tag k='building:levels' v='2' />
+    <tag k='denomination' v='orthodox' />
+    <tag k='name' v='Церковь иконы Божией Матери «Всех скорбящих Радость»' />
+    <tag k='religion' v='christian' />
+    <tag k='website' v='http://www.bcex.ru/' />
+    <tag k='wikidata' v='Q4422221' />
+  </way>
+</osm>

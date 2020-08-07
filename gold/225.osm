@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6237252341' timestamp='2019-01-26T01:05:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647282' lat='59.93739224488' lon='30.36213523038'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/respawnbarspb' />
+    <tag k='name' v='Respawn' />
+  </node>
+</osm>

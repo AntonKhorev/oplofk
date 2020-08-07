@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2216531745' timestamp='2018-11-27T07:05:28Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64923270' lat='59.9094351' lon='30.2929459'>
+    <tag k='name' v='В7' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Радуга ТК»' />
+    <tag k='shop' v='supermarket' />
+  </node>
+</osm>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6529599603' timestamp='2019-06-06T18:01:13Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70999142' lat='59.9201802' lon='30.3070026'>
+    <tag k='name' v='ВАМкНАМ' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='https://www.knam-hotels.ru/' />
+  </node>
+</osm>

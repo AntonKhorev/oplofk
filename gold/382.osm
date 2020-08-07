@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5632815956' timestamp='2020-07-21T14:39:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='88299769' lat='59.92277821677' lon='30.37137079858'>
+    <tag k='contact:vk' v='https://vk.com/keratinprofspb' />
+    <tag k='name' v='Keratin Prof' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Тарасова К.С.' />
+    <tag k='shop' v='hairdresser_supply' />
+  </node>
+  <node id='5632815957' timestamp='2020-07-21T14:39:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='88299769' lat='59.92302529938' lon='30.37128092006'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pivnayakultura/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/pivnaya_kultura/' />
+    <tag k='name' v='Пивная культура' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ООО «Инвестагро»' />
+  </node>
+  <node id='5632815958' timestamp='2020-07-21T14:39:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='88299769' lat='59.92273290546' lon='30.3713872809'>
+    <tag k='brand' v='Paul Mitchell' />
+    <tag k='brand:wikidata' v='Q1597610' />
+    <tag k='name' v='Paul Mitchell' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://www.paulmitchellsalon.ru/' />
+  </node>
+  <node id='5632815959' timestamp='2020-07-21T14:39:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='88299769' lat='59.9229894811' lon='30.37129394932'>
+    <tag k='contact:vk' v='https://vk.com/trifitspb' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='TriFit' />
+    <tag k='sport' v='fitness' />
+    <tag k='website' v='https://trifit.ru/' />
+  </node>
+  <node id='7734283833' timestamp='2020-07-21T15:59:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302683' lat='59.9220229875' lon='30.37164003198'>
+    <tag k='amenity' v='events_venue' />
+    <tag k='contact:vk' v='https://vk.com/yummspb' />
+    <tag k='int_name' v='Yummspb' />
+    <tag k='name' v='Ням-ням' />
+    <tag k='website' v='https://yummspb.ru/' />
+  </node>
+  <node id='7734283834' timestamp='2020-07-21T15:59:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302683' lat='59.92230179055' lon='30.37153867297'>
+    <tag k='contact:vk' v='https://vk.com/costabravadancestudio' />
+    <tag k='dance:teaching' v='yes' />
+    <tag k='leisure' v='dance' />
+    <tag k='name' v='Costa Brava' />
+    <tag k='website' v='https://танцыспб.рф/' />
+  </node>
+  <node id='7734283835' timestamp='2020-07-21T15:59:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302683' lat='59.92233248751' lon='30.37152751302'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/id484115838' />
+    <tag k='name' v='Cult Beer Club' />
+    <tag k='website' v='https://cult-beer-club.business.site/' />
+  </node>
+</osm>

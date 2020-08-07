@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4740804290' timestamp='2017-03-18T00:56:40Z' uid='437809' user='Anton Khorev' version='1' changeset='46945293' lat='59.9104051' lon='30.264857'>
+    <tag k='phone' v='+7 911 0254332' />
+    <tag k='shop' v='car_repair' />
+  </node>
+  <node id='4740804291' timestamp='2018-06-23T00:13:17Z' uid='437809' user='Anton Khorev' version='2' changeset='60089990' lat='59.91179753105' lon='30.26590677602'>
+    <tag k='name' v='Музей истории пивоварения' />
+    <tag k='opening_hours' v='We,Fr 11:00-17:00' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='http://www.heinekenrussia.ru/beer/museum_of_history_of_the_russian_beer/' />
+  </node>
+  <node id='4740804292' timestamp='2018-06-23T00:13:17Z' uid='437809' user='Anton Khorev' version='2' changeset='60089990' lat='59.91221606162' lon='30.26614979662'>
+    <tag k='contact:vk' v='https://vk.com/minuta_market' />
+    <tag k='name' v='Минута Маркет' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='http://www.minutamarket.ru/' />
+  </node>
+</osm>

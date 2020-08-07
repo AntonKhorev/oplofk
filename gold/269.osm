@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1161090228' timestamp='2019-07-03T23:36:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71877975' lat='59.92178227015' lon='30.28086050704' />
+  <node id='1161090233' timestamp='2018-12-18T17:08:21Z' uid='584771' user='fims7' visible='true' version='2' changeset='65586944' lat='59.9213098' lon='30.2816239' />
+  <node id='1161090241' timestamp='2018-12-18T17:08:21Z' uid='584771' user='fims7' visible='true' version='3' changeset='65586944' lat='59.9216491' lon='30.2805173' />
+  <node id='1161090243' timestamp='2011-02-19T11:22:31Z' uid='368493' user='fserges' visible='true' version='1' changeset='7330654' lat='59.9214042' lon='30.2805794' />
+  <node id='1161090246' timestamp='2018-12-18T17:08:21Z' uid='584771' user='fims7' visible='true' version='2' changeset='65586944' lat='59.9212058' lon='30.2813556' />
+  <node id='1161090247' timestamp='2011-02-19T11:22:31Z' uid='368493' user='fserges' visible='true' version='1' changeset='7330654' lat='59.9212938' lon='30.2806532' />
+  <node id='1161090248' timestamp='2019-07-03T23:36:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71877975' lat='59.9216559464' lon='30.28106461553' />
+  <node id='1161090256' timestamp='2018-12-18T17:08:22Z' uid='584771' user='fims7' visible='true' version='2' changeset='65586944' lat='59.9214887' lon='30.2803083' />
+  <node id='1161090261' timestamp='2018-12-18T17:08:22Z' uid='584771' user='fims7' visible='true' version='2' changeset='65586944' lat='59.9214366' lon='30.2803897' />
+  <node id='1161090263' timestamp='2011-02-19T11:22:32Z' uid='368493' user='fserges' visible='true' version='1' changeset='7330654' lat='59.9213521' lon='30.2805637' />
+  <node id='1161090266' timestamp='2011-02-19T11:22:32Z' uid='368493' user='fserges' visible='true' version='1' changeset='7330654' lat='59.921381' lon='30.2805193' />
+  <node id='1161090268' timestamp='2011-02-19T11:22:32Z' uid='368493' user='fserges' visible='true' version='1' changeset='7330654' lat='59.9210719' lon='30.281014' />
+  <node id='1161090279' timestamp='2018-12-18T17:08:22Z' uid='584771' user='fims7' visible='true' version='2' changeset='65586944' lat='59.9216006' lon='30.2805936' />
+  <node id='1161090293' timestamp='2019-07-03T23:36:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71877975' lat='59.92143097376' lon='30.28142811471' />
+  <node id='1161090303' timestamp='2011-02-19T11:22:34Z' uid='368493' user='fserges' visible='true' version='1' changeset='7330654' lat='59.9214255' lon='30.2804509' />
+  <node id='1161090306' timestamp='2018-12-18T17:08:22Z' uid='584771' user='fims7' visible='true' version='3' changeset='65586944' lat='59.9217124' lon='30.2806807' />
+  <node id='1161090315' timestamp='2011-02-19T11:22:34Z' uid='368493' user='fserges' visible='true' version='1' changeset='7330654' lat='59.9214487' lon='30.2805111' />
+  <node id='6587723497' timestamp='2019-07-03T23:36:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71877975' lat='59.92171910833' lon='30.28096256129'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='446329272' timestamp='2019-07-03T23:36:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71877975'>
+    <nd ref='1161090233' />
+    <nd ref='1161090293' />
+    <nd ref='1161090248' />
+    <nd ref='6587723497' />
+    <nd ref='1161090228' />
+    <nd ref='1161090306' />
+    <nd ref='1161090241' />
+    <nd ref='1161090279' />
+    <nd ref='1161090256' />
+    <nd ref='1161090261' />
+    <nd ref='1161090303' />
+    <nd ref='1161090315' />
+    <nd ref='1161090243' />
+    <nd ref='1161090266' />
+    <nd ref='1161090263' />
+    <nd ref='1161090247' />
+    <nd ref='1161090268' />
+    <nd ref='1161090246' />
+    <nd ref='1161090233' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа № 231' />
+    <tag k='website' v='http://spb231.reg-school.ru/' />
+  </way>
+</osm>

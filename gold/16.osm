@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1037244483' timestamp='2011-01-31T18:33:17Z' uid='386508' user='Ordin' version='3' changeset='7146980' lat='59.9445323' lon='30.3549772' />
+  <node id='1037244539' timestamp='2011-01-31T18:32:58Z' uid='386508' user='Ordin' version='3' changeset='7146980' lat='59.9440954' lon='30.3549459' />
+  <node id='1037244573' timestamp='2011-01-31T18:33:08Z' uid='386508' user='Ordin' version='3' changeset='7146980' lat='59.94409' lon='30.355228' />
+  <node id='1037244592' timestamp='2011-01-31T14:11:11Z' uid='231182' user='klif22' version='2' changeset='7145352' lat='59.9444915' lon='30.3549685' />
+  <node id='1037244611' timestamp='2011-01-31T18:33:01Z' uid='386508' user='Ordin' version='3' changeset='7146980' lat='59.9442259' lon='30.3549544' />
+  <node id='1037244619' timestamp='2011-01-31T18:32:58Z' uid='386508' user='Ordin' version='3' changeset='7146980' lat='59.9446008' lon='30.3549817' />
+  <node id='1037244644' timestamp='2011-01-31T18:33:16Z' uid='386508' user='Ordin' version='3' changeset='7146980' lat='59.9445918' lon='30.3552514' />
+  <node id='1129487142' timestamp='2011-01-31T18:33:13Z' uid='386508' user='Ordin' version='2' changeset='7146980' lat='59.944598' lon='30.3551519' />
+  <node id='1683446407' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='10' changeset='59792667' lat='59.944078989' lon='30.35829421773'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='KFC' />
+    <tag k='brand:wikidata' v='Q524757' />
+    <tag k='breakfast' v='yes' />
+    <tag k='contact:facebook' v='https://www.facebook.com/kfcrussia' />
+    <tag k='contact:vk' v='https://vk.com/kfcrussia' />
+    <tag k='cuisine' v='chicken;burger' />
+    <tag k='diet:vegetarian' v='no' />
+    <tag k='drive_through' v='no' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='level' v='0' />
+    <tag k='name' v='KFC' />
+    <tag k='opening_hours' v='07:00-06:00' />
+    <tag k='operator' v='ООО «АмРест»' />
+    <tag k='phone' v='+7 812 3835025' />
+    <tag k='website' v='https://www.kfc.ru/' />
+  </node>
+  <node id='2283375371' timestamp='2013-04-27T18:07:21Z' uid='290271' user='Zverik' version='1' changeset='15886925' lat='59.9445131' lon='30.3549731'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2283512314' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94409009004' lon='30.35639768849'>
+    <tag k='disused:shop' v='optician' />
+    <tag k='name' v='Viplinza' />
+    <tag k='note' v='&quot;теперь находится по другому адресу&quot;' />
+    <tag k='website' v='https://viplinza.ru/' />
+  </node>
+  <node id='2283512315' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94412444535' lon='30.35390481926'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='Агропромкредит' />
+  </node>
+  <node id='2283512318' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.9441251872' lon='30.35375925528'>
+    <tag k='contact:vk' v='https://vk.com/thecookieshop' />
+    <tag k='name' v='The Cookie Shop' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-23:00; Sa-Su 10:00-23:00' />
+    <tag k='shop' v='pastry' />
+  </node>
+  <node id='2283512319' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='4' changeset='59792667' lat='59.94407414229' lon='30.3587577663'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Кирочная улица' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/dunord1834' />
+    <tag k='name' v='Du Nord 1834' />
+    <tag k='opening_hours' v='Mo-Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Кафе Дю Норд 1834»' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='http://www.dunord.spb.ru/' />
+  </node>
+  <node id='2283512324' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94408187305' lon='30.35741193559'>
+    <tag k='brand' v='Великолукский мясокомбинат' />
+    <tag k='brand:wikidata' v='Q18401767' />
+    <tag k='name' v='Великолукский мясокомбинат' />
+    <tag k='opening_hours' v='Mo 10:00-22:00; Tu-Sa 09:00-22:00; Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Меркурий»' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='2283512326' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94408136064' lon='30.35761851569'>
+    <tag k='brand' v='Полушка' />
+    <tag k='brand:wikidata' v='Q4371080' />
+    <tag k='name' v='Полушка' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.polushka.info/vkladki-karty/sankt-peterburg/kirochnaya-ul-d-24-230' />
+  </node>
+  <node id='2283512327' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94410060095' lon='30.3557465714'>
+    <tag k='description' v='Подарки, хоз. товары' />
+    <tag k='name' v='Все для дома' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-22:00; Sa-Su 08:30-21:00' />
+    <tag k='shop' v='doityourself' />
+  </node>
+  <node id='2283512329' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='4' changeset='59792667' lat='59.94413408155' lon='30.35292893286'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Кинза' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Бастион»' />
+  </node>
+  <node id='2283512330' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94410434376' lon='30.35545810091'>
+    <tag k='brand' v='Комус' />
+    <tag k='brand:wikidata' v='Q4230314' />
+    <tag k='contact:vk' v='https://vk.com/komus_club' />
+    <tag k='name' v='Комус' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00' />
+    <tag k='operator' v='ООО «Комус-Петербург»' />
+    <tag k='shop' v='stationery' />
+    <tag k='website' v='https://www.komus.ru/store/sankt-peterburg/tts-nekrasovskij/s/54/' />
+  </node>
+  <node id='2283512331' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94408230466' lon='30.35725363256'>
+    <tag k='contact:vk' v='https://vk.com/paradiz_salon' />
+    <tag k='name' v='Парадиз' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://paradiz2000.ru/' />
+  </node>
+  <node id='2283512332' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='4' changeset='59792667' lat='59.944137562' lon='30.35457037116'>
+    <tag k='contact:vk' v='https://vk.com/morecha' />
+    <tag k='name' v='Море чая' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='phone' v='+7 812 988-45-06' />
+    <tag k='shop' v='tea' />
+    <tag k='website' v='http://morecha.ru' />
+  </node>
+  <node id='2283512334' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94408087199' lon='30.35886692335'>
+    <tag k='brand' v='МТС' />
+    <tag k='brand:wikidata' v='Q1368919' />
+    <tag k='contact:vk' v='https://vk.com/mts' />
+    <tag k='name' v='МТС' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.mts.ru/' />
+  </node>
+  <node id='2283512336' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94409357163' lon='30.35618967108'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Монтана' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-02:00' />
+    <tag k='phone' v='+7 812 2727035' />
+    <tag k='website' v='http://triton-restoran.ru/restaurants/montana/about' />
+  </node>
+  <node id='2283512337' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='5' changeset='59792667' lat='59.9440801184' lon='30.35808988142'>
+    <tag k='name' v='Скарлетт' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='http://scarlett-group.ru/' />
+  </node>
+  <node id='2283512340' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94407994786' lon='30.35815271034'>
+    <tag k='amenity' v='bank' />
+    <tag k='branch' v='Отделение &quot;Кирочная улица&quot;' />
+    <tag k='brand' v='Raiffeisen' />
+    <tag k='brand:wikidata' v='Q2127528' />
+    <tag k='contact:vk' v='https://vk.com/raiffeisenbankrus' />
+    <tag k='name' v='Райффайзенбанк' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 11:00-17:00' />
+    <tag k='operator' v='АО «Райффайзенбанк»' />
+    <tag k='operator:wikidata' v='Q4389244' />
+    <tag k='website' v='https://www.raiffeisen.ru/offices/poi/?id=3441' />
+  </node>
+  <node id='2283512341' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94410226157' lon='30.35560758233'>
+    <tag k='contact:vk' v='https://vk.com/real_svezhie_produkty' />
+    <tag k='name' v='РеалЪ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Торговый дом «Реалъ»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.tdreal.spb.ru/?page=20' />
+  </node>
+  <node id='2283512344' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94413011715' lon='30.35323780392'>
+    <tag k='contact:vk' v='https://vk.com/studiaprichesok' />
+    <tag k='name' v='Студия причёсок Юлии Шкредовой' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='phone' v='+7 921 9118560' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='2283512346' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94410637134' lon='30.3553275446'>
+    <tag k='contact:vk' v='https://vk.com/centrsvyazi' />
+    <tag k='name' v='Центр связи' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://centrsvyazi.ru/' />
+  </node>
+  <node id='2283512348' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='4' changeset='59792667' lat='59.94413802653' lon='30.35452628221'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/woksushi' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='name' v='Суши Wok' />
+    <tag k='note' v='нет на сайте' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='website' v='https://sushiwok.ru/spb/' />
+  </node>
+  <node id='2283512352' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94407629759' lon='30.35855162897'>
+    <tag k='name' v='Санкт-Петербургский городской ломбард' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 10:00-18:00' />
+    <tag k='operator' v='ООО «Санкт-Петербургский городской ломбард»' />
+    <tag k='shop' v='pawnbroker' />
+    <tag k='website' v='http://www.lombard.sp.ru/' />
+  </node>
+  <node id='2283512359' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='6' changeset='59792667' lat='59.94413841863' lon='30.35448338773'>
+    <tag k='contact:vk' v='https://vk.com/dcvetov' />
+    <tag k='name' v='Дом цветов' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='phone' v='+7 812 988-51-02' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='http://www.dcvetov.ru' />
+  </node>
+  <node id='2283527756' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94415890183' lon='30.35033584394'>
+    <tag k='contact:vk' v='https://vk.com/zoomagazinvaka' />
+    <tag k='name' v='Вака' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Биосфера»' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='http://www.vaka.ru/all-zoomagazin-vaka/351-vaka10' />
+  </node>
+  <node id='2283527757' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94415263974' lon='30.3514964564'>
+    <tag k='amenity' v='bank' />
+    <tag k='name' v='НеваСтройИнвест' />
+    <tag k='opening_hours' v='Mo-Th 10:00-19:00; Fr 10:00-17:45' />
+    <tag k='website' v='http://www.nsvbank.ru/' />
+  </node>
+  <node id='2283527758' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94415184515' lon='30.35179344882'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/edaikofe' />
+    <tag k='name' v='Е.Д.А и кофе' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-23:00; Su 12:00-23:00' />
+    <tag k='operator' v='ООО &quot;Мультипасс&quot;' />
+    <tag k='website' v='http://edaikofe.ru/' />
+  </node>
+  <node id='2283527765' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94415781853' lon='30.35063914633'>
+    <tag k='name' v='Дизайнерская одежда' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='2283527769' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='4' changeset='59792667' lat='59.94416369007' lon='30.34950711018'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/portwein.rest/' />
+    <tag k='name' v='PortWein' />
+    <tag k='opening_hours' v='12:00-23:00' />
+  </node>
+  <node id='2595232583' timestamp='2013-12-26T13:11:30Z' uid='1567539' user='Artemi541' version='1' changeset='19643768' lat='59.9440943' lon='30.3550036' />
+  <node id='5184647198' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='5' changeset='59792667' lat='59.94416985199' lon='30.34909175039'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='cuisine' v='kebab' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Бистро' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='5184647199' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94413851505' lon='30.35258408549'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:facebook' v='https://www.facebook.com/lososbar/' />
+    <tag k='name' v='Лосось-бар' />
+    <tag k='opening_hours' v='Mo-Su 12:00-00:00' />
+  </node>
+  <node id='5184647200' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94413653637' lon='30.35273799157'>
+    <tag k='contact:vk' v='https://vk.com/club57' />
+    <tag k='name' v='Petshop.ru' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://www.petshop.ru/' />
+  </node>
+  <node id='5184650853' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='3' changeset='59792667' lat='59.94414347529' lon='30.3523201084'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/tucanocoffee_spb' />
+    <tag k='cuisine' v='coffee' />
+    <tag k='diet:vegan' v='yes' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='internet_access:type' v='wlan' />
+    <tag k='name' v='Tucano Coffee Ecuador' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa, Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Вкус Кофе»' />
+    <tag k='website' v='http://tucanocoffee.com/ru/locations/russia/?city=62' />
+  </node>
+  <node id='5195074028' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='2' changeset='59792667' lat='59.94416050601' lon='30.34994271456'>
+    <tag k='name' v='Управление по вопросам миграции ГУ МВД РФ по Санкт-Петербургу и Ленинградской области' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://78.мвд.рф/gumvd/structure/item/7814784/' />
+  </node>
+  <node id='5686222436' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94409919099' lon='30.35701095924'>
+    <tag k='alt_name' v='Ньюмед' />
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/academia_tkm' />
+    <tag k='medical_system:chinese' v='yes' />
+    <tag k='name' v='Ли Вест' />
+    <tag k='website' v='http://www.newmed-portal.ru/' />
+  </node>
+  <node id='5686222437' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94408329969' lon='30.35701203422'>
+    <tag k='contact:vk' v='https://vk.com/club31517280' />
+    <tag k='name' v='Сандал' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5686222438' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94408486609' lon='30.3568284269'>
+    <tag k='addr:floor' v='4' />
+    <tag k='contact:vk' v='https://vk.com/public154202002' />
+    <tag k='name' v='Амадей' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5686222439' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94409345773' lon='30.35504755476'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5686222440' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94411469991' lon='30.35488329481'>
+    <tag k='name' v='Жилкомсервис №1 Центрального района, эксплуатационный участок №3' />
+    <tag k='office' v='property_maintenance' />
+  </node>
+  <node id='5686222441' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94412238064' lon='30.35457506194'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/speshibodro' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Спеши бодро' />
+  </node>
+  <node id='5686222442' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94412173343' lon='30.35447767653'>
+    <tag k='craft' v='key_cutter;shoemaker' />
+  </node>
+  <node id='5686222443' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667' lat='59.94415454718' lon='30.35119989165'>
+    <tag k='contact:vk' v='https://vk.com/lensgo' />
+    <tag k='name' v='LensGo.ru' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='http://lensgo.ru/contacts/saint-petersburg/kirochnaya' />
+  </node>
+  <way id='597093345' timestamp='2018-06-12T22:23:09Z' uid='437809' user='Anton Khorev' version='1' changeset='59792667'>
+    <nd ref='1037244539' />
+    <nd ref='2595232583' />
+    <nd ref='5686222439' />
+    <nd ref='1037244573' />
+    <nd ref='1037244644' />
+    <nd ref='1129487142' />
+    <nd ref='1037244619' />
+    <nd ref='1037244483' />
+    <nd ref='2283375371' />
+    <nd ref='1037244592' />
+    <nd ref='1037244611' />
+    <nd ref='1037244539' />
+    <tag k='amenity' v='college' />
+    <tag k='name' v='Центр последипломного образования специалистов медицинского профиля' />
+    <tag k='website' v='http://www.cpksmo.ru/' />
+  </way>
+</osm>

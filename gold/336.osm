@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1461794684' timestamp='2019-11-06T03:48:25Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76675708' lat='59.9252595' lon='30.3287709'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:phone' v='+7 812 7131945' />
+    <tag k='contact:vk' v='https://vk.com/artmanhattan' />
+    <tag k='contact:website' v='http://www.manhattanclub.ru/' />
+    <tag k='name' v='Манхэттен' />
+    <tag k='note' v='вход под аркой' />
+    <tag k='operator' v='ООО «Водолей»' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4560626506' timestamp='2018-01-16T03:39:21Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='55480660' lat='59.9259119' lon='30.3304136'>
+    <tag k='name' v='Софт-Троник' />
+    <tag k='office' v='it' />
+    <tag k='website' v='http://www.soft-tronik.ru/' />
+  </node>
+  <node id='4560626507' timestamp='2019-11-06T03:48:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76675708' lat='59.9258126' lon='30.3301101'>
+    <tag k='name' v='Русские традиции' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='antiques' />
+    <tag k='website' v='https://www.antiqspb.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4560626508' timestamp='2019-11-06T03:48:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76675708' lat='59.9257537' lon='30.3299546'>
+    <tag k='contact:vk' v='https://vk.com/oknalifespb' />
+    <tag k='craft' v='window_construction' />
+    <tag k='name' v='Окна от природы' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='website' v='https://www.oknalife.ru/' />
+  </node>
+</osm>

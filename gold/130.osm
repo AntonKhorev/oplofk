@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1812380549' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='63343443' lat='59.91955378706' lon='30.35289232515'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Хачапурная' />
+    <tag k='name:ru' v='Хачапурная' />
+  </node>
+  <node id='2932796739' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='63343443' lat='59.91867570358' lon='30.3523310616'>
+    <tag k='contact:vk' v='https://vk.com/chaynaya.lavochka' />
+    <tag k='name' v='Чайная лавочка' />
+    <tag k='note' v='также ecoaltay.spb.ru' />
+    <tag k='shop' v='tea' />
+    <tag k='website' v='https://teashop.spb.ru/' />
+  </node>
+  <node id='3396434597' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='63343443' lat='59.91842727543' lon='30.35217207096'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/kvartira162' />
+    <tag k='name' v='Квартира №162' />
+    <tag k='opening_hours' v='Mo-Su 09:00-06:00' />
+    <tag k='phone' v='+7 812 4933162' />
+    <tag k='website' v='http://restoranchik-kv.ru/' />
+  </node>
+  <node id='4138574740' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='63343443' lat='59.91962646366' lon='30.35293888628'>
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='Mo-Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='phone' v='+7 800 5555505' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='4153239086' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63343443' lat='59.9184959' lon='30.3522003'>
+    <tag k='contact:vk' v='https://vk.com/topstretching' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='TopStretching' />
+    <tag k='sport' v='gymnastics;stretching' />
+    <tag k='website' v='http://www.topstretching.com/ligovskiy' />
+  </node>
+  <node id='4270118399' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63343443' lat='59.91863952875' lon='30.35230793937'>
+    <tag k='alt_name' v='Гардарика' />
+    <tag k='name' v='Gардарика' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://gardarika-hotel.ru/' />
+  </node>
+  <node id='4270121993' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63343443' lat='59.91887244107' lon='30.3524568284'>
+    <tag k='contact:vk' v='https://vk.com/salon_spb_ligovskiy119' />
+    <tag k='name' v='Парикмахерская СПб' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='4270121994' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63343443' lat='59.91896562215' lon='30.35251649054'>
+    <tag k='contact:vk' v='https://vk.com/extazshop' />
+    <tag k='name' v='Extaz' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='erotic' />
+    <tag k='website' v='https://www.extazshop.ru/spb/ligovsky/' />
+  </node>
+  <node id='4270122702' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63343443' lat='59.91873180764' lon='30.35236670022'>
+    <tag k='craft' v='key_cutter;tailor;watchmaker' />
+  </node>
+  <node id='4270165790' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63343443' lat='59.91901200938' lon='30.35254615557'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='note' v='нет на сайте' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Объект Плюс»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/' />
+  </node>
+  <node id='4270165792' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63343443' lat='59.91915112914' lon='30.35256479083'>
+    <tag k='contact:vk' v='https://vk.com/amagi_love' />
+    <tag k='dance:teaching' v='yes' />
+    <tag k='leisure' v='dance' />
+    <tag k='name' v='Amagi Love' />
+    <tag k='website' v='http://amagilove.ru/' />
+  </node>
+  <node id='5969020225' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91869315889' lon='30.35234189174'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='opening_hours' v='18:00-06:00' />
+  </node>
+  <node id='5969020226' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91880367843' lon='30.35241289359'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/bagginscoffee' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Baggins Coffee' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-21:00; Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Бэггинс Кофе»' />
+    <tag k='website' v='http://bagginscoffee.ru/' />
+  </node>
+  <node id='5969020227' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91883813265' lon='30.35243493831'>
+    <tag k='brand' v='Росгосстрах' />
+    <tag k='brand:wikidata' v='Q4397745' />
+    <tag k='contact:vk' v='https://vk.com/rosgosstrakh_official' />
+    <tag k='name' v='Росгосстрах' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00' />
+    <tag k='website' v='https://www.rgs.ru/contacts/office.wbp?id=3837' />
+  </node>
+  <node id='5969020228' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91902876184' lon='30.35255686892'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/lockoutbar' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Lockout' />
+  </node>
+  <node id='5969020229' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91909596831' lon='30.35259970068'>
+    <tag k='contact:vk' v='https://vk.com/paradise.womans.club' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Paradise' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://paradise-womans.club/' />
+  </node>
+  <node id='5969020230' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91912079844' lon='30.3526155764'>
+    <tag k='contact:vk' v='https://vk.com/prachkacom' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Prachka.com' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='laundry' />
+    <tag k='website' v='http://www.prachka.com/prachechnaya_ligovskii_115.html' />
+  </node>
+  <node id='5969020231' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91915742884' lon='30.35252628793'>
+    <tag k='addr:floor' v='5' />
+    <tag k='name' v='Tehnopick' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://tehnopick.ru/' />
+  </node>
+  <node id='5969020232' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91914526552' lon='30.35260129815'>
+    <tag k='addr:floor' v='2' />
+    <tag k='contact:vk' v='https://vk.com/spbgeekwars' />
+    <tag k='name' v='Geek Wars' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Северный стиль»' />
+    <tag k='shop' v='games' />
+    <tag k='website' v='https://geekwars.ru/' />
+  </node>
+  <node id='5969020233' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91914092979' lon='30.35262847309'>
+    <tag k='contact:vk' v='https://vk.com/ligovka115_a' />
+    <tag k='name' v='Ткани' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='fabric' />
+  </node>
+  <node id='5969020234' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91917959506' lon='30.35265330388'>
+    <tag k='name' v='Наша сеть' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='tobacco' />
+    <tag k='website' v='https://nasha-set.ru/howto/shops/36042/' />
+  </node>
+  <node id='5969020235' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91921622783' lon='30.35267669979'>
+    <tag k='contact:vk' v='https://vk.com/ligastavok_official' />
+    <tag k='name' v='Лига Ставок' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='bookmaker' />
+    <tag k='website' v='https://www.ligastavok.ru/' />
+  </node>
+  <node id='5969020236' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91924659247' lon='30.35269609252'>
+    <tag k='name' v='Тандыр' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='5969020237' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91932645223' lon='30.35274695434'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/actionclub_spb' />
+    <tag k='name' v='Action Club' />
+  </node>
+  <node id='5969020238' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91935112627' lon='30.35273149475'>
+    <tag k='clothes' v='maternity' />
+    <tag k='contact:vk' v='https://vk.com/chudo9_ru' />
+    <tag k='name' v='Чудо Девяти' />
+    <tag k='opening_hours' v='13:00-20:30' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://chudo9.ru/' />
+  </node>
+  <node id='5969020239' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91934619547' lon='30.35275972324'>
+    <tag k='contact:vk' v='https://vk.com/optimumpk' />
+    <tag k='name' v='Оптимум' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='http://optimebel.com/' />
+  </node>
+  <node id='5969020240' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91938971567' lon='30.3527874559'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='Золотая рыбка' />
+  </node>
+  <node id='5969020241' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91943044384' lon='30.35279586844'>
+    <tag k='club' v='sport' />
+    <tag k='contact:vk' v='https://vk.com/white_seal' />
+    <tag k='name' v='Белый тюлень' />
+    <tag k='sport' v='scuba_diving' />
+    <tag k='website' v='https://whiteseal.spb.ru/' />
+  </node>
+  <node id='5969020242' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.9194279646' lon='30.35281182563'>
+    <tag k='contact:vk' v='https://vk.com/opensearu' />
+    <tag k='name' v='Открытое море' />
+    <tag k='shop' v='scuba_diving' />
+    <tag k='website' v='https://opensea.ru/otkrytoe_more_ligivskij_prospekt.htm' />
+  </node>
+  <node id='5969020243' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91943380476' lon='30.35277374022'>
+    <tag k='contact:vk' v='https://vk.com/club1569989' />
+    <tag k='name' v='Блю Дримз' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.bazy-otdyha.ru/' />
+  </node>
+  <node id='5969020251' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.9195033751' lon='30.35286024515'>
+    <tag k='name' v='ГазБыт' />
+    <tag k='shop' v='gas' />
+    <tag k='website' v='http://www.gazbit-91.ru/' />
+  </node>
+  <node id='5969020252' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91944792064' lon='30.35280391507'>
+    <tag k='level' v='0' />
+    <tag k='name' v='Легион золота' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://www.zoloto-pokupka.ru/' />
+  </node>
+  <node id='5969020253' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91944453018' lon='30.35282254399'>
+    <tag k='level' v='0' />
+    <tag k='name' v='Магия эпохи' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='antiques' />
+    <tag k='website' v='https://magiaepohi.ru/' />
+  </node>
+  <node id='5969020254' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.919494171' lon='30.35285410967'>
+    <tag k='contact:vk' v='https://vk.com/ankershop' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Анкер' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 11:00-19:00' />
+    <tag k='shop' v='watches' />
+    <tag k='website' v='http://www.ankershop.ru/stores/magazin-v-tsentre-goroda/' />
+  </node>
+  <node id='5969020255' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91951649291' lon='30.35283945997'>
+    <tag k='craft' v='engraver;key_cutter;shoemaker;tailor;watchmaker' />
+    <tag k='name' v='Дом быта' />
+  </node>
+  <node id='5969020256' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91950572879' lon='30.35283207759'>
+    <tag k='contact:vk' v='https://vk.com/mservicespb' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Мастер сервис' />
+  </node>
+  <node id='5969020257' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91952723864' lon='30.35284682974'>
+    <tag k='craft' v='jeweller' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Пром маркет холл' />
+  </node>
+  <node id='5969020258' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.91951257862' lon='30.35286588115'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Назад в СССР' />
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='5969020259' timestamp='2018-10-09T12:02:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63343443' lat='59.92002785465' lon='30.35319555935'>
+    <tag k='contact:vk' v='https://vk.com/club86902983' />
+    <tag k='name' v='Фабрика' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+</osm>

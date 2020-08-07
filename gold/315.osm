@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2060775784' timestamp='2019-09-28T02:09:35Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='75030430' lat='59.9239104' lon='30.3482538'>
+    <tag k='contact:vk' v='https://vk.com/razor_russia' />
+    <tag k='contact:vk2' v='https://vk.com/ugearsrussia' />
+    <tag k='name' v='Razor, Ugears' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='toys' />
+    <tag k='website' v='http://www.razor-russia.ru/spb' />
+    <tag k='website2' v='http://ugears-russia.ru/spb-contacts/' />
+  </node>
+  <node id='3571889296' timestamp='2019-09-28T02:09:35Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75030430' lat='59.9237724' lon='30.3486161'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/wotnosh' />
+    <tag k='name' v='Высокие отношения' />
+    <tag k='website' v='https://wotnosh.ru/' />
+  </node>
+  <node id='3634521419' timestamp='2019-09-28T02:09:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75030430' lat='59.9237237' lon='30.3487306'>
+    <tag k='contact:vk' v='https://vk.com/merchoff' />
+    <tag k='name' v='Merchoff' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://merchoff.ru/' />
+  </node>
+  <node id='3634521420' timestamp='2019-09-28T02:09:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75030430' lat='59.923584' lon='30.3490811'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/biscuitbanquet' />
+    <tag k='name' v='Biscuit Banquet' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='operator' v='ООО «Бисквит Банкет»' />
+    <tag k='website' v='http://biscuit-banquet.ru/' />
+  </node>
+  <node id='4978337005' timestamp='2019-09-28T02:09:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75030430' lat='59.92361361022' lon='30.34900795607'>
+    <tag k='name' v='Комитет по вопросам законности, правопорядка и безопасности' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.gov.spb.ru/gov/otrasl/c_zakonnost/' />
+  </node>
+</osm>

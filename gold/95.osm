@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3841309269' timestamp='2018-09-06T02:04:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62327827' lat='59.9353364' lon='30.3615066'>
+    <tag k='contact:vk' v='https://vk.com/spbbonjour' />
+    <tag k='int_name' v='Bonjour' />
+    <tag k='name' v='Бонжур' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://spbbonjour.com/' />
+  </node>
+  <node id='4195846567' timestamp='2018-09-06T02:04:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62327827' lat='59.9354445' lon='30.3615112'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/moyzubnoyspb' />
+    <tag k='name' v='Мой зубной' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Ника»' />
+    <tag k='website' v='http://moyzubnoy.ru/stomatologiya_centralniy_rayon' />
+  </node>
+  <node id='5886061967' timestamp='2018-09-06T02:04:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62327827' lat='59.9354092' lon='30.3618868'>
+    <tag k='amenity' v='post_office' />
+    <tag k='brand' v='СДЭК' />
+    <tag k='brand:wikidata' v='Q28665980' />
+    <tag k='contact:vk' v='https://vk.com/cdek_express' />
+    <tag k='name' v='СДЭК' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 10:00-16:00; Su 10:00-14:00' />
+    <tag k='operator' v='ООО «ГлавСДЭК»' />
+    <tag k='website' v='https://www.cdek.ru/contacts/sankt-peterburgul_zhukovskogo_57_wgnt.html' />
+  </node>
+</osm>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2061515913' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66989863' lat='59.92561244262' lon='30.34073158198'>
+    <tag k='brand' v='Лосево' />
+    <tag k='contact:vk' v='https://vk.com/shplosevo' />
+    <tag k='internet_access' v='no' />
+    <tag k='name' v='Лосево' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «СХП Лосево»' />
+    <tag k='shop' v='dairy' />
+    <tag k='website' v='https://www.shp-losevo.ru/' />
+  </node>
+  <node id='2061518215' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66989863' lat='59.92565745574' lon='30.34084899185'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/sushibox1' />
+    <tag k='cuisine' v='japanese' />
+    <tag k='drive_through' v='no' />
+    <tag k='internet_access' v='no' />
+    <tag k='name' v='Sushi &amp; Box' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='smoking' v='no' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='http://sushiandbox.ru/' />
+  </node>
+  <node id='3126973929' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='66989863' lat='59.92600724134' lon='30.34171923165'>
+    <tag k='disused:shop' v='supermarket' />
+    <tag k='name' v='Полушка' />
+    <tag k='phone' v='+7 800 3330019' />
+    <tag k='website' v='http://www.polushka.info/vkladki-karty/sankt-peterburg/sankt-peterburg-zagorodnyj-pr-d-13' />
+  </node>
+  <node id='3525642293' timestamp='2018-12-15T02:20:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65489617' lat='59.9261819' lon='30.3421505'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/robataspb' />
+    <tag k='cuisine' v='japanese' />
+    <tag k='name' v='Robata' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-03:00' />
+    <tag k='phone' v='+7 812 9150013' />
+    <tag k='website' v='http://robatabar.ru/' />
+  </node>
+  <node id='3633026185' timestamp='2017-07-08T23:13:02Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='50141404' lat='59.9260934' lon='30.3418451'>
+    <tag k='name' v='Пятый Угол' />
+    <tag k='name:en' v='Fifth Corner' />
+    <tag k='name:ru' v='Пятый Угол' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.5ugol.ru/' />
+  </node>
+  <node id='4852088804' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66989863' lat='59.92552204633' lon='30.34043942414'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/mashita_info' />
+    <tag k='cuisine' v='ramen' />
+    <tag k='name' v='Mashita' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='operator' v='ООО «Профит»' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='http://mashita-ramen.ru/' />
+  </node>
+  <node id='4959118418' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66989863' lat='59.92607230061' lon='30.34188087802'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='xren' />
+    <tag k='website' v='http://www.xren.info/' />
+  </node>
+  <node id='4959118419' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66989863' lat='59.92569939939' lon='30.34095565154'>
+    <tag k='contact:vk' v='https://vk.com/gradusi_market' />
+    <tag k='name' v='Градусы всего мира' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.gradusi.net/shops/spb/1219/' />
+  </node>
+  <node id='4959118420' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66989863' lat='59.92530067028' lon='30.33990832734'>
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='4959118821' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66989863' lat='59.92526364055' lon='30.33981225468'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/7lir_spb' />
+    <tag k='cuisine' v='pizza' />
+    <tag k='name' v='7 LiR' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='website' v='https://www.7lir-spb.ru/' />
+  </node>
+  <node id='4959118822' timestamp='2019-02-07T10:29:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66989863' lat='59.92518732563' lon='30.3396133182'>
+    <tag k='contact:vk' v='https://vk.com/ostrov_spa' />
+    <tag k='name' v='Остров Spa' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://ostrovspa.wixsite.com/ostrovspa-1' />
+  </node>
+</osm>

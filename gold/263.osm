@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1594687440' timestamp='2019-06-30T21:59:55Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='71766447' lat='59.91684039565' lon='30.29083899461'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='МедЭкспресс+' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://www.medexpress-med.ru/' />
+  </node>
+  <node id='4503636886' timestamp='2019-06-30T21:59:55Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71766447' lat='59.91704721563' lon='30.29065328842'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4503636887' timestamp='2019-06-30T21:59:55Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71766447' lat='59.91742709384' lon='30.29031272859'>
+    <tag k='contact:vk' v='https://vk.com/gks1adm' />
+    <tag k='name' v='Жилкомсервис №1 Адмиралтейского района' />
+    <tag k='office' v='property_maintenance' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00; 13:00-14:00 off' />
+    <tag k='website' v='http://www.jks-1.spb.ru/' />
+  </node>
+</osm>

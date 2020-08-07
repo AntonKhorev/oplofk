@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1424085175' timestamp='2019-08-13T02:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='73288183' lat='59.92112869864' lon='30.28700822525'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/apteki_raduga_pp' />
+    <tag k='name' v='Первая помощь' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Эркафарм Санкт-Петербург»' />
+    <tag k='website' v='https://superapteka.ru/' />
+  </node>
+  <node id='1424085176' timestamp='2019-08-13T02:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='73288183' lat='59.92118346426' lon='30.28725822295'>
+    <tag k='amenity' v='bank' />
+    <tag k='bic' v='SABRRUMM' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sberbank' />
+    <tag k='contact:instagram' v='https://instagram.com/sberbank' />
+    <tag k='contact:ok' v='https://ok.ru/sberbank' />
+    <tag k='contact:phone' v='+7-812-7140191' />
+    <tag k='contact:twitter' v='https://twitter.com/sberbank/' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/sberbank' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='name:en' v='Sberbank' />
+    <tag k='name:ru' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='operator:wikipedia' v='ru:Сбербанк России' />
+    <tag k='ref' v='9055/0369' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4460045937' timestamp='2019-08-13T02:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='73288183' lat='59.92149686449' lon='30.28864045635'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Universtom' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='website' v='https://universtom.ru/' />
+  </node>
+</osm>

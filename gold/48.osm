@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1933986019' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='3' changeset='61002059' lat='59.92078982516' lon='30.34244972115'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Хинкали Чача' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+  </node>
+  <node id='2085640760' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='4' changeset='61002059' lat='59.9213627' lon='30.3444504'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/cafeliman' />
+    <tag k='name' v='Liman' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-24:00; Sa-Su 11:00-24:00' />
+    <tag k='website' v='http://liman.spb.ru/' />
+  </node>
+  <node id='4590826397' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='4' changeset='61002059' lat='59.92073594455' lon='30.34226142407'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='5780478076' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92132336016' lon='30.34431364009'>
+    <tag k='contact:vk' v='https://vk.com/pulkovo_etc' />
+    <tag k='name' v='Pulkovo-ETC' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Аэропорт сервис»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://pulkovo-etc.ru/' />
+  </node>
+  <node id='5780478077' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92123564728' lon='30.34400595855'>
+    <tag k='disused:amenity' v='dentist' />
+    <tag k='name' v='Оскар' />
+  </node>
+  <node id='5780478078' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.9211469561' lon='30.34369460088'>
+    <tag k='contact:vk' v='https://vk.com/club38073861' />
+    <tag k='name' v='Цвет Сити' />
+    <tag k='note' v='адрес упоминается на https://vk.com/club38073861?w=wall-38073861_238' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='5780478079' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92106045228' lon='30.34336924419'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Всероссийский банк развития регионов' />
+    <tag k='brand:wikidata' v='Q4127481' />
+    <tag k='name' v='Всероссийский банк развития регионов' />
+    <tag k='website' v='https://www.vbrr.ru/' />
+  </node>
+  <node id='5780478080' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92096702305' lon='30.34302055702'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Уральский банк реконструкции и развития' />
+    <tag k='brand:wikidata' v='Q4476745' />
+    <tag k='contact:vk' v='https://vk.com/bank_ubrr' />
+    <tag k='name' v='Уральский банк реконструкции и развития' />
+    <tag k='website' v='https://spb.ubrr.ru/' />
+  </node>
+  <node id='5780478081' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92083546054' lon='30.34260920376'>
+    <tag k='amenity' v='bank' />
+    <tag k='name' v='Московский Нефтехимический банк' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+    <tag k='website' v='http://www.mnhb.ru/about/bank_today/sankt-peterburgskiy-filial-banka/' />
+  </node>
+  <node id='5780478082' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.9208332642' lon='30.34252434835'>
+    <tag k='name' v='Бюро Проект' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://buro-project.ru/' />
+  </node>
+  <node id='5780478083' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92082519832' lon='30.34249618515'>
+    <tag k='contact:vk' v='https://vk.com/indeks_expert' />
+    <tag k='name' v='Индекс-Петербург' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://expertizaindex.ru/' />
+  </node>
+  <node id='5780478084' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92081268495' lon='30.34252960956'>
+    <tag k='contact:vk' v='https://vk.com/alexhotelspb' />
+    <tag k='name' v='Алекс Отель' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://alexhotels.ru/hotels/marata3/' />
+  </node>
+  <node id='5780478085' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92071434501' lon='30.34218594006'>
+    <tag k='opening_hours' v='Tu-Sa 11:00-19:00' />
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='5780478086' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.92060963863' lon='30.34182002279'>
+    <tag k='contact:vk' v='https://vk.com/allbpspb' />
+    <tag k='name' v='Центр продажи бизнеса' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.allpbspb.ru/' />
+  </node>
+  <node id='5780478087' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.9205065483' lon='30.34145975432'>
+    <tag k='contact:vk' v='https://vk.com/drade_academy' />
+    <tag k='name' v='Grade' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://www.grade.spb.ru/' />
+  </node>
+  <node id='5780478088' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.9204733134' lon='30.34134360896'>
+    <tag k='contact:vk' v='https://vk.com/tuinakitaisskiimassazh' />
+    <tag k='massage' v='chinese' />
+    <tag k='name' v='Tui Na' />
+    <tag k='shop' v='massage' />
+    <tag k='website' v='http://chinese-massage.ru/' />
+  </node>
+  <node id='5780478091' timestamp='2018-07-24T00:08:32Z' uid='437809' user='Anton Khorev' version='1' changeset='61002059' lat='59.91998599992' lon='30.33987231486'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='building' v='kiosk' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Бери и беги' />
+    <tag k='opening_hours' v='Mo-Fr 17:30-20:00; Sa-Su,PH 09:00-21:00' />
+  </node>
+</osm>

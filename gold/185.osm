@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3888411957' timestamp='2019-01-02T04:23:07Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='65948178' lat='59.94250915883' lon='30.36092231052'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='phone' v='+7 800 3330201' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='6177733714' timestamp='2019-01-02T04:23:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65948178' lat='59.94247437844' lon='30.36278028178'>
+    <tag k='amenity' v='doctors' />
+    <tag k='health_specialty:dermatology' v='main' />
+    <tag k='name' v='Французская клиника кожных болезней' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa 10:00-20:00' />
+    <tag k='operator' v='ООО «Клиника кожных болезней Пьера Волькенштейна»' />
+  </node>
+  <node id='6177733715' timestamp='2019-01-02T04:23:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65948178' lat='59.94248890208' lon='30.36190155073'>
+    <tag k='contact:vk' v='https://vk.com/tattooport' />
+    <tag k='name' v='Тату Порт' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='tattoo' />
+    <tag k='website' v='https://tattooport.ru/' />
+  </node>
+  <node id='6177733716' timestamp='2019-01-02T04:23:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65948178' lat='59.94249569979' lon='30.36149403897'>
+    <tag k='contact:vk' v='https://vk.com/companylady' />
+    <tag k='name' v='Леди' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://lady-rf.ru/salony/ryleeva-ul-20/' />
+  </node>
+</osm>

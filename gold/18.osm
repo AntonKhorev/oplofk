@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2283447470' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='2' changeset='59793964' lat='59.94324800325' lon='30.35908120698'>
+    <tag k='description' v='Виниловые пластинки и Hi-Fi, Hi-End аудиотехника' />
+    <tag k='name' v='VinylForAll' />
+    <tag k='opening_hours' v='13:00-20:00' />
+    <tag k='shop' v='music' />
+    <tag k='website' v='http://www.vinylforall.ru/' />
+  </node>
+  <node id='2283447472' timestamp='2018-06-12T23:46:08Z' uid='437809' user='Anton Khorev' version='3' changeset='59793590' lat='59.9431852411' lon='30.36045013582'>
+    <tag k='brand' v='Steinway &amp; Sons' />
+    <tag k='brand:wikidata' v='Q156391' />
+    <tag k='contact:vk' v='https://vk.com/steinwayspb' />
+    <tag k='description' v='Рояли, пианино' />
+    <tag k='name' v='Steinway Piano Gallery' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-18:00' />
+    <tag k='operator' v='ООО «Северная звезда»' />
+    <tag k='shop' v='musical_instrument' />
+    <tag k='website' v='http://www.steinwayspb.ru/' />
+  </node>
+  <node id='2283447480' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='2' changeset='59793964' lat='59.94319273528' lon='30.35998015016'>
+    <tag k='name' v='Нотариус Павлова Светлана Александровна' />
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='11:00-18:00' />
+    <tag k='phone' v='+7 812 5795550' />
+  </node>
+  <node id='2591830427' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='3' changeset='59793964' lat='59.94328252892' lon='30.35573315163'>
+    <tag k='name' v='Моби Дик' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://mobydicktravel.ru/' />
+  </node>
+  <node id='5686353136' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94325914006' lon='30.3568974715'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:vk' v='https://vk.com/bankvl' />
+    <tag k='name' v='Вологжанин' />
+    <tag k='opening_hours' v='Mo-Th 09:00-17:00; Fr 09:00-16:00; 13:00-13:45 off' />
+    <tag k='website' v='https://bankvl.ru/' />
+  </node>
+  <node id='5686353137' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94324831199' lon='30.35743154925'>
+    <tag k='name' v='Главрыбвод' />
+    <tag k='office' v='government' />
+    <tag k='official_name' v='ФГБУ «Главное бассейновое управление по рыболовству и сохранению водных биологических ресурсов»' />
+  </node>
+  <node id='5686353138' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94324047952' lon='30.35781393307'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Отряд специального назначения «Гром»' />
+  </node>
+  <node id='5686353139' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94323120726' lon='30.35827276374'>
+    <tag k='name' v='Бизнес-Юрист' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='http://b-urist.ru/' />
+  </node>
+  <node id='5686353140' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94320220914' lon='30.35955226915'>
+    <tag k='contact:vk' v='https://vk.com/avenue.salon' />
+    <tag k='name' v='Авеню' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5686353141' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94319878185' lon='30.35970706048'>
+    <tag k='name' v='Кузнечик' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='pet' />
+  </node>
+  <node id='5686353142' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94319107732' lon='30.36005503083'>
+    <tag k='contact:vk' v='https://vk.com/yyurmaks' />
+    <tag k='name' v='ЮрМакс' />
+    <tag k='note' v='вход со двора' />
+    <tag k='office' v='lawyer' />
+  </node>
+  <node id='5686353143' timestamp='2018-06-13T00:29:58Z' uid='437809' user='Anton Khorev' version='1' changeset='59793964' lat='59.94318740458' lon='30.36021342556'>
+    <tag k='contact:vk' v='https://vk.com/capricorntravel' />
+    <tag k='name' v='Capricorn Travel' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://capricorn.ru/contact/of2' />
+  </node>
+</osm>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='315370864' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9383573' lon='30.3417686' />
+  <node id='315370865' timestamp='2016-12-11T21:55:31Z' uid='345975' user='VlIvYur' visible='true' version='3' changeset='44333109' lat='59.9382926' lon='30.3413101' />
+  <node id='315370867' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9383057' lon='30.3412173' />
+  <node id='315370870' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.938358' lon='30.3408333' />
+  <node id='315370871' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9387616' lon='30.3402866' />
+  <node id='315370872' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='3' changeset='26327708' lat='59.9388092' lon='30.3404268' />
+  <node id='315370873' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9387606' lon='30.3404926' />
+  <node id='315370874' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9389592' lon='30.341077' />
+  <node id='315370875' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9390027' lon='30.3410181' />
+  <node id='315370876' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9390458' lon='30.341145' />
+  <node id='315370877' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9386341' lon='30.3417027' />
+  <node id='315370879' timestamp='2014-10-25T18:47:47Z' uid='834057' user='Gootroll' visible='true' version='2' changeset='26327708' lat='59.9384429' lon='30.341607' />
+  <node id='3149577571' timestamp='2016-12-11T21:55:31Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44333109' lat='59.9382302' lon='30.3413947'>
+    <tag k='amenity' v='clock' />
+    <tag k='display' v='analog' />
+    <tag k='support' v='wall_mounted' />
+  </node>
+  <node id='3149577572' timestamp='2016-12-11T21:55:32Z' uid='345975' user='VlIvYur' visible='true' version='2' changeset='44333109' lat='59.9382751' lon='30.3412587' />
+  <node id='3149577574' timestamp='2014-10-25T18:47:29Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9383052' lon='30.3411789' />
+  <node id='3149577575' timestamp='2014-10-25T18:47:29Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9383103' lon='30.3410933' />
+  <node id='3149577576' timestamp='2014-10-25T18:47:29Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9383228' lon='30.3410107' />
+  <node id='3149577579' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9383424' lon='30.3409338' />
+  <node id='3149577580' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9383686' lon='30.3408644' />
+  <node id='3149577581' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9383974' lon='30.341667' />
+  <node id='3149577583' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9384084' lon='30.3416994' />
+  <node id='3149577589' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9384902' lon='30.341671' />
+  <node id='3149577595' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9385339' lon='30.3416854' />
+  <node id='3149577600' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9385783' lon='30.3416839' />
+  <node id='3149577603' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.9386218' lon='30.3416665' />
+  <node id='3149577609' timestamp='2014-10-25T18:47:30Z' uid='834057' user='Gootroll' visible='true' version='1' changeset='26327708' lat='59.938877' lon='30.3408351' />
+  <node id='6184973232' timestamp='2019-01-04T22:49:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66036459' lat='59.93828701065' lon='30.34156182415'>
+    <tag k='entrance' v='main' />
+    <tag k='inscription' v='центральный вход с 1 по 8 ряд' />
+  </node>
+  <way id='28691685' timestamp='2019-01-04T22:49:05Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='66036459'>
+    <nd ref='3149577580' />
+    <nd ref='315370870' />
+    <nd ref='315370871' />
+    <nd ref='315370872' />
+    <nd ref='315370873' />
+    <nd ref='3149577609' />
+    <nd ref='315370874' />
+    <nd ref='315370875' />
+    <nd ref='315370876' />
+    <nd ref='315370877' />
+    <nd ref='3149577603' />
+    <nd ref='3149577600' />
+    <nd ref='3149577595' />
+    <nd ref='3149577589' />
+    <nd ref='315370879' />
+    <nd ref='3149577581' />
+    <nd ref='3149577583' />
+    <nd ref='315370864' />
+    <nd ref='6184973232' />
+    <nd ref='3149577571' />
+    <nd ref='315370865' />
+    <nd ref='3149577572' />
+    <nd ref='315370867' />
+    <nd ref='3149577574' />
+    <nd ref='3149577575' />
+    <nd ref='3149577576' />
+    <nd ref='3149577579' />
+    <nd ref='3149577580' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='набережная реки Фонтанки' />
+    <tag k='alt_name' v='Цирк Чинизелли' />
+    <tag k='amenity' v='theatre' />
+    <tag k='building' v='public' />
+    <tag k='building:levels' v='3' />
+    <tag k='contact:vk' v='https://vk.com/circusciniselli' />
+    <tag k='loc_name' v='Цирк на Фонтанке' />
+    <tag k='name' v='Большой Санкт-Петербургский государственный цирк' />
+    <tag k='name:de' v='Großer Sankt Petersburger Circus Ciniselli' />
+    <tag k='name:en' v='The Bolshoi State Saint-Petersburg Circus' />
+    <tag k='theatre:genre' v='circus' />
+    <tag k='website' v='http://circus.spb.ru/' />
+    <tag k='wikidata' v='Q268839' />
+    <tag k='wikipedia' v='ru:Большой Санкт-Петербургский государственный цирк' />
+  </way>
+</osm>

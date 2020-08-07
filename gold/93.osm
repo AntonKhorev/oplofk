@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2368121842' timestamp='2018-09-04T21:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62292687' lat='59.93568249432' lon='30.36050887092'>
+    <tag k='brand' v='Народная 7Я семьЯ' />
+    <tag k='brand:wikidata' v='Q4032436' />
+    <tag k='contact:vk' v='https://vk.com/7yarus' />
+    <tag k='name' v='Народная 7Я семьЯ' />
+    <tag k='name:ru' v='Народная 7Я семьЯ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.7-ya.ru/' />
+  </node>
+  <node id='2751328926' timestamp='2018-09-04T21:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62292687' lat='59.93567526343' lon='30.36145294985'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/resto_congo' />
+    <tag k='name' v='Congo' />
+  </node>
+  <node id='4195846569' timestamp='2018-09-04T21:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62292687' lat='59.93567396993' lon='30.36155772326'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/club105190822' />
+    <tag k='name' v='Печка' />
+  </node>
+  <node id='5882977734' timestamp='2018-09-04T21:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62292687' lat='59.93567928345' lon='30.36122771786'>
+    <tag k='name' v='Альянс-Инвест' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://alliance-invest.com/' />
+  </node>
+  <node id='5882977735' timestamp='2018-09-04T21:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62292687' lat='59.9356668769' lon='30.36230701427'>
+    <tag k='amenity' v='social_facility' />
+    <tag k='name' v='Центр социальной помощи семье и детям Центрального района' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00' />
+    <tag k='social_facility' v='outreach' />
+    <tag k='social_facility:for' v='juvenile' />
+    <tag k='website' v='http://www.cspsd-cr-spb.ru/' />
+  </node>
+</osm>

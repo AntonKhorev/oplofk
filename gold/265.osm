@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1439033024' timestamp='2019-06-30T23:00:22Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71767032' lat='59.92403044051' lon='30.28388991703'>
+    <tag k='name' v='Вологодское масло' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='dairy' />
+  </node>
+  <node id='1439033026' timestamp='2019-06-30T23:00:22Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='71767032' lat='59.92414078421' lon='30.28382094738'>
+    <tag k='craft' v='tailor' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-18:00' />
+    <tag k='shop' v='dry_cleaning' />
+  </node>
+  <node id='4466761683' timestamp='2019-06-30T23:00:22Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71767032' lat='59.92418906609' lon='30.28379076902'>
+    <tag k='name' v='Жилкомсервис №1 Адмиралтейского района, Жилищно-эксплуатационная служба №3' />
+    <tag k='office' v='property_maintenance' />
+    <tag k='opening_hours' v='Mo 17:00-19:00; Th 10:00-12:00' />
+    <tag k='operator' v='ООО «Жилкомсервис №1 Адмиралтейского района»' />
+  </node>
+</osm>

@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='844612141' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89082770' lat='59.91500292382' lon='30.30434408496' />
+  <node id='844612184' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89082770' lat='59.91501237618' lon='30.30549151504' />
+  <node id='844612362' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89082770' lat='59.91507688826' lon='30.30434406419' />
+  <node id='844612427' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89082770' lat='59.91508634688' lon='30.30549225679' />
+  <node id='1111781183' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89082770' lat='59.91501294237' lon='30.29967174898'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/center_osteo' />
+    <tag k='name' v='Osteo' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='website' v='https://osteo-spb.ru/kontakty/osteo-na-13-oi-krasnoarmeiskoi.html' />
+  </node>
+  <node id='4464884232' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89082770' lat='59.9149945' lon='30.2976904'>
+    <tag k='name' v='Rossi' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Дизайн»' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://rossi-spb.ru/' />
+  </node>
+  <node id='4712681166' timestamp='2017-03-02T03:36:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='46511619' lat='59.9150487' lon='30.3028859'>
+    <tag k='name' v='Северный кристалл' />
+    <tag k='opening_hours' v='10:00-19:00' />
+    <tag k='shop' v='car_repair' />
+  </node>
+  <node id='4712681167' timestamp='2017-03-02T03:36:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='46511619' lat='59.9150514' lon='30.3032426'>
+    <tag k='name' v='MTL Garage' />
+    <tag k='shop' v='car_repair' />
+    <tag k='website' v='http://mtl-garage.ru/' />
+  </node>
+  <node id='7793850062' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89082770' lat='59.9150856853' lon='30.30541194666'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='7793850063' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89082770' lat='59.91507756499' lon='30.30442621389'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='7793850064' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89082770' lat='59.91504511716' lon='30.30271391559'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Участковый пункт полиции № 15' />
+    <tag k='website' v='https://адмирал.78.мвд.рф/document/9655455' />
+  </node>
+  <node id='7793850065' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89082770' lat='59.91504310966' lon='30.30241999997'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='7793850066' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89082770' lat='59.91501465128' lon='30.29983856721'>
+    <tag k='contact:vk' v='https://vk.com/slonopotamia' />
+    <tag k='name' v='Слонопотамия.рф' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='https://слонопотамия.рф/punkt-samovyvoza-slonopotamii-v-sankt-peterburge-article.html' />
+  </node>
+  <way id='70836058' timestamp='2020-08-07T09:16:17Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='89082770'>
+    <nd ref='844612362' />
+    <nd ref='7793850063' />
+    <nd ref='7793850062' />
+    <nd ref='844612427' />
+    <nd ref='844612184' />
+    <nd ref='844612141' />
+    <nd ref='844612362' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='13-я Красноармейская улица' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='1' />
+    <tag k='contact:ok' v='https://ok.ru/x5pyaterka' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-23:00; Sa-Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </way>
+</osm>

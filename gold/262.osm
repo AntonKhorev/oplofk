@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6580473952' timestamp='2019-06-30T21:37:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71766139' lat='59.9227657' lon='30.3289988'>
+    <tag k='contact:vk' v='https://vk.com/velo_hostel' />
+    <tag k='name' v='Velohostel' />
+    <tag k='tourism' v='hostel' />
+  </node>
+</osm>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='967978631' timestamp='2012-09-16T14:41:30Z' uid='623185' user='coho' visible='true' version='3' changeset='13131373' lat='59.9429876' lon='30.3494665' />
+  <node id='967978633' timestamp='2012-09-16T14:41:30Z' uid='623185' user='coho' visible='true' version='3' changeset='13131373' lat='59.943047' lon='30.3503077' />
+  <node id='967978635' timestamp='2018-01-11T23:30:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='55366483' lat='59.9432854' lon='30.3503271' />
+  <node id='967978651' timestamp='2010-12-07T17:29:45Z' uid='205886' user='Diomas' visible='true' version='2' changeset='6577233' lat='59.9432964' lon='30.3492756' />
+  <node id='1026828275' timestamp='2018-01-11T23:30:27Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='55366483' lat='59.9433711' lon='30.3492758' />
+  <node id='1026829137' timestamp='2018-01-11T23:30:27Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='55366483' lat='59.9433562' lon='30.3503322' />
+  <node id='5334101309' timestamp='2018-09-14T02:04:18Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62569692' lat='59.943185' lon='30.3502829'>
+    <tag k='contact:vk' v='https://vk.com/pestelya16' />
+    <tag k='disused:amenity' v='driving_school' />
+    <tag k='name' v='Смольный' />
+    <tag k='website' v='https://av1.ru/filiali/pestelya/' />
+  </node>
+  <node id='5334101310' timestamp='2018-01-11T23:30:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55366483' lat='59.9429761' lon='30.3492703' />
+  <node id='5334101311' timestamp='2018-01-11T23:30:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55366483' lat='59.9433675' lon='30.3495305' />
+  <node id='5334101316' timestamp='2018-01-11T23:30:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55366483' lat='59.9433617' lon='30.3499461' />
+  <way id='552477844' timestamp='2018-01-11T23:30:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55366483'>
+    <nd ref='967978633' />
+    <nd ref='967978635' />
+    <nd ref='1026829137' />
+    <nd ref='5334101316' />
+    <nd ref='5334101311' />
+    <nd ref='1026828275' />
+    <nd ref='967978651' />
+    <nd ref='5334101310' />
+    <nd ref='967978631' />
+    <nd ref='967978633' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа №189 «Шанс»' />
+    <tag k='phone' v='+7 812 2724713' />
+    <tag k='website' v='http://spbschool189.ucoz.ru/' />
+  </way>
+</osm>

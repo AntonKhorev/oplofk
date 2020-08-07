@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2079317850' timestamp='2018-10-04T05:38:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63181948' lat='59.9213717' lon='30.345747'>
+    <tag k='contact:vk' v='https://vk.com/dikomfactory' />
+    <tag k='name' v='ДиКом' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='operator' v='ООО «ДиКом»' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://www.dikom.ru/' />
+  </node>
+  <node id='2080643428' timestamp='2018-10-04T05:38:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63181948' lat='59.9219363' lon='30.3476716'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:vk' v='https://vk.com/bridbe' />
+    <tag k='name' v='Bride' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://bride-salon.ru/' />
+  </node>
+  <node id='5953026290' timestamp='2018-10-04T05:38:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63181948' lat='59.9220122' lon='30.34793'>
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa 09:00-22:00; Su 09:00-21:00' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='5953026291' timestamp='2018-10-04T05:38:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63181948' lat='59.9218606' lon='30.3474129'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/black_and_white_burgers' />
+    <tag k='name' v='BW Burgers' />
+    <tag k='website' v='http://blackwhiteburgers.ru/' />
+  </node>
+  <node id='5953026292' timestamp='2018-10-04T05:38:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63181948' lat='59.9217916' lon='30.3471782'>
+    <tag k='contact:vk' v='https://vk.com/mmagru' />
+    <tag k='name' v='MusicMag' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 12:00-18:00' />
+    <tag k='operator' v='ИП Жумир А.Н.' />
+    <tag k='shop' v='musical_instrument' />
+    <tag k='website' v='https://mmag.ru/o-nas/nashi-kontakty/1072-muzykalnyj-magazin-v-sankt-peterburge.html' />
+  </node>
+  <node id='5953026293' timestamp='2018-10-04T05:38:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63181948' lat='59.9217521' lon='30.3470431'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Mango Mango' />
+  </node>
+  <node id='5953026294' timestamp='2018-10-04T05:38:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63181948' lat='59.9216809' lon='30.3468009'>
+    <tag k='name' v='Hi-Fi Аудиотехника' />
+    <tag k='shop' v='hifi' />
+    <tag k='website' v='http://vintageprof.ru/' />
+  </node>
+  <node id='5953026295' timestamp='2018-10-04T05:38:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63181948' lat='59.9212466' lon='30.3453209'>
+    <tag k='name' v='Стройкапитал' />
+    <tag k='office' v='company' />
+  </node>
+</osm>

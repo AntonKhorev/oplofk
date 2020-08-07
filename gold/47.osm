@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='808071472' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='7' changeset='60921573' lat='59.93191360966' lon='30.32808918203'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Аптеки Невис»' />
+    <tag k='source' v='survey' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='808071484' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='6' changeset='60921573' lat='59.93181676711' lon='30.32836756797'>
+    <tag k='name' v='Lomonosov' />
+    <tag k='operator' v='ИП Суетина А.В.' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://lomonosov-hotel.ru/' />
+  </node>
+  <node id='1457602491' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='7' changeset='60921573' lat='59.93261039443' lon='30.32581701482'>
+    <tag k='contact:vk' v='https://vk.com/barshpionkispb' />
+    <tag k='disused:amenity' v='bar' />
+    <tag k='name' v='Явка Шпионки' />
+    <tag k='note' v='возможно уже открыт' />
+    <tag k='website' v='https://www.sakvojagcafe.ru/javka' />
+  </node>
+  <node id='3535531180' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='4' changeset='60921573' lat='59.93212121932' lon='30.32749256405'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/ride_the_pony' />
+    <tag k='name' v='Гарцующий пони' />
+    <tag k='opening_hours' v='21:00-06:00' />
+    <tag k='operator' v='ООО «Дифферент-Снаб»' />
+  </node>
+  <node id='4709747395' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='5' changeset='60921573' lat='59.93201028139' lon='30.32781114159'>
+    <tag k='contact:vk' v='https://vk.com/tabakonlomonosova1' />
+    <tag k='name' v='Табакон' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='phone' v='+7 812 3151738' />
+    <tag k='shop' v='tobacco' />
+    <tag k='website' v='http://tabakon.ru/' />
+  </node>
+  <node id='4749884018' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.93239829958' lon='30.32667686473'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/csspb' />
+    <tag k='name' v='Central Station' />
+    <tag k='opening_hours' v='22:00-06:00' />
+    <tag k='operator' v='ООО «Юридическая фирма «АС»' />
+    <tag k='website' v='https://www.centralstationspb.com/' />
+  </node>
+  <node id='4749884019' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.9322986' lon='30.3269104'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/restarauntcherdak' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Чердак художника' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='operator' v='ООО «Р-Стекло»' />
+    <tag k='website' v='http://glassdesign.ru/cherdak' />
+  </node>
+  <node id='4749888121' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.93225614635' lon='30.32710379826'>
+    <tag k='amenity' v='stripclub' />
+    <tag k='contact:vk' v='https://vk.com/rhinobarspb' />
+    <tag k='int_name' v='Rhino' />
+    <tag k='name' v='Носорог' />
+    <tag k='website' v='https://rhinobar.ru/' />
+  </node>
+  <node id='4749888122' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.93216381449' lon='30.32736987304'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/soulkitchenbar' />
+    <tag k='name' v='Soul Kitchen' />
+    <tag k='website' v='http://www.soulkitchen.ru/' />
+  </node>
+  <node id='4749888123' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.93205641932' lon='30.32767866405'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/lomonosovbar' />
+    <tag k='int_name' v='Lomonosov' />
+    <tag k='name' v='Ломоносов' />
+    <tag k='website' v='http://lomonosovbar.ru/' />
+  </node>
+  <node id='4833075421' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.93220851449' lon='30.32724167303'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/plgrnd' />
+    <tag k='name' v='Playground' />
+    <tag k='opening_hours' v='We-Su 20:00-06:00' />
+    <tag k='website' v='http://plgrspb.ru/' />
+  </node>
+  <node id='4853535597' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='5' changeset='60921573' lat='59.9316163' lon='30.3289121'>
+    <tag k='brand' v='Tele2' />
+    <tag k='brand:wikidata' v='Q309865' />
+    <tag k='contact:vk' v='https://vk.com/tele2' />
+    <tag k='name' v='Tele2' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.tele2.ru/' />
+  </node>
+  <node id='4853535598' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.93170568139' lon='30.32868684161'>
+    <tag k='disused:shop' v='sewing' />
+    <tag k='name' v='Пряжа' />
+    <tag k='note' v='&quot;аренда&quot;' />
+    <tag k='operator' v='ООО &quot;Белл&quot;' />
+  </node>
+  <node id='4853535599' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='2' changeset='60921573' lat='59.93174956711' lon='30.32856066797'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/apothekebar' />
+    <tag k='name' v='Apotheke' />
+    <tag k='opening_hours' v='20:00+' />
+    <tag k='website' v='http://hatgroup.ru/apotheke-bar/' />
+  </node>
+  <node id='4853535600' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='2' changeset='60921573' lat='59.93185975733' lon='30.32824368627'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='Банк РМП' />
+    <tag k='note' v='&quot;скоро открытие&quot;' />
+    <tag k='website' v='http://www.bankrmp.ru/' />
+  </node>
+  <node id='4853535601' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='2' changeset='60921573' lat='59.93231420367' lon='30.32692931523'>
+    <tag k='alt_name' v='Стекло Росвуздизайн' />
+    <tag k='contact:vk' v='https://vk.com/glassdesign' />
+    <tag k='name' v='Чердак художника' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='operator' v='ООО «Р-Стекло»' />
+    <tag k='tourism' v='gallery' />
+    <tag k='website' v='http://glassdesign.ru/galerea' />
+  </node>
+  <node id='4853535602' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='2' changeset='60921573' lat='59.93235120367' lon='30.32681801522'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Щель 28' />
+  </node>
+  <node id='4853535603' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='2' changeset='60921573' lat='59.9325339022' lon='30.32626900913'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/nebar.lomo' />
+    <tag k='name' v='Nebar' />
+    <tag k='website' v='http://nebar.ru/' />
+  </node>
+  <node id='5043898221' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60921573' lat='59.93198131932' lon='30.32789436406'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/boysterbar' />
+    <tag k='name' v='Голубая устрица' />
+    <tag k='name:en' v='Blue Oyster' />
+    <tag k='name:ru' v='Голубая устрица' />
+    <tag k='opening_hours' v='19:00-06:00' />
+    <tag k='website' v='https://www.boyster.ru/' />
+  </node>
+  <node id='5259816129' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='5' changeset='60921573' lat='59.93166095724' lon='30.32881558653'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/zerna_piter' />
+    <tag k='name' v='Zёрна' />
+  </node>
+  <node id='5774212435' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='1' changeset='60921573' lat='59.93178202111' lon='30.32846764632'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Ломоносов Cafe' />
+  </node>
+  <node id='5774212436' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='1' changeset='60921573' lat='59.93192481714' lon='30.32805670408'>
+    <tag k='name' v='Строительное управление №288' />
+    <tag k='office' v='construction_company' />
+    <tag k='website' v='http://su288.ru/' />
+  </node>
+  <node id='5774212437' timestamp='2018-07-21T00:31:11Z' uid='437809' user='Anton Khorev' version='1' changeset='60921573' lat='59.93199590386' lon='30.32779231533'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/coffee_bon' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Coffee Bon' />
+  </node>
+</osm>

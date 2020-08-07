@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='773932360' timestamp='2019-07-14T04:23:42Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='72223105' lat='59.9259841' lon='30.3164333'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Starbucks' />
+    <tag k='brand:wikidata' v='Q37158' />
+    <tag k='contact:vk' v='https://vk.com/starbucks' />
+    <tag k='internet_access:type' v='wlan' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Starbucks' />
+    <tag k='opening_hours' v='Mo-Fr 07:30-22:00; Sa-Su 08:30-22:00' />
+    <tag k='operator' v='ООО «Кофе Сирена»' />
+    <tag k='toilets:wheelchair' v='yes' />
+    <tag k='website' v='http://www.starbucks.ru/store/1023954' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='933747259' timestamp='2019-07-14T04:23:42Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72223105' lat='59.9259473' lon='30.3164969'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/rest_hongkong' />
+    <tag k='cuisine' v='chinese' />
+    <tag k='name' v='Гонконг' />
+    <tag k='name:en' v='Hong Kong' />
+  </node>
+  <node id='2197659021' timestamp='2019-05-16T16:33:18Z' uid='103003' user='Alexandrcfif' visible='true' version='6' changeset='70326643' lat='59.9260048' lon='30.3163985'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2197659026' timestamp='2019-07-14T04:23:42Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='72223105' lat='59.9258697' lon='30.3166239'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/fermacafe' />
+    <tag k='cuisine' v='cake' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Ferma' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='operator' v='ООО «М-Промо»' />
+    <tag k='phone' v='+7 812 6430400' />
+    <tag k='website' v='https://white-group.ru/restaurants/view/konditerskaya-ferma/' />
+  </node>
+  <node id='4704554486' timestamp='2018-09-03T23:10:39Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62261373' lat='59.9259907' lon='30.316422'>
+    <tag k='amenity' v='cafe' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Шаурма' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='4704554487' timestamp='2019-07-14T04:23:42Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72223105' lat='59.925911' lon='30.3165609'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/moomoo_burgers' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Moo Moo' />
+    <tag k='opening_hours' v='Su-Th 08:00-23:30, Fr-Sa 08:00-01:30' />
+    <tag k='operator' v='ООО «Природа»' />
+  </node>
+  <node id='4704554488' timestamp='2017-02-25T00:11:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='46383336' lat='59.9258337' lon='30.316687'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/zolotoy_bereg42' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Золотой берег' />
+  </node>
+</osm>

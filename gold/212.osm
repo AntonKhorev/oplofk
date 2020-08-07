@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5845288491' timestamp='2019-01-23T00:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66554270' lat='59.9349972' lon='30.3394566'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №83' />
+    <tag k='website' v='http://gbdoy83spb.ucoz.net/' />
+  </node>
+  <node id='6228442172' timestamp='2019-01-23T00:09:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9350368' lon='30.3387809'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/miradamed' />
+    <tag k='description' v='Обучение аппаратному педикюру и маникюру' />
+    <tag k='name' v='МирадаМед' />
+    <tag k='website' v='http://mirada-med.ru/' />
+  </node>
+  <node id='6228442173' timestamp='2019-01-23T00:09:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9350119' lon='30.3389837'>
+    <tag k='contact:vk' v='https://vk.com/rognedaspb' />
+    <tag k='name' v='Rogneda' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://studiorogneda.ru/' />
+  </node>
+  <node id='6228442174' timestamp='2019-01-23T00:09:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9353748' lon='30.3399134'>
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Bureau Inna V' />
+    <tag k='website' v='http://bureau.innavoronkova.com/' />
+  </node>
+  <node id='6228442175' timestamp='2019-01-23T00:09:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9351799' lon='30.3398137'>
+    <tag k='contact:vk' v='https://vk.com/younew_beauty' />
+    <tag k='name' v='You New' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://you-new-salon.ru/' />
+  </node>
+  <node id='6228442176' timestamp='2019-01-23T00:09:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9348913' lon='30.3397856'>
+    <tag k='contact:vk' v='https://vk.com/salon_vz' />
+    <tag k='name' v='Студия Василия Захарова' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='6228442177' timestamp='2019-01-23T00:09:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9348389' lon='30.3407681'>
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='OLED Store' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 12:00-19:00' />
+    <tag k='phone' v='+7 812 9602522' />
+  </node>
+  <node id='6228442178' timestamp='2019-01-23T00:09:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.93525' lon='30.3407521'>
+    <tag k='craft' v='shoemaker' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa 12:00-17:00' />
+  </node>
+  <node id='6228442179' timestamp='2019-01-23T00:09:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9351337' lon='30.3403158'>
+    <tag k='contact:vk' v='https://vk.com/karavannaya5' />
+    <tag k='name' v='Караванная, 5' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://karavannaya5.ru/' />
+  </node>
+  <node id='6228442180' timestamp='2019-01-23T00:09:34Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66554270' lat='59.9351512' lon='30.3403236'>
+    <tag k='name' v='Невский Питер' />
+    <tag k='tourism' v='hotel' />
+  </node>
+</osm>

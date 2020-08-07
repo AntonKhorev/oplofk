@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5879666209' timestamp='2018-09-03T21:10:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62259796' lat='59.9274844' lon='30.3246515'>
+    <tag k='name' v='Нико' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5879666210' timestamp='2018-09-03T21:10:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62259796' lat='59.9273564' lon='30.3243718'>
+    <tag k='contact:vk' v='https://vk.com/litefoto' />
+    <tag k='name' v='LiteFoto' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='shop' v='photo' />
+    <tag k='website' v='https://litefoto.net/' />
+  </node>
+</osm>

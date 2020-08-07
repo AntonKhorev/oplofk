@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='772630295' timestamp='2010-06-14T13:48:28Z' uid='136198' user='tmprec' visible='true' version='1' changeset='4988124' lat='59.923266' lon='30.3397561' />
+  <node id='772630324' timestamp='2012-12-26T13:37:01Z' uid='697156' user='4ndrew' visible='true' version='3' changeset='14412378' lat='59.9225506' lon='30.340736' />
+  <node id='772630334' timestamp='2010-06-14T13:48:33Z' uid='136198' user='tmprec' visible='true' version='1' changeset='4988124' lat='59.9232475' lon='30.3397191' />
+  <node id='772630339' timestamp='2010-06-14T13:48:33Z' uid='136198' user='tmprec' visible='true' version='1' changeset='4988124' lat='59.9229156' lon='30.3390247' />
+  <node id='772630358' timestamp='2011-01-14T18:57:01Z' uid='231182' user='klif22' visible='true' version='2' changeset='6970084' lat='59.9230138' lon='30.3415315' />
+  <node id='772630435' timestamp='2013-06-10T10:11:58Z' uid='624271' user='te_mark' visible='true' version='3' changeset='16493642' lat='59.9231259' lon='30.3388357' />
+  <node id='772630440' timestamp='2013-06-10T10:11:59Z' uid='624271' user='te_mark' visible='true' version='3' changeset='16493642' lat='59.9231605' lon='30.3389149' />
+  <node id='772630447' timestamp='2011-01-14T18:57:00Z' uid='231182' user='klif22' visible='true' version='2' changeset='6970084' lat='59.9231529' lon='30.3399563' />
+  <node id='772630470' timestamp='2010-06-14T13:48:52Z' uid='136198' user='tmprec' visible='true' version='1' changeset='4988124' lat='59.9230211' lon='30.3388156' />
+  <node id='772630579' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66830577' lat='59.9237853629' lon='30.34014026686' />
+  <node id='772630630' timestamp='2011-01-14T18:57:00Z' uid='231182' user='klif22' visible='true' version='2' changeset='6970084' lat='59.9227322' lon='30.3404973' />
+  <node id='772630655' timestamp='2013-06-10T10:11:59Z' uid='624271' user='te_mark' visible='true' version='3' changeset='16493642' lat='59.9234477' lon='30.3394734' />
+  <node id='772630657' timestamp='2011-01-14T18:57:01Z' uid='231182' user='klif22' visible='true' version='2' changeset='6970084' lat='59.9230772' lon='30.3414086' />
+  <node id='772630671' timestamp='2011-01-14T18:57:00Z' uid='231182' user='klif22' visible='true' version='2' changeset='6970084' lat='59.9226886' lon='30.3404203' />
+  <node id='1103334495' timestamp='2013-06-10T10:11:58Z' uid='624271' user='te_mark' visible='true' version='2' changeset='16493642' lat='59.9232522' lon='30.3391241' />
+  <node id='1359796138' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='66830577' lat='59.92454772375' lon='30.33875792607'>
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:street' v='Загородный проспект' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/killfish20' />
+    <tag k='name' v='KillFish 2.0' />
+    <tag k='opening_hours' v='15:00-02:00' />
+    <tag k='phone' v='+7 812 4480800' />
+    <tag k='website' v='https://killfish.ru/' />
+  </node>
+  <node id='4327622088' timestamp='2016-07-30T05:50:11Z' uid='392109' user='GaM' visible='true' version='1' changeset='41121857' lat='59.9230805' lon='30.3388834' />
+  <node id='4835268860' timestamp='2017-05-04T18:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48402316' lat='59.9234075' lon='30.3394653' />
+  <node id='4835268861' timestamp='2017-05-04T18:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48402316' lat='59.9231187' lon='30.338818' />
+  <node id='4835268862' timestamp='2017-05-04T18:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48402316' lat='59.9230366' lon='30.3387868' />
+  <node id='4835268863' timestamp='2017-05-04T18:29:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48402316' lat='59.9228053' lon='30.3406253' />
+  <node id='4835268864' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66830577' lat='59.9238429556' lon='30.33998893513'>
+    <tag k='amenity' v='social_facility' />
+    <tag k='name' v='Кризисный центр помощи женщинам' />
+    <tag k='social_facility' v='shelter' />
+    <tag k='social_facility:for' v='abused' />
+    <tag k='website' v='http://www.pomogaemmamam.ru/' />
+  </node>
+  <node id='4835268865' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66830577' lat='59.92401683488' lon='30.33968167654'>
+    <tag k='contact:vk' v='https://vk.com/kluberry' />
+    <tag k='name' v='Клюква' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://www.klukva-salon.ru/' />
+  </node>
+  <node id='4835268866' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66830577' lat='59.92446744629' lon='30.33889991433'>
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Сервисфон' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 11:00-19:00' />
+    <tag k='phone' v='+7 812 9411579' />
+  </node>
+  <node id='4835268867' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66830577' lat='59.92451175433' lon='30.33882167549'>
+    <tag k='brand' v='Watsons' />
+    <tag k='brand:wikidata' v='Q7974785' />
+    <tag k='contact:vk' v='https://vk.com/watsonsrussia' />
+    <tag k='name' v='Watsons' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Спектр Групп»' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://watsons.com.ru/adresa-magazinov/socialisticheskaja-ul-d-1-32' />
+  </node>
+  <node id='6251430029' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66830577' lat='59.92340076074' lon='30.34082909996'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='491413284' timestamp='2019-02-01T11:34:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66830577'>
+    <nd ref='772630358' />
+    <nd ref='772630324' />
+    <nd ref='772630671' />
+    <nd ref='772630630' />
+    <nd ref='4835268863' />
+    <nd ref='772630447' />
+    <nd ref='772630295' />
+    <nd ref='772630334' />
+    <nd ref='772630339' />
+    <nd ref='772630470' />
+    <nd ref='4835268862' />
+    <nd ref='4327622088' />
+    <nd ref='4835268861' />
+    <nd ref='772630435' />
+    <nd ref='772630440' />
+    <nd ref='1103334495' />
+    <nd ref='4835268860' />
+    <nd ref='772630655' />
+    <nd ref='772630579' />
+    <nd ref='6251430029' />
+    <nd ref='772630657' />
+    <nd ref='772630358' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа №321' />
+    <tag k='website' v='http://gousosh321tsr.acentr.gov.spb.ru/' />
+    <tag k='wikidata' v='Q3401716' />
+  </way>
+</osm>

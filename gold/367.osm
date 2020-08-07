@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2930653176' timestamp='2020-02-19T11:53:20Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='81219153' lat='59.9204089' lon='30.3284794'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Теремок' />
+    <tag k='brand:wikidata' v='Q4455593' />
+    <tag k='building' v='kiosk' />
+    <tag k='contact:vk' v='https://vk.com/teremok' />
+    <tag k='cuisine' v='pancake' />
+    <tag k='name' v='Теремок' />
+    <tag k='website' v='https://teremok.ru/places/pushkinskaya/' />
+  </node>
+  <node id='7227291936' timestamp='2020-02-19T11:53:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='81219153' lat='59.91986999157' lon='30.32820428298'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Subway' />
+    <tag k='brand:wikidata' v='Q244457' />
+    <tag k='contact:instagram' v='https://www.instagram.com/subwayrussia_official/' />
+    <tag k='contact:vk' v='https://vk.com/subwayrussia' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Subway' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ИП Петрова Т.В.' />
+    <tag k='website' v='https://subway.ru/stores/detail/52292/' />
+  </node>
+  <node id='7227291937' timestamp='2020-02-19T11:53:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='81219153' lat='59.91989873225' lon='30.32827949922'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Cofix' />
+    <tag k='brand:wikidata' v='Q16132717' />
+    <tag k='contact:vk' v='https://vk.com/cofixrussia' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Cofix' />
+    <tag k='website' v='https://spb.cofix.ru/' />
+  </node>
+</osm>

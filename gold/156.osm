@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6125698589' timestamp='2018-12-08T22:57:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65303041' lat='59.9150043' lon='30.3173911'>
+    <tag k='opening_hours' v='Mo-Fr 08:30-19:00; Sa 09:00-16:00' />
+    <tag k='phone' v='+7 921 9860193' />
+    <tag k='shop' v='copyshop' />
+    <tag k='website' v='http://www.copycentre.info/' />
+  </node>
+</osm>

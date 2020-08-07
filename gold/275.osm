@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1160944457' timestamp='2014-08-05T11:34:29Z' uid='368493' user='fserges' visible='true' version='7' changeset='24553850' lat='59.9196817' lon='30.2838328' />
+  <node id='1160944471' timestamp='2013-11-12T14:58:58Z' uid='368493' user='fserges' visible='true' version='5' changeset='18856653' lat='59.9199713' lon='30.2833356' />
+  <node id='1160944477' timestamp='2013-11-12T14:58:58Z' uid='368493' user='fserges' visible='true' version='5' changeset='18856653' lat='59.9200929' lon='30.2836193' />
+  <node id='1160944483' timestamp='2013-11-12T14:58:59Z' uid='368493' user='fserges' visible='true' version='5' changeset='18856653' lat='59.9200221' lon='30.2834522' />
+  <node id='1160944488' timestamp='2013-11-12T14:58:59Z' uid='368493' user='fserges' visible='true' version='6' changeset='18856653' lat='59.9198065' lon='30.2841005' />
+  <node id='1160944498' timestamp='2013-11-12T14:58:59Z' uid='368493' user='fserges' visible='true' version='5' changeset='18856653' lat='59.9198981' lon='30.2834625' />
+  <node id='1160944502' timestamp='2013-11-12T14:58:59Z' uid='368493' user='fserges' visible='true' version='5' changeset='18856653' lat='59.9197833' lon='30.2836613' />
+  <node id='1160975350' timestamp='2013-11-12T14:58:59Z' uid='368493' user='fserges' visible='true' version='4' changeset='18856653' lat='59.9198733' lon='30.2835054' />
+  <node id='1160975364' timestamp='2013-11-12T14:58:59Z' uid='368493' user='fserges' visible='true' version='4' changeset='18856653' lat='59.9199273' lon='30.2834118' />
+  <node id='1160975397' timestamp='2013-11-12T14:58:59Z' uid='368493' user='fserges' visible='true' version='4' changeset='18856653' lat='59.9198193' lon='30.283599' />
+  <node id='2201603727' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='71915160' lat='59.91865279751' lon='30.28157206885'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Relax' />
+  </node>
+  <node id='2201603728' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71915160' lat='59.9189425948' lon='30.28219396791'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Ржавая подкова' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='website' v='http://www.tr-8.ru/' />
+  </node>
+  <node id='2201603729' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71915160' lat='59.91902941599' lon='30.28238015971'>
+    <tag k='disused:shop' v='florist' />
+    <tag k='name' v='Салон цветов' />
+  </node>
+  <node id='2201617043' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='71915160' lat='59.91966519488' lon='30.28374416808'>
+    <tag k='name' v='Цветы. Подарки' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='2532032768' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='71915160' lat='59.91947' lon='30.2833273'>
+    <tag k='contact:vk' v='https://vk.com/etm_company' />
+    <tag k='name' v='ЭТМ' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-18:00; Su 10:00-17:00' />
+    <tag k='operator' v='ООО «ТД «Электротехмонтаж»' />
+    <tag k='shop' v='doityourself' />
+    <tag k='website' v='https://www.etm.ru/' />
+  </node>
+  <node id='2997540461' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='71915160' lat='59.9187211777' lon='30.28171921068'>
+    <tag k='name' v='Aphrodite' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='4523834983' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71915160' lat='59.91875645356' lon='30.28179487176'>
+    <tag k='contact:vk' v='https://vk.com/public95854198' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Coffee Face' />
+  </node>
+  <node id='4949883021' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71915160' lat='59.91933365777' lon='30.28303307936'>
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='phone' v='+7 931 5929394' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='6590165536' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71915160' lat='59.91941639062' lon='30.2832108292'>
+    <tag k='name' v='WaltzEmbroidery&apos;s' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='operator' v='ИП Володин В.В.' />
+    <tag k='shop' v='curtain' />
+  </node>
+  <way id='504892885' timestamp='2019-07-05T02:52:46Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71915160'>
+    <nd ref='1160944477' />
+    <nd ref='1160944483' />
+    <nd ref='1160944471' />
+    <nd ref='1160975364' />
+    <nd ref='1160944498' />
+    <nd ref='1160975350' />
+    <nd ref='1160975397' />
+    <nd ref='1160944502' />
+    <nd ref='1160944457' />
+    <nd ref='1160944488' />
+    <nd ref='1160944477' />
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/cmt_clinics' />
+    <tag k='name' v='СМТ' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='АО «Современные медицинские технологии»' />
+    <tag k='website' v='https://clinic-complex.ru/' />
+  </way>
+</osm>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5889322566' timestamp='2018-09-07T00:13:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62358218' lat='59.9269348' lon='30.3254793'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/psycentre.nevsky' />
+    <tag k='name' v='Психологический центр' />
+    <tag k='website' v='http://psycholog-spb.ru/' />
+  </node>
+  <node id='5889322575' timestamp='2018-09-07T00:13:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62358218' lat='59.9268192' lon='30.3256949'>
+    <tag k='contact:vk' v='https://vk.com/bodywaxerspb' />
+    <tag k='name' v='BodyWaxer' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://bodywaxer.ru/' />
+  </node>
+</osm>

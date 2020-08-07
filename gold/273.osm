@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4182513097' timestamp='2019-07-05T01:33:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71914036' lat='59.9180358464' lon='30.27767015938'>
+    <tag k='name' v='Продукты' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='5110776473' timestamp='2019-07-05T01:33:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71914036' lat='59.91771650226' lon='30.27818943224'>
+    <tag k='amenity' v='cafe' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+</osm>

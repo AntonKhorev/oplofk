@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6592508218' timestamp='2019-07-06T03:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71949935' lat='59.91224168137' lon='30.26666665749'>
+    <tag k='name' v='Системы искусственного интеллекта' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://recovery.itsai.org/' />
+  </node>
+</osm>

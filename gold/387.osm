@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2102942595' timestamp='2018-01-29T20:06:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='55871252' lat='59.9204803' lon='30.294123'>
+    <tag k='name' v='Близко' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='beverages' />
+  </node>
+  <node id='4497731324' timestamp='2020-08-06T11:42:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89036648' lat='59.9199042' lon='30.2946251'>
+    <tag k='disused:amenity' v='doctors' />
+    <tag k='name' v='УрГиника' />
+    <tag k='website' v='http://www.urginika.ru/' />
+  </node>
+</osm>

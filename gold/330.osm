@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4563756486' timestamp='2019-11-06T02:24:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76674139' lat='59.9191151' lon='30.3089414'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/public16328565' />
+    <tag k='name' v='Центр психологической помощи Полины Токаревой' />
+    <tag k='website' v='http://tokarevaps.ru/' />
+  </node>
+  <node id='4563756487' timestamp='2018-07-10T13:26:20Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60577594' lat='59.9191543' lon='30.3091115'>
+    <tag k='name' v='Свега+' />
+    <tag k='office' v='it' />
+    <tag k='website' v='http://www.svegaplus.ru/' />
+  </node>
+  <node id='4563756488' timestamp='2019-11-06T02:24:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76674139' lat='59.9197613' lon='30.3117625'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Доминанта' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 09:00-16:00' />
+    <tag k='operator' v='ООО «Карповка, 5»' />
+    <tag k='website' v='https://dominanta-med.ru/' />
+  </node>
+  <node id='4563756689' timestamp='2019-11-06T02:24:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76674139' lat='59.919812' lon='30.3119804'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Автограф' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00' />
+    <tag k='operator' v='ООО «Автограф»' />
+  </node>
+  <node id='4563756690' timestamp='2019-11-06T02:24:54Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76674139' lat='59.92051775719' lon='30.31512851337'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/bayazetrest_bankethall' />
+    <tag k='name' v='Баязет' />
+    <tag k='opening_hours' v='Su-We 11:00-23:00, Th-Sa 11:00-02:00' />
+    <tag k='website' v='https://bayazetspb.ru/' />
+  </node>
+  <node id='6950073591' timestamp='2019-11-06T02:24:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76674139' lat='59.92013505053' lon='30.31340307708'>
+    <tag k='name' v='Аркона' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://arkona-legal.ru/' />
+  </node>
+</osm>

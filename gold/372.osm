@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4801248410' timestamp='2020-06-23T09:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87026730' lat='59.9241884' lon='30.2914283'>
+    <tag k='disused:shop' v='antiques' />
+  </node>
+  <node id='4801248411' timestamp='2019-05-18T12:47:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='70386395' lat='59.9241341' lon='30.2914755'>
+    <tag k='name' v='Инвест-Проект' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='website' v='http://invpr.ru/' />
+  </node>
+  <node id='5847599081' timestamp='2019-05-18T12:47:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='70386395' lat='59.9240365' lon='30.2915603'>
+    <tag k='contact:vk' v='https://vk.com/dekabristov52' />
+    <tag k='name' v='Отражение' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='6482361309' timestamp='2019-05-18T12:47:10Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70386395' lat='59.9241371' lon='30.2914933'>
+    <tag k='name' v='Mercury Global Forwarding' />
+    <tag k='office' v='logistics' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='website' v='https://mercury-gf.com/' />
+  </node>
+</osm>

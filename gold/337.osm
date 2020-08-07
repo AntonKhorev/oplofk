@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='771876476' timestamp='2011-01-27T20:05:56Z' uid='231182' user='klif22' visible='true' version='2' changeset='7107147' lat='59.9262804' lon='30.3313524' />
+  <node id='1978387476' timestamp='2016-08-01T16:59:00Z' uid='472653' user='Pavel47' visible='true' version='6' changeset='41172760' lat='59.9261409' lon='30.3312107' />
+  <node id='2297805028' timestamp='2019-11-06T04:04:46Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='76676114' lat='59.9265816' lon='30.332206'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4189248889' timestamp='2017-09-23T12:28:35Z' uid='472653' user='Pavel47' visible='true' version='4' changeset='52302702' lat='59.9262365' lon='30.3312438'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 04:45,13:05; Sa 08:45; Su 13:05' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='64' />
+  </node>
+  <node id='4331189134' timestamp='2016-08-01T16:58:52Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='41172760' lat='59.9261905' lon='30.3311297' />
+  <node id='4331189136' timestamp='2016-08-01T16:58:52Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='41172760' lat='59.926231' lon='30.3314508' />
+  <node id='4331189137' timestamp='2016-08-01T16:58:52Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='41172760' lat='59.9262429' lon='30.3312596'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4396235089' timestamp='2019-11-06T04:04:46Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76676114' lat='59.926476252' lon='30.33191710752'>
+    <tag k='contact:vk' v='https://vk.com/tastetoeat' />
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Вкус есть' />
+    <tag k='phone' v='+7 812 9833376' />
+    <tag k='website' v='https://tastetoeat.tastetoeat.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4398653796' timestamp='2019-11-06T04:04:46Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76676114' lat='59.9264037' lon='30.3317235'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:instagram' v='https://www.instagram.com/silent.chill.lounge/' />
+    <tag k='contact:vk' v='https://vk.com/silent.chill' />
+    <tag k='name' v='Silent Chill' />
+  </node>
+  <node id='4876820193' timestamp='2019-10-02T12:26:15Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='75181637' lat='59.9261646' lon='30.3311227'>
+    <tag k='name' v='Абажуръ на Фонтанке' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.abat-jour.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4876820194' timestamp='2019-11-06T04:04:46Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76676114' lat='59.9262975' lon='30.3314544'>
+    <tag k='contact:vk' v='https://vk.com/popari' />
+    <tag k='disused:amenity' v='hookah_lounge' />
+    <tag k='name' v='ПоПари' />
+  </node>
+  <node id='5342020769' timestamp='2018-12-09T01:13:23Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65304533' lat='59.9260512' lon='30.3308654'>
+    <tag k='disused:shop' v='gift' />
+  </node>
+  <node id='6950162272' timestamp='2019-11-06T04:04:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76676114' lat='59.92610395392' lon='30.33097254215'>
+    <tag k='name' v='Резидент' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://residentmen.ru/' />
+  </node>
+  <way id='435179206' timestamp='2018-12-28T16:19:17Z' uid='519501' user='parukhin' visible='true' version='3' changeset='65845910'>
+    <nd ref='4331189134' />
+    <nd ref='1978387476' />
+    <nd ref='4331189136' />
+    <nd ref='771876476' />
+    <nd ref='4331189137' />
+    <nd ref='4189248889' />
+    <nd ref='4331189134' />
+    <tag k='amenity' v='post_office' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 191180' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7 812 3158061' />
+    <tag k='ref' v='191180' />
+  </way>
+</osm>

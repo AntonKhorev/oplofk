@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2194724763' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='71914797' lat='59.9185324' lon='30.2812955'>
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='note' v='нет на сайте' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-23:00; Sa-Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='3010045154' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71914797' lat='59.91806803127' lon='30.27989622921'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='3010045156' timestamp='2017-07-03T21:55:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='50020194' lat='59.9181292' lon='30.2800859'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Восток' />
+  </node>
+  <node id='3010045157' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71914797' lat='59.91766215548' lon='30.27865328539'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Промсвязьбанк' />
+    <tag k='brand:wikidata' v='Q649100' />
+    <tag k='contact:vk' v='https://vk.com/psbank_ru' />
+    <tag k='name' v='Промсвязьбанк' />
+    <tag k='note' v='нет на сайте, возможно не работает; &quot;дополнительный офис &quot;Кассовый центр&quot;' />
+    <tag k='website' v='https://www.psbank.ru/' />
+  </node>
+  <node id='3010045158' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71914797' lat='59.91803365021' lon='30.27978952992'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club28313329' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Чито Гврито' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='http://chitogvrito.ru/contacts/item/rimskogo-korsakova-pr-109.html' />
+  </node>
+  <node id='3010835443' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='71914797' lat='59.91825350484' lon='30.28047632047'>
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Бета Ижевск»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='4523868257' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='71914797' lat='59.91770319667' lon='30.27877489553'>
+    <tag k='disused:shop' v='second_hand' />
+  </node>
+  <node id='4523868258' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71914797' lat='59.91777623714' lon='30.27891738794'>
+    <tag k='contact:vk' v='https://vk.com/threerivershotel' />
+    <tag k='int_name' v='Three Rivers' />
+    <tag k='name' v='Три реки' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://3reki.com/' />
+  </node>
+  <node id='4523868259' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71914797' lat='59.91791827335' lon='30.27943353931'>
+    <tag k='contact:vk' v='https://vk.com/spbgupget' />
+    <tag k='name' v='Горэлектротранс, конечная станция Площадь Репина' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.electrotrans.spb.ru/' />
+  </node>
+  <node id='6590118844' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71914797' lat='59.91796685808' lon='30.27958263312'>
+    <tag k='name' v='New Life' />
+    <tag k='operator' v='ООО «Аргуст-Транс»' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://argus-ts.ru/hostel' />
+  </node>
+  <node id='6590118845' timestamp='2019-07-05T02:21:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='71914797' lat='59.91775939398' lon='30.27893899318'>
+    <tag k='amenity' v='cafe' />
+    <tag k='int_name' v='Three Rivers' />
+    <tag k='name' v='Три реки' />
+  </node>
+</osm>

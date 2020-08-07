@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='702089002' timestamp='2018-10-04T07:21:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63184621' lat='59.9214826' lon='30.348197' />
+  <node id='849152349' timestamp='2018-10-04T07:22:00Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='63184621' lat='59.9213004' lon='30.3482517' />
+  <node id='1358235661' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63212139' lat='59.92095022822' lon='30.34793495865'>
+    <tag k='contact:vk' v='https://vk.com/club138858742' />
+    <tag k='name' v='Мебельный остров' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='http://www.m-ostrov.ru/' />
+  </node>
+  <node id='1367254597' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='63212139' lat='59.92202123261' lon='30.34853715317'>
+    <tag k='contact:vk' v='https://vk.com/mytechnics' />
+    <tag k='level' v='0' />
+    <tag k='name' v='My Technics' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='http://mytechnics.ru/' />
+  </node>
+  <node id='1367254604' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='63212139' lat='59.92175939902' lon='30.3483900696'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Хинкали Хачапури' />
+    <tag k='name:en' v='Xinkali xachapuri' />
+    <tag k='name:ka' v='ხინკალი ხაჭაპური' />
+    <tag k='opening_hours' v='Mo-Su 10:00-23:00' />
+    <tag k='phone' v='+7 812 5756836' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2967574539' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63212139' lat='59.9221186292' lon='30.34859210466'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/dkbeer' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Don Kraft' />
+  </node>
+  <node id='4189248473' timestamp='2018-10-04T07:22:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='63184621' lat='59.9213694' lon='30.3481334'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 05:05,13:40; Sa 09:15; Su 13:40' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='68' />
+  </node>
+  <node id='4331189124' timestamp='2018-10-04T07:22:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63184621' lat='59.9213205' lon='30.3481059' />
+  <node id='4331189126' timestamp='2018-10-04T07:22:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63184621' lat='59.921379' lon='30.3481388'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4331189127' timestamp='2018-10-04T07:22:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63184621' lat='59.9214265' lon='30.3483183' />
+  <node id='5955699705' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92115319684' lon='30.34804905405'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/white_bar01' />
+    <tag k='name' v='White' />
+  </node>
+  <node id='5955699706' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92120971765' lon='30.34808116048'>
+    <tag k='contact:vk' v='https://vk.com/aneva_estate' />
+    <tag k='name' v='Анева' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='https://www.anevaestate.com/' />
+  </node>
+  <node id='5955699707' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92138173928' lon='30.34822001919'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Почта Банк' />
+    <tag k='brand:wikidata' v='Q24930461' />
+    <tag k='contact:vk' v='https://vk.com/pochtabank' />
+    <tag k='name' v='Почта Банк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='operator' v='ПАО «Почта Банк»' />
+    <tag k='operator:wikidata' v='Q24930461' />
+    <tag k='website' v='https://www.pochtabank.ru/' />
+  </node>
+  <node id='5955699708' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92167234374' lon='30.34834097819'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='contact:vk' v='https://vk.com/divogorod' />
+    <tag k='name' v='Диво-город' />
+    <tag k='website' v='https://www.дивогород.рф/' />
+  </node>
+  <node id='5955699709' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92186838208' lon='30.34845120247'>
+    <tag k='contact:vk' v='https://vk.com/vomoloko' />
+    <tag k='name' v='Во!Молоко' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='dairy' />
+    <tag k='website' v='https://vomoloko.ru/' />
+  </node>
+  <node id='5955699710' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92196051315' lon='30.34850326852'>
+    <tag k='level' v='0' />
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='5955699711' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92199813095' lon='30.34852416537'>
+    <tag k='disused:amenity' v='pub' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Embargo' />
+    <tag k='website' v='https://embargo-pub.business.site/' />
+  </node>
+  <node id='5955699712' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92208903735' lon='30.34857527476'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Рыболов' />
+    <tag k='shop' v='fishing' />
+  </node>
+  <node id='5955699713' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92208358372' lon='30.34860934457'>
+    <tag k='level' v='-1' />
+    <tag k='shop' v='second_hand' />
+  </node>
+  <node id='5955699714' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92213520558' lon='30.34863307938'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='ТелефонПро' />
+    <tag k='shop' v='mobile_phone' />
+  </node>
+  <node id='5955699715' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63212139' lat='59.92213959887' lon='30.34860370472'>
+    <tag k='contact:vk' v='https://vk.com/club_huvalatt' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Huvalatt' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <way id='435179203' timestamp='2018-10-04T22:51:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63212139'>
+    <nd ref='4331189124' />
+    <nd ref='849152349' />
+    <nd ref='4331189127' />
+    <nd ref='702089002' />
+    <nd ref='4331189126' />
+    <nd ref='4189248473' />
+    <nd ref='4331189124' />
+    <tag k='amenity' v='post_office' />
+    <tag k='brand' v='Почта России' />
+    <tag k='brand:wikidata' v='Q1502763' />
+    <tag k='contact:vk' v='https://vk.com/russianpost' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Санкт-Петербург 191119' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-14:00,15:00-18:00; Su off' />
+    <tag k='operator' v='ФГУП «Почта России»' />
+    <tag k='operator:wikidata' v='Q1502763' />
+    <tag k='phone' v='+7 812 7647510' />
+    <tag k='ref' v='191119' />
+    <tag k='website' v='https://www.pochta.ru/' />
+  </way>
+</osm>

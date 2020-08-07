@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6237225764' timestamp='2019-01-26T00:19:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66646897' lat='59.9378698315' lon='30.36474909061'>
+    <tag k='brand' v='Kartell' />
+    <tag k='brand:wikidata' v='Q2262005' />
+    <tag k='contact:facebook' v='https://www.facebook.com/kartellflagrussia' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kartellflagstore/' />
+    <tag k='contact:vk' v='https://vk.com/kartellflag' />
+    <tag k='name' v='Kartell' />
+    <tag k='website' v='http://www.kartell.com/' />
+  </node>
+  <node id='6237235323' timestamp='2019-01-26T00:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647051' lat='59.9375422679' lon='30.3646018114'>
+    <tag k='contact:vk' v='https://vk.com/happia' />
+    <tag k='name' v='Happia' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='party' />
+    <tag k='website' v='https://happia.ru/' />
+  </node>
+  <node id='6237235324' timestamp='2019-01-26T00:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647051' lat='59.93764207664' lon='30.36464672773'>
+    <tag k='contact:vk' v='https://vk.com/sportfighters' />
+    <tag k='name' v='Спортфайтер' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='sports' />
+    <tag k='sport' v='boxing' />
+    <tag k='website' v='https://спортфайтер.рф/' />
+  </node>
+  <node id='6237235325' timestamp='2019-01-26T00:36:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647051' lat='59.93779888817' lon='30.36471726733'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/aesthetic_clinic' />
+    <tag k='name' v='Клиника эстетической хирургии и косметологии' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-19:00' />
+    <tag k='operator' v='ООО «Клиника эстетической хирургии и косметологии»' />
+    <tag k='website' v='http://www.aesthetic-clinic.ru/' />
+  </node>
+</osm>

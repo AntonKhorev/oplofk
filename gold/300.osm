@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4530982597' timestamp='2019-08-13T03:20:45Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='73288766' lat='59.92349383298' lon='30.29846614765'>
+    <tag k='name' v='Управление государственного авиационного надзора и надзора за обеспечением транспортной безопасности' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://uganszfo.tu.rostransnadzor.ru/' />
+  </node>
+  <node id='4530982598' timestamp='2019-08-13T03:20:45Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='73288766' lat='59.92342425485' lon='30.29814370635'>
+    <tag k='name' v='Управление по вопросам миграции ГУ МВД России, отдел по работе с соотечественниками, беженцами и вынужденными переселенцами' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://78.мвд.рф/ms' />
+  </node>
+</osm>

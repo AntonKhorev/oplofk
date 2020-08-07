@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4611287476' timestamp='2019-11-06T03:36:18Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='76675389' lat='59.92432479586' lon='30.32717113047'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:phone' v='+7 812 9190809' />
+    <tag k='contact:vk' v='https://vk.com/koreyka.rest' />
+    <tag k='name' v='Корейка' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-02:00' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5099811352' timestamp='2019-11-06T03:36:18Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76675389' lat='59.92438519054' lon='30.32689264519'>
+    <tag k='disused:shop' v='jewelry' />
+    <tag k='website' v='http://www.jewelland.ru/' />
+  </node>
+</osm>

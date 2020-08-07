@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='598175793' timestamp='2016-06-20T16:05:27Z' uid='615059' user='misht' version='3' changeset='40160640' lat='59.9306924' lon='30.3425591' />
+  <node id='598175795' timestamp='2011-05-16T16:07:00Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8163834' lat='59.9309881' lon='30.3427719' />
+  <node id='598175796' timestamp='2011-05-16T16:07:07Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8163834' lat='59.9310119' lon='30.3427985' />
+  <node id='598175800' timestamp='2016-06-20T16:05:27Z' uid='615059' user='misht' version='3' changeset='40160640' lat='59.9305923' lon='30.3429693' />
+  <node id='598175801' timestamp='2011-05-16T16:07:07Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8163834' lat='59.9307396' lon='30.343815' />
+  <node id='598175802' timestamp='2018-06-09T11:39:18Z' uid='437809' user='Anton Khorev' version='3' changeset='59689091' lat='59.93106823232' lon='30.34320497848' />
+  <node id='598175803' timestamp='2011-05-16T16:07:03Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8163834' lat='59.9308822' lon='30.3439402' />
+  <node id='598175804' timestamp='2018-06-09T11:39:18Z' uid='437809' user='Anton Khorev' version='3' changeset='59689091' lat='59.93094564084' lon='30.34368947482' />
+  <node id='598175805' timestamp='2011-05-16T16:07:17Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8163834' lat='59.9311391' lon='30.3429249' />
+  <node id='603953120' timestamp='2011-05-16T16:07:12Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8163834' lat='59.9307468' lon='30.343333' />
+  <node id='603953158' timestamp='2011-05-16T16:07:05Z' uid='12494' user='Aleksandr Dezhin' version='2' changeset='8163834' lat='59.9306699' lon='30.343752' />
+  <node id='1287891543' timestamp='2016-06-20T16:05:27Z' uid='615059' user='misht' version='2' changeset='40160640' lat='59.9306701' lon='30.3425374' />
+  <node id='1287891553' timestamp='2016-06-20T16:05:27Z' uid='615059' user='misht' version='2' changeset='40160640' lat='59.9306835' lon='30.3424824' />
+  <node id='4254622319' timestamp='2016-06-20T16:05:24Z' uid='615059' user='misht' version='1' changeset='40160640' lat='59.9305407' lon='30.3431933' />
+  <node id='4479611939' timestamp='2018-06-09T11:39:18Z' uid='437809' user='Anton Khorev' version='2' changeset='59689091' lat='59.93074065701' lon='30.3443919018'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/laperlarubinsteina' />
+    <tag k='name' v='La Perla' />
+    <tag k='website' v='https://laperlarest.ru/seafoodbar/' />
+  </node>
+  <way id='595814978' timestamp='2018-06-09T11:39:18Z' uid='437809' user='Anton Khorev' version='1' changeset='59689091'>
+    <nd ref='598175795' />
+    <nd ref='1287891553' />
+    <nd ref='1287891543' />
+    <nd ref='598175793' />
+    <nd ref='598175800' />
+    <nd ref='4254622319' />
+    <nd ref='603953120' />
+    <nd ref='603953158' />
+    <nd ref='598175801' />
+    <nd ref='598175803' />
+    <nd ref='598175804' />
+    <nd ref='598175802' />
+    <nd ref='598175805' />
+    <nd ref='598175796' />
+    <nd ref='598175795' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа №122' />
+    <tag k='website' v='http://school122-spb.narod.ru/' />
+  </way>
+</osm>

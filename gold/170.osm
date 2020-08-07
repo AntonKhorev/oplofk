@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803254403' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65513540' lat='59.91924763095' lon='30.35360033327'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='brand' v='ВТБ' />
+    <tag k='brand:wikidata' v='Q1549389' />
+    <tag k='contact:email' v='info@vtb.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vtbrussia' />
+    <tag k='contact:ok' v='https://ok.ru/vtb' />
+    <tag k='contact:twitter' v='https://twitter.com/vtb' />
+    <tag k='contact:vk' v='https://vk.com/vtb' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/vtbgroup' />
+    <tag k='name' v='ВТБ' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-16:45' />
+    <tag k='operator' v='Банк ВТБ (публичное акционерное общество)' />
+    <tag k='operator:wikidata' v='Q1549389' />
+    <tag k='website' v='https://www.vtb.ru/o-banke/kontakty/otdeleniya/business/mb/spbobl_spb_ligovskiipr_108a_mb_exbm/' />
+  </node>
+  <node id='1085327013' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='65513540' lat='59.91853426273' lon='30.35314458158'>
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:street' v='Лиговский проспект' />
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='bic' v='VTBRRUMM' />
+    <tag k='brand' v='ВТБ' />
+    <tag k='brand:wikidata' v='Q1549389' />
+    <tag k='contact:email' v='info@vtb.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vtbrussia' />
+    <tag k='contact:ok' v='https://ok.ru/vtb' />
+    <tag k='contact:phone' v='+7 800 2007799' />
+    <tag k='contact:twitter' v='https://twitter.com/vtb' />
+    <tag k='contact:vk' v='https://vk.com/vtb' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/vtbgroup' />
+    <tag k='name' v='ВТБ' />
+    <tag k='name:en' v='VTB' />
+    <tag k='name:ru' v='ВТБ' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-18:00' />
+    <tag k='operator' v='Банк ВТБ (публичное акционерное общество)' />
+    <tag k='operator:wikidata' v='Q1549389' />
+    <tag k='operator:wikipedia' v='ru:Банк ВТБ' />
+    <tag k='website' v='https://www.vtb.ru/o-banke/kontakty/otdeleniya/imported/office-2180/' />
+  </node>
+  <node id='4117219590' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65513540' lat='59.91812725161' lon='30.35288491329'>
+    <tag k='name' v='Библиофил' />
+    <tag k='opening_hours' v='Mo-Fr 10:30-19:00; Sa 10:30-18:00' />
+    <tag k='shop' v='books' />
+  </node>
+  <node id='4156063293' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65513540' lat='59.91825410649' lon='30.35296594579'>
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Th 10:00-18:00; Fr 10:00-17:00; 13:00-14:00 off' />
+  </node>
+  <node id='4176741638' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65513540' lat='59.91898736483' lon='30.35343364183'>
+    <tag k='contact:vk' v='https://vk.com/shop_beermuda_spb' />
+    <tag k='drink:beer' v='yes' />
+    <tag k='drive_through' v='no' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Beermuda' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='phone' v='+7 960 2620933' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='4474079078' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65513540' lat='59.91908713153' lon='30.35350143988'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Нордик кофе' />
+  </node>
+  <node id='6139754406' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65513540' lat='59.91784283161' lon='30.35270406398'>
+    <tag k='contact:vk' v='https://vk.com/peterburggaz' />
+    <tag k='name' v='ПетербургГаз, производственно-эксплуатационное управление №1' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://peterburggaz.ru/o-kompanii/kontakty/pehu-1.php' />
+  </node>
+  <node id='6139754407' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65513540' lat='59.9181583145' lon='30.35290469438'>
+    <tag k='name' v='Белевские сладости' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='http://belevsladosti.ru/' />
+  </node>
+  <node id='6139754408' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65513540' lat='59.91865863595' lon='30.35322363553'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='ВТБ' />
+    <tag k='brand:wikidata' v='Q1549389' />
+    <tag k='contact:email' v='info@vtb.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vtbrussia' />
+    <tag k='contact:ok' v='https://ok.ru/vtb' />
+    <tag k='contact:twitter' v='https://twitter.com/vtb' />
+    <tag k='contact:vk' v='https://vk.com/vtb' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/vtbgroup' />
+    <tag k='name' v='ВТБ' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-20:00; 13:00-14:00 off' />
+    <tag k='operator' v='Банк ВТБ (публичное акционерное общество)' />
+    <tag k='operator:wikidata' v='Q1549389' />
+    <tag k='website' v='https://www.vtb.ru/o-banke/kontakty/otdeleniya/saint-petersburg/tsentr-avtokreditovaniya-ligovskiy/' />
+  </node>
+  <node id='6139754409' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65513540' lat='59.91885270339' lon='30.35334776868'>
+    <tag k='name' v='Полисан' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.polysan.ru/' />
+  </node>
+  <node id='6139754410' timestamp='2018-12-16T03:18:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65513540' lat='59.91906424531' lon='30.35348279714'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafe_boccaccio' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Боккаччо' />
+  </node>
+</osm>

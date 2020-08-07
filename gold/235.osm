@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='849150686' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='66840626' lat='59.9216903' lon='30.3529565'>
+    <tag k='contact:vk' v='https://vk.com/imperiaplatya' />
+    <tag k='name' v='Империя платья' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://империяплатья.рф/' />
+  </node>
+  <node id='3633411890' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66840626' lat='59.9219223' lon='30.3524436'>
+    <tag k='contact:vk' v='https://vk.com/podrygkashop' />
+    <tag k='name' v='Подружка' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://www.podrygka.ru/shoplist/260_sankt_peterburg_na_razezzhey/' />
+  </node>
+  <node id='3633411891' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66840626' lat='59.9218036' lon='30.3527057'>
+    <tag k='contact:vk' v='https://vk.com/ts_norman' />
+    <tag k='name' v='Норман' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ООО «Норман СПб»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://norman-spb.ru/' />
+  </node>
+  <node id='3633411892' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66840626' lat='59.92158753322' lon='30.35318381421'>
+    <tag k='contact:vk' v='https://vk.com/public124315254' />
+    <tag k='name' v='Цветомагия' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://5-roz.ru/' />
+  </node>
+  <node id='6252148872' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66840626' lat='59.92141216951' lon='30.35357188247'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:instagram' v='https://www.instagram.com/shaverma_banya/' />
+    <tag k='contact:vk' v='https://vk.com/ur_shaverma_banya' />
+    <tag k='name' v='Баня' />
+  </node>
+  <node id='6252148873' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66840626' lat='59.92143831245' lon='30.35351437751'>
+    <tag k='name' v='Адвокатская консультация №12' />
+    <tag k='office' v='lawyer' />
+  </node>
+  <node id='6252148874' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66840626' lat='59.9214529866' lon='30.35354018077'>
+    <tag k='name' v='Северо-Западный центр развития парламентаризма' />
+    <tag k='office' v='ngo' />
+  </node>
+  <node id='6252148875' timestamp='2019-02-01T18:15:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66840626' lat='59.92162531685' lon='30.35310063777'>
+    <tag k='contact:vk' v='https://vk.com/club57' />
+    <tag k='name' v='Petshop.ru' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://www.petshop.ru/' />
+  </node>
+</osm>

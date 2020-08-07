@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4983929022' timestamp='2019-04-13T20:00:09Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='69187243' lat='59.9278281' lon='30.3175135'>
+    <tag k='contact:vk' v='https://vk.com/copyspbru' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='OQ Express' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+    <tag k='shop' v='copyshop' />
+    <tag k='website' v='https://copy.spb.ru/' />
+  </node>
+  <node id='5650502619' timestamp='2018-05-29T23:25:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59382042' lat='59.9275559' lon='30.3173174'>
+    <tag k='contact:vk' v='https://vk.com/trigger.club' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Trigger' />
+    <tag k='opening_hours' v='12:00-22:00' />
+    <tag k='website' v='http://trigger.club/' />
+  </node>
+  <node id='5650502620' timestamp='2019-04-13T20:01:09Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9276425' lon='30.3171682'>
+    <tag k='contact:vk' v='https://vk.com/airwars' />
+    <tag k='name' v='AWTactical' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='sports' />
+    <tag k='website' v='http://air-wars.ru/' />
+  </node>
+  <node id='5650507721' timestamp='2019-11-28T02:14:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='77658359' lat='59.9276582' lon='30.3176963'>
+    <tag k='contact:vk' v='https://vk.com/valentime_shop' />
+    <tag k='name' v='Valentime' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://valentime-shop.ru/' />
+  </node>
+  <node id='5650507760' timestamp='2019-11-28T02:14:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='77658359' lat='59.9275654' lon='30.3177464'>
+    <tag k='craft' v='engraver' />
+    <tag k='opening_hours' v='Mo-Fr 12:00-20:00; Sa-Su 12:00-18:00' />
+    <tag k='website' v='https://graver-master.spb.ru/' />
+  </node>
+  <node id='7015887688' timestamp='2019-11-28T02:14:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77658359' lat='59.9278031' lon='30.3173652'>
+    <tag k='contact:instagram' v='https://www.instagram.com/lamesennoy/' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Lame' />
+  </node>
+</osm>

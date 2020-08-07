@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6477156934' timestamp='2019-05-16T05:54:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70303117' lat='59.9402551' lon='30.3226052'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №43' />
+    <tag k='website' v='http://gbdou43spb.ru/' />
+  </node>
+  <node id='6477156976' timestamp='2019-05-16T05:54:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70303117' lat='59.9401801' lon='30.3211294'>
+    <tag k='contact:vk' v='https://vk.com/nevajournal' />
+    <tag k='name' v='Нева' />
+    <tag k='office' v='newspaper' />
+    <tag k='website' v='http://www.nevajournal.ru/' />
+    <tag k='wikidata' v='Q4315595' />
+  </node>
+  <node id='6477157203' timestamp='2019-05-16T05:54:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70303117' lat='59.9403136' lon='30.3217187'>
+    <tag k='name' v='Жилкомсервис №1 Центрального района, эксплуатационный участок №1' />
+    <tag k='office' v='property_maintenance' />
+  </node>
+</osm>

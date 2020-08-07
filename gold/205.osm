@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3641070082' timestamp='2019-01-18T23:41:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66442721' lat='59.92893747122' lon='30.34924003386'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:phone' v='+7 812 7642289' />
+    <tag k='contact:vk' v='https://vk.com/ringobells' />
+    <tag k='contact:website' v='https://ringo-bells.ru/' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Ring o&apos;Bells' />
+    <tag k='opening_hours' v='Mo-Su 00:00-05:00,12:00-24:00' />
+    <tag k='operator' v='ООО «Джокер»' />
+  </node>
+  <node id='4621010593' timestamp='2019-01-18T23:41:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66442721' lat='59.92903522567' lon='30.34844588794'>
+    <tag k='contact:vk' v='https://vk.com/gradusi_market' />
+    <tag k='name' v='Градусы всего мира' />
+    <tag k='opening_hours' v='Mo-Su 09:00-22:00' />
+    <tag k='operator' v='ООО «Винтаж»' />
+    <tag k='phone' v='+7 812 6776384' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.gradusi.net/shops/spb/1262/' />
+  </node>
+  <node id='4960811220' timestamp='2019-01-18T23:08:47Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66442308' lat='59.92909782995' lon='30.34795618563'>
+    <tag k='contact:vk' v='https://vk.com/abcshoemarket' />
+    <tag k='name' v='ABC Shoemarket' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='6219707534' timestamp='2019-01-18T23:41:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66442721' lat='59.92896926703' lon='30.34898172865'>
+    <tag k='contact:vk' v='https://vk.com/2dvestolicy' />
+    <tag k='name' v='Две столицы' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://www.2stolici.com/' />
+  </node>
+  <node id='6219707535' timestamp='2019-01-18T23:41:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66442721' lat='59.92900717567' lon='30.34867376321'>
+    <tag k='brand' v='Rieker' />
+    <tag k='brand:wikidata' v='Q2152193' />
+    <tag k='name' v='Rieker' />
+    <tag k='operator' v='ИП Боченинская Л.В.' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='6219707536' timestamp='2019-01-18T23:41:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66442721' lat='59.92907999904' lon='30.34808274083'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/ozerkiapteka' />
+    <tag k='name' v='Озерки' />
+    <tag k='opening_hours' v='Mo-Fr 07:00-23:00; Sa-Su 08:00-22:00' />
+    <tag k='operator' v='ООО «Эркафарм Северо-Запад»' />
+    <tag k='website' v='https://6030000.ru/' />
+  </node>
+</osm>

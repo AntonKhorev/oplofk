@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1123565080' timestamp='2019-04-13T19:55:39Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9397365' lon='30.3197788' />
+  <node id='1123565089' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='70836459' lat='59.939432' lon='30.3215235' />
+  <node id='1123565097' timestamp='2019-04-13T19:55:39Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9394421' lon='30.3196937' />
+  <node id='1163230457' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='70836459' lat='59.9397183' lon='30.3200741' />
+  <node id='1163230557' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='70836459' lat='59.9396646' lon='30.3209458' />
+  <node id='1163230583' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='70836459' lat='59.9396486' lon='30.3212051' />
+  <node id='1163349519' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='70836459' lat='59.9397052' lon='30.3202865' />
+  <node id='1163349528' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='70836459' lat='59.9396886' lon='30.3205568' />
+  <node id='1163366237' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='70836459' lat='59.9396269' lon='30.3215582' />
+  <node id='5406048206' timestamp='2019-04-13T20:00:44Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9395893' lon='30.3197363'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='6515094541' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70836459' lat='59.9391066' lon='30.322198'>
+    <tag k='int_name' v='Feelin' />
+    <tag k='name' v='Филин' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://feelin-hostel.ru/' />
+  </node>
+  <node id='6515094544' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70836459' lat='59.939423' lon='30.3225378'>
+    <tag k='name' v='ПиДжи Вуд' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://pgwood.ru/' />
+  </node>
+  <node id='6515094545' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70836459' lat='59.939549' lon='30.3226439'>
+    <tag k='amenity' v='events_venue' />
+    <tag k='contact:vk' v='https://vk.com/chefstudio' />
+    <tag k='name' v='Шеф-повар' />
+    <tag k='website' v='https://chef-studio.ru/' />
+  </node>
+  <node id='6515094546' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70836459' lat='59.9392003' lon='30.3224549'>
+    <tag k='contact:vk' v='https://vk.com/lazurelle' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Lazurelle' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+  </node>
+  <node id='6515094547' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70836459' lat='59.9391337' lon='30.3228609'>
+    <tag k='contact:vk' v='https://vk.com/pinkpointspb' />
+    <tag k='name' v='Pink Point' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://pink-point.ru/' />
+  </node>
+  <node id='6515128693' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70836459' lat='59.9396037' lon='30.3215541'>
+    <tag k='entrance' v='service' />
+  </node>
+  <way id='96958454' timestamp='2019-06-01T14:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='21' changeset='70836459'>
+    <nd ref='1123565080' />
+    <nd ref='1163230457' />
+    <nd ref='1163349519' />
+    <nd ref='1163349528' />
+    <nd ref='1163230557' />
+    <nd ref='1163230583' />
+    <nd ref='1163366237' />
+    <nd ref='6515128693' />
+    <nd ref='1123565089' />
+    <nd ref='1123565097' />
+    <nd ref='5406048206' />
+    <nd ref='1123565080' />
+    <tag k='brand' v='Kempinski' />
+    <tag k='brand:wikidata' v='Q671990' />
+    <tag k='int_name' v='Kempinski Moika 22' />
+    <tag k='name' v='Кемпински Мойка 22' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.kempinski.com/ru/st-petersburg/hotel-moika-22/' />
+  </way>
+</osm>

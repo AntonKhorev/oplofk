@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='771875273' timestamp='2011-01-09T00:04:59Z' uid='231182' user='klif22' visible='true' version='3' changeset='6910704' lat='59.9240269' lon='30.3367464' />
+  <node id='771875717' timestamp='2011-01-27T20:05:04Z' uid='231182' user='klif22' visible='true' version='2' changeset='7107140' lat='59.9241261' lon='30.3356558' />
+  <node id='771876025' timestamp='2010-12-07T03:30:51Z' uid='136198' user='tmprec' visible='true' version='3' changeset='6570935' lat='59.9242432' lon='30.3362568' />
+  <node id='771876163' timestamp='2010-12-26T18:58:00Z' uid='136198' user='tmprec' visible='true' version='2' changeset='6771093' lat='59.9239291' lon='30.3360138' />
+  <node id='771876429' timestamp='2011-01-27T20:05:03Z' uid='231182' user='klif22' visible='true' version='3' changeset='7107140' lat='59.9244139' lon='30.3358084' />
+  <node id='771876534' timestamp='2011-01-27T20:05:01Z' uid='231182' user='klif22' visible='true' version='2' changeset='7107140' lat='59.9240394' lon='30.3358595' />
+  <node id='771876660' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76732916' lat='59.92381841984' lon='30.33623914908' />
+  <node id='1021351638' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76732916' lat='59.9240621916' lon='30.33677553247'>
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:vk' v='https://vk.com/jazz_hall' />
+    <tag k='email' v='fdm@jazz-hall.ru' />
+    <tag k='name' v='Филармония джазовой музыки' />
+    <tag k='name:en' v='Jazz Philharmonic Hall' />
+    <tag k='website' v='https://www.jazz-hall.ru/' />
+  </node>
+  <node id='1025474413' timestamp='2010-12-07T03:30:53Z' uid='136198' user='tmprec' visible='true' version='2' changeset='6570935' lat='59.9243728' lon='30.3359228' />
+  <node id='1025474415' timestamp='2010-12-07T03:30:53Z' uid='136198' user='tmprec' visible='true' version='2' changeset='6570935' lat='59.9242879' lon='30.3361514' />
+  <node id='1069558403' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76732916' lat='59.92384071909' lon='30.336293405' />
+  <node id='3757581701' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76732916' lat='59.92379432893' lon='30.33613132491'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='contact:phone' v='+7 800 5555550' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru/' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='name:en' v='Sberbank' />
+    <tag k='name:ru' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:30-19:30' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='operator:wikipedia' v='ru:Сбербанк России' />
+    <tag k='ref' v='9055/01969' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4737706222' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76732274' lat='59.92370573341' lon='30.33587105288'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='4958942918' timestamp='2017-07-08T20:32:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50139206' lat='59.9244473' lon='30.335733' />
+  <node id='4958942919' timestamp='2017-07-08T20:32:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50139206' lat='59.9242403' lon='30.3353977' />
+  <node id='4958998558' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732916' lat='59.92430271626' lon='30.3372645'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/institutnlp' />
+    <tag k='name' v='Институт НЛП' />
+    <tag k='website' v='https://www.innlp.ru/' />
+  </node>
+  <node id='4958998559' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732916' lat='59.92429061626' lon='30.3372833'>
+    <tag k='name' v='Лабриум-консалтинг' />
+    <tag k='website' v='http://www.labrium.ru/' />
+  </node>
+  <node id='4958998560' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76732916' lat='59.92427845244' lon='30.33730405921'>
+    <tag k='amenity' v='language_school' />
+    <tag k='contact:vk' v='https://vk.com/vlplus' />
+    <tag k='name' v='Viva Lingua Group' />
+    <tag k='website' v='https://www.vivalingua.ru/' />
+  </node>
+  <node id='4958998561' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732916' lat='59.92427991626' lon='30.3372551'>
+    <tag k='contact:vk' v='https://vk.com/tm_kmalinka' />
+    <tag k='name' v='Kalinka-Malinka' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://kmalinka.com/' />
+  </node>
+  <node id='4958998562' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732916' lat='59.9242678916' lon='30.33727833246'>
+    <tag k='name' v='Геострой' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.geostroy.ru/' />
+  </node>
+  <node id='4958998563' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76732916' lat='59.92416243076' lon='30.33702060571'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/troika_konditer' />
+    <tag k='name' v='Тройка' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='https://troika-cond.ru/' />
+  </node>
+  <node id='5227588792' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732916' lat='59.92411115244' lon='30.33689505922'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/in_art_we_trust1' />
+    <tag k='description' v='Студия живописи' />
+    <tag k='name' v='У мольберта' />
+  </node>
+  <node id='6953231338' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76732916' lat='59.92427049359' lon='30.33723302118'>
+    <tag k='name' v='Русская Служба Оценки' />
+    <tag k='note' v='указан на http://www.rusvs.ru/news/2011/09/08/210.shtml' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.rusvs.ru/' />
+  </node>
+  <node id='6953231339' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76732916' lat='59.92429233641' lon='30.33723503284'>
+    <tag k='name' v='ГеоИнжПроект' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://geoingproekt.ru/' />
+  </node>
+  <node id='6953231340' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76732916' lat='59.92412196242' lon='30.33687695727'>
+    <tag k='name' v='Fractal Group' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://fractal-group.ru/' />
+  </node>
+  <node id='6953231341' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76732916' lat='59.92392266009' lon='30.33649277454'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='742766473' timestamp='2019-11-07T05:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76732916'>
+    <nd ref='771875273' />
+    <nd ref='771876025' />
+    <nd ref='1025474415' />
+    <nd ref='1025474413' />
+    <nd ref='771876429' />
+    <nd ref='4958942918' />
+    <nd ref='4958942919' />
+    <nd ref='771875717' />
+    <nd ref='771876534' />
+    <nd ref='771876163' />
+    <nd ref='771876660' />
+    <nd ref='1069558403' />
+    <nd ref='6953231341' />
+    <nd ref='771875273' />
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Детское поликлиническое отделение №12' />
+    <tag k='operator' v='СПб ГБУЗ «Городская поликлиника №37»' />
+    <tag k='website' v='http://gorpol37.spb.ru/' />
+  </way>
+</osm>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='331948669' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561' lat='59.94384465311' lon='30.39006738033' />
+  <node id='331948670' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561' lat='59.94406313704' lon='30.38966583993' />
+  <node id='331948671' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561' lat='59.94444854593' lon='30.39035445172' />
+  <node id='331948672' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561' lat='59.94435669601' lon='30.39053911751' />
+  <node id='331948717' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561' lat='59.9440655865' lon='30.38996188865' />
+  <node id='331948718' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561' lat='59.9439294678' lon='30.39023555419' />
+  <node id='331948721' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561' lat='59.94431580521' lon='30.39045803654' />
+  <node id='6275493282' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67147561' lat='59.94438622042' lon='30.3902308683'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='6275493283' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67147561' lat='59.94398774243' lon='30.38977970112' />
+  <node id='6275493284' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67147561' lat='59.94399718796' lon='30.38979843015' />
+  <node id='6275498685' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67147561' lat='59.94430496333' lon='30.39014534678' />
+  <node id='6275498686' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67147561' lat='59.94432389479' lon='30.39010728488' />
+  <way id='30122855' timestamp='2019-02-13T00:29:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67147561'>
+    <nd ref='331948669' />
+    <nd ref='6275493283' />
+    <nd ref='6275493284' />
+    <nd ref='331948670' />
+    <nd ref='6275498685' />
+    <nd ref='6275498686' />
+    <nd ref='6275493282' />
+    <nd ref='331948671' />
+    <nd ref='331948672' />
+    <nd ref='331948721' />
+    <nd ref='331948717' />
+    <nd ref='331948718' />
+    <nd ref='331948669' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Ярославская улица' />
+    <tag k='amenity' v='training' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='4' />
+    <tag k='contact:vk' v='https://vk.com/cvrcr' />
+    <tag k='name' v='Центр внешкольной работы с детьми, молодёжью и взрослыми Центрального района' />
+    <tag k='website' v='https://cvrcr.com/' />
+  </way>
+</osm>

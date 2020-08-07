@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1021175851' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66829595' lat='59.924866' lon='30.3387978'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='name' v='Фармадом' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Фармадом»' />
+    <tag k='website' v='https://www.farmadom.ru/pharmacies/725-st-m-dostoevskaya-vladimirskaya-zvenigorodskaya.html' />
+  </node>
+  <node id='3093248393' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66829595' lat='59.92537184609' lon='30.33723932145'>
+    <tag k='addr:postcode' v='191002' />
+    <tag k='addr:street' v='Загородный проспект' />
+    <tag k='contact:vk' v='https://vk.com/taiga_hostel' />
+    <tag k='name' v='Тайга' />
+    <tag k='operator' v='Алена и Макс' />
+    <tag k='phone' v='+7 981 8889983' />
+    <tag k='smoking' v='isolated' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://taiga-hostel.com' />
+  </node>
+  <node id='4959025456' timestamp='2017-07-08T21:36:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50140278' lat='59.9247672' lon='30.3385346'>
+    <tag k='contact:vk' v='https://vk.com/halloscar' />
+    <tag k='name' v='Hall Oscar' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://www.halloscar.ru/salons/~item/10' />
+  </node>
+  <node id='6251380743' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66829595' lat='59.92518402651' lon='30.33815555246'>
+    <tag k='contact:vk' v='https://vk.com/club126988815' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='Daode' />
+  </node>
+  <node id='6251380761' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66829595' lat='59.92540603546' lon='30.33764745775'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Лета' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00' />
+    <tag k='operator' v='ООО «Лета»' />
+    <tag k='website' v='http://letaspb.ru/' />
+  </node>
+  <node id='6251380762' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66829595' lat='59.9255161885' lon='30.33727667594'>
+    <tag k='contact:vk' v='https://vk.com/club401814' />
+    <tag k='name' v='Компас' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://kompas.spb.ru/' />
+  </node>
+  <node id='6251380763' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66829595' lat='59.92549878497' lon='30.33724674257'>
+    <tag k='name' v='Агентство деловых консультаций' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://adc-spb.ru/' />
+  </node>
+  <node id='6251380764' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66829595' lat='59.92544883301' lon='30.33716082735'>
+    <tag k='name' v='Петербургское бюро судебных экспертиз' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='website' v='http://pbse.pro/' />
+  </node>
+  <node id='6251380765' timestamp='2019-02-01T10:54:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66829595' lat='59.92501263896' lon='30.33807142943'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Участковый пункт полиции' />
+  </node>
+</osm>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4459987489' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63940828' lat='59.91107079394' lon='30.28821188782'>
+    <tag k='amenity' v='veterinary' />
+    <tag k='name' v='Ветклиника доктора А.Н. Ефимова' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00' />
+    <tag k='operator' v='ООО «ВетКлиника»' />
+    <tag k='website' v='http://vetdoc.ru/' />
+  </node>
+  <node id='4459987490' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63940828' lat='59.91006422575' lon='30.2887648444'>
+    <tag k='level' v='0' />
+    <tag k='name' v='РусАлка' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-21:00; Su 11:00-19:00' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='4459987491' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63940828' lat='59.91045015876' lon='30.28858714412'>
+    <tag k='contact:vk' v='https://vk.com/tsvetomania' />
+    <tag k='name' v='Цветомания' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://tsvetomania.ru/' />
+  </node>
+  <node id='5981777988' timestamp='2018-10-20T16:06:54Z' uid='392109' user='GaM' visible='true' version='3' changeset='63707973' lat='59.9101757' lon='30.2888462'>
+    <tag k='brand' v='Fix Price' />
+    <tag k='brand:wikidata' v='Q4038791' />
+    <tag k='brand:wikipedia' v='ru:Fix Price (сеть магазинов)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/fixprice36' />
+    <tag k='contact:instagram' v='https://www.instagram.com/fixprice_official' />
+    <tag k='contact:ok' v='https://ok.ru/fixprice' />
+    <tag k='contact:phone' v='+7 800 7753515' />
+    <tag k='contact:twitter' v='https://twitter.com/fix_price' />
+    <tag k='contact:vk' v='https://vk.com/fix_price' />
+    <tag k='contact:website' v='https://www.fix-price.ru' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/fixprice36' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Фикс Прайс' />
+    <tag k='name:en' v='Fix Price' />
+    <tag k='name:ru' v='Фикс Прайс' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Бэст Прайс»' />
+    <tag k='shop' v='variety_store' />
+    <tag k='website' v='http://fixprice.ru' />
+  </node>
+  <node id='6018687050' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91010281803' lon='30.28878350055'>
+    <tag k='level' v='0' />
+    <tag k='name' v='Технолог' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 09:00-19:00' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://технологспб.рф/' />
+  </node>
+  <node id='6018687051' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91094299628' lon='30.28819601021'>
+    <tag k='contact:vk' v='https://vk.com/questorit' />
+    <tag k='name' v='Questor IT' />
+    <tag k='office' v='it' />
+    <tag k='website' v='https://www.questor.ru/' />
+  </node>
+  <node id='6018687052' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91104221633' lon='30.28823214976'>
+    <tag k='name' v='rt-med' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.rtmed.ru/' />
+  </node>
+  <node id='6018687053' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91104118994' lon='30.28826325998'>
+    <tag k='contact:vk' v='https://vk.com/larga_company' />
+    <tag k='name' v='Larga' />
+    <tag k='office' v='it' />
+    <tag k='website' v='https://www.larga.ru/' />
+  </node>
+  <node id='6018687054' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.9110579988' lon='30.28825253114'>
+    <tag k='name' v='Нострум' />
+    <tag k='office' v='it' />
+    <tag k='website' v='http://nostrum.ru/' />
+  </node>
+  <node id='6018687055' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91104791349' lon='30.28830483422'>
+    <tag k='name' v='Балтийский Бизнес Партнер' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://bbp-spb.ru/' />
+  </node>
+  <node id='6018687056' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91106404999' lon='30.28829075262'>
+    <tag k='name' v='Межрегиональный центр экспертизы и сертификации' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://rusexpertiza.ru/' />
+  </node>
+  <node id='6018687057' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91105396468' lon='30.28833970293'>
+    <tag k='brand' v='Navitel' />
+    <tag k='brand:wikidata' v='Q4311380' />
+    <tag k='contact:vk' v='https://vk.com/navitelnavigator' />
+    <tag k='name' v='Navitel' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://navitel.ru/' />
+  </node>
+  <node id='6018687058' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91107010118' lon='30.28832629189'>
+    <tag k='name' v='Научно-производственное объединение «Спектрон»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://spectronxray.ru/' />
+  </node>
+  <node id='6018687063' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91024243392' lon='30.28868276463'>
+    <tag k='amenity' v='pub' />
+    <tag k='name' v='Пивас' />
+  </node>
+  <node id='6018687064' timestamp='2018-10-28T03:33:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63940828' lat='59.91029718716' lon='30.28865756051'>
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='toys' />
+  </node>
+</osm>

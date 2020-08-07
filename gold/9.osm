@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1287116746' timestamp='2018-06-07T02:02:03Z' uid='437809' user='Anton Khorev' version='5' changeset='59618492' lat='59.9301276' lon='30.3473586'>
+    <tag k='contact:vk' v='https://vk.com/7shagoff' />
+    <tag k='name' v='Семишагофф' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='operator' v='ООО «ТК Триумф»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://semishagoff.org/' />
+  </node>
+  <node id='5677730354' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.93019642577' lon='30.34702107176'>
+    <tag k='clothes' v='hats' />
+    <tag k='name' v='Шляпный салонъ Ольги Макеевой' />
+    <tag k='opening_hours' v='11:00-19:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://шляпныйсалон.рф/' />
+  </node>
+  <node id='5677730355' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.93020180151' lon='30.34698217973'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:vk' v='https://vk.com/fsalon_spb' />
+    <tag k='name' v='Fiancée' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://fsalon.ru/' />
+  </node>
+  <node id='5677730356' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.93021028459' lon='30.34701066652'>
+    <tag k='contact:vk' v='https://vk.com/nastroeniespb' />
+    <tag k='name' v='Настроение' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://buket-podarki.ru/' />
+  </node>
+  <node id='5677730359' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.93024807079' lon='30.34681550172'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/potrefena' />
+    <tag k='name' v='Подстреленная гусыня' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-02:00' />
+    <tag k='operator' v='ООО «Элефант»' />
+    <tag k='website' v='https://www.pivnicespb.ru/' />
+  </node>
+  <node id='5677730360' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.93026631747' lon='30.34672127477'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/onaklinika' />
+    <tag k='name' v='Она' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://ona-clinic.ru/' />
+  </node>
+  <node id='5677730361' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.93037920022' lon='30.34597366914'>
+    <tag k='contact:vk' v='https://vk.com/mangoflats' />
+    <tag k='name' v='Mango' />
+    <tag k='note' v='возможно не работает' />
+    <tag k='tourism' v='hostel' />
+  </node>
+  <node id='5677730362' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.9303939834' lon='30.34598573908'>
+    <tag k='contact:vk' v='https://vk.com/hotel_graff' />
+    <tag k='name' v='Graff' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5677730363' timestamp='2018-06-09T12:14:23Z' uid='437809' user='Anton Khorev' version='1' changeset='59689684' lat='59.93040726478' lon='30.34599485787'>
+    <tag k='name' v='Нева' />
+    <tag k='tourism' v='hostel' />
+  </node>
+</osm>

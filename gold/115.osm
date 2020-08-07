@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803971060' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='62931261' lat='59.93033903161' lon='30.31405238526' />
+  <node id='803971068' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='4' changeset='48229800' lat='59.9307921' lon='30.3158177' />
+  <node id='803971107' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='5' changeset='48229800' lat='59.9306989' lon='30.3145088' />
+  <node id='803971112' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62931261' lat='59.92988469937' lon='30.3144891054' />
+  <node id='803971115' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='5' changeset='48229800' lat='59.9305949' lon='30.3146204' />
+  <node id='803971223' timestamp='2012-01-12T22:29:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10374346' lat='59.9306522' lon='30.3152047' />
+  <node id='803971237' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='5' changeset='48229800' lat='59.93053' lon='30.3147438' />
+  <node id='803971241' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='6' changeset='48229800' lat='59.9303986' lon='30.3163989' />
+  <node id='803971247' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='5' changeset='48229800' lat='59.9304974' lon='30.3146226' />
+  <node id='803971250' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='4' changeset='48229800' lat='59.9306242' lon='30.314936' />
+  <node id='803971265' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='62931261' lat='59.93052734558' lon='30.31387136948' />
+  <node id='803971271' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='5' changeset='48229800' lat='59.9306061' lon='30.3146622' />
+  <node id='803971299' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='4' changeset='48229800' lat='59.9306538' lon='30.3146111' />
+  <node id='803971320' timestamp='2012-01-12T22:29:42Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10374346' lat='59.930589' lon='30.314976' />
+  <node id='803971325' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='4' changeset='48229800' lat='59.930715' lon='30.3148386' />
+  <node id='803971328' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='6' changeset='48229800' lat='59.9304068' lon='30.3143204' />
+  <node id='803971351' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='4' changeset='48229800' lat='59.930635' lon='30.3161454' />
+  <node id='803971380' timestamp='2017-04-28T14:16:17Z' uid='615059' user='misht' visible='true' version='4' changeset='48229800' lat='59.9306879' lon='30.3159294' />
+  <node id='918186963' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62931261' lat='59.93076935661' lon='30.31369544732'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/public156613743' />
+    <tag k='name' v='ШарБар' />
+    <tag k='opening_hours' v='Mo-Th 11:00-23:00; Fr-Su 12:00-00:00' />
+    <tag k='operator' v='ООО «Аленький»' />
+  </node>
+  <node id='1000780542' timestamp='2018-05-09T18:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='58827764' lat='59.9320687' lon='30.312396'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/ohmumbai' />
+    <tag k='cuisine' v='indian' />
+    <tag k='name' v='Oh! Mumbai' />
+    <tag k='website' v='http://ohmumbai.ru/' />
+  </node>
+  <node id='1290938720' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62931261' lat='59.93119520738' lon='30.3132762452'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Вигнетто»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/84802/' />
+  </node>
+  <node id='1290938732' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62931261' lat='59.93105728942' lon='30.31341220864'>
+    <tag k='contact:vk' v='https://vk.com/shok_i_trepet' />
+    <tag k='name' v='Шок и Трепет' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='1756320358' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62931261' lat='59.93071135482' lon='30.31379249232'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4526920758' timestamp='2017-04-28T14:16:19Z' uid='615059' user='misht' visible='true' version='2' changeset='48229800' lat='59.9306019' lon='30.3160225' />
+  <node id='4526920759' timestamp='2016-11-28T20:13:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='44017394' lat='59.9308143' lon='30.3157944' />
+  <node id='4792752856' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62931261' lat='59.93066252136' lon='30.31380070453'>
+    <tag k='amenity' v='post_office' />
+    <tag k='brand' v='FedEx' />
+    <tag k='brand:wikidata' v='Q459477' />
+    <tag k='name' v='СВТ-Петербург' />
+    <tag k='opening_hours' v='Mo-Th 09:00-20:00; Fr 09:00-19:00; Sa 09:00-17:00' />
+    <tag k='website' v='http://svt.web-hand.ru/' />
+  </node>
+  <node id='4792752857' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62931261' lat='59.93070340379' lon='30.31376033369'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/bigcoffeespb' />
+    <tag k='name' v='Big Coffee' />
+  </node>
+  <node id='4792752858' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62931261' lat='59.93092412124' lon='30.31354331917'>
+    <tag k='brand' v='Otis' />
+    <tag k='brand:wikidata' v='Q1134069' />
+    <tag k='name' v='Отис Лифт, Адмиралтейское отделение' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-17:00; 12:00-13:00 off' />
+    <tag k='operator' v='ООО «Отис Лифт»' />
+  </node>
+  <node id='4792752859' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62931261' lat='59.93138659351' lon='30.31308221174'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:facebook' v='https://www.facebook.com/slaviabank/' />
+    <tag k='name' v='Славия' />
+    <tag k='website' v='http://www.slaviabank.ru/branch/branch/spb/' />
+  </node>
+  <node id='4792752866' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62931261' lat='59.93159821476' lon='30.31287668945'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/loungezoneunity' />
+    <tag k='name' v='Unity' />
+    <tag k='website' v='http://unity-sennaya-centr.ru/' />
+  </node>
+  <node id='4792752867' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62931261' lat='59.93182130527' lon='30.31263707794'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/sixtytwobar' />
+    <tag k='name' v='62 Bar' />
+    <tag k='opening_hours' v='Su-Th 13:00-01:00, Fr-Sa 14:00-02:00' />
+  </node>
+  <node id='4792752868' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62931261' lat='59.93187366659' lon='30.3125861301'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/dm_bar_spb' />
+    <tag k='name' v='Depeche Mode' />
+    <tag k='website' v='http://dmbar.spb.ru/' />
+  </node>
+  <node id='5930388660' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93145029166' lon='30.31304687195'>
+    <tag k='brand' v='Baker McKenzie' />
+    <tag k='brand:wikidata' v='Q804340' />
+    <tag k='name' v='Бейкер и Макензи' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://www.bakermckenzie.com/en/locations/emea/russia' />
+  </node>
+  <node id='5930388661' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93146525543' lon='30.31303344383'>
+    <tag k='brand' v='PwC' />
+    <tag k='brand:wikidata' v='Q488048' />
+    <tag k='name' v='PwC' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.pwc.ru/ru/about/offices/stpetersburg.html' />
+  </node>
+  <node id='5930388662' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93147994013' lon='30.31302026615'>
+    <tag k='name' v='Эволюция в действии' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5930388663' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93149363218' lon='30.31300797924'>
+    <tag k='name' v='Правда' />
+    <tag k='office' v='advertising_agency' />
+    <tag k='website' v='https://pravda.agency/' />
+  </node>
+  <node id='5930388664' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93145600349' lon='30.31307771668'>
+    <tag k='brand' v='Московская биржа' />
+    <tag k='brand:wikidata' v='Q2632892' />
+    <tag k='contact:vk' v='https://vk.com/public48776635' />
+    <tag k='name' v='Московская биржа' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://micex-nw.com/' />
+  </node>
+  <node id='5930388665' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93146989095' lon='30.31306469785'>
+    <tag k='name' v='Агентство ПМА' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.pmagency.ru/' />
+  </node>
+  <node id='5930388666' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93148407033' lon='30.31305140535'>
+    <tag k='name' v='Атон' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.aton.ru/contacts/branch/?id=24544' />
+  </node>
+  <node id='5930388667' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93150035158' lon='30.31303614244'>
+    <tag k='contact:vk' v='https://vk.com/holdingancor' />
+    <tag k='name' v='Анкор' />
+    <tag k='office' v='employment_agency' />
+    <tag k='website' v='https://ancor.ru/' />
+  </node>
+  <node id='5930388668' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93101575334' lon='30.31345284189'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Benny Coffee' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa-Su,PH 10:00-20:00' />
+    <tag k='website' v='http://bennycoffee.ru/' />
+  </node>
+  <node id='5930388670' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261' lat='59.93050184335' lon='30.31389588343'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='456432796' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62931261'>
+    <nd ref='803971112' />
+    <nd ref='803971060' />
+    <nd ref='803971328' />
+    <nd ref='803971247' />
+    <nd ref='803971237' />
+    <nd ref='803971299' />
+    <nd ref='803971325' />
+    <nd ref='803971250' />
+    <nd ref='803971320' />
+    <nd ref='803971223' />
+    <nd ref='4526920759' />
+    <nd ref='803971068' />
+    <nd ref='803971380' />
+    <nd ref='4526920758' />
+    <nd ref='803971351' />
+    <nd ref='803971241' />
+    <nd ref='803971112' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Вторая Санкт-Петербургская гимназия' />
+    <tag k='website' v='http://www.2spbg.ru/' />
+    <tag k='wikidata' v='Q4127845' />
+  </way>
+  <way id='628169951' timestamp='2018-09-26T01:27:01Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62931261'>
+    <nd ref='803971060' />
+    <nd ref='803971328' />
+    <nd ref='803971247' />
+    <nd ref='803971237' />
+    <nd ref='803971271' />
+    <nd ref='803971115' />
+    <nd ref='803971107' />
+    <nd ref='803971265' />
+    <nd ref='5930388670' />
+    <nd ref='803971060' />
+    <tag k='contact:vk' v='https://vk.com/rgoclub' />
+    <tag k='name' v='Русское географическое общество' />
+    <tag k='name:de' v='Russische Geographische Gesellschaft' />
+    <tag k='name:en' v='Russian Geographical Society' />
+    <tag k='name:es' v='Sociedad Geográfica Rusa' />
+    <tag k='name:fr' v='Société russe de géographie' />
+    <tag k='name:it' v='Società geografica russa' />
+    <tag k='name:ru' v='Русское географическое общество' />
+    <tag k='office' v='association' />
+    <tag k='short_name' v='РГО' />
+    <tag k='short_name:ru' v='РГО' />
+    <tag k='website' v='http://www.rgo.ru/' />
+    <tag k='wikidata' v='Q726762' />
+    <tag k='wikipedia' v='ru:Русское географическое общество' />
+  </way>
+</osm>

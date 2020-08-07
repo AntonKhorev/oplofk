@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1788521346' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='5' changeset='59862348' lat='59.94759178835' lon='30.35907809044'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='delivery' v='yes' />
+    <tag k='internet_access:wlan' v='yes' />
+    <tag k='name' v='Сладкоежка' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa, Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Тим»' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='website' v='https://www.sladkoezka.com.ru/' />
+  </node>
+  <node id='2283375286' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='9' changeset='59862348' lat='59.94665651464' lon='30.35905839799'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Беларусачка' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-23:00; Sa, Su 09:00-22:00' />
+    <tag k='origin' v='belorussian' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2952630823' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='3' changeset='59862348' lat='59.94714008457' lon='30.35906932553'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/lamiafirenze' />
+    <tag k='name' v='La Mia Firenze' />
+    <tag k='name:it' v='La Mia Firenze' />
+    <tag k='name:ru' v='Моя Флоренция' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-24:00, Sa,Su 12:00-24:00' />
+    <tag k='website' v='http://myflorence.ru/' />
+  </node>
+  <node id='2952630824' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='4' changeset='59862348' lat='59.94681463631' lon='30.35906197488'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Екiбастуз' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='2952630825' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='4' changeset='59862348' lat='59.94719946761' lon='30.35907066678'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='cuisine' v='shawarma' />
+    <tag k='name' v='Бистро' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='takeaway' v='yes' />
+  </node>
+  <node id='5194951377' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='2' changeset='59862348' lat='59.94722838462' lon='30.35907107239'>
+    <tag k='clothes' v='underwear' />
+    <tag k='name' v='Неженка' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5194952355' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='3' changeset='59862348' lat='59.94673044955' lon='30.3590600584'>
+    <tag k='contact:vk' v='https://vk.com/bulkib' />
+    <tag k='internet_access:type' v='wlan' />
+    <tag k='name' v='Булки-баранки' />
+    <tag k='opening_hours' v='Mo-Su 08:00-22:00' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:mir' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://bulki-baranki.com/' />
+  </node>
+  <node id='5194952357' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='3' changeset='59862348' lat='59.94748305791' lon='30.35907615913'>
+    <tag k='contact:vk' v='https://vk.com/ludilovebakery' />
+    <tag k='name' v='ЛюдиЛюбят' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00' />
+    <tag k='operator' v='ООО Булочная №1' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://ludilove.ru/' />
+  </node>
+  <node id='5691927346' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='1' changeset='59862348' lat='59.94737142666' lon='30.35907407414'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Минутка»' />
+    <tag k='phone' v='+7 812 5791903' />
+  </node>
+  <node id='5691927347' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='1' changeset='59862348' lat='59.94716461056' lon='30.35906987948'>
+    <tag k='name' v='Креатюр' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://creatur.business.site/' />
+  </node>
+  <node id='5691927348' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='1' changeset='59862348' lat='59.9470382778' lon='30.35906702609'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/mfbagel' />
+    <tag k='name' v='MF Bagel' />
+    <tag k='opening_hours' v='11:00+' />
+    <tag k='operator' v='ООО «Бейгл»' />
+  </node>
+  <node id='5691927349' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='1' changeset='59862348' lat='59.94699467327' lon='30.35906604123'>
+    <tag k='contact:vk' v='https://vk.com/chetyreglaza' />
+    <tag k='name' v='Четыре глаза' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='optics' />
+    <tag k='website' v='https://www.4glaza.ru/' />
+  </node>
+  <node id='5691927350' timestamp='2018-06-15T00:40:41Z' uid='437809' user='Anton Khorev' version='1' changeset='59862348' lat='59.94673209198' lon='30.35903066263'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Пышечная фабрика' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='website' v='http://pishechnaya-fabrika.com/' />
+  </node>
+</osm>

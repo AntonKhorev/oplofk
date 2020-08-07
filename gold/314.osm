@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2060775780' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75030296' lat='59.92430508079' lon='30.34730197381'>
+    <tag k='contact:vk' v='https://vk.com/zoo_k9' />
+    <tag k='name' v='K-9' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ИП Карташова И.В.' />
+    <tag k='shop' v='pet' />
+  </node>
+  <node id='2060775781' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75030296' lat='59.92427638203' lon='30.3473772266'>
+    <tag k='contact:vk' v='https://vk.com/akvalink' />
+    <tag k='name' v='Аквалинк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa-Su 10:00-17:00' />
+    <tag k='shop' v='bathroom_furnishing' />
+    <tag k='website' v='https://akvalink.ru/' />
+  </node>
+  <node id='2060775782' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75030296' lat='59.9244296175' lon='30.34697539411'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/club45456896' />
+    <tag k='name' v='Плюшкин дом' />
+    <tag k='smoking' v='no' />
+    <tag k='website' v='http://www.plushkin-dom.ru/' />
+  </node>
+  <node id='2255546219' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75030296' lat='59.92451793076' lon='30.34675187452'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/more_insideyou/' />
+    <tag k='name' v='Море внутри тебя' />
+    <tag k='website' v='http://neva-press.com/?page_id=46' />
+  </node>
+  <node id='2645471246' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75030296' lat='59.92485638251' lon='30.34591028638'>
+    <tag k='brand' v='Комус' />
+    <tag k='brand:wikidata' v='Q4230314' />
+    <tag k='contact:vk' v='https://vk.com/komus_club' />
+    <tag k='name' v='Комус' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00' />
+    <tag k='operator' v='ООО «Комус»' />
+    <tag k='shop' v='stationery' />
+    <tag k='website' v='https://www.komus.ru/store/sankt-peterburg/tts-vladimirskij/s/58/' />
+  </node>
+  <node id='3635136655' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75030296' lat='59.92474631141' lon='30.34618595935'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/crabstoryspb' />
+    <tag k='cuisine' v='regional;seafood;russian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Crab Story' />
+    <tag k='opening_hours' v='Mo-Su 12:00-23:00' />
+    <tag k='phone' v='+7 921 9080288' />
+    <tag k='website' v='https://crabstory.ru/' />
+  </node>
+  <node id='3635136656' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75030296' lat='59.92480294037' lon='30.34604413229'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/archimedclinic' />
+    <tag k='name' v='АрхиМед' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://archimedclinic.com/' />
+  </node>
+  <node id='3635136657' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75030296' lat='59.92493710356' lon='30.34570812001'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Союз' />
+    <tag k='brand:wikidata' v='Q4430442' />
+    <tag k='name' v='Союз' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:00; Sa 10:00-18:30' />
+    <tag k='operator' v='Банк Союз (АО)' />
+    <tag k='operator:wikidata' v='Q4430442' />
+    <tag k='website' v='https://www.banksoyuz.ru/' />
+  </node>
+  <node id='3635136658' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75030296' lat='59.92499711969' lon='30.34555780892'>
+    <tag k='name' v='Арктика' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://spb-arktika.ru/' />
+  </node>
+  <node id='5738277662' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75030296' lat='59.92460890942' lon='30.34652692374'>
+    <tag k='contact:vk' v='https://vk.com/public179894147' />
+    <tag k='name' v='Народный фермер' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='6831828743' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75030296' lat='59.92456853363' lon='30.34662702201'>
+    <tag k='contact:instagram' v='https://www.instagram.com/shishka.spb/' />
+    <tag k='name' v='Шишка' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='6831828744' timestamp='2019-09-28T01:50:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75030296' lat='59.92468291272' lon='30.3463439452'>
+    <tag k='contact:vk' v='https://vk.com/salon_aris' />
+    <tag k='name' v='Арис' />
+    <tag k='opening_hours' v='09:30-22:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+</osm>

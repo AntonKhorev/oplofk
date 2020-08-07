@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2597926155' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='2' changeset='61003266' lat='59.92300973374' lon='30.34649251751'>
+    <tag k='contact:vk' v='https://vk.com/spbfriends' />
+    <tag k='name' v='Друзья' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://www.friendsplace.ru/druzya-na-dostoevskogo/' />
+  </node>
+  <node id='3614187012' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='3' changeset='61003266' lat='59.92344688867' lon='30.34736887973'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4079965115' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='4' changeset='61003266' lat='59.92364701252' lon='30.34777007083'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Столовая' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='5780573058' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92354216034' lon='30.34755987187'>
+    <tag k='contact:vk' v='https://vk.com/kvesterspb' />
+    <tag k='leisure' v='escape_game' />
+    <tag k='name' v='Kvester' />
+    <tag k='website' v='http://kvester.com/' />
+  </node>
+  <node id='5780573059' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92331818183' lon='30.3471108606'>
+    <tag k='contact:vk' v='https://vk.com/pokerfacespb' />
+    <tag k='name' v='Poker Face' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5780573060' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92326487185' lon='30.34700399015'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/expertbar' />
+    <tag k='int_name' v='Expert' />
+    <tag k='name' v='Эксперт' />
+  </node>
+  <node id='5780573061' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92293596955' lon='30.34634464395'>
+    <tag k='name' v='Joy' />
+    <tag k='operator' v='ИП Сахневич М.В.' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://joyhostel.ru/' />
+  </node>
+  <node id='5780573062' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92288836249' lon='30.34624920724'>
+    <tag k='brand' v='Otis' />
+    <tag k='brand:wikidata' v='Q1134069' />
+    <tag k='name' v='Отис Лифт' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-17:00; 12:00-13:00 off' />
+  </node>
+  <node id='5780573063' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92264467622' lon='30.34584894642'>
+    <tag k='contact:vk' v='https://vk.com/vivasanofficial' />
+    <tag k='name' v='Vivasan' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.vivasanint.com/' />
+  </node>
+  <node id='5780573064' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92265811861' lon='30.34582346544'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/labstori' />
+    <tag k='health_facility:type' v='laboratory' />
+    <tag k='name' v='ЛабСтори' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-17:00; Sa 09:00-15:00' />
+    <tag k='website' v='https://www.labstori.ru/' />
+  </node>
+  <node id='5780573065' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92245565185' lon='30.3453818576'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Эко-безопасность' />
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='operator' v='ООО «Медицинский центр Эко-безопасность»' />
+    <tag k='website' v='http://ecosafety.ru/ru/kontakty/ul-dostoevskogo-d-40-44/' />
+  </node>
+  <node id='5780573074' timestamp='2018-07-24T02:24:36Z' uid='437809' user='Anton Khorev' version='1' changeset='61003266' lat='59.92210644811' lon='30.34468186351'>
+    <tag k='amenity' v='social_facility' />
+    <tag k='contact:vk' v='https://vk.com/csriidicrspb' />
+    <tag k='name' v='Центр социальной реабилитации инвалидов и детей-инвалидов Центрального района' />
+    <tag k='social_facility' v='ambulatory_care' />
+    <tag k='social_facility:for' v='disabled' />
+    <tag k='website' v='http://gutcsriditsr.acentr.gov.spb.ru/' />
+  </node>
+</osm>

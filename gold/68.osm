@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1158913777' timestamp='2012-03-10T10:36:12Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9223441' lon='30.282869' />
+  <node id='1158913782' timestamp='2012-03-10T10:36:13Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9226116' lon='30.2821099' />
+  <node id='1158913787' timestamp='2012-03-10T10:36:13Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9222672' lon='30.2826905' />
+  <node id='1313396108' timestamp='2012-03-10T10:36:23Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229516' lon='30.2820303' />
+  <node id='1313396122' timestamp='2012-03-10T10:36:23Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229437' lon='30.2820435' />
+  <node id='1313396129' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229315' lon='30.2822192' />
+  <node id='1313396130' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229643' lon='30.2822967'>
+    <tag k='barrier' v='lift_gate' />
+  </node>
+  <node id='1313396139' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9229087' lon='30.2822575' />
+  <node id='1313396141' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230472' lon='30.2822879' />
+  <node id='1313396153' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9224354' lon='30.282407' />
+  <node id='1313396155' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.922785' lon='30.282346' />
+  <node id='1313396156' timestamp='2012-03-10T10:36:24Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228996' lon='30.2821437' />
+  <node id='1313396170' timestamp='2012-03-10T10:36:25Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228297' lon='30.2817424' />
+  <node id='1313396176' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228801' lon='30.2820976' />
+  <node id='1313396178' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9225622' lon='30.2827008' />
+  <node id='1313396180' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230204' lon='30.2824293' />
+  <node id='1313396194' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230144' lon='30.2822105' />
+  <node id='1313396195' timestamp='2012-03-10T10:36:26Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.922511' lon='30.282582' />
+  <node id='1313396196' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9226902' lon='30.2829971' />
+  <node id='1313396209' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9227632' lon='30.2822944' />
+  <node id='1313396212' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='3' changeset='10930118' lat='59.9225435' lon='30.2826574'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1313396217' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9228768' lon='30.2821819' />
+  <node id='1313396219' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230643' lon='30.282354' />
+  <node id='1313396223' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9230409' lon='30.2822988' />
+  <node id='1313396224' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9225248' lon='30.2826142' />
+  <node id='1313396227' timestamp='2012-03-10T10:36:27Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9227422' lon='30.2824183' />
+  <node id='1313577012' timestamp='2012-03-10T10:36:28Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9224824' lon='30.2831901' />
+  <node id='1313577044' timestamp='2012-03-10T10:36:30Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9225349' lon='30.2832628' />
+  <node id='1313577058' timestamp='2012-03-10T10:36:32Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9223751' lon='30.2829411'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1313577069' timestamp='2012-03-10T10:36:33Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.9224945' lon='30.283169' />
+  <node id='1313577088' timestamp='2012-03-10T10:36:34Z' uid='437809' user='Anton Khorev' version='2' changeset='10930118' lat='59.922396' lon='30.2829896' />
+  <node id='4545919016' timestamp='2018-08-19T19:09:28Z' uid='437809' user='Anton Khorev' version='2' changeset='61801704' lat='59.92196437931' lon='30.28324793363'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/stomasofia' />
+    <tag k='name' v='София' />
+    <tag k='opening_hours' v='Mo-Tu 14:00-20:00; Fr 14:00-20:00; Sa 11:00-17:00' />
+    <tag k='phone' v='+7 812 9727676' />
+  </node>
+  <way id='116527201' timestamp='2017-06-25T05:41:48Z' uid='437809' user='Anton Khorev' version='4' changeset='49806503'>
+    <nd ref='1313396141' />
+    <nd ref='1313396223' />
+    <nd ref='1313396219' />
+    <nd ref='1313396180' />
+    <nd ref='1313396130' />
+    <nd ref='1313396129' />
+    <nd ref='1313396139' />
+    <nd ref='1313396217' />
+    <nd ref='1313396156' />
+    <nd ref='1313396176' />
+    <nd ref='1313396209' />
+    <nd ref='1313396155' />
+    <nd ref='1313396227' />
+    <nd ref='1158913782' />
+    <nd ref='1313396170' />
+    <nd ref='1313396108' />
+    <nd ref='1313396122' />
+    <nd ref='1313396194' />
+    <nd ref='1313396141' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='набережная реки Пряжки' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='5' />
+    <tag k='contact:vk' v='https://vk.com/redstarshotel' />
+    <tag k='email' v='res@red-stars-hotel.ru' />
+    <tag k='name' v='Red Stars' />
+    <tag k='phone' v='+7 812 6404000' />
+    <tag k='stars' v='3' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://red-stars-hotel.ru' />
+  </way>
+  <way id='618074674' timestamp='2018-08-19T19:09:28Z' uid='437809' user='Anton Khorev' version='1' changeset='61801704'>
+    <nd ref='1313396153' />
+    <nd ref='1158913787' />
+    <nd ref='1158913777' />
+    <nd ref='1313577058' />
+    <nd ref='1313577088' />
+    <nd ref='1313577012' />
+    <nd ref='1313577069' />
+    <nd ref='1313577044' />
+    <nd ref='1313396196' />
+    <nd ref='1313396178' />
+    <nd ref='1313396212' />
+    <nd ref='1313396224' />
+    <nd ref='1313396195' />
+    <nd ref='1313396153' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №48' />
+    <tag k='website' v='http://gbdou48.ucoz.net/' />
+  </way>
+</osm>

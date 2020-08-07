@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1026826940' timestamp='2010-12-07T17:28:43Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9436479' lon='30.3522527' />
+  <node id='1026827170' timestamp='2010-12-07T17:28:46Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9435071' lon='30.3523862' />
+  <node id='1026827327' timestamp='2010-12-07T17:28:48Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9434948' lon='30.3532581' />
+  <node id='1026827384' timestamp='2010-12-07T17:28:49Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9435362' lon='30.3516765' />
+  <node id='1026827485' timestamp='2015-10-07T08:03:18Z' uid='386821' user='paavolobja' visible='true' version='2' changeset='34485057' lat='59.9434063' lon='30.3517451' />
+  <node id='1026827687' timestamp='2010-12-07T17:28:53Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.943593' lon='30.3519739' />
+  <node id='1026827705' timestamp='2010-12-07T17:28:54Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9434954' lon='30.3526272' />
+  <node id='1026827825' timestamp='2010-12-07T17:28:56Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9433411' lon='30.3514974' />
+  <node id='1026827854' timestamp='2010-12-07T17:28:56Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9434404' lon='30.3514964' />
+  <node id='1026827896' timestamp='2010-12-07T17:28:57Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9436478' lon='30.3524817' />
+  <node id='1026827903' timestamp='2010-12-07T17:28:58Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9435594' lon='30.3530158' />
+  <node id='1026827920' timestamp='2010-12-07T17:28:58Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9434597' lon='30.352844' />
+  <node id='1026828023' timestamp='2010-12-07T17:29:00Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9433251' lon='30.3515374' />
+  <node id='1026828093' timestamp='2010-12-07T17:29:01Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9433259' lon='30.3514976' />
+  <node id='1026828129' timestamp='2010-12-07T17:29:01Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9436217' lon='30.3522546' />
+  <node id='1026828178' timestamp='2015-10-07T08:03:18Z' uid='386821' user='paavolobja' visible='true' version='2' changeset='34485057' lat='59.9434989' lon='30.3521916' />
+  <node id='1026828288' timestamp='2010-12-07T17:29:04Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9434613' lon='30.3519692' />
+  <node id='1026828332' timestamp='2010-12-07T17:29:05Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9436197' lon='30.3524845' />
+  <node id='1026828335' timestamp='2010-12-07T17:29:05Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9434092' lon='30.3530577' />
+  <node id='1026828471' timestamp='2010-12-07T17:29:07Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9433466' lon='30.353257' />
+  <node id='1026828585' timestamp='2010-12-07T17:29:09Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9436032' lon='30.3527206' />
+  <node id='1026828629' timestamp='2010-12-07T17:29:09Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9433462' lon='30.3532027' />
+  <node id='1026828823' timestamp='2010-12-07T17:29:12Z' uid='205886' user='Diomas' visible='true' version='1' changeset='6577233' lat='59.9434538' lon='30.351403' />
+  <node id='2751328934' timestamp='2018-09-14T02:17:01Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62569808' lat='59.9433031' lon='30.3506839'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='Росдорбанк' />
+    <tag k='website' v='https://www.rdb.ru/' />
+  </node>
+  <node id='3776185975' timestamp='2015-10-07T08:03:13Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='34485057' lat='59.9433654' lon='30.3516245' />
+  <node id='3776185980' timestamp='2015-10-07T08:03:13Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='34485057' lat='59.9434384' lon='30.3518561' />
+  <node id='3776185982' timestamp='2015-10-07T08:03:13Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='34485057' lat='59.9434807' lon='30.3520688' />
+  <node id='3776185983' timestamp='2015-10-07T08:03:13Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='34485057' lat='59.9435048' lon='30.3525028' />
+  <node id='5334116462' timestamp='2018-01-11T23:55:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55366758' lat='59.9432994' lon='30.3512762'>
+    <tag k='name' v='Гарантъ' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='shop' v='dry_cleaning' />
+    <tag k='website' v='http://www.himchistka-garant.ru/himchistka/manezhnyi/' />
+  </node>
+  <node id='5334116463' timestamp='2018-01-11T23:55:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55366758' lat='59.9433005' lon='30.35111'>
+    <tag k='name' v='Legno' />
+    <tag k='shop' v='flooring' />
+    <tag k='website' v='http://legnospb.ru/' />
+  </node>
+  <node id='5814972256' timestamp='2018-09-14T02:17:01Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62569808' lat='59.94330395485' lon='30.35055431627'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/mr.bo.spb/' />
+    <tag k='name' v='Mr. Bo' />
+  </node>
+  <way id='88391185' timestamp='2018-01-11T23:55:47Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='55366758'>
+    <nd ref='1026828823' />
+    <nd ref='1026827384' />
+    <nd ref='1026827687' />
+    <nd ref='1026828129' />
+    <nd ref='1026826940' />
+    <nd ref='1026827896' />
+    <nd ref='1026828332' />
+    <nd ref='1026828585' />
+    <nd ref='1026827903' />
+    <nd ref='1026827327' />
+    <nd ref='1026828471' />
+    <nd ref='1026828629' />
+    <nd ref='1026828335' />
+    <nd ref='1026827920' />
+    <nd ref='1026827705' />
+    <nd ref='3776185983' />
+    <nd ref='1026827170' />
+    <nd ref='1026828178' />
+    <nd ref='3776185982' />
+    <nd ref='1026828288' />
+    <nd ref='3776185980' />
+    <nd ref='1026827485' />
+    <nd ref='3776185975' />
+    <nd ref='1026828023' />
+    <nd ref='1026828093' />
+    <nd ref='1026827825' />
+    <nd ref='1026827854' />
+    <nd ref='1026828823' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Преображенская площадь' />
+    <tag k='amenity' v='embassy' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='4' />
+    <tag k='country' v='FI' />
+    <tag k='diplomatic' v='consulate_general' />
+    <tag k='name' v='Генеральное консульство Финляндии' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-16:15' />
+    <tag k='website' v='http://www.finland.org.ru/public/default.aspx?nodeid=36973' />
+  </way>
+</osm>

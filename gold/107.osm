@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='930392346' timestamp='2018-09-14T01:38:52Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62569460' lat='59.92634889699' lon='30.31278310603'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/ukusno' />
+    <tag k='cuisine' v='balkan' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Ukusno' />
+    <tag k='opening_hours' v='Su-Th 12:00-23:00; Fr-Sa 12:00-01:00' />
+  </node>
+  <node id='1401317132' timestamp='2018-09-14T01:38:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62569460' lat='59.92645317852' lon='30.31266373791'>
+    <tag k='contact:vk' v='https://vk.com/salonsharlizspb' />
+    <tag k='name' v='Шарлиз' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00' />
+    <tag k='operator' v='ИП Кондрашкин Николай Сергеевич' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://sharm-salons.ru/' />
+  </node>
+  <node id='4636387234' timestamp='2018-09-14T01:38:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62569460' lat='59.92623799546' lon='30.31290990103'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/kafeagnia' />
+    <tag k='name' v='Агния' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='operator' v='ООО «3 Обезьяны»' />
+    <tag k='website' v='http://kafe-agnija.mozello.ru/' />
+  </node>
+  <node id='4636387235' timestamp='2018-09-14T01:38:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62569460' lat='59.92661326364' lon='30.312480334'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/horns.hooves18/' />
+    <tag k='name' v='Рога и копыта' />
+    <tag k='name:en' v='Horns &amp; Hooves' />
+    <tag k='name:ru' v='Рога и копыта' />
+    <tag k='opening_hours' v='12:00+' />
+    <tag k='website' v='https://horns.tastetoeat.ru/' />
+  </node>
+</osm>

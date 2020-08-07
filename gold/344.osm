@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='456956561' timestamp='2019-11-07T07:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='76736142' lat='59.9277595' lon='30.3429093'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/thesizzlespb/' />
+    <tag k='name' v='The Sizzle' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-01:00' />
+    <tag k='operator' v='ООО «Веранда К»' />
+    <tag k='website' v='https://sizzle.rest/' />
+  </node>
+  <node id='941164598' timestamp='2018-06-29T04:10:35Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='60265049' lat='59.9281087' lon='30.3432131'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/bazaranetbar' />
+    <tag k='name' v='Базара нет' />
+  </node>
+  <node id='999492841' timestamp='2019-11-07T07:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='76736142' lat='59.9264912' lon='30.3422644'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/kentuckywingsbar/' />
+    <tag k='name' v='Kentucky' />
+    <tag k='note' v='возможно досюда расширился Frank' />
+    <tag k='opening_hours' v='Su-Th 12:00-01:00; Fr-Sa 12:00-03:00' />
+    <tag k='phone' v='+79217814949' />
+    <tag k='website' v='https://kentucky-bar.business.site/' />
+  </node>
+  <node id='999492861' timestamp='2019-08-21T15:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='73587546' lat='59.926409' lon='30.3422069'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/frank5uglov/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/frankmeat/' />
+    <tag k='contact:vk' v='https://vk.com/frankmeat' />
+    <tag k='name' v='Frank' />
+    <tag k='opening_hours' v='Su-Th 12:00-01:00, Fr-Sa 12:00-03:00' />
+    <tag k='website' v='https://frankmeat.ru/' />
+  </node>
+  <node id='999492864' timestamp='2019-02-05T22:00:13Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='66945990' lat='59.9267361' lon='30.3424158'>
+    <tag k='contact:vk' v='https://vk.com/eurasiahotels' />
+    <tag k='name' v='Династия' />
+    <tag k='operator' v='ООО «Особняк»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.eurasia-hotel.ru/hotels/dynasty' />
+  </node>
+  <node id='1004426017' timestamp='2019-02-05T22:00:13Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66945990' lat='59.9273784' lon='30.3427486'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/tres_amigos' />
+    <tag k='cuisine' v='mexican' />
+    <tag k='name' v='Tres Amigos' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-24:00; Sa,Su 12:00-24:00' />
+    <tag k='phone' v='+7 812 5722685' />
+    <tag k='website' v='https://tres-amigos.ru/' />
+  </node>
+  <node id='3797172795' timestamp='2019-11-07T07:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='76736142' lat='59.92702' lon='30.3425706'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/anonymous.drinkers' />
+    <tag k='name' v='Diligent Drinkers' />
+    <tag k='opening_hours' v='18:00+' />
+    <tag k='website' v='https://hatgroup.ru/aoud/' />
+  </node>
+  <node id='4246781571' timestamp='2019-11-07T07:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='76736142' lat='59.9269156' lon='30.3425171'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:facebook' v='https://www.facebook.com/larisochnaya/' />
+    <tag k='contact:vk' v='https://vk.com/larisochnaya' />
+    <tag k='name' v='У Ларисы' />
+    <tag k='opening_hours' v='Su-Th 12:00-04:00, Fr-Sa 12:00-06:00' />
+    <tag k='operator' v='ООО «Акт»' />
+    <tag k='phone' v='+7 921 9034490' />
+  </node>
+  <node id='4280642210' timestamp='2019-03-30T21:07:01Z' uid='9451067' user='b-jazz-bot' visible='true' version='7' changeset='68709757' lat='59.9268392' lon='30.3424742'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Orera' />
+    <tag k='opening_hours' v='Mo-Su 12:00-01:00' />
+    <tag k='operator' v='ООО «Премиум»' />
+    <tag k='website' v='https://cafe-750.business.site/' />
+  </node>
+  <node id='4373270427' timestamp='2019-11-07T07:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76736142' lat='59.9276284' lon='30.3428373'>
+    <tag k='construction:amenity' v='bar' />
+    <tag k='name' v='Компромисс' />
+  </node>
+  <node id='5233938284' timestamp='2019-02-05T22:00:13Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66945990' lat='59.9279538' lon='30.3430165'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/youngaseafood' />
+    <tag k='name' v='Юнга' />
+    <tag k='opening_hours' v='Su-Th 12:00-23:30, Fr-Sa 12:00-01:00' />
+    <tag k='operator' v='ООО «Друзья»' />
+    <tag k='website' v='http://www.youngaseafood.ru/' />
+  </node>
+  <node id='5233938285' timestamp='2018-06-29T04:10:37Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='60265049' lat='59.927524' lon='30.3428965'>
+    <tag k='club' v='yes' />
+    <tag k='name' v='Подростково-молодежный клуб «На Троицкой»' />
+    <tag k='website' v='http://perspektiva-klab.ru/podrostkovo-molodezhnyie-klubyi/na-troiczkoj' />
+  </node>
+  <node id='5233938286' timestamp='2019-02-05T22:00:13Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66945990' lat='59.9271577' lon='30.3426193'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/rowdybar' />
+    <tag k='name' v='Mr. Rowdy &amp; Co' />
+    <tag k='opening_hours' v='Su-Th 15:00-03:00, Fr-Sa 15:00-06:00' />
+  </node>
+  <node id='5233938287' timestamp='2019-02-05T22:00:13Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66945990' lat='59.9271282' lon='30.3425991'>
+    <tag k='addr:floor' v='2' />
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:facebook' v='https://www.facebook.com/puffs.5uglov/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/half.of.you/' />
+    <tag k='contact:vk' v='https://vk.com/half_of_you_hookah' />
+    <tag k='name' v='1/2 of You' />
+    <tag k='old_name' v='Puffs' />
+    <tag k='website' v='https://www.puffshookah.ru/' />
+  </node>
+  <node id='5233938288' timestamp='2019-08-21T15:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='73587546' lat='59.9266543' lon='30.3423692'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Династия' />
+    <tag k='opening_hours' v='12:00-00:00' />
+    <tag k='website' v='https://apriori-resto.ru/nashi-restorany/dynasty-cafe' />
+  </node>
+  <node id='5233938289' timestamp='2019-02-05T22:00:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66945990' lat='59.9265719' lon='30.3423134'>
+    <tag k='contact:instagram' v='https://www.instagram.com/blackpumastudio/' />
+    <tag k='contact:vk' v='https://vk.com/blackpumastudio' />
+    <tag k='dance:teaching' v='yes' />
+    <tag k='leisure' v='dance' />
+    <tag k='name' v='Black Puma' />
+  </node>
+  <node id='5378608243' timestamp='2019-11-07T07:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76736142' lat='59.9271034' lon='30.3425822'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/anonymous.drinkers' />
+    <tag k='name' v='Анонимное общество усердных дегустаторов' />
+    <tag k='opening_hours' v='10:00-02:00' />
+    <tag k='website' v='https://hatgroup.ru/aoud/' />
+  </node>
+  <node id='5378608244' timestamp='2019-11-07T07:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76736142' lat='59.9272207' lon='30.3427095'>
+    <tag k='contact:instagram' v='https://www.instagram.com/kvartiralee/' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='disused:cuisine' v='chinese' />
+    <tag k='name' v='Китайская квартира Брюса Ли' />
+  </node>
+</osm>

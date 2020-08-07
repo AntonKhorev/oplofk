@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2405751006' timestamp='2019-08-01T01:37:58Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72877257' lat='59.9286769' lon='30.3094038'>
+    <tag k='contact:vk' v='https://vk.com/hotelcolumb' />
+    <tag k='name' v='Колумб' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://hotelcolumb.ru/' />
+  </node>
+  <node id='2405751007' timestamp='2019-08-01T01:37:58Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72877257' lat='59.9289713' lon='30.309677'>
+    <tag k='contact:vk' v='https://vk.com/hotelpetrovskydvor' />
+    <tag k='name' v='Петровский двор' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.petrovskydvor.com/' />
+  </node>
+  <node id='6666948681' timestamp='2019-08-01T01:37:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72877257' lat='59.928786' lon='30.3098075'>
+    <tag k='leisure' v='sauna' />
+    <tag k='note' v='https://saunapiter.ru/katalog/kazanskaya' />
+    <tag k='phone' v='+7 812 6481230' />
+  </node>
+  <node id='6666948683' timestamp='2019-08-01T01:37:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72877257' lat='59.9287188' lon='30.3092583'>
+    <tag k='contact:vk' v='https://vk.com/repair_of_watches' />
+    <tag k='craft' v='watchmaker' />
+    <tag k='name' v='Секунда' />
+    <tag k='website' v='http://cekunda.com/' />
+  </node>
+  <node id='6666948684' timestamp='2019-08-01T01:37:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72877257' lat='59.9289393' lon='30.3087315'>
+    <tag k='clothes' v='underwear' />
+    <tag k='contact:instagram' v='https://www.instagram.com/original_sin_spb/' />
+    <tag k='name' v='Original Sin' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6666962585' timestamp='2019-08-01T01:37:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72877257' lat='59.9285064' lon='30.3086263'>
+    <tag k='contact:vk' v='https://vk.com/stationhotels' />
+    <tag k='name' v='Station K43' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://station-hotels.ru/k43' />
+  </node>
+</osm>

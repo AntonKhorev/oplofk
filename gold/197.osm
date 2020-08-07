@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='455298814' timestamp='2019-01-12T07:31:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66245241' lat='59.93988674775' lon='30.36080893552'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/club553820' />
+    <tag k='name' v='Foggy Dew' />
+    <tag k='opening_hours' v='Mo-Su 12:00-02:00' />
+    <tag k='website' v='http://foggydew.pub/' />
+  </node>
+  <node id='2974761163' timestamp='2019-01-12T07:31:04Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66245241' lat='59.93960672478' lon='30.36079223699'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/beerdietspb' />
+    <tag k='name' v='Пивная диета' />
+  </node>
+  <node id='3092903109' timestamp='2019-01-12T07:31:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66245241' lat='59.93994215438' lon='30.36081245704'>
+    <tag k='food' v='yes' />
+    <tag k='name' v='Продукты' />
+    <tag k='name:ru' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='5228146990' timestamp='2019-01-12T07:31:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66245241' lat='59.93957511487' lon='30.36079027302'>
+    <tag k='contact:vk' v='https://vk.com/bulkakhleba' />
+    <tag k='name' v='Булка хлеба' />
+    <tag k='opening_hours' v='Mo-Fr 07:45-22:00; Sa-Su 10:00-22:00' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://bulkahleba.com/' />
+  </node>
+  <node id='6202776090' timestamp='2019-01-12T07:31:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66245241' lat='59.93964089559' lon='30.36079430798'>
+    <tag k='contact:vk' v='https://vk.com/cvetovikspb' />
+    <tag k='name' v='Цветовик' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://cvetovik.com/' />
+  </node>
+  <node id='6202776091' timestamp='2019-01-12T07:31:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66245241' lat='59.93968049224' lon='30.36079681754'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/hochuvsibirbar' />
+    <tag k='name' v='Хочу в Сибирь' />
+  </node>
+  <node id='6202776092' timestamp='2019-01-12T07:31:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66245241' lat='59.94010511219' lon='30.36082346011'>
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:vk' v='https://vk.com/vmtheatre_spb' />
+    <tag k='name' v='Камерный театр Малыщицкого' />
+    <tag k='phone' v='+7 812 5798836' />
+    <tag k='website' v='http://www.vmtheatre.ru/' />
+    <tag k='wikidata' v='Q55658113' />
+  </node>
+</osm>

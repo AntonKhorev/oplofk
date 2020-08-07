@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2061515913' timestamp='2019-11-07T06:43:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76734194' lat='59.9256124' lon='30.3407316'>
+    <tag k='brand' v='Лосево' />
+    <tag k='contact:vk' v='https://vk.com/shplosevo' />
+    <tag k='disused:shop' v='dairy' />
+    <tag k='name' v='Лосево' />
+    <tag k='operator' v='ООО «СХП Лосево»' />
+    <tag k='website' v='https://www.shp-losevo.ru/' />
+  </node>
+  <node id='2061518215' timestamp='2019-11-07T06:43:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76734194' lat='59.9256575' lon='30.340849'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Хлеб и кофе' />
+  </node>
+  <node id='3126973929' timestamp='2019-11-07T06:43:12Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='76734194' lat='59.9260072' lon='30.3417192'>
+    <tag k='contact:vk' v='https://vk.com/ts_norman' />
+    <tag k='name' v='Норман' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ООО «Норман СПб»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://norman-spb.ru/' />
+  </node>
+  <node id='3525642293' timestamp='2019-09-27T01:09:56Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='74985285' lat='59.9261819' lon='30.3421505'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/robataspb' />
+    <tag k='cuisine' v='japanese' />
+    <tag k='name' v='Robata' />
+    <tag k='opening_hours' v='12:00-02:00' />
+    <tag k='phone' v='+7 812 9150013' />
+    <tag k='website' v='http://robatabar.ru/' />
+  </node>
+  <node id='3633026185' timestamp='2019-11-07T06:43:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76734194' lat='59.9260934' lon='30.3418451'>
+    <tag k='name' v='Пятый угол' />
+    <tag k='name:en' v='Fifth Corner' />
+    <tag k='name:ru' v='Пятый угол' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.5ugol.ru/' />
+  </node>
+  <node id='4852088804' timestamp='2019-02-07T10:29:09Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66989863' lat='59.925522' lon='30.3404394'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/mashita_info' />
+    <tag k='cuisine' v='ramen' />
+    <tag k='name' v='Mashita' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='operator' v='ООО «Профит»' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='http://mashita-ramen.ru/' />
+  </node>
+  <node id='4959118418' timestamp='2019-11-07T06:43:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76734194' lat='59.9260723' lon='30.3418809'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club15483918' />
+    <tag k='name' v='xren' />
+    <tag k='website' v='http://www.5ugol.ru/hotel/facilities.php' />
+  </node>
+  <node id='4959118419' timestamp='2019-02-07T10:29:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66989863' lat='59.9256994' lon='30.3409557'>
+    <tag k='contact:vk' v='https://vk.com/gradusi_market' />
+    <tag k='name' v='Градусы всего мира' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.gradusi.net/shops/spb/1219/' />
+  </node>
+  <node id='4959118420' timestamp='2019-02-07T10:29:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66989863' lat='59.9253007' lon='30.3399083'>
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='4959118821' timestamp='2019-11-07T06:43:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76734194' lat='59.9252636' lon='30.3398123'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Donner City' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='4959118822' timestamp='2019-02-07T10:29:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66989863' lat='59.9251873' lon='30.3396133'>
+    <tag k='contact:vk' v='https://vk.com/ostrov_spa' />
+    <tag k='name' v='Остров Spa' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://ostrovspa.wixsite.com/ostrovspa-1' />
+  </node>
+</osm>

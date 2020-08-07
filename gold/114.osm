@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='773932428' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='62930378' lat='59.9235916' lon='30.309787'>
+    <tag k='name' v='На Садовой' />
+    <tag k='note' v='на сайте написано, что закрыта' />
+    <tag k='operator' v='ООО «Гостиница «На Садовой»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.sadovaya53.ru/' />
+  </node>
+  <node id='2054963539' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62930378' lat='59.92360030326' lon='30.30985273809'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/royal.pizza' />
+    <tag k='cuisine' v='pizza' />
+    <tag k='email' v='info@royalpizza.ru' />
+    <tag k='name' v='Роял пицца' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО &quot;БиКей&quot;' />
+    <tag k='phone' v='+7 812 4485310' />
+    <tag k='website' v='https://royalpizza.ru/' />
+  </node>
+  <node id='2197612195' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62930378' lat='59.9235259' lon='30.3096736'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Cherry' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-22:00; Su 12:00-22:00' />
+  </node>
+  <node id='2500790735' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62930378' lat='59.9242256' lon='30.3113319'>
+    <tag k='name' v='Tigratoys.ru' />
+    <tag k='note' v='в том же зале хозтовары' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ИП Воронцов А.С.' />
+    <tag k='shop' v='toys' />
+  </node>
+  <node id='2500790736' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62930378' lat='59.92372990648' lon='30.31016602453'>
+    <tag k='name' v='Графит' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='stationery' />
+    <tag k='website' v='http://www.grafitspb.com/' />
+  </node>
+  <node id='2500790737' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62930378' lat='59.92414222155' lon='30.31115828337'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №32' />
+    <tag k='website' v='http://ds32spb.nubex.ru/' />
+  </node>
+  <node id='3717031466' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62930378' lat='59.92368840927' lon='30.31006601625'>
+    <tag k='contact:vk' v='https://vk.com/telefonybu' />
+    <tag k='name' v='Проект связь' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='http://www.sviaz.spb.ru/' />
+  </node>
+  <node id='4351122992' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62930378' lat='59.92401549508' lon='30.31085339412'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club165020651' />
+    <tag k='name' v='Perbacco' />
+    <tag k='opening_hours' v='11:00-24:00' />
+    <tag k='operator' v='ООО «Триколоре»' />
+  </node>
+  <node id='4379839789' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62930378' lat='59.92411341643' lon='30.31108932676'>
+    <tag k='contact:vk' v='https://vk.com/pchelaspb_ru' />
+    <tag k='name' v='Пчеловодство' />
+    <tag k='name:ru' v='Пчеловодство' />
+    <tag k='opening_hours' v='Mo-Su 10:00-19:00' />
+    <tag k='operator' v='ИП Полякова Т.Г.' />
+    <tag k='shop' v='honey' />
+    <tag k='website' v='https://pchelaspb.ru/' />
+  </node>
+  <node id='4572503999' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62930378' lat='59.92375784096' lon='30.31023288439'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Вкусная шаверма' />
+  </node>
+  <node id='4572504000' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62930378' lat='59.92326980351' lon='30.30904803145'>
+    <tag k='amenity' v='courthouse' />
+    <tag k='name' v='Мировые судьи, участки №№ 1, 2, 3, 4, 40' />
+    <tag k='website' v='https://mirsud.spb.ru/' />
+  </node>
+  <node id='4572504001' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62930378' lat='59.9231102013' lon='30.30866572026'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/club45456896' />
+    <tag k='name' v='Плюшкин дом' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 10:00-20:00' />
+    <tag k='website' v='http://www.plushkin-dom.ru/' />
+  </node>
+  <node id='4572504002' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62930378' lat='59.92306120151' lon='30.30854875764'>
+    <tag k='name' v='Межрайонная инспекция ФНС России № 4' />
+    <tag k='office' v='government' />
+    <tag k='opening_hours' v='Mo,We 09:00-18:00; Tu,Th 09:00-20:00; Fr 09:00-16:45; Sa[2,4] 10:00-15:00' />
+    <tag k='website' v='https://www.nalog.ru/rn78/ifns/imns78_35/' />
+  </node>
+  <node id='4572504003' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62930378' lat='59.92307442589' lon='30.30852471534'>
+    <tag k='amenity' v='social_facility' />
+    <tag k='name' v='Отдел социальной защиты населения' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00' />
+    <tag k='website' v='http://gov.spb.ru/gov/terr/reg_admiral/otdel-socialnoj-zashity-naseleniya/' />
+  </node>
+  <node id='4572504004' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62930378' lat='59.92304577538' lon='30.30851213941'>
+    <tag k='name' v='Городской информационно-методический центр «Семья»' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://www.homekid.ru/' />
+  </node>
+  <node id='4572504005' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62930378' lat='59.92297748844' lon='30.30834944853'>
+    <tag k='name' v='Агентство занятости населения Адмиралтейского района' />
+    <tag k='office' v='employment_agency' />
+    <tag k='website' v='https://www.r21.spb.ru/empl/about/info/detail.htm?id=24917' />
+  </node>
+  <node id='5782613181' timestamp='2018-07-24T18:54:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61033924' lat='59.9241669' lon='30.3112181'>
+    <tag k='craft' v='shoemaker;tailor' />
+  </node>
+  <node id='5782613182' timestamp='2018-07-24T18:54:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='61033924' lat='59.9242695' lon='30.3111989'>
+    <tag k='name' v='Серебро' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='jewelry' />
+  </node>
+  <node id='5782613183' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62930378' lat='59.924268' lon='30.3113202'>
+    <tag k='contact:vk' v='https://vk.com/kultsna' />
+    <tag k='name' v='Культ сна' />
+    <tag k='note' v='также одежда' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='bed' />
+    <tag k='website' v='https://www.kultsna.ru/' />
+  </node>
+  <node id='5930316379' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378' lat='59.92395954999' lon='30.31077509488'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5930316380' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378' lat='59.92380402954' lon='30.31040069695'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='5930316381' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378' lat='59.92390256627' lon='30.31020433245' />
+  <node id='5930316382' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378' lat='59.92406984127' lon='30.31062306929' />
+  <node id='5930316383' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378' lat='59.92396701858' lon='30.31079307471' />
+  <node id='5930316384' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378' lat='59.92379579202' lon='30.31038086546' />
+  <node id='5930317586' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378' lat='59.92305937148' lon='30.30848845705'>
+    <tag k='name' v='Адмиралтейский райжилобмен' />
+    <tag k='office' v='estate_agent' />
+    <tag k='operator' v='СПб ГБУ «Горжилобмен»' />
+    <tag k='website' v='http://obmencity.ru/' />
+  </node>
+  <way id='628162719' timestamp='2018-09-25T23:55:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62930378'>
+    <nd ref='5930316382' />
+    <nd ref='5930316383' />
+    <nd ref='5930316379' />
+    <nd ref='5930316380' />
+    <nd ref='5930316384' />
+    <nd ref='5930316381' />
+    <nd ref='5930316382' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/evrasiaspb' />
+    <tag k='cuisine' v='japanese' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Евразия' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:00, Fr-Sa 11:00-05:00' />
+    <tag k='operator' v='ООО «Сола»' />
+    <tag k='phone' v='+7 812 2510054' />
+    <tag k='website' v='https://evrasia.spb.ru/' />
+  </way>
+</osm>

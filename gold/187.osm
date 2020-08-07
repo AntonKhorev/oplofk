@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2599969361' timestamp='2019-01-05T01:15:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66038255' lat='59.9427086' lon='30.3430275'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/tarelka_life' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Тарелка' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ООО «Гермес»' />
+    <tag k='website' v='http://tarelkas.ru/cafes/gagarinskaya-ul-d-25/' />
+  </node>
+  <node id='2955779132' timestamp='2019-01-05T01:15:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66038255' lat='59.94315278915' lon='30.34296588652'>
+    <tag k='name' v='Антик' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='phone' v='+7 960 2376794' />
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='6185121893' timestamp='2019-01-05T01:15:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66038255' lat='59.94310604586' lon='30.34297388085'>
+    <tag k='contact:vk' v='https://vk.com/club47670703' />
+    <tag k='name' v='Vikki' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.vikki.pro/' />
+  </node>
+  <node id='6185121894' timestamp='2019-01-05T01:15:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66038255' lat='59.94290761275' lon='30.34300689058'>
+    <tag k='name' v='МиниМаркет' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='6185121895' timestamp='2019-01-05T01:15:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66038255' lat='59.94290698721' lon='30.34297205956'>
+    <tag k='contact:vk' v='https://vk.com/beerforall' />
+    <tag k='name' v='3,14-во' />
+    <tag k='shop' v='alcohol' />
+  </node>
+</osm>

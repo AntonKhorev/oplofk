@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1097942528' timestamp='2018-06-30T05:12:40Z' uid='437809' user='Anton Khorev' version='5' changeset='60293736' lat='59.9159216' lon='30.3142353'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/clubkofevarim' />
+    <tag k='name' v='Кофеварим' />
+    <tag k='opening_hours' v='07:00-23:00' />
+  </node>
+  <node id='4714867664' timestamp='2018-07-16T23:33:21Z' uid='437809' user='Anton Khorev' version='3' changeset='60778396' lat='59.91567177054' lon='30.31429345365'>
+    <tag k='name' v='Медок' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='honey' />
+    <tag k='website' v='https://www.medokspb.ru/' />
+  </node>
+  <node id='4714867666' timestamp='2018-07-16T23:33:21Z' uid='437809' user='Anton Khorev' version='4' changeset='60778396' lat='59.91571380749' lon='30.31436708849'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/leningradskie_pyshki' />
+    <tag k='cuisine' v='donut' />
+    <tag k='name' v='Ленинградские пышки' />
+  </node>
+  <node id='4714867667' timestamp='2018-07-16T23:33:21Z' uid='437809' user='Anton Khorev' version='2' changeset='60778396' lat='59.91548590748' lon='30.31424727172'>
+    <tag k='alt_name' v='Концерн «СОППОЛ»' />
+    <tag k='name' v='Охранное предприятие «ВПК»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://vpksecurity.ru/' />
+  </node>
+  <node id='4714867668' timestamp='2018-07-16T23:33:21Z' uid='437809' user='Anton Khorev' version='2' changeset='60778396' lat='59.91546570243' lon='30.31424805115'>
+    <tag k='contact:vk' v='https://vk.com/vestaavia' />
+    <tag k='name' v='Веста-Авиа' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://vesta-avia.spb.ru/' />
+  </node>
+</osm>

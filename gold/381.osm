@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7734309837' timestamp='2020-07-21T15:43:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302112' lat='59.92238117173' lon='30.37130727066'>
+    <tag k='contact:vk' v='https://vk.com/club75857907' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='Студия пилатеса Марии Варакиной' />
+    <tag k='website' v='https://www.mvpilates.ru/our-studios/studiya-na-kremenchugskoy-ulice/' />
+  </node>
+  <node id='7734309838' timestamp='2020-07-21T15:43:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302112' lat='59.92232485505' lon='30.37069055544'>
+    <tag k='name' v='Промтехсервис' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-17:00; 12:00-13:00 off' />
+    <tag k='phone' v='+7 922 0625565' />
+  </node>
+  <node id='7734309839' timestamp='2020-07-21T15:43:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302112' lat='59.92235669383' lon='30.37103988543'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/dinidi.cafe/' />
+    <tag k='name' v='Dini Di' />
+    <tag k='website' v='https://dinidicafe.ru/' />
+  </node>
+  <node id='7734309841' timestamp='2020-07-21T15:43:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302112' lat='59.92220641315' lon='30.36938838885'>
+    <tag k='contact:vk' v='https://vk.com/salonstolitsa' />
+    <tag k='name' v='Столица' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Стельмах А.С.' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://salon-stolitsa.ru/' />
+  </node>
+  <node id='7734309842' timestamp='2020-07-21T15:43:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88302112' lat='59.92218991982' lon='30.36920783482'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:instagram' v='https://www.instagram.com/xachy_est/' />
+    <tag k='name' v='#х@чу есть' />
+    <tag k='opening_hours' v='11:00-21:00' />
+  </node>
+</osm>

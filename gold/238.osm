@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3398908370' timestamp='2019-02-06T20:31:25Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='66975610' lat='59.924726' lon='30.3240837'>
+    <tag k='contact:vk' v='https://vk.com/adi.magazin' />
+    <tag k='name' v='Ади' />
+    <tag k='office' v='company' />
+    <tag k='phone' v='+7 812 4906161;+7 904 6121256' />
+    <tag k='website' v='http://www.adipro.ru/' />
+  </node>
+  <node id='3942487551' timestamp='2019-02-06T20:31:25Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='66975610' lat='59.924755' lon='30.3242539'>
+    <tag k='contact:phone' v='+7 909 5775792' />
+    <tag k='contact:vk' v='https://vk.com/id504269008' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Алые паруса' />
+    <tag k='phone' v='+7 921 9242004' />
+    <tag k='rooms' v='9' />
+    <tag k='smoking' v='isolated' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://fontanka89.ru/' />
+  </node>
+  <node id='6262590860' timestamp='2019-02-06T20:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66975610' lat='59.9248481' lon='30.3238916'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/buhelita' />
+    <tag k='description' v='Бухгалтерские курсы' />
+    <tag k='name' v='Новый мир' />
+    <tag k='website' v='http://www.buxcenter.ru/' />
+  </node>
+  <node id='6262590871' timestamp='2019-02-06T20:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66975610' lat='59.9250494' lon='30.3234775'>
+    <tag k='contact:vk' v='https://vk.com/vdspb' />
+    <tag k='name' v='Врачи детям' />
+    <tag k='office' v='ngo' />
+    <tag k='website' v='https://vd-spb.ru/' />
+  </node>
+</osm>

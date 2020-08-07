@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='989073099' timestamp='2018-07-24T00:24:16Z' uid='437809' user='Anton Khorev' version='7' changeset='61002190' lat='59.92157822258' lon='30.3446742991'>
+    <tag k='brand' v='Полушка' />
+    <tag k='brand:wikidata' v='Q4371080' />
+    <tag k='name' v='Полушка' />
+    <tag k='name:ru' v='Полушка' />
+    <tag k='note' v='нет на сайте' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Сити Ритейл»' />
+    <tag k='phone' v='+7 800 3330019' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.polushka.info/' />
+  </node>
+</osm>

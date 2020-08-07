@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4069356166' timestamp='2018-10-07T04:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='63270111' lat='59.92105141299' lon='30.35350326365'>
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='brand:wikipedia' v='ru:Пятёрочка' />
+    <tag k='contact:email' v='vopros@5ka.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pyaterochka' />
+    <tag k='contact:ok' v='https://ok.ru/x5pyaterka' />
+    <tag k='contact:phone' v='+7 800 5555505' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='contact:website' v='https://5ka.ru' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='shop' v='supermarket' />
+  </node>
+  <node id='5963305806' timestamp='2018-10-07T04:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63270111' lat='59.92081152292' lon='30.35286529648'>
+    <tag k='club' v='yes' />
+    <tag k='name' v='Подростково-молодежный клуб «На Коломенской»' />
+    <tag k='website' v='http://perspektiva-klab.ru/podrostkovo-molodezhnyie-klubyi/na-kolomenskoj' />
+  </node>
+  <node id='5963305807' timestamp='2018-10-07T04:19:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63270111' lat='59.92103625481' lon='30.35352676973'>
+    <tag k='contact:vk' v='https://vk.com/bmoyo' />
+    <tag k='name' v='БельёМоё' />
+    <tag k='shop' v='dry_cleaning' />
+    <tag k='website' v='http://belyomoyo.ru/adress/prachechnaya-na-ligovskom-107/' />
+  </node>
+</osm>

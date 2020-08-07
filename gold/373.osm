@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1275130016' timestamp='2019-05-24T16:48:23Z' uid='103003' user='Alexandrcfif' visible='true' version='13' changeset='70592974' lat='59.9223551' lon='30.2929959'>
+    <tag k='brand' v='Ароматный мир' />
+    <tag k='contact:facebook' v='https://www.facebook.com/amwine.ru' />
+    <tag k='contact:instagram' v='https://instagram.com/amwine.ru' />
+    <tag k='contact:twitter' v='https://twitter.com/amwineru' />
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='drink:beer' v='bottled' />
+    <tag k='drink:cider' v='bottled' />
+    <tag k='drink:cognac' v='bottled' />
+    <tag k='drink:soft_drink' v='bottled' />
+    <tag k='drink:sparkling_wine' v='bottled' />
+    <tag k='drink:vodka' v='bottled' />
+    <tag k='drink:whisky' v='bottled' />
+    <tag k='drink:wine' v='bottled' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='name:ru' v='Ароматный мир' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='operator' v='ООО «Объект Плюс»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='short_name' v='Ам' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/433803/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4464785455' timestamp='2020-06-23T09:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='87026730' lat='59.9229355' lon='30.292515'>
+    <tag k='contact:vk' v='https://vk.com/club40510175' />
+    <tag k='name' v='Le Monde' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://lemondesalonkrasoty.business.site/' />
+  </node>
+  <node id='4464785456' timestamp='2020-06-23T09:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='87026730' lat='59.9233216' lon='30.2921908'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Ararat-Wine-602377876595889/' />
+    <tag k='contact:vk' v='https://vk.com/araratwine' />
+    <tag k='name' v='Ararat Wine' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='https://www.ararat-wine.ru/' />
+  </node>
+  <node id='4464785457' timestamp='2020-06-23T09:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='87026730' lat='59.9226411' lon='30.2927589'>
+    <tag k='alt_name' v='Пекарня на Лермонтовском' />
+    <tag k='contact:vk' v='https://vk.com/club115780446' />
+    <tag k='name' v='Калачи' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:30; Sa 10:00-20:00; Su off' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='bakery' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4464785458' timestamp='2019-05-18T13:09:20Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='70386842' lat='59.922509' lon='30.2928681'>
+    <tag k='amenity' v='cafe' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='4464785459' timestamp='2020-06-23T09:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='87026730' lat='59.9225699' lon='30.2928179'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/dedho_cafe' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='name' v='Дед Хо' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='operator' v='ИП Мохов Виктор Александрович' />
+    <tag k='website' v='https://dedho.ru/stores/b4eddd19-97d8-48a7-bcf7-351e47d6d29e' />
+  </node>
+  <node id='4464785460' timestamp='2020-06-23T09:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='87026730' lat='59.9227098' lon='30.2927018'>
+    <tag k='name' v='#пивоварня78' />
+    <tag k='opening_hours' v='Mo-Th 11:00-23:00; Fr-Su 13:00-00:00' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='6482377628' timestamp='2020-06-23T09:58:09Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87026730' lat='59.9235832' lon='30.2919768'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/kosherrestaurant' />
+    <tag k='delivery' v='yes' />
+    <tag k='int_name' v='Chaikhana Kosher' />
+    <tag k='name' v='Чайхана Кошер' />
+    <tag k='opening_hours' v='Mo-Th 12:00-23:00; Fr 10:00-sunset; Su 10:00-00:00' />
+    <tag k='phone' v='+7 812 7707770' />
+    <tag k='website' v='https://www.chaihana-kosher.ru/' />
+  </node>
+</osm>

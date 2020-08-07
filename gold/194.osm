@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1137700064' timestamp='2019-01-10T05:58:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66183922' lat='59.94133346527' lon='30.3627541914' />
+  <node id='1137700097' timestamp='2019-01-10T05:58:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66183922' lat='59.94132999353' lon='30.36292174355' />
+  <node id='1137700105' timestamp='2019-01-10T07:12:21Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66185212' lat='59.94157681779' lon='30.36315757023' />
+  <node id='1137700132' timestamp='2019-01-10T05:58:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66183922' lat='59.94142147827' lon='30.36292476134' />
+  <node id='1137700134' timestamp='2019-01-10T07:12:21Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66185212' lat='59.94158279511' lon='30.36276745441' />
+  <node id='1431083719' timestamp='2019-01-10T05:58:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66183922' lat='59.94141869131' lon='30.36314831779' />
+  <node id='2404701739' timestamp='2019-01-10T09:16:15Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66188124' lat='59.94155512143' lon='30.36339900615'>
+    <tag k='amenity' v='pub' />
+    <tag k='name' v='Траппист' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-02:00' />
+    <tag k='phone' v='+7 812 2759935' />
+    <tag k='website' v='https://beercard.ru/trappist/' />
+  </node>
+  <node id='6197772902' timestamp='2019-01-10T09:16:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66188124' lat='59.94156546722' lon='30.36272523956'>
+    <tag k='contact:vk' v='https://vk.com/club6727081' />
+    <tag k='name' v='Solo' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://solo-hotel.com/hostel-solo.html' />
+  </node>
+  <node id='6197772903' timestamp='2019-01-10T09:16:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66188124' lat='59.94156195302' lon='30.3629451712'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Венерди' />
+    <tag k='website' v='https://www.eurasia-hotel.ru/hotels/privilegia/cafe' />
+  </node>
+  <node id='6197772904' timestamp='2019-01-10T09:16:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66188124' lat='59.94158002797' lon='30.36294805475'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='98333868' timestamp='2019-01-10T09:16:15Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66188124'>
+    <nd ref='1431083719' />
+    <nd ref='1137700132' />
+    <nd ref='1137700097' />
+    <nd ref='1137700064' />
+    <nd ref='1137700134' />
+    <nd ref='6197772904' />
+    <nd ref='1137700105' />
+    <nd ref='1431083719' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Гродненский переулок' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Привилегия' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.eurasia-hotel.ru/hotels/privilegia' />
+  </way>
+</osm>

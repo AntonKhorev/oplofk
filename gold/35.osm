@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803916906' timestamp='2018-07-05T20:35:11Z' uid='437809' user='Anton Khorev' version='4' changeset='60447196' lat='59.9271792' lon='30.327298'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Участковый пункт полиции' />
+    <tag k='opening_hours' v='Tu,Th 18:00-20:00; Sa[2],Su[4] 12:00-14:00' />
+  </node>
+  <node id='1829865110' timestamp='2018-07-05T20:35:11Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9276355' lon='30.3274279' />
+  <node id='1991339733' timestamp='2018-07-05T20:35:11Z' uid='437809' user='Anton Khorev' version='7' changeset='60447196' lat='59.9273851' lon='30.3275166' />
+  <node id='1991339734' timestamp='2018-07-05T20:35:11Z' uid='437809' user='Anton Khorev' version='6' changeset='60447196' lat='59.9272834' lon='30.327723' />
+  <node id='4203252412' timestamp='2018-07-05T20:35:11Z' uid='437809' user='Anton Khorev' version='5' changeset='60447196' lat='59.9274095' lon='30.3278911'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 06:30,17:40; Sa 08:45; Su 17:40' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='10' />
+  </node>
+  <node id='4203252413' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9274139' lon='30.3278821'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4203252417' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='5' changeset='60447196' lat='59.9275501' lon='30.3276029'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 06:25,17:35; Sa 08:40; Su 17:35' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='9' />
+  </node>
+  <node id='4203252418' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9275555' lon='30.3275919'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4203252419' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9275923' lon='30.3275164'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='4331189154' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9273626' lon='30.3279873' />
+  <node id='4331189156' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9273421' lon='30.3276039' />
+  <node id='4331189157' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9274653' lon='30.3277768' />
+  <node id='4331189158' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9274915' lon='30.3277231' />
+  <node id='4331189160' timestamp='2018-07-05T20:35:12Z' uid='437809' user='Anton Khorev' version='3' changeset='60447196' lat='59.9275855' lon='30.3273307' />
+  <node id='5742104202' timestamp='2018-07-05T20:35:07Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9265454' lon='30.3277881'>
+    <tag k='contact:vk' v='https://vk.com/bronzamania' />
+    <tag k='int_name' v='BronzaMania' />
+    <tag k='name' v='БронзаМания' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='https://bronzamania.ru/' />
+  </node>
+  <node id='5742104203' timestamp='2018-07-05T20:35:07Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9273084' lon='30.327882' />
+  <node id='5742104204' timestamp='2018-07-05T20:35:07Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.927336' lon='30.3278254' />
+  <node id='5742104205' timestamp='2018-07-05T20:35:07Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9274095' lon='30.3276684' />
+  <node id='5742104206' timestamp='2018-07-05T20:35:07Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9273929' lon='30.3277025' />
+  <node id='5742104209' timestamp='2018-07-05T20:35:07Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9272939' lon='30.3277017'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='5742104219' timestamp='2018-07-05T20:35:08Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9274227' lon='30.3274404'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='5742104220' timestamp='2018-07-05T20:35:08Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9274784' lon='30.3273275' />
+  <node id='5742104221' timestamp='2018-07-05T20:35:08Z' uid='437809' user='Anton Khorev' version='1' changeset='60447196' lat='59.9275342' lon='30.3274359' />
+  <way id='435179199' timestamp='2018-07-05T20:35:14Z' uid='437809' user='Anton Khorev' version='2' changeset='60447196'>
+    <nd ref='4331189158' />
+    <nd ref='1991339733' />
+    <nd ref='5742104219' />
+    <nd ref='5742104220' />
+    <nd ref='5742104221' />
+    <nd ref='4331189160' />
+    <nd ref='1829865110' />
+    <nd ref='4203252419' />
+    <nd ref='4203252418' />
+    <nd ref='4203252417' />
+    <nd ref='4331189158' />
+    <tag k='amenity' v='post_office' />
+    <tag k='description' v='САНКТ-ПЕТЕРБУРГ 23' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 191023' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-13:00,14:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7-812-3101065' />
+    <tag k='ref' v='191023' />
+    <tag k='source' v='survey' />
+    <tag k='website' v='http://www.russianpost.ru' />
+  </way>
+  <way id='435179204' timestamp='2018-07-05T20:35:14Z' uid='437809' user='Anton Khorev' version='2' changeset='60447196'>
+    <nd ref='4331189154' />
+    <nd ref='5742104203' />
+    <nd ref='5742104204' />
+    <nd ref='1991339734' />
+    <nd ref='5742104209' />
+    <nd ref='4331189156' />
+    <nd ref='5742104206' />
+    <nd ref='5742104205' />
+    <nd ref='4331189157' />
+    <nd ref='4203252413' />
+    <nd ref='4203252412' />
+    <nd ref='4331189154' />
+    <tag k='addr:postcode' v='191122' />
+    <tag k='amenity' v='post_office' />
+    <tag k='description' v='САНКТ-ПЕТЕРБУРГ 122' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 191122' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 10:00-16:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7-812-3105585' />
+    <tag k='ref' v='191122' />
+    <tag k='source' v='survey' />
+    <tag k='website' v='http://www.russianpost.ru' />
+  </way>
+</osm>

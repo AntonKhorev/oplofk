@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='937916112' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='6' changeset='59647208' lat='59.9413844' lon='30.3488345' />
+  <node id='2213038026' timestamp='2018-06-12T00:33:37Z' uid='437809' user='Anton Khorev' version='2' changeset='59757343' lat='59.94135495428' lon='30.34962634128'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/madloba_spb' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Мадлоба' />
+  </node>
+  <node id='5673395478' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.9411201' lon='30.3487476'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5673395479' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.9413495' lon='30.3487607' />
+  <node id='5673395480' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.9413632' lon='30.348767' />
+  <node id='5673395481' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.9413746' lon='30.3487832'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5673395482' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.941382' lon='30.3488069' />
+  <node id='5673395483' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.9410137' lon='30.3489017' />
+  <node id='5673395484' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.9413831' lon='30.3489228' />
+  <node id='5673395485' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208' lat='59.941016' lon='30.3487416' />
+  <node id='5683502513' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59757161' lat='59.94133971768' lon='30.35025842365'>
+    <tag k='name' v='Арт-студия Концерт' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5683525492' timestamp='2018-06-12T00:33:37Z' uid='437809' user='Anton Khorev' version='1' changeset='59757343' lat='59.94136108239' lon='30.34920449336'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Дабл Капс' />
+  </node>
+  <node id='5683525493' timestamp='2018-06-12T00:33:37Z' uid='437809' user='Anton Khorev' version='1' changeset='59757343' lat='59.94135806379' lon='30.34940686585'>
+    <tag k='name' v='Лоза Кубани' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ООО «Лоза Кубани»' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <way id='595206821' timestamp='2018-06-07T19:31:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59647208'>
+    <nd ref='5673395483' />
+    <nd ref='5673395485' />
+    <nd ref='5673395478' />
+    <nd ref='5673395479' />
+    <nd ref='5673395480' />
+    <nd ref='5673395481' />
+    <nd ref='5673395482' />
+    <nd ref='937916112' />
+    <nd ref='5673395484' />
+    <nd ref='5673395483' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/evrasiaspb' />
+    <tag k='name' v='Евразия' />
+    <tag k='opening_hours' v='12:00-05:00' />
+    <tag k='operator' v='ООО «Кайхон»' />
+    <tag k='website' v='https://evrasia.spb.ru/' />
+  </way>
+</osm>

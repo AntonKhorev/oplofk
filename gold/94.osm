@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2327833868' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62295237' lat='59.93572074849' lon='30.3599494339'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/bushebakery' />
+    <tag k='name' v='Буше' />
+    <tag k='opening_hours' v='Mo-Su 08:00-22:00' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='http://bushe.ru/' />
+  </node>
+  <node id='2575806178' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62295237' lat='59.9358057363' lon='30.35569680437'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:phone' v='+7 812 9403008' />
+    <tag k='contact:vk' v='https://vk.com/bureaubar' />
+    <tag k='cuisine' v='burger' />
+    <tag k='name' v='Бюро' />
+    <tag k='name:en' v='Byuro' />
+    <tag k='opening_hours' v='12:00-01:00' />
+    <tag k='website' v='http://barbureau.ru/%D0%B1%D1%8E%D1%80%D0%BE1-%D0%B6%D1%83%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE-29.html' />
+  </node>
+  <node id='2575806179' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62295237' lat='59.9358097494' lon='30.35546900506'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='улица Жуковского' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/phonrollcafe' />
+    <tag k='cuisine' v='vietnamese' />
+    <tag k='name' v='Pho&apos;n&apos;Roll' />
+    <tag k='opening_hours' v='Su-Th 12:00-23:00; Fr-Sa 12:00-00:00' />
+    <tag k='operator' v='ООО «Радость»' />
+    <tag k='website' v='https://www.phonrollcafe.ru/adres-zhukovskogo' />
+  </node>
+  <node id='2575806181' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62295237' lat='59.93578621269' lon='30.35676436675'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2580913922' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62295237' lat='59.93577211661' lon='30.35755762014'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/bize_spb' />
+    <tag k='name' v='Бизе' />
+    <tag k='website' v='http://bize.spb.ru/' />
+  </node>
+  <node id='2624824497' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62295237' lat='59.93578779111' lon='30.35667525815'>
+    <tag k='craft' v='key_cutter;shoemaker;tailor' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 12:00-17:00' />
+  </node>
+  <node id='2861371833' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62295237' lat='59.93574385198' lon='30.3592129452'>
+    <tag k='contact:vk' v='https://vk.com/monamihostel' />
+    <tag k='name' v='Mon ami' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://hostelmonami.ru/' />
+  </node>
+  <node id='2956018386' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62295237' lat='59.93580015795' lon='30.3560392075'>
+    <tag k='contact:vk' v='https://vk.com/cameo_sladosti' />
+    <tag k='name' v='Камея' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='https://cameo.spb.ru/' />
+  </node>
+  <node id='4622537105' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62295237' lat='59.93574140572' lon='30.35934715336'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/amarcord_kafe' />
+    <tag k='name' v='Amarcord' />
+    <tag k='opening_hours' v='Su-Th 11:00-00:00, Fr-Sa 11:00-01:00' />
+    <tag k='website' v='http://www.amarcordcafe.ru' />
+  </node>
+  <node id='4662381726' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62295237' lat='59.93575866554' lon='30.35835373216'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/pizza22cm' />
+    <tag k='cuisine' v='pizza' />
+    <tag k='name' v='Pizza 22 cm' />
+    <tag k='opening_hours' v='Mo-Th 12:00-23:00; Fr 12:00-23:30; Sa 12:00-23:30; Su 13:00-23:00' />
+    <tag k='operator' v='ООО «22 сантиметра»' />
+    <tag k='phone' v='+78129453124' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='http://pizza22cm.ru/' />
+  </node>
+  <node id='5883178476' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93580342127' lon='30.35584411076'>
+    <tag k='contact:vk' v='https://vk.com/5plusroses' />
+    <tag k='name' v='5плюс' />
+    <tag k='shop' v='garden_centre' />
+    <tag k='website' v='http://5plusroses.ru/' />
+  </node>
+  <node id='5883178477' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93579691736' lon='30.3562139139'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/paninarorest' />
+    <tag k='name' v='Paninaro' />
+    <tag k='website' v='http://paninarorest.ru/' />
+  </node>
+  <node id='5883178478' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93579443121' lon='30.35635255037'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/brixtonspb' />
+    <tag k='contact:instagram' v='https://www.instagram.com/brixtongroup/' />
+    <tag k='name' v='Brixton' />
+  </node>
+  <node id='5883178479' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93578917383' lon='30.35660165222'>
+    <tag k='name' v='Отдел по Центральному району Санкт-Петербурга Управления по вопросам миграции ГУ МВД России' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='5883178480' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93578378179' lon='30.35687125899'>
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='5883178481' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93578044094' lon='30.35702001928'>
+    <tag k='contact:vk' v='https://vk.com/club30734551' />
+    <tag k='name' v='Laura Potti' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://laurapotti.ru/' />
+  </node>
+  <node id='5883178482' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93577882141' lon='30.35715538466'>
+    <tag k='contact:vk' v='https://vk.com/yellow_hanger' />
+    <tag k='name' v='Yellow Hanger' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5883178483' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93577457993' lon='30.35738777596'>
+    <tag k='brand' v='Redken' />
+    <tag k='brand:wikidata' v='Q7305998' />
+    <tag k='contact:vk' v='https://vk.com/redkenloftspb' />
+    <tag k='name' v='Redken Loft' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5883178484' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93576771326' lon='30.3578757503'>
+    <tag k='name' v='Каст' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='http://www.kast-spb.ru/' />
+  </node>
+  <node id='5883178585' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.9357571843' lon='30.35843084635'>
+    <tag k='name' v='Наш дом' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00' />
+    <tag k='operator' v='ООО «Наш Дом»' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://www.nashdom.spb.ru/' />
+  </node>
+  <node id='5883178586' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.93575014256' lon='30.35885102437'>
+    <tag k='name' v='Luxury Items' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='cosmetics' />
+  </node>
+  <node id='5883178587' timestamp='2018-09-05T00:51:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62295237' lat='59.9357479782' lon='30.35898656911'>
+    <tag k='amenity' v='training' />
+    <tag k='name' v='Время Преображения' />
+    <tag k='opening_hours' v='08:30-21:30' />
+    <tag k='website' v='http://rajayoga-bk.ru/' />
+  </node>
+</osm>

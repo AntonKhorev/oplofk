@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2624824490' timestamp='2019-01-21T23:27:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66521694' lat='59.9431273' lon='30.355207'>
+    <tag k='contact:vk' v='https://vk.com/merulaspb' />
+    <tag k='name' v='Merula' />
+    <tag k='opening_hours' v='Su-Th 14:00-00:00, Fr-Sa 14:00-02:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5027700722' timestamp='2019-01-21T23:27:02Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66521694' lat='59.94313709165' lon='30.35419104801'>
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Svitford' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='website' v='http://svitford.ru/' />
+  </node>
+  <node id='5556032428' timestamp='2019-01-21T23:27:02Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66521694' lat='59.94312851348' lon='30.3550716424'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Манежный переулок' />
+    <tag k='contact:vk' v='https://vk.com/club146826605' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Avanti' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='phone' v='+7 812 9343037' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://avantistudio.ru/' />
+  </node>
+  <node id='6226148001' timestamp='2019-01-21T23:27:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66521694' lat='59.94312321819' lon='30.35372525319'>
+    <tag k='contact:vk' v='https://vk.com/club26208682' />
+    <tag k='name' v='Срочное фото' />
+    <tag k='shop' v='photo_studio' />
+    <tag k='website' v='http://foto-sv.ru/' />
+  </node>
+  <node id='6226148002' timestamp='2019-01-21T23:27:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66521694' lat='59.94314089671' lon='30.35372661824'>
+    <tag k='brand' v='Согласие' />
+    <tag k='brand:wikidata' v='Q4426689' />
+    <tag k='contact:vk' v='https://vk.com/soglasie_sk' />
+    <tag k='name' v='Согласие' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; 13:00-13:45 off' />
+    <tag k='operator' v='ООО «СК «Согласие»' />
+    <tag k='website' v='https://www.soglasie.ru/offices/list/13639/' />
+  </node>
+  <node id='6226148003' timestamp='2019-01-21T23:27:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66521694' lat='59.94314255704' lon='30.35355486676'>
+    <tag k='alt_name' v='Винцент' />
+    <tag k='amenity' v='arts_centre' />
+    <tag k='contact:vk' v='https://vk.com/vincentspb' />
+    <tag k='int_name' v='Vincent' />
+    <tag k='name' v='Винсент' />
+    <tag k='website' v='http://www.курсы-рисования-спб.рф/' />
+  </node>
+</osm>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4953155243' timestamp='2018-09-28T03:21:43Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62995526' lat='59.9265952' lon='30.312269'>
+    <tag k='contact:vk' v='https://vk.com/sthotels' />
+    <tag k='int_name' v='Station S13' />
+    <tag k='name' v='Станция S13' />
+    <tag k='operator' v='ООО «Казна»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://station-hotels.ru/s13' />
+  </node>
+</osm>

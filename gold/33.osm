@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5721576957' timestamp='2018-06-27T03:16:40Z' uid='437809' user='Anton Khorev' version='1' changeset='60198607' lat='59.936949' lon='30.3206415'>
+    <tag k='craft' v='key_cutter;shoemaker;tailor' />
+    <tag k='name' v='Дом быта' />
+    <tag k='shop' v='dry_cleaning' />
+  </node>
+  <node id='5721576958' timestamp='2018-06-27T03:16:40Z' uid='437809' user='Anton Khorev' version='1' changeset='60198607' lat='59.9369323' lon='30.3206368'>
+    <tag k='contact:vk' v='https://vk.com/public36117829' />
+    <tag k='name' v='Водолей' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='5721576984' timestamp='2018-06-27T03:16:40Z' uid='437809' user='Anton Khorev' version='1' changeset='60198607' lat='59.9368593' lon='30.3211813'>
+    <tag k='amenity' v='music_school' />
+    <tag k='contact:vk' v='https://vk.com/spbmusic_club' />
+    <tag k='name' v='SPBmusic-club' />
+    <tag k='website' v='http://spbmusic-club.ru/' />
+  </node>
+  <node id='5721576991' timestamp='2018-06-27T03:16:40Z' uid='437809' user='Anton Khorev' version='1' changeset='60198607' lat='59.9368108' lon='30.3211224'>
+    <tag k='brand' v='Aon' />
+    <tag k='brand:wikidata' v='Q739518' />
+    <tag k='name' v='Аон Рус' />
+    <tag k='office' v='insurance' />
+    <tag k='website' v='http://www.aon.com/russia/' />
+  </node>
+  <node id='5721576994' timestamp='2018-06-27T03:16:41Z' uid='437809' user='Anton Khorev' version='1' changeset='60198607' lat='59.9367293' lon='30.3210581'>
+    <tag k='name' v='У Эрмитажа' />
+    <tag k='name:en' v='By the Hermitage' />
+    <tag k='name:ru' v='У Эрмитажа' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.byhermitage-hotel.ru/' />
+  </node>
+</osm>

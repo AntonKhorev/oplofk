@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2086001200' timestamp='2018-12-15T00:48:37Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65488691' lat='59.9247064' lon='30.3413067'>
+    <tag k='disused:office' v='notary' />
+  </node>
+  <node id='2086001201' timestamp='2018-12-15T00:48:37Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65488691' lat='59.9247399' lon='30.3408315'>
+    <tag k='contact:vk' v='https://vk.com/rkmuseum' />
+    <tag k='name' v='Музей-квартира Н. А. Римского-Корсакова' />
+    <tag k='opening_hours' v='We 13:00-21:00; Th-Su 11:00-18:00; Fr[-1] off' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='http://rkorsakov.ru/' />
+    <tag k='wikidata' v='Q4306051' />
+    <tag k='wikipedia' v='ru:Музей-квартира Н. А. Римского-Корсакова' />
+  </node>
+  <node id='6138326484' timestamp='2018-12-15T00:48:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65488691' lat='59.9245518' lon='30.3402796'>
+    <tag k='name' v='АСПО' />
+    <tag k='office' v='it' />
+    <tag k='website' v='http://aspo-spb.ru/' />
+  </node>
+  <node id='6138326885' timestamp='2018-12-15T00:48:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65488691' lat='59.9249839' lon='30.3407325'>
+    <tag k='contact:vk' v='https://vk.com/diacheck' />
+    <tag k='name' v='ДиаЧек' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 10:00-18:00' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='https://www.diacheck.ru/' />
+  </node>
+</osm>

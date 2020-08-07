@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1358235639' timestamp='2018-07-24T02:24:29Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='61003266' lat='59.9222951' lon='30.3477035'>
+    <tag k='contact:vk' v='https://vk.com/chetyreglaza' />
+    <tag k='name' v='Четыре глаза' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Четыре глаза»' />
+    <tag k='shop' v='optics' />
+    <tag k='website' v='https://www.4glaza.ru/' />
+  </node>
+  <node id='1358235652' timestamp='2019-01-27T11:53:15Z' uid='519501' user='parukhin' visible='true' version='9' changeset='66675053' lat='59.9215138' lon='30.3449348'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru/' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='ref' v='9055/09' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2590608140' timestamp='2018-07-31T01:01:49Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='61212023' lat='59.9217267' lon='30.3456892'>
+    <tag k='brand' v='Azərbaycan Beynəlxalq Bankı' />
+    <tag k='brand:wikidata' v='https://www.wikidata.org/wiki/Q4288376' />
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='МБА-Москва' />
+    <tag k='note' v='филиал в СПб закрыт' />
+    <tag k='website' v='https://www.ibam.ru/' />
+  </node>
+  <node id='2590608141' timestamp='2018-07-24T02:24:29Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61003266' lat='59.9215896' lon='30.3452031'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Отдых' />
+    <tag k='website' v='http://otdyh-kafe.ru/' />
+  </node>
+  <node id='2862134879' timestamp='2019-10-06T04:51:31Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='75331952' lat='59.9224515' lon='30.3482528'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/barbaria_spb' />
+    <tag k='cuisine' v='mediterranean' />
+    <tag k='int_name' v='Barbaria' />
+    <tag k='name' v='Барбария' />
+    <tag k='opening_hours' v='Mo-Su 12:00-23:00' />
+    <tag k='phone' v='+7 812 7647333' />
+    <tag k='smoking' v='no' />
+    <tag k='website' v='http://www.barbaria.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='4475403834' timestamp='2018-07-24T02:24:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61003266' lat='59.9222036' lon='30.3473791'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/taiyakicafe' />
+    <tag k='cuisine' v='national' />
+    <tag k='name' v='Тайяки' />
+    <tag k='name:en' v='Taiyaki' />
+    <tag k='name:ja' v='たいやき' />
+    <tag k='opening_hours' v='Su-Th 11:00-21:00; Fr-Sa 11:00-22:00' />
+  </node>
+  <node id='4587578092' timestamp='2018-07-24T02:24:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61003266' lat='59.9223566' lon='30.34792'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/public60487977' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Суп харчо' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+  </node>
+  <node id='4864583522' timestamp='2019-10-06T04:51:31Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='75331952' lat='59.9216451' lon='30.3453997'>
+    <tag k='contact:vk' v='https://vk.com/shisharfshop' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='S2B' />
+    <tag k='opening_hours' v='12:00-23:00' />
+    <tag k='phone' v='+7 981 6844696' />
+    <tag k='shop' v='tobacco' />
+    <tag k='website' v='https://shisharf.ru/' />
+  </node>
+  <node id='5529638326' timestamp='2019-10-06T04:51:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75331952' lat='59.9221637' lon='30.3472381'>
+    <tag k='contact:vk' v='https://vk.com/gangmag' />
+    <tag k='name' v='Ганг' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='origin' v='indian' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='https://www.gangshop.spb.ru/' />
+  </node>
+  <node id='5529638327' timestamp='2019-10-06T04:51:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75331952' lat='59.9220727' lon='30.3469149'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Денти' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa 10:00-18:00' />
+    <tag k='website' v='http://www.denti.ru/' />
+  </node>
+  <node id='5529638328' timestamp='2019-10-06T04:51:31Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75331952' lat='59.9220437' lon='30.3468122'>
+    <tag k='contact:vk' v='https://vk.com/elite_meb' />
+    <tag k='name' v='Элит мебель' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://elite-meb.ru/' />
+  </node>
+  <node id='5529638329' timestamp='2018-07-24T02:24:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='61003266' lat='59.9218663' lon='30.346184'>
+    <tag k='contact:vk' v='https://vk.com/zoomirspb' />
+    <tag k='name' v='ЗооМир' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='pet' />
+  </node>
+  <node id='5529638330' timestamp='2018-07-24T02:24:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='61003266' lat='59.9218389' lon='30.3460868'>
+    <tag k='name' v='Deza' />
+    <tag k='office' v='advertising_agency' />
+    <tag k='website' v='http://www.dezzza.ru/' />
+  </node>
+  <node id='5529638331' timestamp='2019-10-06T04:51:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75331952' lat='59.9217507' lon='30.3456639'>
+    <tag k='contact:vk' v='https://vk.com/public150067200' />
+    <tag k='disused:shop' v='ticket' />
+    <tag k='name' v='Super Avia' />
+    <tag k='website' v='https://superavia.ru/' />
+  </node>
+  <node id='5862404235' timestamp='2018-08-28T00:06:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62054513' lat='59.9222766' lon='30.3476376'>
+    <tag k='level' v='-1' />
+    <tag k='name' v='Hard de Core' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://harddecore.ru/' />
+  </node>
+</osm>

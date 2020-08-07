@@ -1,0 +1,167 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='857383907' timestamp='2017-01-23T16:02:19Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='45403806' lat='59.9212825' lon='30.3077544' />
+  <node id='1660271322' timestamp='2017-01-23T16:02:20Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='45403806' lat='59.9214147' lon='30.307605' />
+  <node id='1869992290' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64763490' lat='59.92003640861' lon='30.30767363063'>
+    <tag k='name' v='Свой магазин' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ВАБ»' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1869992298' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='64763490' lat='59.92108908816' lon='30.30771161584'>
+    <tag k='contact:vk' v='https://vk.com/compliment_flowers_ru' />
+    <tag k='name' v='Комплимент' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-21:00; Sa-Su 09:00-21:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://compliment-flowers.ru/' />
+  </node>
+  <node id='1869999289' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64763490' lat='59.92090532859' lon='30.30770497428'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='chinese' />
+    <tag k='name' v='Лунду' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='phone' v='+7 812 3101605' />
+  </node>
+  <node id='1870013111' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='64763490' lat='59.92038533521' lon='30.30768655752'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/salhinospb' />
+    <tag k='name' v='Салхино' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-23:00; Sa-Su,PH 12:00-23:00' />
+    <tag k='operator' v='ООО «Чебуречная «Салхино»' />
+    <tag k='website' v='http://salhinospb.ru/' />
+  </node>
+  <node id='2155874363' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64763490' lat='59.92054782241' lon='30.30769229114'>
+    <tag k='disused:amenity' v='cafe' />
+  </node>
+  <node id='2187132244' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='64763490' lat='59.92221891592' lon='30.30775170786'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pelmondo.cafe/' />
+    <tag k='int_name' v='Pelmondo' />
+    <tag k='name' v='Пельмондо' />
+    <tag k='opening_hours' v='10:00-22:00' />
+  </node>
+  <node id='3658412461' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='64763490' lat='59.92229402865' lon='30.30775447415'>
+    <tag k='brand' v='Булочные Ф. Вольчека' />
+    <tag k='contact:email' v='info@fvolchek.ru' />
+    <tag k='contact:vk' v='https://vk.com/f.volchek' />
+    <tag k='contact:website' v='http://fvolchek.ru/' />
+    <tag k='drink:coffee' v='served' />
+    <tag k='drink:mors' v='served' />
+    <tag k='drink:tea' v='served' />
+    <tag k='inscription' v='Булочная № 39' />
+    <tag k='name' v='Пекарня Ф. Вольчека' />
+    <tag k='name:ru' v='Пекарня Ф. Вольчека' />
+    <tag k='opening_hours' v='Mo-Su 08:00-22:00 open, Mo-Su 21:30-22:00 open &quot;Скидка 33%&quot;' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_debit' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='ref' v='39' />
+    <tag k='shop' v='bakery' />
+    <tag k='takeaway' v='yes' />
+  </node>
+  <node id='4395890769' timestamp='2017-01-23T16:02:23Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='45403806' lat='59.9212954' lon='30.3077549'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4395890770' timestamp='2017-09-23T12:28:37Z' uid='472653' user='Pavel47' visible='true' version='5' changeset='52302702' lat='59.9213045' lon='30.3077552'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 00:00,16:35; Sa 08:45; Su 16:35' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='157' />
+  </node>
+  <node id='4428965714' timestamp='2017-01-23T16:02:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='45403806' lat='59.9212832' lon='30.3076043' />
+  <node id='4428965716' timestamp='2017-01-23T16:02:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='45403806' lat='59.9214133' lon='30.307759' />
+  <node id='4605066120' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64763490' lat='59.92017300993' lon='30.30767862303'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/asiatiq_ramen' />
+    <tag k='name' v='Asiatiq' />
+  </node>
+  <node id='4605066121' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64763490' lat='59.92067382894' lon='30.30769687432'>
+    <tag k='contact:vk' v='https://vk.com/midol' />
+    <tag k='name' v='Мидол' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://midol.spb.ru/shop-10' />
+  </node>
+  <node id='4605066122' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64763490' lat='59.92082572863' lon='30.30770217429'>
+    <tag k='contact:vk' v='https://vk.com/bazisbt' />
+    <tag k='name' v='Hausgerate' />
+    <tag k='shop' v='electronics' />
+    <tag k='website' v='https://hausgerate.ru/' />
+  </node>
+  <node id='4605066123' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64763490' lat='59.92153952567' lon='30.30772733265'>
+    <tag k='contact:vk' v='https://vk.com/sorry_for_my_beauty' />
+    <tag k='name' v='Sorry For My Beauty' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://sorryformybeauty.com/' />
+  </node>
+  <node id='4605066124' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64763490' lat='59.92176102888' lon='30.30773537421'>
+    <tag k='name' v='Академия дверей' />
+    <tag k='shop' v='interior_decoration' />
+    <tag k='website' v='https://www.academy-doors.ru/' />
+  </node>
+  <node id='4605066125' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64763490' lat='59.92187250642' lon='30.30773918315'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Аптека Дао-Фарм»' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='4605066126' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64763490' lat='59.9219465549' lon='30.30774190681'>
+    <tag k='contact:vk' v='https://vk.com/elektrosigarette_moskva' />
+    <tag k='name' v='Смокпак' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='e-cigarette' />
+    <tag k='website' v='http://spb.smokepack.ru/shop_sadovaya' />
+  </node>
+  <node id='4605066127' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64763490' lat='59.92197943229' lon='30.30774311577'>
+    <tag k='name' v='Ника' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.nikatours.ru/' />
+  </node>
+  <node id='4605066128' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64763490' lat='59.92205884138' lon='30.30774594047'>
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа-М»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='5074713961' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64763490' lat='59.92170371286' lon='30.30773336632'>
+    <tag k='amenity' v='doctors' />
+    <tag k='website' v='http://lolayusupovna.ru/' />
+  </node>
+  <node id='5074713962' timestamp='2018-11-22T05:33:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='64763490' lat='59.92118280968' lon='30.30771492476'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:vk' v='https://vk.com/loveforever_spb' />
+    <tag k='name' v='Love Forever' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://spb.salon-love-forever.ru/' />
+  </node>
+  <way id='445472020' timestamp='2017-01-16T12:46:30Z' uid='4064987' user='Avlaak' visible='true' version='3' changeset='45214858'>
+    <nd ref='4428965716' />
+    <nd ref='1660271322' />
+    <nd ref='4428965714' />
+    <nd ref='857383907' />
+    <nd ref='4395890769' />
+    <nd ref='4395890770' />
+    <nd ref='4428965716' />
+    <tag k='amenity' v='post_office' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 190068' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-14:00,15:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7 812 3105855; +7 812 3144780' />
+    <tag k='ref' v='190068' />
+    <tag k='website' v='https://www.pochta.ru' />
+  </way>
+</osm>

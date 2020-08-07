@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3563767840' timestamp='2018-09-27T02:46:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62963112' lat='59.91877151586' lon='30.34621363485'>
+    <tag k='disused:shop' v='alcohol' />
+    <tag k='name' v='Норман' />
+  </node>
+  <node id='3638855339' timestamp='2018-09-27T02:46:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62963112' lat='59.91939028894' lon='30.34655637654'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='drive_through' v='no' />
+    <tag k='name' v='Аптека на Боровой' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Аптека на Боровой»' />
+  </node>
+  <node id='3638855340' timestamp='2018-09-27T02:46:52Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62963112' lat='59.91908610158' lon='30.34638982362'>
+    <tag k='contact:vk' v='https://vk.com/salonselfie' />
+    <tag k='name' v='Selfie' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://salonselfie.ru/kontakty/borovaya/' />
+  </node>
+  <node id='5933169128' timestamp='2018-09-27T02:46:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62963112' lat='59.91892765738' lon='30.34630301738'>
+    <tag k='contact:vk' v='https://vk.com/sputnikflowers' />
+    <tag k='name' v='Спутник' />
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://www.sputnikspb.com/' />
+  </node>
+</osm>

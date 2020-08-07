@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1000806083' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='67023123' lat='59.94639038824' lon='30.38287936557'>
+    <tag k='barrier' v='gate' />
+    <tag k='bicycle' v='yes' />
+    <tag k='foot' v='yes' />
+  </node>
+  <node id='1000806095' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='67023123' lat='59.94551620755' lon='30.38284620901' />
+  <node id='6265753586' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94551002289' lon='30.3833850738' />
+  <node id='6265753587' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94612903146' lon='30.38341339865' />
+  <node id='6265753588' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94616254337' lon='30.38349106774' />
+  <node id='6265753589' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94616052844' lon='30.38369491562' />
+  <node id='6265753590' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94620015537' lon='30.38378074631' />
+  <node id='6265753591' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94640903554' lon='30.38378745183' />
+  <node id='6265753592' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.9464191522' lon='30.38288045657' />
+  <node id='6265753610' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94551095645' lon='30.38330373365' />
+  <node id='6265753611' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123' lat='59.94551383544' lon='30.38305288903' />
+  <way id='669112714' timestamp='2019-02-08T11:59:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67023123'>
+    <nd ref='6265753592' />
+    <nd ref='1000806083' />
+    <nd ref='1000806095' />
+    <nd ref='6265753611' />
+    <nd ref='6265753610' />
+    <nd ref='6265753586' />
+    <nd ref='6265753587' />
+    <nd ref='6265753588' />
+    <nd ref='6265753589' />
+    <nd ref='6265753590' />
+    <nd ref='6265753591' />
+    <nd ref='6265753592' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа №18' />
+    <tag k='ref' v='18' />
+    <tag k='website' v='http://gskouovovzskoshviiiv18tsr.acentr.gov.spb.ru/' />
+  </way>
+</osm>

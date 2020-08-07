@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4459924189' timestamp='2018-08-17T21:06:19Z' uid='437809' user='Anton Khorev' version='3' changeset='61757730' lat='59.91558871447' lon='30.30716723285'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/unimedclinica' />
+    <tag k='name' v='Unimed' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://6001006.ru/' />
+  </node>
+</osm>

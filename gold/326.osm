@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='932107974' timestamp='2018-09-14T08:11:23Z' uid='103003' user='Alexandrcfif' visible='true' version='5' changeset='62574966' lat='59.93113' lon='30.3550113'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/club12879930' />
+    <tag k='cuisine' v='russian' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Столовая №1' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Гуд Фуд Некрасова»' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:credit_cards' v='no' />
+    <tag k='payment:debit_cards' v='no' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://st1.one/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1034363210' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='76158019' lat='59.93079216894' lon='30.3548103004'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/bushe.bakery' />
+    <tag k='cuisine' v='pastry' />
+    <tag k='name' v='Буше' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='ООО «ПКД «Венец»' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 812 6405151 ext. 253' />
+    <tag k='shop' v='pastry' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='http://bushe.ru/' />
+  </node>
+  <node id='4969315763' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76158019' lat='59.9309895' lon='30.3549312'>
+    <tag k='clothes' v='women' />
+    <tag k='contact:vk' v='https://vk.com/mollis_spb' />
+    <tag k='name' v='Mollis' />
+    <tag k='note' v='нет на сайте' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://mollis.ru/' />
+  </node>
+  <node id='4969315764' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76158019' lat='59.93094580116' lon='30.35490469551'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='operator' v='ООО «Аптека №1»' />
+    <tag k='phone' v='+7 812 5712328' />
+  </node>
+  <node id='4969315765' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76158019' lat='59.9309041585' lon='30.35487916975'>
+    <tag k='name' v='Адвант' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-18:00; Sa 10:00-16:00' />
+    <tag k='website' v='https://www.advant-insur.ru/' />
+  </node>
+  <node id='4969315766' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76158019' lat='59.93067316263' lon='30.35471195702'>
+    <tag k='name' v='Помощь' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-17:00' />
+    <tag k='website' v='https://www.pomosch.com/' />
+  </node>
+  <node id='6912789785' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019' lat='59.93133544502' lon='30.35516382109'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6912789786' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019' lat='59.931193523' lon='30.35508432041'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6912789787' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019' lat='59.93135955772' lon='30.35506069405' />
+  <node id='6912789788' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019' lat='59.93120037144' lon='30.35497152237' />
+  <node id='6912789789' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019' lat='59.93134435371' lon='30.3551688115' />
+  <node id='6912789790' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019' lat='59.93118516736' lon='30.35507963982' />
+  <node id='6912789791' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019' lat='59.93090937481' lon='30.35484507546'>
+    <tag k='brand' v='Сеть магазинов горящих путевок' />
+    <tag k='contact:vk' v='https://vk.com/public_mgp' />
+    <tag k='name' v='Магазин горящих путевок' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://mgp.ru/offices/1949/' />
+  </node>
+  <way id='738257495' timestamp='2019-10-24T14:07:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76158019'>
+    <nd ref='6912789789' />
+    <nd ref='6912789785' />
+    <nd ref='6912789786' />
+    <nd ref='6912789790' />
+    <nd ref='6912789788' />
+    <nd ref='6912789787' />
+    <nd ref='6912789789' />
+    <tag k='brand' v='Азбука вкуса' />
+    <tag k='brand:wikidata' v='Q4058209' />
+    <tag k='contact:vk' v='https://vk.com/azbukavkusaspb' />
+    <tag k='name' v='АВ Daily' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Городской супермаркет»' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='ref:av' v='359266' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='https://av.ru/shops/marata-d-171/' />
+    <tag k='wheelchair' v='no' />
+  </way>
+</osm>

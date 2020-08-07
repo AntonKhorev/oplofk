@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4459968676' timestamp='2018-11-27T06:23:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64922156' lat='59.91152419154' lon='30.29283149558'>
+    <tag k='disused:office' v='company' />
+    <tag k='name' v='Патриот' />
+    <tag k='website' v='http://www.patriot-spb.ru/' />
+  </node>
+  <node id='4816799934' timestamp='2018-11-27T06:23:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64922156' lat='59.91225320972' lon='30.2927772223'>
+    <tag k='contact:vk' v='https://vk.com/infracom' />
+    <tag k='name' v='Infracom' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 10:00-17:00' />
+    <tag k='operator' v='ООО «Инструментальная компания №1 «Балтийская»' />
+    <tag k='shop' v='doityourself' />
+    <tag k='website' v='http://www.infracom.ru/about/balt/' />
+  </node>
+  <node id='4816799935' timestamp='2018-11-27T06:23:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64922156' lat='59.91201807537' lon='30.29279122045'>
+    <tag k='name' v='Петербургтеплоэнерго' />
+    <tag k='office' v='energy_supplier' />
+    <tag k='website' v='https://ptenergo.ru/' />
+  </node>
+</osm>

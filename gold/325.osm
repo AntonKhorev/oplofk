@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='768563541' timestamp='2018-08-02T21:35:39Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61310854' lat='59.929188' lon='30.3533837' />
+  <node id='768563572' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76155713' lat='59.92899303423' lon='30.35361853739' />
+  <node id='768563575' timestamp='2018-08-02T21:35:40Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='61310854' lat='59.9292049' lon='30.3532673' />
+  <node id='768563588' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76155713' lat='59.92924641667' lon='30.35346016012' />
+  <node id='768563594' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76155713' lat='59.92904343245' lon='30.35329038343' />
+  <node id='768563595' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76155713' lat='59.92926840463' lon='30.35330454233' />
+  <node id='768563642' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76155713' lat='59.92920425055' lon='30.35375284815' />
+  <node id='932107941' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76155713' lat='59.92960089699' lon='30.35396733657'>
+    <tag k='int_name' v='Helvetia' />
+    <tag k='name' v='Гельвеция' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://helvetiahotel.ru/' />
+  </node>
+  <node id='3298035059' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='76155713' lat='59.9284649' lon='30.3532212'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/tarelka_life' />
+    <tag k='cuisine' v='russian' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Тарелка' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='ООО «Шалфей»' />
+    <tag k='phone' v='+7 812 3149949' />
+    <tag k='website' v='http://tarelkas.ru/cafes/kolokolnaya-ul-d-18-19/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4545687921' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76155713' lat='59.92989806344' lon='30.35415611204'>
+    <tag k='contact:vk' v='https://vk.com/meteorstravel' />
+    <tag k='email' v='marata-9@meteors.ru' />
+    <tag k='name' v='Meteors Travel' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 11:00-16:00' />
+    <tag k='phone' v='+7 812 2404705' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://meteors.ru/' />
+  </node>
+  <node id='4545687922' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76155713' lat='59.92993539689' lon='30.35418002844'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/coffeers' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Coffeers' />
+    <tag k='opening_hours' v='Mo-Sa 07:30-23:00; Su 09:00-21:00' />
+    <tag k='phone' v='+7 921 6589929' />
+  </node>
+  <node id='4824869668' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76155713' lat='59.92941516893' lon='30.35384933831'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/littlesicily' />
+    <tag k='name' v='Little Sicily' />
+  </node>
+  <node id='5564030821' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76155713' lat='59.92875248553' lon='30.35342802647'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/kwakinnpub' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='KwakInn' />
+    <tag k='opening_hours' v='Su-Th 12:00-01:00; Fr-Sa 12:00-02:00' />
+    <tag k='phone' v='+7 812 9052236' />
+    <tag k='website' v='http://kwakinn.ru/reservations/butylochnaya-kwakinn-draught-bottle' />
+  </node>
+  <node id='5611463521' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76155713' lat='59.92977982353' lon='30.35408115109'>
+    <tag k='name' v='Часы' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 11:00-19:00' />
+    <tag k='shop' v='watches' />
+    <tag k='website' v='https://www.marata9.ru/' />
+  </node>
+  <node id='5613453726' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76155713' lat='59.92949870633' lon='30.35390245751'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/mariusrestaurant' />
+    <tag k='name' v='Marius' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://mariuspub.ru/' />
+  </node>
+  <node id='5613453727' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76155713' lat='59.92970401716' lon='30.35403299981'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:website' v='https://claretcafe.ru/' />
+    <tag k='name' v='Claret' />
+  </node>
+  <node id='6912649750' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92997155781' lon='30.3542028046'>
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='6912649753' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92986581649' lon='30.35410210356'>
+    <tag k='contact:vk' v='https://vk.com/symhotelspb' />
+    <tag k='int_name' v='Symphony' />
+    <tag k='name' v='Симфония' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='6912649754' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92986054327' lon='30.35413249506'>
+    <tag k='int_name' v='Mechta' />
+    <tag k='name' v='Мечта' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='6912649759' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92926480395' lon='30.35375372171'>
+    <tag k='amenity' v='bureau_de_change' />
+    <tag k='contact:vk' v='https://vk.com/bank45' />
+    <tag k='name' v='Кетовский коммерческий банк' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='operator' v='ООО КБ «Кетовский»' />
+    <tag k='website' v='https://marata13.ru/' />
+  </node>
+  <node id='6912649760' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92900864727' lon='30.35362846557'>
+    <tag k='entrance' v='yes' />
+    <tag k='inscription' v='Визовый отдел' />
+  </node>
+  <node id='6912649761' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92918644539' lon='30.35374152596'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='6912649762' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92868849182' lon='30.35338733457'>
+    <tag k='name' v='Катти Сарк' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ООО «ЭйчДи Оптика»' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='http://www.cuttys.ru/salons/11/' />
+  </node>
+  <node id='6912649763' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76155713' lat='59.92862026414' lon='30.35334359458'>
+    <tag k='contact:vk' v='https://vk.com/stationhotels' />
+    <tag k='name' v='Station M19' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://station-hotels.ru/m19' />
+  </node>
+  <way id='61650435' timestamp='2019-10-24T13:32:51Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76155713'>
+    <nd ref='768563642' />
+    <nd ref='6912649761' />
+    <nd ref='6912649760' />
+    <nd ref='768563572' />
+    <nd ref='768563594' />
+    <nd ref='768563541' />
+    <nd ref='768563575' />
+    <nd ref='768563595' />
+    <nd ref='768563588' />
+    <nd ref='768563642' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='191025' />
+    <tag k='addr:street' v='улица Марата' />
+    <tag k='amenity' v='embassy' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='3' />
+    <tag k='consulate' v='consulate_general' />
+    <tag k='country' v='HU' />
+    <tag k='diplomatic' v='consulate' />
+    <tag k='name' v='Генеральное консульство Венгрии' />
+    <tag k='office' v='diplomatic' />
+    <tag k='website' v='https://szentpetervar.mfa.gov.hu/' />
+  </way>
+</osm>

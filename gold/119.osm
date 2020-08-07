@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5933180656' timestamp='2018-09-27T03:01:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62963254' lat='59.92096606574' lon='30.34517598196'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='contact:vk' v='https://vk.com/goldenbusina_montessori' />
+    <tag k='name' v='Золотая бусина' />
+    <tag k='website' v='http://goldenbusina.ru/' />
+  </node>
+</osm>

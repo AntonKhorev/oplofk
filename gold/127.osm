@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='702088991' timestamp='2018-10-04T07:21:58Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63184621' lat='59.9206463' lon='30.3484706' />
+  <node id='702088993' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.92073914202' lon='30.34855252761' />
+  <node id='702088995' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.92078930394' lon='30.34855905767' />
+  <node id='702088997' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.92084053567' lon='30.34879032331' />
+  <node id='702088998' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.9207907573' lon='30.34888282884' />
+  <node id='702088999' timestamp='2018-10-04T07:21:58Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63184621' lat='59.9205672' lon='30.3489113' />
+  <node id='702089000' timestamp='2018-10-04T07:21:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63184621' lat='59.9206247' lon='30.3490475' />
+  <node id='702089001' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='63213161' lat='59.92080663981' lon='30.34947829276' />
+  <node id='702089018' timestamp='2018-10-04T07:21:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63184621' lat='59.9210094' lon='30.3488281' />
+  <node id='702089026' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.92086942036' lon='30.34914928099' />
+  <node id='702089027' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.92093262663' lon='30.3490505411' />
+  <node id='702089029' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.92109397901' lon='30.34944197294' />
+  <node id='702089030' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.9210657924' lon='30.34937359366' />
+  <node id='702089034' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63213161' lat='59.92100050829' lon='30.34921521798' />
+  <node id='702089092' timestamp='2018-10-04T07:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63184621' lat='59.9209341' lon='30.3497801' />
+  <node id='5955841963' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63213161' lat='59.92065074205' lon='30.34910915626'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5955841964' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63213161' lat='59.92066987118' lon='30.34915444576' />
+  <node id='5955841965' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63213161' lat='59.92077318435' lon='30.34858227979'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5955841966' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63213161' lat='59.92075995461' lon='30.34860133874' />
+  <node id='5955841967' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63213161' lat='59.92078150812' lon='30.34889995918' />
+  <node id='5956003317' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92142797954' lon='30.35089378043'>
+    <tag k='contact:vk' v='https://vk.com/skiniya' />
+    <tag k='name' v='Скиния' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 11:00-18:00' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='http://www.skiniya.ru/' />
+  </node>
+  <node id='5956003318' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92134506341' lon='30.35069746727'>
+    <tag k='disused:shop' v='yes' />
+    <tag k='name' v='Тет-а-тет' />
+  </node>
+  <node id='5956003319' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92097777751' lon='30.34978374705'>
+    <tag k='contact:vk' v='https://vk.com/glamguru' />
+    <tag k='craft' v='jeweller' />
+    <tag k='name' v='Glamguru' />
+  </node>
+  <node id='5956003320' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92096727519' lon='30.34980301783'>
+    <tag k='name' v='Нить' />
+    <tag k='note' v='возможно переехала, на vk.com/tkani44 другой адрес' />
+    <tag k='shop' v='fabric' />
+  </node>
+  <node id='5956003321' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92093481608' lon='30.34972588507'>
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:theatre' v='yes' />
+  </node>
+  <node id='5956003322' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92092286015' lon='30.34975348562'>
+    <tag k='entrance' v='yes' />
+    <tag k='inscription' v='Отдел продаж' />
+  </node>
+  <node id='5956003323' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92079442151' lon='30.34944936166'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5956003324' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92073414287' lon='30.34930663103' />
+  <node id='5956003325' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629' lat='59.92085241628' lon='30.34910105684' />
+  <way id='630799346' timestamp='2018-10-05T00:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63213161'>
+    <nd ref='702088999' />
+    <nd ref='702088991' />
+    <nd ref='702088993' />
+    <nd ref='5955841966' />
+    <nd ref='5955841965' />
+    <nd ref='702088995' />
+    <nd ref='702089018' />
+    <nd ref='702089027' />
+    <nd ref='702088997' />
+    <nd ref='702088998' />
+    <nd ref='5955841967' />
+    <nd ref='5955841964' />
+    <nd ref='5955841963' />
+    <nd ref='702089000' />
+    <nd ref='702088999' />
+    <tag k='amenity' v='veterinary' />
+    <tag k='contact:vk' v='https://vk.com/club114983663' />
+    <tag k='name' v='Ветеринарная клиника Центрального района' />
+    <tag k='opening_hours' v='09:00-21:00; 13:00-14:00 off' />
+    <tag k='website' v='http://www.spbvet.ru/structure/station/all/veterinarnaya-klinika-tsentralnogo-rayona' />
+  </way>
+  <way id='630819791' timestamp='2018-10-05T02:46:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63214629'>
+    <nd ref='702089092' />
+    <nd ref='702089029' />
+    <nd ref='702089030' />
+    <nd ref='702089034' />
+    <nd ref='702089027' />
+    <nd ref='702089026' />
+    <nd ref='5956003325' />
+    <nd ref='5956003324' />
+    <nd ref='5956003323' />
+    <nd ref='702089001' />
+    <nd ref='5956003322' />
+    <nd ref='702089092' />
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:vk' v='https://vk.com/theprivatetheatre' />
+    <tag k='name' v='Театр на Коломенской' />
+    <tag k='operator' v='ООО «Невский театральный центр»' />
+    <tag k='website' v='https://privatetheatre.ru/' />
+  </way>
+</osm>

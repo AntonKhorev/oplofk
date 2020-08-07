@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='849683614' timestamp='2019-01-07T00:54:10Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66083404' lat='59.94547182318' lon='30.34903323677'>
+    <tag k='brand' v='Spar' />
+    <tag k='brand:wikidata' v='Q610492' />
+    <tag k='contact:vk' v='https://vk.com/spar_spb' />
+    <tag k='name' v='Spar' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.sparspb.ru/index/furshtatskaya-ul-d212-lita' />
+  </node>
+  <node id='2283839311' timestamp='2019-01-07T01:44:28Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66084102' lat='59.94545372234' lon='30.34987352653'>
+    <tag k='contact:vk' v='https://vk.com/club6727081' />
+    <tag k='name' v='Solo' />
+    <tag k='phone' v='+7 812 3361690' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://solo-hotel.com/solo-na-furshtatskoj.html' />
+  </node>
+  <node id='2283839317' timestamp='2019-01-07T01:44:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66084102' lat='59.94545643467' lon='30.34966744711'>
+    <tag k='contact:vk' v='https://vk.com/oklures' />
+    <tag k='name' v='OK Lures' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ИП Ефимов И.А.' />
+    <tag k='shop' v='fishing' />
+  </node>
+  <node id='2283839323' timestamp='2019-01-07T01:44:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66084102' lat='59.94544604492' lon='30.3504534271'>
+    <tag k='contact:vk' v='https://vk.com/the_bootleggers' />
+    <tag k='name' v='The Bootleggers' />
+    <tag k='opening_hours' v='Mo-Su 12:00-21:00' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://the-bootleggers.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5697703456' timestamp='2019-01-07T01:44:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66084102' lat='59.94543345652' lon='30.3513883372'>
+    <tag k='clothes' v='women' />
+    <tag k='contact:vk' v='https://vk.com/osome2someofficial' />
+    <tag k='name' v='Osome2some' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='operator' v='ИП Андриенко А.А.' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://osome2some.com/' />
+  </node>
+  <node id='6188975257' timestamp='2019-01-07T01:44:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66084102' lat='59.94544241218' lon='30.35071845407'>
+    <tag k='name' v='Нева-эксперт' />
+    <tag k='office' v='insurance' />
+    <tag k='website' v='http://www.osagoneva.ru/' />
+  </node>
+  <node id='6188975258' timestamp='2019-01-07T01:44:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66084102' lat='59.94545040217' lon='30.35012278585'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №75' />
+    <tag k='website' v='http://detsad75.ru/' />
+  </node>
+  <node id='6188975259' timestamp='2019-01-07T01:44:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66084102' lat='59.94547410185' lon='30.34966707096'>
+    <tag k='brand' v='5.11 Tactical' />
+    <tag k='brand:wikidata' v='Q16158685' />
+    <tag k='contact:vk' v='https://vk.com/11tactical' />
+    <tag k='name' v='5.11 Tactical' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='outdoor' />
+    <tag k='website' v='https://11tactical.ru/' />
+  </node>
+</osm>

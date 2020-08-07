@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2163616868' timestamp='2019-01-21T19:33:41Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66515441' lat='59.94270976615' lon='30.35025507881'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kaliyan_bar_spb/' />
+    <tag k='name' v='Кальян-бар' />
+    <tag k='opening_hours' v='Mo-Fr 12:00-01:00, Sa-Su 14:00-01:00' />
+    <tag k='operator' v='ООО «Лейбл»' />
+    <tag k='phone' v='+7 812 2735906' />
+  </node>
+  <node id='2166439504' timestamp='2019-01-21T19:33:41Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66515441' lat='59.94233178609' lon='30.35024846206'>
+    <tag k='contact:vk' v='https://vk.com/public_epigraph_hotel' />
+    <tag k='int_name' v='Epigraph' />
+    <tag k='name' v='Эпиграф' />
+    <tag k='operator' v='ООО «Отель на Литейном»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://epigraphhotel.ru/' />
+  </node>
+  <node id='2166439505' timestamp='2019-01-21T19:33:41Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66515441' lat='59.94254799989' lon='30.35025224699'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/clinikadoctordent' />
+    <tag k='name' v='Доктор Дент' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='phone' v='+7 812 5793333' />
+    <tag k='website' v='https://www.clinikadoctordent.ru/' />
+  </node>
+  <node id='5184286886' timestamp='2018-06-04T12:55:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='59536935' lat='59.9427959' lon='30.3502563'>
+    <tag k='contact:vk' v='https://vk.com/teaounce' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Унция' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='shop' v='coffee' />
+    <tag k='website' v='https://www.chay.info/' />
+  </node>
+</osm>

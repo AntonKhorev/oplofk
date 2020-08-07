@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6961546091' timestamp='2019-11-10T10:37:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76864354' lat='59.9274722' lon='30.3400324'>
+    <tag k='contact:vk' v='https://vk.com/studia_nastile' />
+    <tag k='name' v='На стиле' />
+    <tag k='shop' v='tattoo' />
+    <tag k='website' v='http://nstattoo.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1284920498' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='8' changeset='61834517' lat='59.93117544805' lon='30.35822072842'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/neopharm_official' />
+    <tag k='name' v='Неофарм' />
+    <tag k='name:en' v='Neopharm' />
+    <tag k='name:ru' v='Неофарм' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='phone' v='+7 812 3892143' />
+    <tag k='website' v='http://neopharm.ru/stores/465/' />
+  </node>
+  <node id='1284920500' timestamp='2018-08-20T19:50:42Z' uid='437809' user='Anton Khorev' version='5' changeset='61834672' lat='59.93114625974' lon='30.35807870122'>
+    <tag k='building' v='kiosk' />
+    <tag k='contact:vk' v='https://vk.com/bileter' />
+    <tag k='name' v='Театральная касса' />
+    <tag k='phone' v='+7 812 3808050' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:theatre' v='yes' />
+    <tag k='website' v='https://www.bileter.ru/' />
+  </node>
+  <node id='1467655412' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='3' changeset='61834517' lat='59.93031075078' lon='30.35773053101'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/banketnij_zal_biryuza' />
+    <tag k='name' v='Бирюза' />
+    <tag k='opening_hours' v='12:00-23:00' />
+    <tag k='reservation' v='recommended' />
+    <tag k='website' v='https://www.banketnij-zal-biryuza.ru/' />
+  </node>
+  <node id='1467655427' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='4' changeset='61834517' lat='59.93098423921' lon='30.35809408616'>
+    <tag k='disused:shop' v='books' />
+    <tag k='name' v='Техническая книга' />
+  </node>
+  <node id='1467655428' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='5' changeset='61834517' lat='59.9294887653' lon='30.35728691805'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1467655446' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='4' changeset='61834517' lat='59.93004229888' lon='30.35758638127'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1467655454' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='5' changeset='61834517' lat='59.93050896324' lon='30.35783904569'>
+    <tag k='name' v='Нумизматика' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 11:00-18:00; 14:00-15:00 off' />
+    <tag k='operator' v='ООО «Нумизматика-Фалеристика»' />
+    <tag k='shop' v='collector' />
+    <tag k='website' v='http://lennumizmatika.ru/' />
+  </node>
+  <node id='1467655457' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='6' changeset='61834517' lat='59.93060164114' lon='30.35789042766'>
+    <tag k='disused:amenity' v='bureau_de_change' />
+  </node>
+  <node id='5839746274' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='2' changeset='61834517' lat='59.93003716175' lon='30.3576260497'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/club30069175' />
+    <tag k='name' v='Хромой Синий Кот' />
+    <tag k='opening_hours' v='Mo-Su 14:00-23:00' />
+  </node>
+  <node id='5844613922' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92898807845' lon='30.35720751295'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='АктивКапитал Банк' />
+  </node>
+  <node id='5844613923' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92915955932' lon='30.35729397618'>
+    <tag k='contact:vk' v='https://vk.com/oldboyspb_center' />
+    <tag k='name' v='OldBoy' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://oldboybarbershop.com/spb/mayakovskaya/' />
+  </node>
+  <node id='5844613924' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92923065859' lon='30.35732995399'>
+    <tag k='alt_name' v='Калейдоскоп напитков мира' />
+    <tag k='contact:vk' v='https://vk.com/napitkimiracom' />
+    <tag k='name' v='Напитки мира' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://www.napitkimira.com/magaziny/kaleydoskop-napitkov-na-pushkinskoy-12/' />
+  </node>
+  <node id='5844613925' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92930605791' lon='30.35723492369'>
+    <tag k='contact:vk' v='https://vk.com/lashandbrowacademy' />
+    <tag k='name' v='Lash &amp; Brow' />
+    <tag k='note' v='вход через двор' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://www.lash-and-brow.ru/representative/2611/' />
+  </node>
+  <node id='5844613926' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92929353057' lon='30.35718414349'>
+    <tag k='contact:vk' v='https://vk.com/royal_thai' />
+    <tag k='name' v='Роял Тай Индия' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='massage' />
+    <tag k='website' v='http://www.royalthai.ru/salons/royal-thai-indiya/' />
+  </node>
+  <node id='5844613927' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92941624662' lon='30.35724874066'>
+    <tag k='name' v='Пушкинская 10' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotelsteam.ru/rooms/otel-pushkinskaya-10/' />
+  </node>
+  <node id='5844613929' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92951159218' lon='30.35729893525'>
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='phone' v='+7 960 2596562' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='5844613930' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92964858094' lon='30.35737262731'>
+    <tag k='name' v='Прялка' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.prialka.ru/' />
+  </node>
+  <node id='5844613931' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92974150118' lon='30.35745218262'>
+    <tag k='contact:vk' v='https://vk.com/public134263316' />
+    <tag k='shop' v='frame' />
+  </node>
+  <node id='5844613932' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.9297315498' lon='30.35741771495'>
+    <tag k='contact:vk' v='https://vk.com/pbinspb' />
+    <tag k='name' v='Пища богов' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='health_food' />
+    <tag k='website' v='http://pbinspb.ru/' />
+  </node>
+  <node id='5844613933' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.9297570291' lon='30.35743153528'>
+    <tag k='contact:vk' v='https://vk.com/happywitch_spb' />
+    <tag k='name' v='Ведьмино счастье' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='esoteric' />
+    <tag k='website' v='https://happywitch.ru/about/contacts/st-peterburg/' />
+  </node>
+  <node id='5844613934' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92984711503' lon='30.35748022966'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Старый Биджо' />
+    <tag k='website' v='https://oldbidjo.ru/' />
+  </node>
+  <node id='5844613935' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.92993435494' lon='30.35752693842'>
+    <tag k='contact:vk' v='https://vk.com/pmpoperator' />
+    <tag k='name' v='Петербургский магазин путешествий' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-17:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.tur-finland.ru/' />
+  </node>
+  <node id='5844613936' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.9301091529' lon='30.35762214954'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+  </node>
+  <node id='5844613937' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.93019507824' lon='30.35766733605'>
+    <tag k='contact:vk' v='https://vk.com/velicolepniu_vek' />
+    <tag k='name' v='Silver Way' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='http://www.silverwayspb.ru/' />
+  </node>
+  <node id='5844613938' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.93036548687' lon='30.3577604401'>
+    <tag k='name' v='Табак &amp; подарки' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ООО «Севербург»' />
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='5844613939' timestamp='2018-08-20T19:45:18Z' uid='437809' user='Anton Khorev' version='1' changeset='61834517' lat='59.93045261825' lon='30.3578084086'>
+    <tag k='name' v='Yves Delorme' />
+    <tag k='shop' v='bed' />
+    <tag k='website' v='http://www.yvesdelorme.com/' />
+  </node>
+</osm>

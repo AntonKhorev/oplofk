@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1274647621' timestamp='2016-06-29T12:37:38Z' uid='143266' user='Sergey Astakhov' visible='true' version='5' changeset='40366625' lat='59.9480362' lon='30.3784472' />
+  <node id='1274647877' timestamp='2016-06-29T12:37:39Z' uid='143266' user='Sergey Astakhov' visible='true' version='5' changeset='40366625' lat='59.9480347' lon='30.3786125' />
+  <node id='3010825411' timestamp='2016-06-29T12:37:41Z' uid='143266' user='Sergey Astakhov' visible='true' version='3' changeset='40366625' lat='59.9477816' lon='30.3784378' />
+  <node id='4234642027' timestamp='2016-06-29T12:37:44Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='40366625' lat='59.9477794' lon='30.3786758' />
+  <node id='4271461411' timestamp='2016-06-29T12:37:31Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='40366625' lat='59.948034' lon='30.3786851' />
+  <node id='6265563718' timestamp='2019-02-08T10:13:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67020307' lat='59.94790891556' lon='30.37847838283'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Меркурий' />
+  </node>
+  <node id='6265563719' timestamp='2019-02-08T10:13:20Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67020307' lat='59.94790890024' lon='30.3784425'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='427989621' timestamp='2019-02-08T10:13:20Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='67020307'>
+    <nd ref='4234642027' />
+    <nd ref='3010825411' />
+    <nd ref='6265563719' />
+    <nd ref='1274647621' />
+    <nd ref='1274647877' />
+    <nd ref='4271461411' />
+    <nd ref='4234642027' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:letter' v='Б' />
+    <tag k='addr:street' v='Таврическая улица' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='3' />
+    <tag k='email' v='otel.merkuriy@mail.ru' />
+    <tag k='fax' v='+7 812 5764585' />
+    <tag k='name' v='Меркурий' />
+    <tag k='operator' v='Гостинничный комплекс &quot;Смольнинский&quot;' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 812 5764555' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.smolninskayahotel.com/' />
+  </way>
+</osm>

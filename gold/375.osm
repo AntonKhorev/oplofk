@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1668527027' timestamp='2012-03-10T11:31:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10930597' lat='59.9201063' lon='30.2878728' />
+  <node id='1668527038' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87029480' lat='59.92041722481' lon='30.28759424279' />
+  <node id='2030813777' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='87029480' lat='59.92042245042' lon='30.2875965293'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4538648209' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='87029480' lat='59.92063450985' lon='30.28812679893'>
+    <tag k='name' v='Ампир' />
+    <tag k='opening_hours' v='Tu 12:00-19:00; We-Th 10:00-19:00' />
+    <tag k='operator' v='ООО «Екатерининский парк»' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='http://restameb.ru/' />
+  </node>
+  <node id='4538648210' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87029480' lat='59.92058907831' lon='30.28802278354'>
+    <tag k='opening_hours' v='Mo-Th 11:00-20:00' />
+    <tag k='shop' v='florist;optician' />
+  </node>
+  <node id='7646034888' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.92013316627' lon='30.28798684761' />
+  <node id='7646034889' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.92040646474' lon='30.28774220915' />
+  <node id='7646034890' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.92047823038' lon='30.28790646566' />
+  <node id='7646034891' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.92052571125' lon='30.2878231981'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='7646034892' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.92042767603' lon='30.28759881582' />
+  <node id='7646034894' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.92052956554' lon='30.2878320198' />
+  <node id='7646034895' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.92069014467' lon='30.28838317859'>
+    <tag k='contact:facebook' v='https://www.facebook.com/keenmarkheavylift/' />
+    <tag k='name' v='Кин-Марк' />
+    <tag k='office' v='logistics' />
+    <tag k='website' v='https://www.keenmark.com/' />
+  </node>
+  <way id='818737247' timestamp='2020-06-23T10:45:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480'>
+    <nd ref='7646034894' />
+    <nd ref='7646034890' />
+    <nd ref='7646034889' />
+    <nd ref='7646034888' />
+    <nd ref='1668527027' />
+    <nd ref='1668527038' />
+    <nd ref='2030813777' />
+    <nd ref='7646034892' />
+    <nd ref='7646034891' />
+    <nd ref='7646034894' />
+    <tag k='name' v='Вместе' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://spbvmeste.ru/' />
+  </way>
+</osm>

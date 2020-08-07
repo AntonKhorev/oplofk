@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='319838508' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='57555676' lat='59.9324072' lon='30.3353785' />
+  <node id='319838509' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='57555676' lat='59.9324769' lon='30.3347556' />
+  <node id='319838522' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='57555676' lat='59.9335397' lon='30.334185' />
+  <node id='319838523' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='57555676' lat='59.9337786' lon='30.3347535' />
+  <node id='319838529' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='57555676' lat='59.9339783' lon='30.3352291' />
+  <node id='319838530' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='57555676' lat='59.9340383' lon='30.3356422'>
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:street' v='Невский проспект' />
+  </node>
+  <node id='319838531' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='57555676' lat='59.9339656' lon='30.3361578' />
+  <node id='805389055' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57555676' lat='59.933227' lon='30.3338501' />
+  <node id='805389265' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57555676' lat='59.9332521' lon='30.3339072' />
+  <node id='805389376' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='57555676' lat='59.932978' lon='30.3350102' />
+  <node id='805389506' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57555676' lat='59.9333532' lon='30.3337408' />
+  <node id='805389556' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57555676' lat='59.9332093' lon='30.3338835' />
+  <node id='1447263750' timestamp='2018-03-27T06:19:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57555676' lat='59.9331119' lon='30.3343722' />
+  <node id='1447263752' timestamp='2018-03-27T06:19:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57555676' lat='59.9331528' lon='30.3340969' />
+  <node id='1514357024' timestamp='2019-07-09T04:18:40Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='72036532' lat='59.9330696' lon='30.333122'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/sever.metropol.official' />
+    <tag k='name' v='Метрополь' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ИП Хилимон Зинаида Васильевна' />
+    <tag k='phone' v='+7 812 3101875' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='https://sever-metropol.ru/wheretobuy/spb/sadovaya-ul-22/' />
+  </node>
+  <node id='1833358271' timestamp='2019-07-09T04:18:40Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='72036532' lat='59.9332901' lon='30.3336465'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/demetropole' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Метрополь' />
+    <tag k='name:fr' v='Brasserie de Metropole' />
+    <tag k='opening_hours' v='Su-Th 07:00-23:30; Fr-Sa 07:00+' />
+    <tag k='operator' v='АО «Метрополь»' />
+    <tag k='phone' v='+7 812 5718888;+7 812 9947606' />
+    <tag k='website' v='http://demetropole.ru/' />
+  </node>
+  <node id='3926259393' timestamp='2018-03-27T06:19:50Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57555676' lat='59.9324673' lon='30.3348413'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='переулок Крылова' />
+  </node>
+  <node id='3926259434' timestamp='2018-04-13T10:23:55Z' uid='392109' user='GaM' visible='true' version='3' changeset='58059951' lat='59.9324707' lon='30.3348109'>
+    <tag k='access' v='no' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='3962508884' timestamp='2019-07-09T04:18:40Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='72036532' lat='59.9331194' lon='30.3333685'>
+    <tag k='contact:vk' v='https://vk.com/hotel_majestic' />
+    <tag k='email' v='reservation@hotelmajestic.ru' />
+    <tag k='internet_access' v='yes' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='Majestic Boutique Hotel Deluxe' />
+    <tag k='payment:american_express' v='yes' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='payment:diners_club' v='yes' />
+    <tag k='payment:discover_card' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 812 4488388' />
+    <tag k='rooms' v='74' />
+    <tag k='smoking' v='outside' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://hotelmajestic.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='3962508887' timestamp='2019-07-09T04:18:40Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='72036532' lat='59.9334831' lon='30.3341064'>
+    <tag k='email' v='bookshop@nlr.ru' />
+    <tag k='name' v='Книжный салон' />
+    <tag k='phone' v='+7 812 3104487' />
+    <tag k='shop' v='books' />
+    <tag k='website' v='http://www.nlr.ru/publ/bookshop.html' />
+  </node>
+  <node id='3962508888' timestamp='2019-07-09T04:18:40Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72036532' lat='59.9333143' lon='30.3337041'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/trattoria_del_sadovaya22/' />
+    <tag k='int_name' v='Trattoria' />
+    <tag k='name' v='Траттория' />
+    <tag k='opening_hours' v='11:00-00:00' />
+    <tag k='operator' v='АО «Метрополь»' />
+  </node>
+  <node id='3962508890' timestamp='2019-07-09T04:18:40Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='72036532' lat='59.9332534' lon='30.3335591'>
+    <tag k='contact:vk' v='https://vk.com/epl_diamond' />
+    <tag k='name' v='Эпл' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='phone' v='+7 800 3336737 (доб. 215)' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://spb.epldiamond.ru/company/stores/090210-op-sankt-peterburg-sadovaya/' />
+  </node>
+  <node id='3962508904' timestamp='2018-03-27T06:19:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57555676' lat='59.9335199' lon='30.3341378' />
+  <node id='3962508906' timestamp='2018-03-27T06:19:50Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='57555676' lat='59.9335812' lon='30.3342836'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 06:05,17:15; Sa 08:20; Su 17:15' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='7' />
+  </node>
+  <node id='3962508908' timestamp='2018-03-27T06:19:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57555676' lat='59.9338226' lon='30.3348583'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+    <tag k='fixme' v='continue' />
+  </node>
+  <node id='4749888140' timestamp='2018-03-27T06:19:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57555676' lat='59.9338577' lon='30.3349419'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Садовая улица' />
+  </node>
+  <node id='4749888141' timestamp='2018-03-27T06:19:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57555676' lat='59.9324653' lon='30.335408'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='площадь Островского' />
+  </node>
+  <node id='4749888142' timestamp='2018-03-27T06:19:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57555676' lat='59.9339102' lon='30.33613'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='площадь Островского' />
+  </node>
+  <node id='4879158190' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57558036' lat='59.9334732' lon='30.3340266'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='Дом Крылова' />
+    <tag k='memorial' v='plaque' />
+  </node>
+  <node id='4936820298' timestamp='2019-07-09T04:18:40Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72036532' lat='59.9331621' lon='30.3333421'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='Majestic Bar' />
+    <tag k='smoking' v='outside' />
+    <tag k='website' v='https://hotelmajestic.ru/restaurants/lobbi-bar/' />
+  </node>
+  <node id='4936820299' timestamp='2018-05-09T22:28:38Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='58833968' lat='59.9331281' lon='30.333261'>
+    <tag k='contact:vk' v='https://vk.com/crem.shop' />
+    <tag k='name' v='Cream.Shop' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Крем шоп»' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://deadsea-cosmetics.ru/shops/firmennyy_magazin_kosmetiki_mertvogo_morya_na_sadovoy/' />
+  </node>
+  <node id='5228633808' timestamp='2019-05-14T21:02:27Z' uid='3846961' user='mini-me' visible='true' version='8' changeset='70252742' lat='59.93368' lon='30.3360251'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом здании в читальных залах публичной библиотеки в 1874-1880 г.г. работал Г. В. Плеханов — основатель первой русской марксистской организации — группы «Освобождение труда»' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='Г. В. Плеханову' />
+    <tag k='subject:wikidata' v='Q182905;Q2414103' />
+    <tag k='subject:wikipedia' v='ru:Плеханов, Георгий Валентинович;ru:Освобождение труда' />
+  </node>
+  <node id='5507295872' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9330085' lon='30.3348076' />
+  <node id='5507295873' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9330376' lon='30.3347899' />
+  <node id='5507295876' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9326977' lon='30.3348678' />
+  <node id='5507295877' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9327838' lon='30.3349116' />
+  <node id='5507295882' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9332141' lon='30.3339373' />
+  <node id='5507295883' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9331993' lon='30.3339024' />
+  <node id='5507295884' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9331738' lon='30.3339815' />
+  <node id='5507295905' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9340051' lon='30.335272' />
+  <node id='5507295906' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9340212' lon='30.3353313' />
+  <node id='5507295907' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57558036' lat='59.9340332' lon='30.3353944'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='По высочайше апробованному 1795 года Мая 16 дня плану повелено соорудить здание для Казенной Библиотеки' />
+    <tag k='memorial' v='plaque' />
+  </node>
+  <node id='5507295908' timestamp='2018-03-27T06:19:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9340408' lon='30.3354601' />
+  <node id='5507295909' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9340439' lon='30.3355272' />
+  <node id='5507295910' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9340425' lon='30.3355946' />
+  <node id='5507295911' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9339856' lon='30.3352185' />
+  <node id='5507295912' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9340367' lon='30.3356598' />
+  <node id='5507295913' timestamp='2018-03-27T06:19:48Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57555676' lat='59.9340279' lon='30.3356566' />
+  <node id='5507566670' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57558036' lat='59.9329508' lon='30.3356547'>
+    <tag k='entrance' v='main' />
+    <tag k='name' v='Читальные залы' />
+  </node>
+  <node id='5507566671' timestamp='2019-05-14T21:02:27Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='70252742' lat='59.9334546' lon='30.3359106'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='Здесь с 1855 г. по 1906 г. работал выдающийся деятель русской культуры Владимир Васильевич Стасов' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='В. В. Стасову' />
+    <tag k='subject:wikidata' v='Q464192' />
+    <tag k='subject:wikipedia' v='ru:Стасов, Владимир Васильевич' />
+  </node>
+  <node id='5507566672' timestamp='2019-05-14T21:02:27Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='70252742' lat='59.9335171' lon='30.3359424'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом здании с 1812 г. по 1841 г. работал библиотекарем великий русский баснописец Иван Андреевич Крылов' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='И. А. Крылову' />
+    <tag k='subject:wikidata' v='Q191480' />
+    <tag k='subject:wikipedia' v='ru:Крылов, Иван Андреевич' />
+  </node>
+  <node id='5507566673' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57558036' lat='59.9334861' lon='30.3359266'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5507566674' timestamp='2019-05-14T21:02:27Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='70252742' lat='59.9340081' lon='30.3358161'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В. И. Ленин был постоянным читателем Публичной Библиотеки в 1893–1895 г.г.' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='В. И. Ленину' />
+    <tag k='subject:wikidata' v='Q1394' />
+    <tag k='subject:wikipedia' v='ru:Ленин, Владимир Ильич' />
+  </node>
+  <node id='5507566675' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57558036' lat='59.9336818' lon='30.3345232'>
+    <tag k='entrance' v='yes' />
+    <tag k='name' v='Отдел внешнего обслуживания' />
+  </node>
+  <node id='5507566676' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57558036' lat='59.9336361' lon='30.3344144'>
+    <tag k='entrance' v='yes' />
+    <tag k='name' v='Дирекция' />
+  </node>
+  <node id='5507566677' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57558036' lat='59.9336592' lon='30.3344693'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5507566678' timestamp='2018-03-27T08:02:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57558036' lat='59.9334974' lon='30.3340841'>
+    <tag k='entrance' v='yes' />
+    <tag k='name' v='Информационный центр' />
+  </node>
+  <way id='503357265' timestamp='2018-03-27T08:02:09Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='57558036'>
+    <nd ref='319838508' />
+    <nd ref='3926259393' />
+    <nd ref='3926259434' />
+    <nd ref='319838509' />
+    <nd ref='5507295876' />
+    <nd ref='5507295877' />
+    <nd ref='805389376' />
+    <nd ref='5507295872' />
+    <nd ref='5507295873' />
+    <nd ref='1447263750' />
+    <nd ref='1447263752' />
+    <nd ref='5507295884' />
+    <nd ref='5507295882' />
+    <nd ref='5507295883' />
+    <nd ref='805389556' />
+    <nd ref='805389055' />
+    <nd ref='805389265' />
+    <nd ref='805389506' />
+    <nd ref='4879158190' />
+    <nd ref='5507566678' />
+    <nd ref='3962508904' />
+    <nd ref='319838522' />
+    <nd ref='3962508906' />
+    <nd ref='5507566676' />
+    <nd ref='5507566677' />
+    <nd ref='5507566675' />
+    <nd ref='319838523' />
+    <nd ref='3962508908' />
+    <nd ref='4749888140' />
+    <nd ref='319838529' />
+    <nd ref='5507295911' />
+    <nd ref='5507295905' />
+    <nd ref='5507295906' />
+    <nd ref='5507295907' />
+    <nd ref='5507295908' />
+    <nd ref='5507295909' />
+    <nd ref='5507295910' />
+    <nd ref='319838530' />
+    <nd ref='5507295912' />
+    <nd ref='5507295913' />
+    <nd ref='5507566674' />
+    <nd ref='319838531' />
+    <nd ref='4749888142' />
+    <nd ref='5228633808' />
+    <nd ref='5507566672' />
+    <nd ref='5507566673' />
+    <nd ref='5507566671' />
+    <nd ref='5507566670' />
+    <nd ref='4749888141' />
+    <nd ref='319838508' />
+    <tag k='amenity' v='library' />
+    <tag k='contact:vk' v='https://vk.com/publichka_spb' />
+    <tag k='name' v='Российская национальная библиотека' />
+    <tag k='name:de' v='Russische Nationalbibliothek' />
+    <tag k='name:en' v='National Library of Russia' />
+    <tag k='name:es' v='Biblioteca Nacional Rusa' />
+    <tag k='name:fr' v='Bibliothèque nationale russe' />
+    <tag k='name:it' v='Biblioteca nazionale russa' />
+    <tag k='name:la' v='Bibliotheca Nationalis Russica' />
+    <tag k='name:pt' v='Biblioteca Nacional da Rússia' />
+    <tag k='name:ru' v='Российская национальная библиотека' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00, Sa,Su 11:00-19:00' />
+    <tag k='website' v='http://www.nlr.ru/' />
+    <tag k='wheelchair' v='no' />
+    <tag k='wikidata' v='Q267566' />
+    <tag k='wikipedia' v='ru:Российская национальная библиотека' />
+  </way>
+</osm>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5337438222' timestamp='2018-06-15T23:29:10Z' uid='437809' user='Anton Khorev' version='3' changeset='59885876' lat='59.9214845' lon='30.2975543'>
+    <tag k='addr:housenumber' v='131' />
+    <tag k='addr:street' v='набережная канала Грибоедова' />
+    <tag k='contact:vk' v='https://vk.com/2plus2spb' />
+    <tag k='email' v='2plus2spb@mail.ru' />
+    <tag k='leisure' v='escape_game' />
+    <tag k='name' v='2+2' />
+    <tag k='opening_hours' v='Mo-Su 10:20-22:00' />
+    <tag k='phone' v='+7 812 9252840' />
+    <tag k='website' v='http://2plus2spb.ru' />
+  </node>
+</osm>

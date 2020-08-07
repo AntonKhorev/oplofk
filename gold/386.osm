@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2104295408' timestamp='2020-08-06T11:35:00Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89036260' lat='59.9208001136' lon='30.2938380759'>
+    <tag k='contact:vk' v='https://vk.com/skchocolate' />
+    <tag k='name' v='Шоколад' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='2104295409' timestamp='2018-03-18T00:24:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='57279236' lat='59.921299' lon='30.2933442'>
+    <tag k='disused:shop' v='copyshop;stationery' />
+    <tag k='name' v='Согер' />
+    <tag k='website' v='http://soger.ru/' />
+  </node>
+  <node id='4934982688' timestamp='2017-06-25T07:31:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='49807751' lat='59.92109' lon='30.2935687'>
+    <tag k='contact:vk' v='https://vk.com/beautyelena' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Мастерская Елены Прекрасной' />
+  </node>
+  <node id='7791403904' timestamp='2020-08-06T11:35:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89036260' lat='59.92103950657' lon='30.29361522832'>
+    <tag k='contact:vk' v='https://vk.com/regardhouse' />
+    <tag k='name' v='Regard' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.regard-house.ru/' />
+  </node>
+  <node id='7791403905' timestamp='2020-08-06T11:35:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89036260' lat='59.92103356586' lon='30.29359348051'>
+    <tag k='contact:vk' v='https://vk.com/apsdsk' />
+    <tag k='name' v='АПС ДСК' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.aps-dsk.ru/' />
+  </node>
+  <node id='7791403906' timestamp='2020-08-06T11:35:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89036260' lat='59.92106082758' lon='30.29359575056'>
+    <tag k='name' v='Строители Петербурга' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://spbsro.ru/' />
+  </node>
+  <node id='7791403907' timestamp='2020-08-06T11:35:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89036260' lat='59.92105621276' lon='30.29357707351'>
+    <tag k='name' v='Петербургский клуб любителей рыбной ловли' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://www.fisherclub.ru/' />
+  </node>
+  <node id='7791403908' timestamp='2020-08-06T11:35:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89036260' lat='59.92105211751' lon='30.29355882297'>
+    <tag k='name' v='Дормост' />
+    <tag k='office' v='association' />
+    <tag k='website' v='https://dormost.spb.ru/' />
+  </node>
+  <node id='7791403909' timestamp='2020-08-06T11:35:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89036260' lat='59.92104720302' lon='30.29354126508'>
+    <tag k='contact:vk' v='https://vk.com/club72738673' />
+    <tag k='name' v='Союз строительных объединений и организаций' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://www.stroysoyuz.ru/' />
+  </node>
+</osm>

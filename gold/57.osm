@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='933104364' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='4' changeset='61313662' lat='59.93055363899' lon='30.35255914143'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Ак барс' />
+    <tag k='brand:wikidata' v='Q4059103' />
+    <tag k='contact:vk' v='https://vk.com/akbars_ru' />
+    <tag k='name' v='Ак барс' />
+    <tag k='opening_hours' v='Mo-Th 09:00-17:00; Fr 09:00-16:00' />
+    <tag k='website' v='https://www.akbars.ru/office/detail.php?ID=4599' />
+  </node>
+  <node id='933104372' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='5' changeset='61313662' lat='59.93071162428' lon='30.35263444473'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='Траст' />
+    <tag k='name:en' v='Trust' />
+  </node>
+  <node id='2782036456' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='3' changeset='61313662' lat='59.9290258522' lon='30.35181220253'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/karabas.bar/' />
+    <tag k='name' v='Karabas Bar' />
+  </node>
+  <node id='2782036457' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='4' changeset='61313662' lat='59.93004265812' lon='30.35233617687'>
+    <tag k='name' v='Невский двор' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.nevskydvor.ru/' />
+  </node>
+  <node id='5805470541' timestamp='2018-08-02T23:53:46Z' uid='437809' user='Anton Khorev' version='1' changeset='61312581' lat='59.92863614773' lon='30.3516393709'>
+    <tag k='disused:shop' v='beauty' />
+    <tag k='name' v='ЭксЦентриКЛаб' />
+  </node>
+  <node id='5805642887' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='1' changeset='61313662' lat='59.93005879352' lon='30.35229869307'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Невский двор' />
+    <tag k='website' v='http://www.nevskydvor.ru/nashe_kafe_nevskij_dvor/' />
+  </node>
+  <node id='5805642888' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='1' changeset='61313662' lat='59.92969313098' lon='30.35213311975'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/mv_dom8' />
+    <tag k='name' v='Feromon' />
+    <tag k='website' v='http://feromon.group/feromon_povarskoy.html' />
+  </node>
+  <node id='5805642889' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='1' changeset='61313662' lat='59.92955892912' lon='30.35206605599'>
+    <tag k='name' v='Wood &amp; Color' />
+    <tag k='opening_hours' v='Tu-Fr 10:00-20:00' />
+    <tag k='shop' v='paint' />
+    <tag k='website' v='http://woodandcolor.ru/' />
+  </node>
+  <node id='5805642890' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='1' changeset='61313662' lat='59.92950690246' lon='30.35203925511'>
+    <tag k='contact:vk' v='https://vk.com/svs_shop' />
+    <tag k='name' v='4:20 Shop' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5805642891' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='1' changeset='61313662' lat='59.92942565872' lon='30.3519974035'>
+    <tag k='contact:vk' v='https://vk.com/resomed' />
+    <tag k='name' v='РЕСО-Мед' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-18:00' />
+    <tag k='operator' v='ООО «СМК РЕСО-Мед»' />
+    <tag k='website' v='https://spb.reso-med.com/' />
+  </node>
+  <node id='5805642892' timestamp='2018-08-03T01:55:17Z' uid='437809' user='Anton Khorev' version='1' changeset='61313662' lat='59.92898083426' lon='30.35179258864'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Медицинский центр доктора Явида' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa 10:00-20:00' />
+    <tag k='operator' v='ООО «МедЛайн Студия»' />
+    <tag k='website' v='http://yavid-mc.ru/' />
+  </node>
+</osm>

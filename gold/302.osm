@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2306225733' timestamp='2019-04-13T19:57:39Z' uid='437809' user='Anton Khorev' visible='true' version='20' changeset='69187142' lat='59.9245524' lon='30.3042009'>
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2370195414' timestamp='2019-08-13T04:05:32Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='73289426' lat='59.9245284' lon='30.3049131'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='2505145449' timestamp='2019-08-13T04:05:32Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='73289426' lat='59.92452514268' lon='30.30526503679'>
+    <tag k='amenity' v='cafe' />
+    <tag k='email' v='info@cafegamarjoba.ru' />
+    <tag k='name' v='Гамарджоба' />
+    <tag k='phone' v='+7 812 5707383;+7 911 1427602' />
+    <tag k='website' v='http://www.cafegamarjoba.ru/' />
+  </node>
+  <node id='4536389398' timestamp='2019-08-13T04:05:32Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='73289426' lat='59.924528' lon='30.3049492'>
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='The Маsтерская' />
+    <tag k='note' v='на их сайте не указано' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='website' v='https://themasterskaya.ru/' />
+  </node>
+  <node id='4536389399' timestamp='2019-08-13T04:05:32Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='73289426' lat='59.92453157427' lon='30.30455459615'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/club115780446' />
+    <tag k='name' v='Калачи' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-21:00; Su 10:00-20:00' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='4536389400' timestamp='2019-04-13T19:59:27Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187243' lat='59.9245323' lon='30.3044694'>
+    <tag k='shop' v='houseware' />
+  </node>
+  <node id='4536389401' timestamp='2019-04-13T19:59:27Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='69187243' lat='59.9245534' lon='30.3040909'>
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='4536389402' timestamp='2019-04-13T19:59:27Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187243' lat='59.9245385' lon='30.3038113'>
+    <tag k='shop' v='copyshop' />
+  </node>
+  <node id='4949963881' timestamp='2019-08-13T04:05:32Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='73289426' lat='59.9245361' lon='30.3040541'>
+    <tag k='clothes' v='underwear' />
+    <tag k='contact:vk' v='https://vk.com/krilonyshop' />
+    <tag k='name' v='Крилони' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.krilony.ru/' />
+  </node>
+  <node id='5938078390' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9245566' lon='30.303812'>
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5938078391' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9245381' lon='30.3038475'>
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='5978057495' timestamp='2019-07-17T02:51:35Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='72328155' lat='59.9245328' lon='30.3044155'>
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Батист' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6045822893' timestamp='2019-04-13T20:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9245344' lon='30.3042365'>
+    <tag k='amenity' v='cafe' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='6621626255' timestamp='2019-07-17T02:51:35Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='72328155' lat='59.9245597' lon='30.3044164'>
+    <tag k='name' v='Ромашка' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ИП Воронцов А.С.' />
+    <tag k='shop' v='toys' />
+  </node>
+</osm>

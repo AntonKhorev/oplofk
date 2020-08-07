@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1562444290' timestamp='2018-07-16T22:50:29Z' uid='437809' user='Anton Khorev' version='4' changeset='60778012' lat='59.9156474' lon='30.3081582'>
+    <tag k='contact:vk' v='https://vk.com/salon2x2' />
+    <tag k='name' v='2x2' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='4455834690' timestamp='2018-07-16T22:50:29Z' uid='437809' user='Anton Khorev' version='7' changeset='60778012' lat='59.9155356' lon='30.3081617'>
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='phone' v='+7 800 5555505' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='4715927604' timestamp='2018-07-16T22:50:30Z' uid='437809' user='Anton Khorev' version='3' changeset='60778012' lat='59.9155882' lon='30.3081599'>
+    <tag k='contact:vk' v='https://vk.com/bengelbakery' />
+    <tag k='name' v='Bengel' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://bengel.ru/' />
+  </node>
+  <node id='5764681090' timestamp='2018-07-16T22:50:29Z' uid='437809' user='Anton Khorev' version='1' changeset='60778012' lat='59.9156465' lon='30.3082015'>
+    <tag k='amenity' v='language_school' />
+    <tag k='contact:vk' v='https://vk.com/dspeak' />
+    <tag k='name' v='Don&apos;t Speak' />
+    <tag k='website' v='http://dspeak.ru/' />
+  </node>
+  <node id='5764681091' timestamp='2018-07-16T22:50:29Z' uid='437809' user='Anton Khorev' version='1' changeset='60778012' lat='59.9157292' lon='30.3082323'>
+    <tag k='name' v='Трансмашпроект' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://трансмашпроект.рф/' />
+  </node>
+</osm>

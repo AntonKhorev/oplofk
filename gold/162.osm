@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='664072962' timestamp='2018-04-27T22:06:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='7' changeset='58490850' lat='59.90293' lon='30.3178501' />
+  <node id='664072963' timestamp='2018-04-27T22:06:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='7' changeset='58490850' lat='59.9026524' lon='30.3178646' />
+  <node id='1769736477' timestamp='2018-04-27T22:06:22Z' uid='143266' user='Sergey Astakhov' visible='true' version='4' changeset='58490850' lat='59.9029273' lon='30.3176457' />
+  <node id='3444557357' timestamp='2018-04-27T22:06:27Z' uid='143266' user='Sergey Astakhov' visible='true' version='6' changeset='58490850' lat='59.9026969' lon='30.3178623'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 03:45,12:45; Sa 08:30; Su 12:45' />
+    <tag k='design:year' v='2015' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-I-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='1141' />
+  </node>
+  <node id='4271098467' timestamp='2018-04-27T22:06:27Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='58490850' lat='59.9026497' lon='30.3176602' />
+  <node id='4271098469' timestamp='2018-04-27T22:06:27Z' uid='143266' user='Sergey Astakhov' visible='true' version='2' changeset='58490850' lat='59.9027275' lon='30.3178607'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4595757989' timestamp='2018-12-12T20:22:03Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65421561' lat='59.9030098332' lon='30.31538784988'>
+    <tag k='contact:vk' v='https://vk.com/real_svezhie_produkty' />
+    <tag k='name' v='РеалЪ' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='operator' v='ООО «Торговый дом «Реалъ»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.tdreal.spb.ru/?page=96' />
+  </node>
+  <node id='4702596137' timestamp='2018-12-12T20:22:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65421561' lat='59.90299242609' lon='30.31620471249'>
+    <tag k='amenity' v='language_school' />
+    <tag k='contact:vk' v='https://vk.com/barko_school' />
+    <tag k='name' v='Barko School' />
+    <tag k='website' v='http://barkoschool.ru/' />
+  </node>
+  <node id='6133424037' timestamp='2018-12-12T20:22:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65421561' lat='59.90295751629' lon='30.31470310935'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/podserdtsem' />
+    <tag k='health_specialty:obstetrics' v='main' />
+    <tag k='name' v='Диагностический центр здоровья матери и плода' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://под-сердцем.рф/' />
+  </node>
+  <node id='6133424038' timestamp='2018-12-12T20:22:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65421561' lat='59.90295286636' lon='30.31443225866'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='CleverDent' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 10:00-17:00' />
+    <tag k='website' v='http://cleverdent.ru/' />
+  </node>
+  <node id='6133424039' timestamp='2018-12-12T20:22:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65421561' lat='59.90295191957' lon='30.31437852676'>
+    <tag k='amenity' v='language_school' />
+    <tag k='contact:vk' v='https://vk.com/poliglotikifrunze' />
+    <tag k='name' v='Полиглотики' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa-Su 10:00-13:00; 14:00-15:00 off' />
+    <tag k='website' v='https://spb.poliglotiki.ru/na/frunzenskaya' />
+  </node>
+  <way id='427946395' timestamp='2018-12-12T20:22:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65421561'>
+    <nd ref='4271098467' />
+    <nd ref='1769736477' />
+    <nd ref='664072962' />
+    <nd ref='4271098469' />
+    <nd ref='3444557357' />
+    <nd ref='664072963' />
+    <nd ref='4271098467' />
+    <tag k='amenity' v='post_office' />
+    <tag k='contact:vk' v='https://vk.com/russianpost' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 196084' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-14:00,15:00-20:00; Sa 09:00-14:00,15:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7-812-3160801' />
+    <tag k='ref' v='196084' />
+    <tag k='website' v='https://www.pochta.ru/' />
+  </way>
+</osm>

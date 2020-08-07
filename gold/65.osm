@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4821553225' timestamp='2018-08-17T22:05:16Z' uid='437809' user='Anton Khorev' version='3' changeset='61758774' lat='59.9126791' lon='30.3070847'>
+    <tag k='brand' v='Ростех' />
+    <tag k='brand:wikidata' v='Q1840188' />
+    <tag k='contact:vk' v='https://vk.com/rostec_ru' />
+    <tag k='name' v='Ростехнологии' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://rostec.ru/' />
+  </node>
+  <node id='4821553226' timestamp='2018-05-05T02:17:48Z' uid='437809' user='Anton Khorev' version='2' changeset='58695314' lat='59.9126334' lon='30.3070827'>
+    <tag k='contact:vk' v='https://vk.com/souzmashspb' />
+    <tag k='name' v='Союз машиностроителей России' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://unionexpert.ru/' />
+  </node>
+  <node id='5839020385' timestamp='2018-08-17T22:05:16Z' uid='437809' user='Anton Khorev' version='1' changeset='61758774' lat='59.91258953683' lon='30.30708088933'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/personyrest_spb' />
+    <tag k='name' v='Персоны' />
+    <tag k='website' v='http://personyrest.ru/' />
+  </node>
+</osm>

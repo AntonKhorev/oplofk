@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1478870339' timestamp='2018-11-12T10:56:55Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='64400912' lat='59.90851847072' lon='30.29656764023'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='3681166462' timestamp='2017-11-22T15:36:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='54004471' lat='59.9083437' lon='30.2978349'>
+    <tag k='name' v='Цветы' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='4174950785' timestamp='2018-11-12T10:56:55Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64400912' lat='59.9083720017' lon='30.29740609003'>
+    <tag k='contact:vk' v='https://vk.com/calipsoshoes' />
+    <tag k='name' v='Calipso' />
+    <tag k='note' v='нет на сайте' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 10:00-20:00' />
+    <tag k='operator' v='ИП Кисляков Г.А.' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://calipsoshoes.ru/' />
+  </node>
+  <node id='4174956589' timestamp='2018-11-12T10:56:55Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64400912' lat='59.9083735' lon='30.2977797'>
+    <tag k='brand' v='Билайн' />
+    <tag k='brand:wikidata' v='Q402880' />
+    <tag k='contact:vk' v='https://vk.com/beeline' />
+    <tag k='name' v='Билайн' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='Вымпелком' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.beeline.ru/' />
+  </node>
+  <node id='6054580976' timestamp='2018-11-12T10:56:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64400912' lat='59.90851651392' lon='30.29668683252'>
+    <tag k='craft' v='key_cutter;shoemaker' />
+  </node>
+  <node id='6054580977' timestamp='2018-11-12T10:56:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64400912' lat='59.9085158284' lon='30.29672639115'>
+    <tag k='craft' v='electronics_repair' />
+  </node>
+  <node id='6054580978' timestamp='2018-11-12T10:56:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64400912' lat='59.90837313346' lon='30.29702604244'>
+    <tag k='office' v='lawyer' />
+  </node>
+</osm>

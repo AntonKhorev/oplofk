@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6612471651' timestamp='2019-07-14T03:27:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='72222736' lat='59.9285068' lon='30.3250566'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/dentis_center' />
+    <tag k='name' v='Дентис' />
+    <tag k='opening_hours' v='10:00-21:00' />
+  </node>
+</osm>

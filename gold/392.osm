@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1109224306' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='81888711' lat='59.9115994' lon='30.3162253'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Олиус' />
+    <tag k='note' v='переехал' />
+    <tag k='website' v='http://olius.spb.ru/' />
+  </node>
+  <node id='1554518117' timestamp='2020-08-07T11:02:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89088356' lat='59.9116165' lon='30.317355'>
+    <tag k='contact:facebook' v='https://www.facebook.com/spbbarbyshop/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/barbyshopspb/' />
+    <tag k='name' v='Barbyshop' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Барбишоп»' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='1554518130' timestamp='2020-08-07T11:02:57Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='89088356' lat='59.91162698483' lon='30.31803363'>
+    <tag k='brand' v='ВкусВилл' />
+    <tag k='brand:wikidata' v='Q57271676' />
+    <tag k='brand:wikipedia' v='ru:Вкусвилл' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vkusvill.ru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/vkusvill_ru/' />
+    <tag k='contact:vk' v='https://vk.com/vkusvill_ru' />
+    <tag k='name' v='ВкусВилл' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Вкусвилл»' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='https://spb.vkusvill.ru/shops/?shop_id=14182' />
+  </node>
+  <node id='1554518139' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='81888711' lat='59.9116081' lon='30.3168113'>
+    <tag k='contact:vk' v='https://vk.com/beach7akrasnoarmeiskaia' />
+    <tag k='name' v='Пляж' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='1554518145' timestamp='2020-08-07T11:02:57Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89088356' lat='59.91157737925' lon='30.31478955657'>
+    <tag k='amenity' v='internet_cafe' />
+    <tag k='contact:vk' v='https://vk.com/cyberpointspb' />
+    <tag k='name' v='Cyber Point' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://cyberpointspb.ru/' />
+  </node>
+  <node id='1554518156' timestamp='2020-08-07T11:02:57Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='89088356' lat='59.91157980481' lon='30.31495360131'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Шиповник' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://apteka-shipovnik.ru/address/104/' />
+  </node>
+  <node id='1993654274' timestamp='2020-08-07T11:02:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89088356' lat='59.9116053' lon='30.3166224'>
+    <tag k='name' v='Нотариус Строителева Нина Семеновна' />
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-13:00,14:00-18:00' />
+    <tag k='phone' v='+7 812 3161289' />
+  </node>
+  <node id='4826107075' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='81888711' lat='59.9116215' lon='30.3176858'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='СССР' />
+  </node>
+  <node id='4826107076' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='81888711' lat='59.9116121' lon='30.3170637'>
+    <tag k='disused:shop' v='newsagent' />
+    <tag k='name' v='Первая полоса' />
+  </node>
+  <node id='4826107077' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='81888711' lat='59.9116092' lon='30.316883'>
+    <tag k='name' v='Канцелярская крыса' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa-Su 10:00-18:00' />
+    <tag k='shop' v='stationery' />
+  </node>
+  <node id='4826107079' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='81888711' lat='59.9115946' lon='30.3159242'>
+    <tag k='disused:shop' v='yes' />
+    <tag k='note' v='переехал' />
+    <tag k='operator' v='ООО &quot;Микас+&quot;' />
+  </node>
+  <node id='4826107080' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='81888711' lat='59.9115857' lon='30.3153324'>
+    <tag k='disused:shop' v='bathroom_furnishing' />
+    <tag k='name' v='Сантехсервис' />
+    <tag k='note' v='переехал в соседний дом' />
+  </node>
+  <node id='4826107081' timestamp='2020-08-07T11:02:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89088356' lat='59.9115826728' lon='30.31513882048'>
+    <tag k='name' v='MyTutto' />
+    <tag k='shop' v='tobacco' />
+    <tag k='website' v='http://mytutto.ru/' />
+  </node>
+  <node id='7273464222' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='81888711' lat='59.9115917' lon='30.31692'>
+    <tag k='contact:vk' v='https://vk.com/bitikspb' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Bitik' />
+    <tag k='website' v='http://bitik.spb.ru/' />
+  </node>
+  <node id='7273464223' timestamp='2020-03-07T03:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='81888711' lat='59.9115912' lon='30.3168841'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:instagram' v='https://www.instagram.com/wakeupowl_coffee/' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Wake Up Owl' />
+  </node>
+</osm>

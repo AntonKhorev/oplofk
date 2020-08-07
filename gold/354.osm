@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7007176575' timestamp='2019-11-25T01:59:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77497004' lat='59.9267363' lon='30.3416138'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/aklinika' />
+    <tag k='name' v='Аркадия' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 10:00-19:00; Su 11:00-18:00' />
+    <tag k='operator' v='ООО «Аркадия»' />
+    <tag k='website' v='http://aklinika.ru/ob_arkadii/na_lomonosova/' />
+  </node>
+  <node id='7007176576' timestamp='2019-11-25T01:59:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77497004' lat='59.9267372' lon='30.3415017'>
+    <tag k='amenity' v='studio' />
+    <tag k='contact:vk' v='https://vk.com/eafilmstudio' />
+    <tag k='name' v='EA Films' />
+    <tag k='studio' v='video' />
+    <tag k='website' v='https://eafilms-studio.ru/' />
+  </node>
+  <node id='7007176577' timestamp='2019-11-25T01:59:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77497004' lat='59.9270468' lon='30.3415803'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/piterhold' />
+    <tag k='name' v='Институт развития образования' />
+    <tag k='opening_hours' v='Mo-Th 09:00-17:00; 13:00-14:00 off' />
+    <tag k='website' v='https://irospb.ru/' />
+  </node>
+  <node id='7007176578' timestamp='2019-11-25T01:59:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='77497004' lat='59.9271177' lon='30.3419492'>
+    <tag k='contact:instagram' v='https://www.instagram.com/bs_lomonosova26/' />
+    <tag k='name' v='Beauty Studio' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+</osm>

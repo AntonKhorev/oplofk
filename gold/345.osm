@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='605004737' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='76740590' lat='59.92911735618' lon='30.34374791527'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/schastyelove' />
+    <tag k='name' v='Счастье' />
+    <tag k='opening_hours' v='Mo-Th 09:00-23:00, Fr 09:00-01:00, Sa 10:00-01:00, Su 10:00-23:00' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 812 5722675' />
+    <tag k='reservation' v='yes' />
+    <tag k='website' v='https://schastye.com/restaurants/rubinsteina' />
+  </node>
+  <node id='712052566' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='76740590' lat='59.92903730709' lon='30.34370098263'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafefartuk' />
+    <tag k='name' v='Фартук' />
+    <tag k='opening_hours' v='10:00-03:00' />
+  </node>
+  <node id='921244343' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76740590' lat='59.93006028798' lon='30.34433291566'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/leonardo_restoran/' />
+    <tag k='name' v='Леонардо' />
+    <tag k='name:en' v='Leonardo' />
+    <tag k='name:ru' v='Леонардо' />
+    <tag k='opening_hours' v='12:00-24:00' />
+    <tag k='operator' v='ООО «Левикс»' />
+    <tag k='phone' v='+7 812 5722628' />
+    <tag k='website' v='https://leonardo-restoran.ru/' />
+  </node>
+  <node id='2049712452' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='76740590' lat='59.93044343098' lon='30.34453045653'>
+    <tag k='contact:vk' v='https://vk.com/gate31' />
+    <tag k='name' v='Gate31' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.gate31.ru/' />
+  </node>
+  <node id='3689523350' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76740590' lat='59.92922764683' lon='30.343871165'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/hunt_rest/' />
+    <tag k='name' v='Hunt' />
+    <tag k='website' v='https://hunt.restaurant/' />
+  </node>
+  <node id='3689523357' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76740590' lat='59.9306364' lon='30.3446274'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/boozystreet' />
+    <tag k='name' v='Boozy Street' />
+    <tag k='website' v='https://boozystreet.ru/' />
+  </node>
+  <node id='4273130990' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76740590' lat='59.92946528943' lon='30.34400534999'>
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:vk' v='https://vk.com/teatrzazerkalye' />
+    <tag k='name' v='Зазеркалье' />
+    <tag k='website' v='http://www.zazerkal.spb.ru/' />
+    <tag k='wikidata' v='Q4184135' />
+  </node>
+  <node id='4459412392' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76740590' lat='59.93050324929' lon='30.34456041741'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/alldaywine' />
+    <tag k='cuisine' v='heuriger' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Винный шкаф' />
+    <tag k='name:ru' v='Винный шкаф' />
+    <tag k='opening_hours' v='Mo-Fr 17:00-23:00, Sa,Su 14:00-23:00' />
+    <tag k='operator' v='ООО «Любимое вино моей мамы»' />
+    <tag k='website' v='http://alldaywine.ru/' />
+  </node>
+  <node id='4479611938' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76740590' lat='59.92967239787' lon='30.34412220999'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/poisonkaraoke' />
+    <tag k='karaoke' v='yes' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Poison' />
+    <tag k='opening_hours' v='Mo-Fr 00:00-05:00,19:00-24:00; Sa,Su 00:00-07:00,19:00-24:00' />
+  </node>
+  <node id='4479611940' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76740590' lat='59.93026311851' lon='30.344440461'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/punkbrew' />
+    <tag k='name' v='Punk Brew' />
+    <tag k='opening_hours' v='Su-Th 12:00-03:00, Fr-Sa 12:00-06:00' />
+    <tag k='website' v='http://reca.rest/restaurants/punkbrew' />
+  </node>
+  <node id='4479611944' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76740590' lat='59.93019449399' lon='30.34440520783'>
+    <tag k='contact:vk' v='https://vk.com/doublebspb' />
+    <tag k='contact:website' v='http://double-b.ru' />
+    <tag k='name' v='Даблби' />
+    <tag k='was:amenity' v='cafe' />
+  </node>
+  <node id='4479611946' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='76740590' lat='59.92980181709' lon='30.34419299318'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='barbecue' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Smoke BBQ' />
+    <tag k='opening_hours' v='Mo-Th 12:00-00:00; Fr 12:00-02:00; Sa 10:00-02:00; Su 10:00-00:00' />
+    <tag k='phone' v='+7 812 9055372' />
+    <tag k='website' v='https://smokebbqshop.ru/' />
+  </node>
+  <node id='5234014268' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76740590' lat='59.92964084681' lon='30.34410446498'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/grandchainiy' />
+    <tag k='name' v='Чайный дом' />
+    <tag k='opening_hours' v='13:00+' />
+    <tag k='website' v='http://teahouse-grand.ru/' />
+  </node>
+  <node id='5234014271' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76740590' lat='59.92869499008' lon='30.34356835044'>
+    <tag k='club' v='yes' />
+    <tag k='name' v='Подростково-молодежный клуб «На Троицкой»' />
+    <tag k='website' v='http://perspektiva-klab.ru/podrostkovo-molodezhnyie-klubyi/na-troiczkoj' />
+  </node>
+  <node id='5234014272' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76740590' lat='59.92848481458' lon='30.34343525149'>
+    <tag k='clothes' v='women' />
+    <tag k='name' v='Мари' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6953502548' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76740590' lat='59.93038280695' lon='30.344500488'>
+    <tag k='name' v='Цветочное бюро' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://цветочноебюро.рф/' />
+  </node>
+  <node id='6953502549' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76740590' lat='59.93031261456' lon='30.34446539204'>
+    <tag k='name' v='NEPCon' />
+    <tag k='note' v='указан на https://www.nepcon.org/ru/events/trening-ekspert-lesoupravleniya-fsc-v-sankt-peterburge-rossiya-16-20-sentyabrya-2019' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.nepcon.org/' />
+  </node>
+  <node id='6953502550' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76740590' lat='59.92940080762' lon='30.34392446145'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/maximumtest' />
+    <tag k='name' v='Maximum' />
+    <tag k='website' v='https://maximumtest.ru/' />
+  </node>
+  <node id='6953502551' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76740590' lat='59.929424999' lon='30.34394189581'>
+    <tag k='contact:vk' v='https://vk.com/kaleidoscopehotel' />
+    <tag k='int_name' v='Kaleidoscope' />
+    <tag k='name' v='Калейдоскоп' />
+    <tag k='operator' v='ООО «Калейдоскоп на Рубинштейна»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://kaleidoscophotel.com/r13' />
+  </node>
+  <node id='6953502552' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76740590' lat='59.92940550377' lon='30.34397171571'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/arhitektor_bar' />
+    <tag k='name' v='Архитектор' />
+  </node>
+  <node id='6953502553' timestamp='2019-11-07T08:27:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76740590' lat='59.92883445904' lon='30.34358233968'>
+    <tag k='contact:vk' v='https://vk.com/tourworld' />
+    <tag k='name' v='Актис Групп' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://tourworld.ru/' />
+  </node>
+</osm>

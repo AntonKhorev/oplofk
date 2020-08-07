@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='487267451' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='62391605' lat='59.9333689399' lon='30.30009364936'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/stroganoffgroup' />
+    <tag k='int_name' v='Stroganoff Steak House' />
+    <tag k='name' v='Строганов Стейк Хаус' />
+    <tag k='website' v='https://stroganoffsteakhouse.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='487268384' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='62391605' lat='59.93257470698' lon='30.29742241218'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/stroganoffgroup' />
+    <tag k='name' v='Русская Рюмочная №1' />
+    <tag k='website' v='https://www.vodkaroom.ru/' />
+  </node>
+  <node id='1366485933' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62391605' lat='59.93248895314' lon='30.29702148709'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/grafinrestoran' />
+    <tag k='name' v='Graf-in' />
+    <tag k='opening_hours' v='Mo-Th 11:00-02:00, Fr-Sa 11:00-04:00, Su 11:00-00:00' />
+    <tag k='website' v='http://graf-in.ru/' />
+  </node>
+  <node id='1366485936' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62391605' lat='59.9328077' lon='30.2980862'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Бинбанк' />
+    <tag k='brand:wikidata' v='Q4086829' />
+    <tag k='contact:vk' v='https://vk.com/binbank' />
+    <tag k='name' v='Бинбанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 10:00-17:00' />
+    <tag k='operator' v='ПАО «Бинбанк»' />
+    <tag k='operator:wikidata' v='Q4086829' />
+    <tag k='website' v='https://www.binbank.ru/' />
+  </node>
+  <node id='1366485937' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391605' lat='59.93232111663' lon='30.29645670412'>
+    <tag k='addr:postcode' v='197000' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='capacity' v='160' />
+    <tag k='contact:vk' v='https://vk.com/petrusharest' />
+    <tag k='cuisine' v='russian' />
+    <tag k='delivery' v='no' />
+    <tag k='email' v='petrusha@pirgoroi.spb.ru' />
+    <tag k='int_name' v='Petrousha' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Петруша' />
+    <tag k='opening_hours' v='Mo-Su 12:00-23:00' />
+    <tag k='operator' v='ООО «Петруша»' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='phone' v='+7 921 4146765' />
+    <tag k='smoking' v='isolated' />
+    <tag k='start_date' v='12 июля 2017-07-12' />
+    <tag k='takeaway' v='no' />
+    <tag k='website' v='http://petrusharest.ru' />
+  </node>
+  <node id='3517320997' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62391605' lat='59.93260175617' lon='30.29751339347'>
+    <tag k='name' v='Музей Русской Водки' />
+    <tag k='name:es' v='museo del vodka' />
+    <tag k='phone' v='+7 812 9431431' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://www.vodkamuseum.su/' />
+  </node>
+  <node id='4798818166' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62391605' lat='59.9331019' lon='30.2990759'>
+    <tag k='name' v='Единая Россия' />
+    <tag k='office' v='political_party' />
+    <tag k='website' v='https://spb.er.ru/' />
+  </node>
+  <node id='4798818167' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62391605' lat='59.93296344606' lon='30.29880232209'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Шанхай' />
+  </node>
+  <node id='4798818169' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62391605' lat='59.93272032382' lon='30.29779937656'>
+    <tag k='contact:facebook' v='https://www.facebook.com/spbfond/' />
+    <tag k='name' v='Северная столица' />
+    <tag k='office' v='foundation' />
+    <tag k='website' v='http://www.spbfond.ru/' />
+  </node>
+  <node id='5891892162' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62391605' lat='59.93297774162' lon='30.29877837594'>
+    <tag k='name' v='ArtSpace' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://souvenirboutique.com/' />
+  </node>
+  <node id='5891892163' timestamp='2018-09-08T01:12:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62391605' lat='59.93270669781' lon='30.29775383028'>
+    <tag k='name' v='Российский морской регистр судоходства' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://rs-class.org/ru/structure/contacts/detail_brst.php?DID=4509&amp;SID=224' />
+  </node>
+</osm>

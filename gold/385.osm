@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4886696952' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='88361624' lat='59.92260958443' lon='30.37007834939'>
+    <tag k='name' v='Гастрономическая лавка' />
+    <tag k='note' v='также может быть Candy Land' />
+    <tag k='opening_hours' v='Mo-Su 09:30-21:30' />
+    <tag k='organic' v='yes' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='5171407622' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='88361624' lat='59.92361005466' lon='30.36969053635'>
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:en' v='Pyaterochka' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='brand:wikipedia' v='ru:Пятёрочка' />
+    <tag k='contact:ok' v='https://ok.ru/x5pyaterka' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:en' v='Pyaterochka' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='Mo-Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='phone' v='+7 800 5555505' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='7734309840' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='88361624' lat='59.92217709748' lon='30.37022498701'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/menar_russia' />
+    <tag k='name' v='Менар' />
+    <tag k='website' v='https://www.menar-rf.ru/' />
+  </node>
+  <node id='7737683941' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88361624' lat='59.92289009567' lon='30.36997647454'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/postogusto' />
+    <tag k='name' v='Posto Gusto' />
+    <tag k='opening_hours' v='11:00-00:00' />
+  </node>
+  <node id='7737683942' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88361624' lat='59.92276742521' lon='30.37002093513'>
+    <tag k='contact:facebook' v='https://www.facebook.com/TrxSpb/' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='t22' />
+    <tag k='website' v='https://www.trxspb.com/' />
+  </node>
+  <node id='7737683943' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88361624' lat='59.92273279731' lon='30.37003384962'>
+    <tag k='name' v='Дети Любят' />
+    <tag k='opening_hours' v='10:00-20:30' />
+    <tag k='shop' v='baby_goods' />
+  </node>
+  <node id='7737683944' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88361624' lat='59.92205036501' lon='30.37027143833'>
+    <tag k='name' v='Goldie Tattoo' />
+    <tag k='shop' v='tattoo' />
+    <tag k='website' v='https://www.goldietattoo.com/' />
+  </node>
+  <node id='7737683945' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88361624' lat='59.92201480645' lon='30.3702842136'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:instagram' v='https://www.instagram.com/k13_spb/' />
+    <tag k='name' v='Tumann К 13' />
+    <tag k='opening_hours' v='11:00-00:00' />
+  </node>
+  <node id='7737683946' timestamp='2020-07-22T17:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='88361624' lat='59.92188911744' lon='30.3703298111'>
+    <tag k='name' v='ЛенСтройСервис' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://lenstroiservis.com/' />
+  </node>
+</osm>

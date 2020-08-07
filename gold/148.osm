@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='795827148' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64765425' lat='59.91896642043' lon='30.31824680542' />
+  <node id='795827175' timestamp='2013-02-26T17:34:24Z' uid='386821' user='paavolobja' visible='true' version='3' changeset='15176095' lat='59.9179802' lon='30.3210543' />
+  <node id='795827182' timestamp='2013-04-03T15:15:55Z' uid='368493' user='fserges' visible='true' version='3' changeset='15595993' lat='59.9196268' lon='30.3184272' />
+  <node id='795827241' timestamp='2011-03-31T08:52:28Z' uid='368493' user='fserges' visible='true' version='2' changeset='7724163' lat='59.9190344' lon='30.3220686' />
+  <node id='795827269' timestamp='2010-06-29T13:29:25Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5105986' lat='59.9196839' lon='30.3211029' />
+  <node id='795827283' timestamp='2010-06-29T13:29:25Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5105986' lat='59.9196967' lon='30.3210317' />
+  <node id='795827287' timestamp='2013-04-03T15:15:56Z' uid='368493' user='fserges' visible='true' version='4' changeset='15595993' lat='59.9196221' lon='30.3182297' />
+  <node id='795827290' timestamp='2010-06-29T13:29:25Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5105986' lat='59.9196963' lon='30.3213051' />
+  <node id='795827292' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64765425' lat='59.91896573439' lon='30.31820745716' />
+  <node id='795827293' timestamp='2013-02-26T17:34:25Z' uid='386821' user='paavolobja' visible='true' version='4' changeset='15176095' lat='59.9183319' lon='30.3218789' />
+  <node id='795827296' timestamp='2013-04-09T10:34:56Z' uid='368493' user='fserges' visible='true' version='5' changeset='15664465' lat='59.9196303' lon='30.3186221' />
+  <node id='795827352' timestamp='2010-06-29T13:29:27Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5105986' lat='59.9196877' lon='30.3205856' />
+  <node id='795827359' timestamp='2013-02-26T17:34:25Z' uid='386821' user='paavolobja' visible='true' version='4' changeset='15176095' lat='59.9173258' lon='30.3192435' />
+  <node id='795827383' timestamp='2010-06-29T13:29:29Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5105986' lat='59.9191792' lon='30.3218952' />
+  <node id='795827431' timestamp='2012-10-31T16:37:44Z' uid='368493' user='fserges' visible='true' version='3' changeset='13701526' lat='59.9186855' lon='30.3213902' />
+  <node id='795827451' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='64765425' lat='59.91837749568' lon='30.31823465872' />
+  <node id='795827461' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64765425' lat='59.91788846215' lon='30.31825727243' />
+  <node id='795827462' timestamp='2012-10-31T16:37:45Z' uid='368493' user='fserges' visible='true' version='2' changeset='13701526' lat='59.9180737' lon='30.3211687' />
+  <node id='795827483' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='64765425' lat='59.91757037778' lon='30.31827198099' />
+  <node id='878336445' timestamp='2011-03-31T08:52:32Z' uid='368493' user='fserges' visible='true' version='3' changeset='7724163' lat='59.9187668' lon='30.3212985' />
+  <node id='1991105321' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='64765425' lat='59.91913092705' lon='30.31823767063' />
+  <node id='1991105324' timestamp='2012-10-31T16:37:30Z' uid='368493' user='fserges' visible='true' version='1' changeset='13701526' lat='59.9191324' lon='30.3182656' />
+  <node id='2015425325' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64765425' lat='59.9186714772' lon='30.31822106437'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2018249527' timestamp='2013-04-03T15:15:55Z' uid='368493' user='fserges' visible='true' version='2' changeset='15595993' lat='59.9196508' lon='30.3194304' />
+  <node id='2175358014' timestamp='2015-04-15T11:24:08Z' uid='635978' user='alexzlk' visible='true' version='2' changeset='30233414' lat='59.9179981' lon='30.3211001'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2175358015' timestamp='2013-02-26T17:34:22Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='15176095' lat='59.9180163' lon='30.3211468' />
+  <node id='2175358017' timestamp='2013-02-26T17:34:22Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='15176095' lat='59.9180467' lon='30.3210987' />
+  <node id='6081472743' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64765425' lat='59.91744808912' lon='30.31875774049'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='6081472744' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64765425' lat='59.91873371716' lon='30.31821818625'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6081472746' timestamp='2018-11-22T06:42:35Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64765425' lat='59.91960184356' lon='30.31823118501'>
+    <tag k='entrance' v='yes' />
+    <tag k='inscription' v='Приемная комиссия' />
+  </node>
+  <way id='191235569' timestamp='2018-11-22T06:47:14Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64765598'>
+    <nd ref='795827287' />
+    <nd ref='795827182' />
+    <nd ref='795827296' />
+    <nd ref='2018249527' />
+    <nd ref='795827352' />
+    <nd ref='795827283' />
+    <nd ref='795827269' />
+    <nd ref='795827290' />
+    <nd ref='795827383' />
+    <nd ref='795827241' />
+    <nd ref='878336445' />
+    <nd ref='795827431' />
+    <nd ref='795827293' />
+    <nd ref='795827462' />
+    <nd ref='2175358017' />
+    <nd ref='2175358015' />
+    <nd ref='2175358014' />
+    <nd ref='795827175' />
+    <nd ref='795827359' />
+    <nd ref='6081472743' />
+    <nd ref='795827483' />
+    <nd ref='795827461' />
+    <nd ref='795827451' />
+    <nd ref='2015425325' />
+    <nd ref='6081472744' />
+    <nd ref='795827292' />
+    <nd ref='795827148' />
+    <nd ref='1991105321' />
+    <nd ref='1991105324' />
+    <nd ref='6081472746' />
+    <nd ref='795827287' />
+    <tag k='amenity' v='university' />
+    <tag k='contact:vk' v='https://vk.com/tvoi_vuz' />
+    <tag k='loc_name' v='Техноложка' />
+    <tag k='name' v='Санкт-Петербургский государственный технологический институт' />
+    <tag k='name:be' v='Санкт-Пецярбургскі дзяржаўны тэхналагічны інстытут' />
+    <tag k='name:ca' v='Institut Tecnològic Estatal de Sant Petersburg' />
+    <tag k='name:de' v='Sankt-Petersburger Institut für Technologie' />
+    <tag k='name:en' v='Saint Petersburg State Institute of Technology' />
+    <tag k='name:es' v='Instituto Tecnológico Estatal de San Petersburgo' />
+    <tag k='name:fi' v='Pietarin teknologinen instituutti' />
+    <tag k='name:pl' v='Petersburski Państwowy Instytut Technologiczny' />
+    <tag k='name:ru' v='Санкт-Петербургский государственный технологический институт' />
+    <tag k='name:uk' v='Санкт-Петербурзький державний технологічний інститут' />
+    <tag k='website' v='http://technolog.edu.ru/' />
+    <tag k='wikidata' v='Q2654435' />
+    <tag k='wikipedia' v='ru:Санкт-Петербургский государственный технологический институт' />
+  </way>
+</osm>

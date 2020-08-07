@@ -16,6 +16,29 @@ function computePolygonColor(age,threshold) {
 	}
 }
 
+function openRcLink(element) {
+	(new Image()).src=element.href
+	return false
+}
+function getLink(text,josmLayerTitle,url,josmUrl) {
+	if (josmUrl===undefined) josmUrl=url
+	return "<a href="+url+">"+text+"</a><sup><a onclick='return openRcLink(this)' href='http://127.0.0.1:8111/import?new_layer=true&upload_policy=false&layer_name="+encodeURIComponent(josmLayerTitle)+"&url="+encodeURIComponent(josmUrl)+"'>RC</a></sup>"
+}
+function getChangesetsCell(josmLayerTitle,changesetIds) {
+	if (changesetIds.length==0) return "нет"
+	return changesetIds.map(function(c){
+		return getLink(c,josmLayerTitle+" - cset "+c,"https://www.openstreetmap.org/changeset/"+c)
+	}).join(", ")
+}
+function getGoldCell(josmLayerTitle,goldId) {
+	if (goldId===undefined) {
+		return "нет"
+	} else if (goldId==0) {
+		return "пусто"
+	}
+	return getLink("файл",josmLayerTitle,"gold/"+goldId+".osm",window.location.href.replace(/\/[^/]*$/,"/gold/"+goldId+".osm"))
+}
+
 var div=document.getElementById('map')
 div.innerHTML=''
 var map=L.map(div).addLayer(L.tileLayer(
@@ -25,16 +48,15 @@ var map=L.map(div).addLayer(L.tileLayer(
 var now=Date.now()
 var latAcc=0, lonAcc=0
 var segmentLayer=L.featureGroup(data.map(function(segment){
-	var LATS=0, LONS=1, NAME=2, DESC=3, DATE=4, CSETS=5
-	var popupHtml=
-		"<strong>"+segment[NAME]+"</strong><br>"+segment[DESC]+"<br><br>"+
-		"проверено <time>"+segment[DATE]+"</time>"
-	if (segment[CSETS].length>0) {
-		popupHtml+=", записано в пакет"+(segment[CSETS].length==1?"е ":"ах ")+segment[CSETS].map(function(c){
-			return "<a href=https://www.openstreetmap.org/changeset/"+c+">"+c+"</a>"
-		}).join(", ")
+	var LATS=0, LONS=1, NAME=2, DESC=3, SURVEYS=4
+	var DATE=0, CSETS=1, GOLD=2
+	var popupHtml="<strong>"+segment[NAME]+"</strong><br>"+segment[DESC]+"<br><br><table><tr><th>дата<th>пакеты<th>данные"
+	for (var i=0;i<segment[SURVEYS].length;i++) {
+		var josmLayerTitle=segment[NAME]+" - "+segment[SURVEYS][i][DATE]
+		popupHtml+="<tr><td><time>"+segment[SURVEYS][i][DATE]+"</time><td>"+getChangesetsCell(josmLayerTitle,segment[SURVEYS][i][CSETS])+"<td>"+getGoldCell(josmLayerTitle,segment[SURVEYS][i][GOLD])
 	}
-	var age=now-Date.parse(segment[DATE])
+	popupHtml+="</table>"
+	var age=now-Date.parse(segment[SURVEYS][segment[SURVEYS].length-1][DATE])
 	var points=[]
 	for (var i=0;i<segment[LATS].length;i++) {
 		points.push([

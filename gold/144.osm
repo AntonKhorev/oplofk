@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2134981469' timestamp='2018-11-22T04:08:52Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='64761401' lat='59.92153290908' lon='30.30367082961'>
+    <tag k='name' v='От старого до старинного' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:30; Sa-Su 12:00-19:00' />
+    <tag k='phone' v='+7 904 6106978' />
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='2134981471' timestamp='2018-11-22T04:08:52Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='64761401' lat='59.92163601519' lon='30.30414847748'>
+    <tag k='brand' v='Народная 7Я семьЯ' />
+    <tag k='brand:wikidata' v='Q4032436' />
+    <tag k='contact:vk' v='https://vk.com/7yarus' />
+    <tag k='name' v='Народная 7Я семьЯ' />
+    <tag k='name:ru' v='Народная 7Я семьЯ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.7-ya.ru/' />
+  </node>
+  <node id='2134981473' timestamp='2018-11-22T04:08:52Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='64761401' lat='59.92178775533' lon='30.30485044551'>
+    <tag k='brand' v='Watsons' />
+    <tag k='brand:wikidata' v='Q7974785' />
+    <tag k='contact:vk' v='https://vk.com/watsonsrussia' />
+    <tag k='name' v='Watsons' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Спектр Групп»' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://watsons.com.ru/adresa-magazinov/sadovaja-ul-d-60' />
+  </node>
+  <node id='4604844990' timestamp='2018-11-22T04:08:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64761401' lat='59.92157942006' lon='30.30388610239'>
+    <tag k='contact:vk' v='https://vk.com/grandbuket' />
+    <tag k='name' v='GrandBuket' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://grandbuket.com/' />
+  </node>
+  <node id='5116129508' timestamp='2017-12-26T05:23:46Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='54920937' lat='59.9218455' lon='30.3051491'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/clubkofevarim' />
+    <tag k='name' v='Кофеварим' />
+    <tag k='opening_hours' v='08:00-23:00' />
+  </node>
+</osm>

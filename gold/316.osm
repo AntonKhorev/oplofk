@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='802408061' timestamp='2016-12-28T11:57:57Z' uid='700550' user='EIjas' visible='true' version='2' changeset='44728724' lat='59.9225385' lon='30.3315721' />
+  <node id='802408662' timestamp='2010-07-05T17:44:16Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5143943' lat='59.9224374' lon='30.3313651' />
+  <node id='1068412720' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='2' changeset='44728724' lat='59.9221394' lon='30.3317955' />
+  <node id='1068412721' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='2' changeset='44728724' lat='59.9221273' lon='30.3318813' />
+  <node id='1068412723' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='3' changeset='44728724' lat='59.9223327' lon='30.3319943' />
+  <node id='1068412724' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='2' changeset='44728724' lat='59.9221313' lon='30.3318196' />
+  <node id='1068412736' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='2' changeset='44728724' lat='59.9221496' lon='30.3319555' />
+  <node id='1068412738' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='2' changeset='44728724' lat='59.9221313' lon='30.3319135' />
+  <node id='1068412740' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='3' changeset='44728724' lat='59.9222265' lon='30.3321614' />
+  <node id='1068412742' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='3' changeset='44728724' lat='59.9223127' lon='30.3320258' />
+  <node id='1068412744' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='3' changeset='44728724' lat='59.9223274' lon='30.3319043' />
+  <node id='1068412746' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='2' changeset='44728724' lat='59.9221286' lon='30.3318518' />
+  <node id='1068412762' timestamp='2016-12-28T11:57:53Z' uid='700550' user='EIjas' visible='true' version='3' changeset='44728724' lat='59.9223207' lon='30.3319575' />
+  <node id='2107701171' timestamp='2019-10-02T12:36:27Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='75181637' lat='59.9221463' lon='30.3318601'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/ollisclub' />
+    <tag k='cuisine' v='pizza' />
+    <tag k='name' v='Ollis Club' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Сытопьяно»' />
+    <tag k='website' v='https://www.ollis.ru/restaurants/zagorodniy' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2292494017' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='75208041' lat='59.923252' lon='30.3301792'>
+    <tag k='contact:vk' v='https://vk.com/iconist' />
+    <tag k='name' v='Cipo &amp; Baxx' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.iconist.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2292494018' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75208041' lat='59.9226719' lon='30.331075'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/tvorchestvobar' />
+    <tag k='name' v='Творчество' />
+    <tag k='opening_hours' v='Su-Th 12:00-24:00, Fr-Sa 12:00-03:00' />
+  </node>
+  <node id='2311643216' timestamp='2019-10-02T12:32:03Z' uid='290680' user='wheelmap_visitor' visible='true' version='10' changeset='75181637' lat='59.9238356' lon='30.3292796'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2338864909' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75208041' lat='59.9231657' lon='30.3303213'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cafe' v='cafeteria' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='operator' v='ООО «Алькор»' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3942487556' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75208041' lat='59.9245167' lon='30.3282839'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Бакинский дворик' />
+    <tag k='website' v='http://bakinskiydvorik.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4198575313' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75208041' lat='59.9242055' lon='30.3287425'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='operator' v='ООО «Объект Плюс»' />
+    <tag k='phone' v='+7 812 4075698' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/433815/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4577165185' timestamp='2016-12-28T12:45:53Z' uid='700550' user='EIjas' visible='true' version='3' changeset='44729720' lat='59.9221608' lon='30.3317655'>
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:street' v='Гороховая улица' />
+  </node>
+  <node id='4685049383' timestamp='2019-10-02T12:35:22Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='75181637' lat='59.922469' lon='30.3313641'>
+    <tag k='name' v='РосАл' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.rosal24.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685049384' timestamp='2019-10-02T12:34:53Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='75181637' lat='59.922739' lon='30.3309752'>
+    <tag k='contact:vk' v='https://vk.com/p_u_r' />
+    <tag k='name' v='У Розы' />
+    <tag k='shop' v='bakery' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685049385' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75208041' lat='59.9228023' lon='30.3308793'>
+    <tag k='name' v='Цветочная поляна' />
+    <tag k='phone' v='+7 952 3941933' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='http://цветынаполяне.рф/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685049386' timestamp='2019-10-02T12:34:35Z' uid='290680' user='wheelmap_visitor' visible='true' version='4' changeset='75181637' lat='59.9228462' lon='30.3308131'>
+    <tag k='brand' v='Elfa' />
+    <tag k='brand:wikidata' v='Q5359871' />
+    <tag k='name' v='Elfa' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://mebelmne.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685049387' timestamp='2018-04-04T22:45:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='57817087' lat='59.9229227' lon='30.3306976'>
+    <tag k='contact:vk' v='https://vk.com/osv.studio' />
+    <tag k='craft' v='carpenter' />
+    <tag k='name' v='OSV Studio' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://www.osvstudio.ru/' />
+  </node>
+  <node id='4685049388' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75208041' lat='59.922978' lon='30.3306126'>
+    <tag k='clothes' v='wedding' />
+    <tag k='contact:vk' v='https://vk.com/salon_aleda' />
+    <tag k='name' v='Aleda' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://aleda-spb.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='4685062189' timestamp='2019-10-02T12:33:45Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='75181637' lat='59.9231054' lon='30.3304167'>
+    <tag k='contact:vk' v='https://vk.com/domrasputina_family_city' />
+    <tag k='name' v='Дом Распутина' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Дом Распутина»' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://www.dom-rasputina.ru/saloon/premium/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685062190' timestamp='2019-10-02T12:33:07Z' uid='290680' user='wheelmap_visitor' visible='true' version='3' changeset='75181637' lat='59.9233626' lon='30.3300026'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685062191' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75208041' lat='59.9234088' lon='30.3299298'>
+    <tag k='contact:vk' v='https://vk.com/citylife_studio' />
+    <tag k='name' v='City Life' />
+    <tag k='opening_hours' v='Mo-Su 11:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685062193' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75208041' lat='59.9235559' lon='30.3296994'>
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа Ижевск»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='4685062194' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75208041' lat='59.9236247' lon='30.3295921'>
+    <tag k='name' v='Ника' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://nikatravel.ru/office_spb' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685062196' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75208041' lat='59.9239787' lon='30.3290719'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/pasta.i.vino' />
+    <tag k='name' v='Pasta и vino' />
+    <tag k='opening_hours' v='12:00-23:00' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4685062197' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75208041' lat='59.9240698' lon='30.3289392'>
+    <tag k='contact:vk' v='https://vk.com/irepaircompany' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='iRepair' />
+  </node>
+  <node id='5348631227' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75208041' lat='59.9242444' lon='30.3286848'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/funt_iziyma' />
+    <tag k='name' v='Фунт изюма' />
+    <tag k='website' v='http://funtspb.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5529317849' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75208041' lat='59.9243882' lon='30.3285183'>
+    <tag k='contact:vk' v='https://vk.com/public150618692' />
+    <tag k='disused:shop' v='gift' />
+    <tag k='name' v='Арабский магазин' />
+  </node>
+  <node id='5577301777' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75208041' lat='59.9243779' lon='30.328488'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Шаверма King' />
+  </node>
+  <node id='6845983612' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75208041' lat='59.92393482269' lon='30.32913528241'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Паб-шаурма' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <way id='91957866' timestamp='2019-10-03T02:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='75208041'>
+    <nd ref='1068412744' />
+    <nd ref='1068412762' />
+    <nd ref='1068412723' />
+    <nd ref='1068412742' />
+    <nd ref='1068412740' />
+    <nd ref='1068412736' />
+    <nd ref='1068412738' />
+    <nd ref='1068412721' />
+    <nd ref='1068412746' />
+    <nd ref='1068412724' />
+    <nd ref='1068412720' />
+    <nd ref='4577165185' />
+    <nd ref='802408662' />
+    <nd ref='802408061' />
+    <nd ref='1068412744' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='Загородный проспект' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='5' />
+    <tag k='name' v='Статский Советникъ' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://statskijsovetnik.ru/zagorodnyj/' />
+    <tag k='wheelchair' v='limited' />
+  </way>
+</osm>

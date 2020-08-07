@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6133359272' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90373364018' lon='30.31282556997'>
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='6133359273' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90384618393' lon='30.314930189'>
+    <tag k='contact:vk' v='https://vk.com/topgunspb' />
+    <tag k='name' v='Topgun' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://spb.topgunbarbershop.ru/barbershop/topgun-na-moskovskom-prospekte/' />
+  </node>
+  <node id='6133359274' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90404053701' lon='30.31492637362'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/vash_stomatolog_clinic' />
+    <tag k='name' v='Ваш стоматолог' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='website' v='https://www.vashstomatolog.com/' />
+  </node>
+  <node id='6133359275' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90426516069' lon='30.31492181769'>
+    <tag k='contact:vk' v='https://vk.com/vremenagodaspb' />
+    <tag k='name' v='Времена года, офис передачи квартир' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Tu-Sa 10:00-19:00; 14:00-15:00 off' />
+    <tag k='website' v='http://vremenagoda-spb.ru/' />
+  </node>
+  <node id='6133359276' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.9045678647' lon='30.31491581988'>
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='6133359277' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90470833995' lon='30.31491019795'>
+    <tag k='contact:vk' v='https://vk.com/pekarnya_buhanka' />
+    <tag k='name' v='Буханка' />
+    <tag k='opening_hours' v='07:30-22:00' />
+    <tag k='operator' v='ИП «Сапрыкина Т.В.»' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://buhanka.ru/' />
+  </node>
+  <node id='6133359278' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90475670854' lon='30.31490946179'>
+    <tag k='contact:vk' v='https://vk.com/4hands_life' />
+    <tag k='name' v='4hands' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://4hands.ru/' />
+  </node>
+  <node id='6133359279' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90494576732' lon='30.31490632753'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/msmbar' />
+    <tag k='name' v='MSM Bar' />
+    <tag k='website' v='https://msmbar.ru/' />
+  </node>
+  <node id='6133359280' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90499882938' lon='30.31490518196'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Коньяк-6»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/185437/' />
+  </node>
+  <node id='6133359281' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90501162498' lon='30.31478383666' />
+  <node id='6133359282' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90501231241' lon='30.314941001' />
+  <node id='6133359283' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90525573806' lon='30.31477959013' />
+  <node id='6133359284' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90525642548' lon='30.31493675447' />
+  <node id='6133359285' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90503383002' lon='30.31494062668'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6133359286' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90522818966' lon='30.31493724566'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6133359287' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90552651524' lon='30.31417886788'>
+    <tag k='name' v='Балтметсервис' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='website' v='https://baltmetservis.ru/' />
+  </node>
+  <node id='6133359288' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90552015453' lon='30.31308179061'>
+    <tag k='contact:vk' v='https://vk.com/club161134849' />
+    <tag k='name' v='Товары СССР' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://magazinsssr.ru/' />
+  </node>
+  <node id='6133359289' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365' lat='59.90551979334' lon='30.31295429711'>
+    <tag k='name' v='МедВетИнструмент' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; 14:00-15:00 off' />
+    <tag k='operator' v='ООО «Домашний доктор»' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='https://медветинструмент.рф/' />
+  </node>
+  <way id='654561384' timestamp='2018-12-12T19:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65420365'>
+    <nd ref='6133359281' />
+    <nd ref='6133359282' />
+    <nd ref='6133359285' />
+    <nd ref='6133359286' />
+    <nd ref='6133359284' />
+    <nd ref='6133359283' />
+    <nd ref='6133359281' />
+    <tag k='brand' v='Азбука вкуса' />
+    <tag k='brand:wikidata' v='Q4058209' />
+    <tag k='contact:vk' v='https://vk.com/azbukavkusaspb' />
+    <tag k='name' v='АВ Daily' />
+    <tag k='opening_hours' v='07:00-24:00' />
+    <tag k='operator' v='ООО «Городской супермаркет»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://av.ru/shops/moskovskij-prospekt-73-korp-5/' />
+  </way>
+</osm>

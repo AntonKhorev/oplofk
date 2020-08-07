@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1304505041' timestamp='2018-12-11T19:19:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65386874' lat='59.9325014' lon='30.3521567'>
+    <tag k='contact:vk' v='https://vk.com/alibi_spa' />
+    <tag k='level' v='0' />
+    <tag k='massage' v='sexual' />
+    <tag k='name' v='Alibi' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='massage' />
+    <tag k='website' v='https://www.alibi-spa.ru/' />
+  </node>
+  <node id='1304505120' timestamp='2018-12-11T19:19:57Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='65386874' lat='59.9324703' lon='30.3521776'>
+    <tag k='contact:vk' v='https://vk.com/igroved' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Игровед' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='games' />
+    <tag k='website' v='https://www.igroved.ru/shops/spb/maykovskaya.html' />
+  </node>
+  <node id='1304505206' timestamp='2018-12-11T19:19:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65386874' lat='59.9324322' lon='30.3521244'>
+    <tag k='amenity' v='internet_cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafemax2018' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Cafemax' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='http://cafemax.ru/' />
+  </node>
+  <node id='4892255480' timestamp='2018-12-11T19:19:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65386874' lat='59.9324989' lon='30.3521592'>
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:street' v='Невский проспект' />
+    <tag k='contact:vk' v='https://vk.com/nevskyhotels' />
+    <tag k='int_name' v='Nevsky Central' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Невский Централь' />
+    <tag k='operator' v='ООО «Отель Централь»' />
+    <tag k='rooms' v='34' />
+    <tag k='stars' v='3' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.nevskycentralhotel.ru/' />
+  </node>
+  <node id='4952325623' timestamp='2018-12-11T19:19:58Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='65386874' lat='59.9324302' lon='30.3522126'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club_tokyocity' />
+    <tag k='cuisine' v='japanese;sushi' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Токио-City' />
+    <tag k='name:en' v='Tokyo-City' />
+    <tag k='name:ru' v='Токио-Сити' />
+    <tag k='opening_hours' v='Su-Th 11:00-03:00; Fr-Sa 11:00-06:00' />
+    <tag k='operator' v='ООО «Голд»' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+78126124794' />
+    <tag k='website' v='https://www.tokyo-city.ru/' />
+  </node>
+  <node id='5013024649' timestamp='2018-12-11T19:19:58Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65386874' lat='59.9324161' lon='30.3521689'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/icecreambar' />
+    <tag k='name' v='Ice Cream Bar' />
+  </node>
+  <node id='5013024650' timestamp='2018-12-11T19:19:58Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65386874' lat='59.9324419' lon='30.3522733'>
+    <tag k='contact:vk' v='https://vk.com/onlinetoursru' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Onlinetours' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.onlinetours.ru/' />
+  </node>
+  <node id='6129222081' timestamp='2018-12-11T19:19:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65386874' lat='59.9324321' lon='30.352211'>
+    <tag k='disused:shop' v='gift' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Торговый кластеръ Светланы Суетовой' />
+  </node>
+  <node id='6129223486' timestamp='2018-12-11T19:19:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65386874' lat='59.9324462' lon='30.3522387'>
+    <tag k='brand' v='Boxberry' />
+    <tag k='brand:wikidata' v='Q55662608' />
+    <tag k='contact:vk' v='https://vk.com/boxberry_ru' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Boxberry' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://boxberry.ru/find_an_office/98961/' />
+  </node>
+  <node id='6129223487' timestamp='2018-12-11T19:19:58Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65386874' lat='59.9325' lon='30.3521581'>
+    <tag k='level' v='1' />
+    <tag k='note' v='&quot;агентство недвижимости Бриз&quot;, возможно spb-breez.ru , нет на сайте' />
+  </node>
+</osm>

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='797458894' timestamp='2019-02-28T00:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='67635542' lat='59.93641786767' lon='30.31524638607'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Burger King' />
+    <tag k='brand:wikidata' v='Q177054' />
+    <tag k='contact:vk' v='https://vk.com/burgerking' />
+    <tag k='int_name' v='Burger King' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Бургер Кинг' />
+    <tag k='opening_hours' v='06:00-03:00' />
+    <tag k='operator' v='ООО «Бургер Рус»' />
+    <tag k='website' v='https://burgerking.ru/' />
+  </node>
+  <node id='2911025636' timestamp='2019-02-28T00:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='67635542' lat='59.9363888497' lon='30.31514155151'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/drstoletov' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Доктор Столетов' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО &quot;Роста&quot;' />
+    <tag k='website' v='https://stoletov.ru/' />
+  </node>
+  <node id='4272123090' timestamp='2019-02-28T00:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='67635542' lat='59.93650309132' lon='30.3152463252'>
+    <tag k='brand' v='МТС' />
+    <tag k='contact:facebook' v='https://www.facebook.com/mts' />
+    <tag k='contact:ok' v='https://ok.ru/mts' />
+    <tag k='contact:phone' v='+7 800 2500890' />
+    <tag k='contact:twitter' v='https://twitter.com/ru_mts' />
+    <tag k='contact:vk' v='https://vk.com/mts' />
+    <tag k='contact:website' v='https://spb.mts.ru/' />
+    <tag k='level' v='0' />
+    <tag k='name' v='МТС' />
+    <tag k='name:en' v='MTS' />
+    <tag k='name:ru' v='МТС' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator:wikidata' v='Q1368919' />
+    <tag k='operator:wikipedia' v='ru:МТС (компания)' />
+    <tag k='shop' v='mobile_phone' />
+  </node>
+  <node id='4683728168' timestamp='2019-02-28T00:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='67635542' lat='59.93631427478' lon='30.31507298105'>
+    <tag k='brand' v='Связной' />
+    <tag k='brand:wikidata' v='Q65371' />
+    <tag k='contact:vk' v='https://vk.com/svyaznoy' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Связной' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://www.svyaznoy.ru/' />
+  </node>
+  <node id='5216831860' timestamp='2019-02-28T00:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='67635542' lat='59.93647304895' lon='30.31521876141'>
+    <tag k='brand' v='Билайн' />
+    <tag k='brand:wikidata' v='Q402880' />
+    <tag k='brand:wikipedia' v='ru:Билайн' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Beelinerus' />
+    <tag k='contact:instagram' v='https://www.instagram.com/beelinerus' />
+    <tag k='contact:ok' v='https://ok.ru/beeline' />
+    <tag k='contact:phone' v='+7 800 7000611' />
+    <tag k='contact:twitter' v='https://twitter.com/Beeline_RUS' />
+    <tag k='contact:vk' v='https://vk.com/beeline' />
+    <tag k='contact:website' v='https://spb.beeline.ru/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/beelineru' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Билайн' />
+    <tag k='name:en' v='Beeline' />
+    <tag k='name:ru' v='Билайн' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='mobile_phone' />
+  </node>
+</osm>

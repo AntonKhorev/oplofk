@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='629030942' timestamp='2011-03-30T11:10:47Z' uid='336663' user='PavelRus' visible='true' version='7' changeset='7715057' lat='59.9255003' lon='30.333121' />
+  <node id='629030948' timestamp='2011-01-27T20:04:59Z' uid='231182' user='klif22' visible='true' version='7' changeset='7107140' lat='59.9251799' lon='30.3338769' />
+  <node id='629030950' timestamp='2015-12-13T09:29:33Z' uid='615059' user='misht' visible='true' version='5' changeset='35922516' lat='59.9248626' lon='30.3333127' />
+  <node id='629030955' timestamp='2011-01-27T20:05:03Z' uid='231182' user='klif22' visible='true' version='4' changeset='7107140' lat='59.9252087' lon='30.3325604' />
+  <node id='771875187' timestamp='2010-12-07T03:30:52Z' uid='136198' user='tmprec' visible='true' version='2' changeset='6570935' lat='59.9246552' lon='30.3352323' />
+  <node id='771876155' timestamp='2011-01-13T16:56:25Z' uid='231182' user='klif22' visible='true' version='3' changeset='6959035' lat='59.9246035' lon='30.3353418' />
+  <node id='771876380' timestamp='2011-01-27T19:50:23Z' uid='231182' user='klif22' visible='true' version='3' changeset='7106974' lat='59.9249012' lon='30.3345323' />
+  <node id='1019120106' timestamp='2011-01-27T19:50:24Z' uid='231182' user='klif22' visible='true' version='5' changeset='7106974' lat='59.9252921' lon='30.3336302' />
+  <node id='1019120108' timestamp='2011-01-27T19:50:21Z' uid='231182' user='klif22' visible='true' version='4' changeset='7106974' lat='59.9252382' lon='30.3337521' />
+  <node id='1019120113' timestamp='2010-12-09T17:09:11Z' uid='43262' user='KonTur' visible='true' version='3' changeset='6597083' lat='59.92513' lon='30.333995' />
+  <node id='1019120141' timestamp='2011-01-27T19:50:18Z' uid='231182' user='klif22' visible='true' version='6' changeset='7106974' lat='59.9251643' lon='30.33392' />
+  <node id='1019317862' timestamp='2011-01-27T20:04:59Z' uid='231182' user='klif22' visible='true' version='4' changeset='7107140' lat='59.9251' lon='30.3337374' />
+  <node id='1019317863' timestamp='2011-01-27T20:05:04Z' uid='231182' user='klif22' visible='true' version='3' changeset='7107140' lat='59.9250112' lon='30.3335769' />
+  <node id='1019335092' timestamp='2011-01-13T16:48:58Z' uid='231182' user='klif22' visible='true' version='2' changeset='6958963' lat='59.9244367' lon='30.3341989' />
+  <node id='1019335093' timestamp='2015-12-13T09:29:32Z' uid='615059' user='misht' visible='true' version='2' changeset='35922516' lat='59.9245986' lon='30.3338853' />
+  <node id='1021138123' timestamp='2011-01-27T20:05:04Z' uid='231182' user='klif22' visible='true' version='2' changeset='7107140' lat='59.9242766' lon='30.3353159' />
+  <node id='1021138167' timestamp='2011-01-27T20:05:00Z' uid='231182' user='klif22' visible='true' version='3' changeset='7107140' lat='59.9241361' lon='30.334864' />
+  <node id='1068378393' timestamp='2011-01-27T19:50:23Z' uid='231182' user='klif22' visible='true' version='2' changeset='7106974' lat='59.9254924' lon='30.3331395' />
+  <node id='1068382309' timestamp='2011-01-27T19:50:27Z' uid='231182' user='klif22' visible='true' version='2' changeset='7106974' lat='59.9254683' lon='30.3331982' />
+  <node id='1068382312' timestamp='2011-01-27T19:50:23Z' uid='231182' user='klif22' visible='true' version='2' changeset='7106974' lat='59.9253981' lon='30.3333779' />
+  <node id='1123806335' timestamp='2011-01-27T20:04:57Z' uid='231182' user='klif22' visible='true' version='1' changeset='7107140' lat='59.9254481' lon='30.3330208' />
+  <node id='1123806339' timestamp='2011-01-27T20:04:58Z' uid='231182' user='klif22' visible='true' version='1' changeset='7107140' lat='59.9253557' lon='30.3328594' />
+  <node id='1123806355' timestamp='2011-01-27T20:04:58Z' uid='231182' user='klif22' visible='true' version='1' changeset='7107140' lat='59.9243242' lon='30.3352183' />
+  <node id='3890055142' timestamp='2015-12-13T09:29:23Z' uid='615059' user='misht' visible='true' version='1' changeset='35922516' lat='59.9250181' lon='30.3329762'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4737706222' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='76732274' lat='59.92370573341' lon='30.33587105288'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='4958942917' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732274' lat='59.92401860484' lon='30.3351574911'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №86' />
+    <tag k='website' v='http://gdoutcrrds86tsr.acentr.gov.spb.ru/' />
+  </node>
+  <node id='4958942918' timestamp='2017-07-08T20:32:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50139206' lat='59.9244473' lon='30.335733' />
+  <node id='4958942919' timestamp='2017-07-08T20:32:52Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50139206' lat='59.9242403' lon='30.3353977' />
+  <node id='4958942920' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732274' lat='59.92583635086' lon='30.33129253553'>
+    <tag k='contact:vk' v='https://vk.com/sherlockhostel' />
+    <tag k='disused:tourism' v='hostel' />
+    <tag k='name' v='Sherlock Hostel' />
+    <tag k='website' v='http://sherlockhostel.ru/' />
+  </node>
+  <node id='5342020769' timestamp='2018-12-09T01:13:23Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='65304533' lat='59.9260512' lon='30.3308654'>
+    <tag k='disused:shop' v='gift' />
+  </node>
+  <node id='6953184323' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76732274' lat='59.92507222329' lon='30.33285812856'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='6953184324' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76732274' lat='59.92600083986' lon='30.33094797217'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/voskhodcoffee' />
+    <tag k='name' v='Восход' />
+    <tag k='opening_hours' v='08:30-21:00' />
+    <tag k='website' v='https://voskhodcoffee.ru/' />
+  </node>
+  <way id='506113843' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732274'>
+    <nd ref='1123806355' />
+    <nd ref='1021138123' />
+    <nd ref='4958942919' />
+    <nd ref='4958942918' />
+    <nd ref='771876155' />
+    <nd ref='771875187' />
+    <nd ref='771876380' />
+    <nd ref='1019120113' />
+    <nd ref='1019120141' />
+    <nd ref='629030948' />
+    <nd ref='1019317862' />
+    <nd ref='1019317863' />
+    <nd ref='629030950' />
+    <nd ref='1019335093' />
+    <nd ref='1019335092' />
+    <nd ref='1021138167' />
+    <nd ref='1123806355' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Школа №308' />
+    <tag k='website' v='http://school308.ru/' />
+  </way>
+  <way id='506113844' timestamp='2019-11-07T05:21:59Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76732274'>
+    <nd ref='629030942' />
+    <nd ref='1123806335' />
+    <nd ref='1123806339' />
+    <nd ref='629030955' />
+    <nd ref='6953184323' />
+    <nd ref='3890055142' />
+    <nd ref='629030950' />
+    <nd ref='1019317863' />
+    <nd ref='1019317862' />
+    <nd ref='629030948' />
+    <nd ref='1019120108' />
+    <nd ref='1019120106' />
+    <nd ref='1068382312' />
+    <nd ref='1068382309' />
+    <nd ref='1068378393' />
+    <nd ref='629030942' />
+    <tag k='amenity' v='college' />
+    <tag k='contact:vk' v='https://vk.com/sptgt_ru' />
+    <tag k='name' v='Санкт-Петербургский техникум железнодорожного транспорта' />
+    <tag k='website' v='http://www.sptgt.ru/' />
+  </way>
+</osm>

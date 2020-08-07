@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6193774122' timestamp='2019-01-08T22:51:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66143368' lat='59.94576824547' lon='30.35179786689'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/clinica_tibet' />
+    <tag k='medical_system:tibetan' v='yes' />
+    <tag k='name' v='Тибет' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://www.clinica-tibet.ru/' />
+  </node>
+</osm>

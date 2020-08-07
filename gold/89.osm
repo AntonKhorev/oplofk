@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5879666211' timestamp='2018-09-03T21:10:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62259796' lat='59.9278953' lon='30.3265998'>
+    <tag k='amenity' v='theatre' />
+    <tag k='name' v='Камертон' />
+    <tag k='website' v='http://www.momo78.ru/about/teatr-kamerton/' />
+  </node>
+  <node id='5879666212' timestamp='2018-09-03T21:10:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62259796' lat='59.9277087' lon='30.3263412'>
+    <tag k='contact:vk' v='https://vk.com/bm_diva_art' />
+    <tag k='name' v='Diva Art' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa-Su 12:00-19:00' />
+    <tag k='shop' v='frame' />
+    <tag k='website' v='http://www.fotoramki.net/' />
+  </node>
+  <node id='5879666213' timestamp='2018-09-03T21:10:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62259796' lat='59.9277186' lon='30.3263221'>
+    <tag k='alt_name' v='Свадебка' />
+    <tag k='contact:vk' v='https://vk.com/salon.vesta' />
+    <tag k='description' v='свадебные аксессуары, украшения на машину, аренда автомобиля на свадьбу, фотографы и видеографы, торты и букеты, оформление зала' />
+    <tag k='name' v='Vesta' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa-Su 12:00-19:00' />
+    <tag k='shop' v='party' />
+    <tag k='website' v='https://www.svadebca.ru/' />
+  </node>
+</osm>

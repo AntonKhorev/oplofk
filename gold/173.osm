@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6150637626' timestamp='2018-12-20T23:45:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65655433' lat='59.9229197' lon='30.3072321'>
+    <tag k='contact:vk' v='https://vk.com/futurumspb' />
+    <tag k='leisure' v='amusement_arcade' />
+    <tag k='name' v='Futurum' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='https://futurum.spb.ru/' />
+  </node>
+  <node id='6150637627' timestamp='2018-12-20T23:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65655433' lat='59.9229093' lon='30.3071842'>
+    <tag k='contact:vk' v='https://vk.com/good__habit' />
+    <tag k='name' v='Good Habit' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://good-habit.ru/' />
+  </node>
+  <node id='6150637628' timestamp='2018-12-20T23:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65655433' lat='59.9228833' lon='30.3071299'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/bombshell_spb' />
+    <tag k='name' v='Bombshell' />
+  </node>
+  <node id='6150637629' timestamp='2018-12-20T23:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='65655433' lat='59.9227822' lon='30.3072074'>
+    <tag k='contact:instagram' v='https://www.instagram.com/new_page.spb/' />
+    <tag k='name' v='New Page' />
+    <tag k='opening_hours' v='Mo-Fr 12:00-21:00; Sa-Su 12:00-20:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+</osm>

@@ -1,0 +1,177 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='682344129' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='75331047' lat='59.9231015861' lon='30.33586003032'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/kwakinnpub' />
+    <tag k='name' v='KwakInn' />
+    <tag k='opening_hours' v='Su-Th 12:00-01:00, Fr-Sa 12:00-02:00' />
+    <tag k='phone' v='+7 812 4560515' />
+    <tag k='website' v='http://kwakinn.ru/reservations/zvenigorodsky' />
+  </node>
+  <node id='1101010519' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='75331047' lat='59.92330840056' lon='30.3356076723'>
+    <tag k='brand' v='Spar' />
+    <tag k='brand:wikidata' v='Q610492' />
+    <tag k='brand:wikipedia' v='ru:Spar' />
+    <tag k='contact:email' v='info@spar.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/spar' />
+    <tag k='contact:twitter' v='https://twitter.com/SPARInt' />
+    <tag k='contact:vk' v='https://vk.com/spar_spb' />
+    <tag k='name' v='Spar' />
+    <tag k='name:nl' v='Spar' />
+    <tag k='name:ru' v='Спар' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 800 2344776;+7 812 6221090' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.sparspb.ru' />
+  </node>
+  <node id='2303483669' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='75331047' lat='59.92270216656' lon='30.3363499299'>
+    <tag k='alt_name' v='ArtHobby' />
+    <tag k='contact:vk' v='https://vk.com/arthobbyshop' />
+    <tag k='description' v='товары для художников' />
+    <tag k='name' v='ArtХобби' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «ШарЖ»' />
+    <tag k='shop' v='craft' />
+    <tag k='website' v='http://www.arthobby-shop.ru/' />
+  </node>
+  <node id='3614187010' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75331047' lat='59.92218158625' lon='30.33699860073'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/paprika_clubfood' />
+    <tag k='name' v='Paprika' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-24:00; Sa-Su 10:00-24:00' />
+    <tag k='website' v='http://paprikacafe.ru/' />
+  </node>
+  <node id='4253801994' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75331047' lat='59.92157523012' lon='30.33772667165'>
+    <tag k='contact:vk' v='https://vk.com/stationhotels' />
+    <tag k='email' v='station.z12@station-hotels.ru' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Station Z12' />
+    <tag k='operator' v='ООО «Звенигород»' />
+    <tag k='phone' v='+7 812 7482179' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://station-hotels.ru/z12' />
+  </node>
+  <node id='4263177392' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='75331047' lat='59.9214553401' lon='30.33786506141'>
+    <tag k='alt_name' v='Порт Артур' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/restportartur' />
+    <tag k='name' v='Портъ Артуръ' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:00, Fr-Sa 11:00-01:00' />
+    <tag k='website' v='http://portartur-spb.ru/' />
+  </node>
+  <node id='4976685242' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331047' lat='59.92125341025' lon='30.33809449318'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/andromeda.clinic' />
+    <tag k='name' v='АндроМеда' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa-Su 10:00-18:00' />
+    <tag k='website' v='https://andromeda-clinic.ru/' />
+  </node>
+  <node id='4976685243' timestamp='2017-07-18T06:42:13Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50369854' lat='59.9213932' lon='30.3379351'>
+    <tag k='contact:vk' v='https://vk.com/kidnessclub' />
+    <tag k='description' v='фитнес-клуб для детей' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='KidnessClub' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='website' v='https://www.kidnessclub.ru/' />
+  </node>
+  <node id='4976685244' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75331047' lat='59.9216133802' lon='30.33768262284'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:vk' v='https://vk.com/bbrbank' />
+    <tag k='name' v='ББР Банк' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-19:00' />
+    <tag k='operator' v='ББР Банк (АО)' />
+    <tag k='website' v='https://bbr.ru/o-banke/ofisy-i-bankomaty/spb1/' />
+  </node>
+  <node id='4976685245' timestamp='2017-07-18T06:42:13Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50369854' lat='59.9219557' lon='30.3372793'>
+    <tag k='name' v='Служба охраны по Северо-Западному федеральному округу' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='4976685246' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331047' lat='59.92225146696' lon='30.33690992744'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafe_voyage' />
+    <tag k='name' v='Voyage' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-00:00; Sa-Su 11:00-00:00' />
+  </node>
+  <node id='4976685247' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331047' lat='59.92233496224' lon='30.33680563137'>
+    <tag k='contact:vk' v='https://vk.com/bulkakhleba' />
+    <tag k='name' v='Булка хлеба' />
+    <tag k='opening_hours' v='Mo-Fr 07:45-22:00; Sa-Su 10:00-22:00' />
+    <tag k='operator' v='ООО «Диалог»' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://bulkahleba.com/' />
+  </node>
+  <node id='4976685248' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331047' lat='59.92241959528' lon='30.33670020392'>
+    <tag k='brand' v='Великолукский мясокомбинат' />
+    <tag k='brand:wikidata' v='Q18401767' />
+    <tag k='name' v='Великолукский мясокомбинат' />
+    <tag k='opening_hours' v='Mo 10:00-22:00; Tu-Sa 09:00-22:00; Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Меркурий»' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='4976685249' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331047' lat='59.92251106224' lon='30.33658573138'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Совкомбанк' />
+    <tag k='brand:wikidata' v='Q4426566' />
+    <tag k='contact:vk' v='https://vk.com/sovcombank' />
+    <tag k='name' v='Совкомбанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 10:00-17:00' />
+    <tag k='website' v='https://sovcombank.ru/' />
+  </node>
+  <node id='4976685250' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75331047' lat='59.92259537213' lon='30.33648152491'>
+    <tag k='name' v='Медтехника №7' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:30; Sa-Su 10:00-20:00' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='https://www.medkv.ru/magazin-medtehniki-metro-zvenigorodskaya.html' />
+  </node>
+  <node id='4976685251' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331047' lat='59.92262897213' lon='30.33643992491'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Луна' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='4976685252' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75331047' lat='59.92275737213' lon='30.33628172492'>
+    <tag k='alt_name' v='Пилки' />
+    <tag k='contact:vk' v='https://vk.com/pilkinail' />
+    <tag k='name' v='ПиLки' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://pilkinail.ru/' />
+  </node>
+  <node id='4976685253' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='75331047' lat='59.9228168' lon='30.3362298'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/rumkadrujba/' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Дружба' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Дружба»' />
+    <tag k='website' v='https://bar-2510.business.site/' />
+  </node>
+  <node id='4976685254' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='75331047' lat='59.92294173482' lon='30.33605557672'>
+    <tag k='contact:vk' v='https://vk.com/centr_coral' />
+    <tag k='name' v='Coral' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 10:00-20:00' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='http://www.coralspb.ru/roznichnyj-magazin-coral' />
+  </node>
+  <node id='6307330558' timestamp='2019-02-28T02:23:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67636749' lat='59.9228683' lon='30.3362279'>
+    <tag k='level' v='-1' />
+    <tag k='shop' v='copyshop' />
+  </node>
+  <node id='6307330559' timestamp='2019-02-28T02:23:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='67636749' lat='59.9228629' lon='30.336277'>
+    <tag k='contact:vk' v='https://vk.com/music_market_spb' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Music Market' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='musical_instrument' />
+    <tag k='website' v='https://music-market-spb.ru/' />
+  </node>
+  <node id='6854465783' timestamp='2019-10-06T02:22:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='75331047' lat='59.92260434901' lon='30.33651217684'>
+    <tag k='contact:vk' v='https://vk.com/green_point_shop' />
+    <tag k='name' v='Green Point' />
+    <tag k='shop' v='health_food' />
+    <tag k='website' v='https://green-point.ru/' />
+  </node>
+</osm>

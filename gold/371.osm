@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7302105387' timestamp='2020-03-17T13:37:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='82304636' lat='59.9251565' lon='30.3243632'>
+    <tag k='contact:vk' v='https://vk.com/headbangersalonspb' />
+    <tag k='name' v='Headbanger' />
+    <tag k='note' v='возможно закрыт' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='7302105437' timestamp='2020-03-17T13:37:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='82304636' lat='59.9251832' lon='30.3241593'>
+    <tag k='contact:vk' v='https://vk.com/tetrapilon' />
+    <tag k='name' v='ТетраПилон' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://tetrapilon.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1030506195' timestamp='2018-09-27T02:22:42Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='62962871' lat='59.91851238571' lon='30.34603888206'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='4897492750' timestamp='2018-09-27T00:56:21Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62961992' lat='59.91730794851' lon='30.34288065625'>
+    <tag k='contact:vk' v='https://vk.com/markiza_ru' />
+    <tag k='name' v='Маркиза.ру' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='website' v='http://www.markiza.ru/' />
+  </node>
+  <node id='5933152812' timestamp='2018-09-27T02:22:42Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62962871' lat='59.91840352102' lon='30.34575349714'>
+    <tag k='amenity' v='community_centre' />
+    <tag k='contact:vk' v='https://vk.com/parsifal_spb' />
+    <tag k='name' v='Парсифаль' />
+  </node>
+  <node id='5933152813' timestamp='2018-09-27T02:22:42Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62962871' lat='59.91778621039' lon='30.34413495178'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/pintacraftbar' />
+    <tag k='name' v='Четверть пинты' />
+    <tag k='opening_hours' v='16:00-02:00' />
+    <tag k='website' v='https://pintquarter.ru/' />
+  </node>
+</osm>

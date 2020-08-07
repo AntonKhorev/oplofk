@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1727773627' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='66248714' lat='59.93480860031' lon='30.36044712163'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/marcellispeople' />
+    <tag k='cuisine' v='italian' />
+    <tag k='name' v='Марчеллис' />
+    <tag k='opening_hours' v='Mo-Su 10:00-24:00' />
+    <tag k='website' v='http://www.marcellis.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='1727773628' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='66248714' lat='59.9344660617' lon='30.36042783956'>
+    <tag k='alt_name' v='2 палочки' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/dvepalochki' />
+    <tag k='cuisine' v='japanese;sushi' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Две палочки' />
+    <tag k='opening_hours' v='Mo-Su 11:00-06:00' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='website' v='http://dvepalochki.ru/restaurants/ul-vosstaniya-15/' />
+  </node>
+  <node id='1727950281' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66248714' lat='59.93454061467' lon='30.36043196533'>
+    <tag k='brand' v='Фабрика имени Крупской' />
+    <tag k='brand:wikidata' v='Q4480319' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 12:00-18:00' />
+    <tag k='operator' v='ИП Сидоров' />
+    <tag k='phone' v='+7 812 3465532' />
+    <tag k='shop' v='confectionery' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2368121842' timestamp='2018-09-04T21:35:09Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='62292687' lat='59.9356825' lon='30.3605089'>
+    <tag k='brand' v='Народная 7Я семьЯ' />
+    <tag k='brand:wikidata' v='Q4032436' />
+    <tag k='contact:vk' v='https://vk.com/7yarus' />
+    <tag k='name' v='Народная 7Я семьЯ' />
+    <tag k='name:ru' v='Народная 7Я семьЯ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «ТД Интерторг»' />
+    <tag k='operator:wikidata' v='Q16655827' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.7-ya.ru/' />
+  </node>
+  <node id='2580869495' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='66248714' lat='59.93505192918' lon='30.36045301904'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/potrefena' />
+    <tag k='name' v='Подстреленная Гусыня' />
+    <tag k='opening_hours' v='Su-Th 12:00-00:00, Fr-Sa 12:00-02:00' />
+    <tag k='website' v='https://www.pivnicespb.ru/' />
+  </node>
+  <node id='4085518789' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66248714' lat='59.93535707081' lon='30.36046989691'>
+    <tag k='contact:vk' v='https://vk.com/akyanhotel' />
+    <tag k='name' v='Akyan' />
+    <tag k='stars' v='3' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://akyanhotel.com/' />
+  </node>
+  <node id='4730013489' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='66248714' lat='59.93526215674' lon='30.36046480848'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/korjov_bakeries' />
+    <tag k='name' v='Коржов' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:30; Sa-Su 09:00-22:30' />
+    <tag k='operator' v='ООО «Пекарня на Восстания»' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:mir' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 812 2729925' />
+    <tag k='shop' v='pastry' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://www.korjov.com/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='6203137891' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66248714' lat='59.93509745143' lon='30.3604548481'>
+    <tag k='name' v='Паромный центр' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://paromy.ru/' />
+  </node>
+  <node id='6203137892' timestamp='2019-01-12T11:39:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66248714' lat='59.9351538564' lon='30.36045827669'>
+    <tag k='contact:facebook' v='https://www.facebook.com/babaganoush.pitabar/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/babaganoush.pitabar/' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Бабагануш' />
+    <tag k='note' v='ещё не открыто' />
+  </node>
+</osm>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1547552174' timestamp='2019-06-30T22:37:13Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='71766850' lat='59.91799763508' lon='30.28980084816'>
+    <tag k='contact:vk' v='https://vk.com/ts_norman' />
+    <tag k='name' v='Норман' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ООО «Норман СПб»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://norman-spb.ru/' />
+  </node>
+  <node id='1594687439' timestamp='2019-06-30T22:37:13Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='71766850' lat='59.91778770921' lon='30.28998524667'>
+    <tag k='name' v='Дукани' />
+    <tag k='shop' v='bakery' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4423067485' timestamp='2019-06-30T22:37:13Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='71766850' lat='59.91788036799' lon='30.28990246993'>
+    <tag k='name' v='Дезинфектор' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='http://www.klop2.ru/' />
+  </node>
+  <node id='4585278154' timestamp='2019-06-30T22:37:13Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='71766850' lat='59.9176726885' lon='30.29008553596'>
+    <tag k='contact:vk' v='https://vk.com/produkty.ermolino' />
+    <tag k='name' v='Ермолино' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='https://www.ermolino-produkty.ru/' />
+  </node>
+</osm>

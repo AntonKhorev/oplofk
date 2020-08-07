@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2562970814' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='3' changeset='59757161' lat='59.93919464559' lon='30.35004707396'>
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Санкт-Петербургская детская школа искусств имени С.В. Рахманинова' />
+    <tag k='website' v='http://rahmaninovschool.spb.ru/' />
+  </node>
+  <node id='2562970817' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='8' changeset='59757161' lat='59.93986022646' lon='30.35010868066'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='2562970841' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='2' changeset='59757161' lat='59.94095867346' lon='30.35021871703'>
+    <tag k='contact:vk' v='https://vk.com/club102352436' />
+    <tag k='leisure' v='sports_centre' />
+    <tag k='name' v='Подростково-молодежный клуб «Атлант»' />
+    <tag k='note' v='нет на perspektiva-klab.ru' />
+    <tag k='sport' v='weightlifting' />
+  </node>
+  <node id='5172231653' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='4' changeset='59757161' lat='59.93909627787' lon='30.35003779086'>
+    <tag k='name' v='Byzance' />
+    <tag k='shop' v='antiques' />
+  </node>
+  <node id='5178213527' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='3' changeset='59757161' lat='59.9392379515' lon='30.3500510889'>
+    <tag k='contact:vk' v='https://vk.com/andfriends' />
+    <tag k='name' v='&amp; Friends' />
+    <tag k='opening_hours' v='Mo-Sa 12:00-21:00; Su 13:00-20:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5683502513' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59757161' lat='59.94133971768' lon='30.35025842365'>
+    <tag k='name' v='Арт-студия Концерт' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5683502514' timestamp='2018-06-12T00:11:29Z' uid='437809' user='Anton Khorev' version='1' changeset='59757161' lat='59.93989612041' lon='30.35011199665'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5830832620' timestamp='2018-08-13T22:39:08Z' uid='437809' user='Anton Khorev' version='1' changeset='61640795' lat='59.91576257796' lon='30.29469152748'>
+    <tag k='int_name' v='Amber Empire' />
+    <tag k='name' v='Империя янтаря' />
+    <tag k='shop' v='jewelry' />
+  </node>
+  <relation id='4094531' timestamp='2018-08-13T22:39:08Z' uid='437809' user='Anton Khorev' version='3' changeset='61640795'>
+    <member type='way' ref='306651283' role='outer' />
+    <member type='way' ref='306651273' role='outer' />
+    <member type='way' ref='306651281' role='outer' />
+    <member type='way' ref='306651278' role='outer' />
+    <member type='way' ref='98590172' role='outer' />
+    <member type='way' ref='306651277' role='outer' />
+    <tag k='brand' v='Azimut Hotels' />
+    <tag k='brand:wikidata' v='Q4033119' />
+    <tag k='building:levels' v='5' />
+    <tag k='building:part' v='yes' />
+    <tag k='contact:vk' v='https://vk.com/azimuthotels' />
+    <tag k='name' v='A-Отель Фонтанка' />
+    <tag k='tourism' v='hotel' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='https://azimuthotels.com/Russia/a-hotel-fontanka-saint-petersburg/' />
+  </relation>
+</osm>

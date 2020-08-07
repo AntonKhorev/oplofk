@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='891397515' timestamp='2018-12-12T23:16:01Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='65425518' lat='59.9222431' lon='30.3487125'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/komsomolkaretroclub' />
+    <tag k='name' v='Комсомолка' />
+    <tag k='opening_hours' v='Tu-Su 18:00-06:00' />
+  </node>
+  <node id='1145312067' timestamp='2018-12-12T23:16:01Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65425518' lat='59.9226482' lon='30.3500962'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/tarelka_life' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Тарелка столовая' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ООО «Гермес»' />
+    <tag k='website' v='http://tarelkas.ru/cafes/marata-56/' />
+  </node>
+  <node id='3956234630' timestamp='2018-12-12T23:16:01Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='65425518' lat='59.9224526' lon='30.3494284'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:vk' v='https://vk.com/sauber_bank' />
+    <tag k='description' v='Дополнительный офис №1 АО &quot;Заубер Банк&quot;' />
+    <tag k='name' v='Заубер Банк' />
+    <tag k='opening_hours' v='Mo-Su 09:30-20:30' />
+    <tag k='operator' v='АО «Заубер Банк»' />
+    <tag k='phone' v='+7 812 6470606' />
+    <tag k='website' v='https://www.sauberbank.com/' />
+  </node>
+  <node id='4906116599' timestamp='2018-12-12T23:16:01Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='65425518' lat='59.9225269' lon='30.3496822'>
+    <tag k='contact:vk' v='https://vk.com/salonnewstage' />
+    <tag k='name' v='New Stage' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 11:00-20:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://newstagesalon.ru/' />
+  </node>
+  <node id='4906116600' timestamp='2018-10-04T07:22:03Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63184621' lat='59.9224987' lon='30.349586'>
+    <tag k='name' v='Фермерское мясо' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='butcher' />
+  </node>
+</osm>

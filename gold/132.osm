@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5667565920' timestamp='2018-10-28T01:02:03Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63939975' lat='59.9205498' lon='30.2997379'>
+    <tag k='brand' v='Holiday Inn Express' />
+    <tag k='brand:wikidata' v='Q5880423' />
+    <tag k='name' v='Holiday Inn Express St. Petersburg - Sadovaya' />
+    <tag k='operator' v='АО «Никольские ряды»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.ihg.com/holidayinnexpress/hotels/ru/ru/st-petersburg/ledcc/hoteldetail' />
+  </node>
+</osm>

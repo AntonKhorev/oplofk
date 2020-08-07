@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4532515730' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62680483' lat='59.9314275' lon='30.292704'>
+    <tag k='amenity' v='toilets' />
+    <tag k='fee' v='yes' />
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='opening_hours' v='10:00-20:00' />
+  </node>
+  <node id='5546522425' timestamp='2018-04-11T22:53:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9315235' lon='30.2924458'>
+    <tag k='entrance' v='yes' />
+    <tag k='layer' v='-1' />
+  </node>
+  <node id='5546522426' timestamp='2018-04-11T22:53:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9317346' lon='30.2925521' />
+  <node id='5546522427' timestamp='2018-04-11T22:53:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9316024' lon='30.2927095' />
+  <node id='5546522428' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9314664' lon='30.2929933'>
+    <tag k='craft' v='photographer' />
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+  </node>
+  <node id='5546522429' timestamp='2018-04-11T22:53:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9315716' lon='30.2927463' />
+  <node id='5546522430' timestamp='2018-04-11T22:53:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9314926' lon='30.2924825' />
+  <node id='5546522431' timestamp='2018-04-11T22:53:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9314395' lon='30.2929037' />
+  <node id='5546522435' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.931524' lon='30.2923717'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='shop' v='bag' />
+  </node>
+  <node id='5546522436' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9316173' lon='30.2924189'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/coffeepride' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='name' v='Coffee Pride' />
+    <tag k='opening_hours' v='Mo-Fr 07:00-21:00; Sa-Su 09:00-20:00' />
+  </node>
+  <node id='5546522437' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62680483' lat='59.9316569' lon='30.2924387'>
+    <tag k='craft' v='electronics_repair;key_cutter;leather;shoemaker' />
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 12:00-18:00' />
+  </node>
+  <node id='5546522438' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9317709' lon='30.2924964'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='name' v='Красивая одежда' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5546522439' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9317477' lon='30.2926203'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 12:00-18:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='5546522440' timestamp='2018-04-11T22:53:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9316197' lon='30.292689'>
+    <tag k='entrance' v='yes' />
+    <tag k='layer' v='-1' />
+  </node>
+  <node id='5546522441' timestamp='2018-04-11T22:53:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9316722' lon='30.2925207'>
+    <tag k='entrance' v='yes' />
+    <tag k='layer' v='-1' />
+  </node>
+  <node id='5546522442' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.931577' lon='30.2928237'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='5546522443' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9314597' lon='30.2929634'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa 12:00-18:00' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='5546522444' timestamp='2018-04-11T22:53:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.931558' lon='30.2927625'>
+    <tag k='entrance' v='yes' />
+    <tag k='layer' v='-1' />
+  </node>
+  <node id='5546522445' timestamp='2018-04-11T22:53:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='58019848' lat='59.9314728' lon='30.29264'>
+    <tag k='entrance' v='yes' />
+    <tag k='layer' v='-1' />
+  </node>
+  <node id='5546522446' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9314038' lon='30.2928933'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='operator' v='ООО «Голд»' />
+    <tag k='shop' v='jewelry' />
+  </node>
+  <node id='5546522447' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9314503' lon='30.2925246'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su,PH 11:00-19:00' />
+    <tag k='operator' v='ИП Шустрова В.О.' />
+    <tag k='shop' v='houseware' />
+  </node>
+  <node id='5546522448' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.931397' lon='30.2924494'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='name' v='Brioche' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00' />
+    <tag k='operator' v='ИП Прохоров Л.Г.' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='5546522451' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.9315134' lon='30.2922249'>
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='5912830225' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483' lat='59.93163676379' lon='30.29275248773'>
+    <tag k='amenity' v='cafe' />
+    <tag k='location' v='underground' />
+    <tag k='name' v='Берлога' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='phone' v='+7 964 3499993' />
+  </node>
+  <way id='579053235' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483'>
+    <nd ref='5546522427' />
+    <nd ref='5546522440' />
+    <nd ref='5546522426' />
+    <nd ref='5546522441' />
+    <nd ref='5546522425' />
+    <nd ref='5546522427' />
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='name' v='Вологодские продукты' />
+    <tag k='shop' v='convenience' />
+  </way>
+  <way id='579053236' timestamp='2018-09-18T00:31:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62680483'>
+    <nd ref='5546522431' />
+    <nd ref='5546522445' />
+    <nd ref='5546522430' />
+    <nd ref='5546522429' />
+    <nd ref='5546522444' />
+    <nd ref='5546522431' />
+    <tag k='layer' v='-1' />
+    <tag k='location' v='underground' />
+    <tag k='name' v='Сувениры со всего мира' />
+    <tag k='shop' v='gift' />
+  </way>
+</osm>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2174863959' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76731782' lat='59.9206360272' lon='30.31081407958'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №27' />
+    <tag k='website' v='https://ds-27-spb.nubex.ru/' />
+  </node>
+  <node id='2197629002' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76731782' lat='59.92204587798' lon='30.31031320304'>
+    <tag k='disused:shop' v='convenience' />
+    <tag k='name' v='Продукты' />
+  </node>
+  <node id='3909032859' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76731782' lat='59.92133737988' lon='30.3103047781'>
+    <tag k='clothes' v='workwear' />
+    <tag k='contact:vk' v='https://vk.com/artline_medpodium' />
+    <tag k='name' v='ArtLine' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.medpodium.ru/sanktpeterburg/spb-sad/' />
+  </node>
+  <node id='4356734190' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='76731782' lat='59.92088713781' lon='30.31060957796'>
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:en' v='Pyaterochka' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='brand:wikipedia' v='ru:Пятёрочка' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:en' v='Pyaterochka' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='phone' v='+7 800 5555505' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='4547857853' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='76731782' lat='59.92264641797' lon='30.31033569786'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/coffee_lover_s' />
+    <tag k='name' v='Coffee Lovers' />
+  </node>
+  <node id='4547857854' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76731782' lat='59.92106078451' lon='30.31046816117'>
+    <tag k='club' v='sport' />
+    <tag k='contact:vk' v='https://vk.com/pmk_palestra' />
+    <tag k='name' v='Подростково-молодёжный клуб «Палестра»' />
+    <tag k='website' v='http://admiralteisky.spb.ru/%D0%BA%D0%BB%D1%83%D0%B1%D1%8B/%D0%BF%D0%BC%D0%BA-%D0%BF%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D1%80%D0%B0/' />
+  </node>
+  <node id='4547857855' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='76731782' lat='59.92103238564' lon='30.31049128909'>
+    <tag k='amenity' v='social_facility' />
+    <tag k='contact:vk' v='https://vk.com/spbcsri' />
+    <tag k='name' v='Центр социальной реабилитации инвалидов Адмиралтейского района' />
+    <tag k='note' v='адрес указан на https://iss.ktsz.spb.ru/ISS/esrn/index/servproviders/item.htm?id=48@sprOrgBase' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00' />
+    <tag k='website' v='http://stbyst.spb.ru/' />
+  </node>
+  <node id='6953161341' timestamp='2019-11-07T04:55:15Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='76731782' lat='59.9221062633' lon='30.3103153191'>
+    <tag k='name' v='Центр государственного санитарно-эпидемиологического надзора МСЧ' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://мсч.78.мвд.рф/Podrazdeleniya/%D1%86%D0%B3%D1%81%D1%8D%D0%BD2' />
+  </node>
+</osm>

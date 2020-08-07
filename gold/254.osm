@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6482331044' timestamp='2019-05-18T12:10:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70385706' lat='59.9185273' lon='30.3424129'>
+    <tag k='contact:vk' v='https://vk.com/public118520293' />
+    <tag k='name' v='Институт истории Республики Татарстан, Северо-Западный научный центр' />
+    <tag k='office' v='research' />
+    <tag k='website' v='http://татаровед.рф/departments/15' />
+  </node>
+  <node id='6482331045' timestamp='2019-05-18T12:10:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='70385706' lat='59.9183008' lon='30.3419142'>
+    <tag k='contact:vk' v='https://vk.com/barbershop.boundurant' />
+    <tag k='name' v='Bondurant' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://bondurant.top/' />
+  </node>
+</osm>

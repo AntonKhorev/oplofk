@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='455299275' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93743315605' lon='30.36011885456'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/kazanmangalspb' />
+    <tag k='cuisine' v='georgian;uzbek' />
+    <tag k='name' v='Kazan-Mangal' />
+    <tag k='opening_hours' v='12:00-01:00' />
+    <tag k='website' v='http://reca.rest/restaurants/kazanmangal_vosstaniya' />
+  </node>
+  <node id='1138207032' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93804095638' lon='30.35875327239' />
+  <node id='1138207047' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93807902261' lon='30.35841249427' />
+  <node id='1138207074' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93809621742' lon='30.35724008813' />
+  <node id='1138207103' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93776967445' lon='30.35722120424' />
+  <node id='1138207105' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93767412351' lon='30.35748253401' />
+  <node id='1138207152' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93763368316' lon='30.358162535' />
+  <node id='1138207160' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93789350211' lon='30.35816362361' />
+  <node id='1138207242' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93809904146' lon='30.35704892931' />
+  <node id='1138207277' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93753002032' lon='30.35747345024' />
+  <node id='1138207340' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.937839153' lon='30.35816318566' />
+  <node id='1138207451' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93782439793' lon='30.35874275956' />
+  <node id='1138207528' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93777209399' lon='30.35703240171' />
+  <node id='1138207550' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93742755725' lon='30.35872350895' />
+  <node id='1138207621' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66647719' lat='59.93751923405' lon='30.35815532053' />
+  <node id='1426043718' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93742830595' lon='30.35864019788' />
+  <node id='1426043719' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93743271847' lon='30.35814919474' />
+  <node id='1426043743' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93781632888' lon='30.35816328466' />
+  <node id='1426043772' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93808538861' lon='30.35797308776' />
+  <node id='1426043773' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93807979759' lon='30.35835154215' />
+  <node id='1426043774' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93808389379' lon='30.35807427161' />
+  <node id='1426043775' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66647719' lat='59.93809690819' lon='30.35719332975' />
+  <node id='6237308561' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93747274103' lon='30.35569520518'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №18' />
+    <tag k='website' v='http://gdouds18kvtsr.acentr.gov.spb.ru/' />
+  </node>
+  <node id='6237308562' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93746695548' lon='30.35633899279'>
+    <tag k='contact:vk' v='https://vk.com/club4625768' />
+    <tag k='name' v='Сити Слэм' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='sports' />
+    <tag k='sport' v='basketball' />
+    <tag k='website' v='http://mirbasketbola.ru/' />
+  </node>
+  <node id='6237308564' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93743885146' lon='30.35746674542' />
+  <node id='6237308565' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93776862642' lon='30.35748839244' />
+  <node id='6237308566' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93789492709' lon='30.35806909069' />
+  <node id='6237308567' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93807467662' lon='30.35875430824' />
+  <node id='6237308568' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93744406845' lon='30.35888574864'>
+    <tag k='int_name' v='Greenwich' />
+    <tag k='name' v='Гринвич' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.greenwich-hotel.ru/' />
+  </node>
+  <node id='6237308570' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719' lat='59.93779148224' lon='30.35874116167' />
+  <way id='666216845' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719'>
+    <nd ref='1426043719' />
+    <nd ref='1138207621' />
+    <nd ref='1138207152' />
+    <nd ref='1426043743' />
+    <nd ref='1138207340' />
+    <nd ref='1138207160' />
+    <nd ref='6237308566' />
+    <nd ref='1426043774' />
+    <nd ref='1426043772' />
+    <nd ref='1138207074' />
+    <nd ref='1426043775' />
+    <nd ref='1138207242' />
+    <nd ref='1138207528' />
+    <nd ref='1138207103' />
+    <nd ref='6237308565' />
+    <nd ref='1138207105' />
+    <nd ref='1138207277' />
+    <nd ref='6237308564' />
+    <nd ref='1426043719' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Начальная школа – детский сад №620' />
+    <tag k='website' v='http://gouddmshvnshds620tsrr.acentr.gov.spb.ru/' />
+  </way>
+  <way id='666216848' timestamp='2019-01-26T02:10:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66647719'>
+    <nd ref='1426043719' />
+    <nd ref='1426043718' />
+    <nd ref='1138207550' />
+    <nd ref='6237308570' />
+    <nd ref='1138207451' />
+    <nd ref='1138207032' />
+    <nd ref='6237308567' />
+    <nd ref='1138207047' />
+    <nd ref='1426043773' />
+    <nd ref='1426043774' />
+    <nd ref='6237308566' />
+    <nd ref='1138207160' />
+    <nd ref='1138207340' />
+    <nd ref='1426043743' />
+    <nd ref='1138207152' />
+    <nd ref='1138207621' />
+    <nd ref='1426043719' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Спортивная школа олимпийского резерва №1' />
+    <tag k='website' v='http://sdushor-1centr.spb.ru/' />
+  </way>
+</osm>

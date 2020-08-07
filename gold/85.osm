@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='429513207' timestamp='2014-07-25T19:35:12Z' uid='290271' user='Zverik' visible='true' version='3' changeset='24356608' lat='59.9306417' lon='30.3722635' />
+  <node id='429513209' timestamp='2014-07-25T19:35:12Z' uid='290271' user='Zverik' visible='true' version='3' changeset='24356608' lat='59.9308913' lon='30.372587' />
+  <node id='455297491' timestamp='2018-08-31T01:05:43Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='62157261' lat='59.93054497331' lon='30.37262647037'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/thepub' />
+    <tag k='int_name' v='Tara Brooch' />
+    <tag k='name' v='Тара Бруч' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='2980001021' timestamp='2014-07-25T19:34:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24356608' lat='59.9306947' lon='30.3721154' />
+  <node id='2980001845' timestamp='2014-07-25T19:34:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24356608' lat='59.9311071' lon='30.3708327' />
+  <node id='2980001848' timestamp='2014-07-25T20:21:15Z' uid='290271' user='Zverik' visible='true' version='2' changeset='24357385' lat='59.9311504' lon='30.3726289' />
+  <node id='2980001854' timestamp='2014-07-25T19:34:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24356608' lat='59.9312218' lon='30.3709796' />
+  <node id='2980001861' timestamp='2014-07-25T20:21:15Z' uid='290271' user='Zverik' visible='true' version='2' changeset='24357385' lat='59.9313852' lon='30.3711481' />
+  <node id='2980001863' timestamp='2014-07-25T19:34:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24356608' lat='59.9314322' lon='30.3717696' />
+  <node id='2980001864' timestamp='2014-07-25T19:34:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24356608' lat='59.9315027' lon='30.3716113' />
+  <node id='2980001865' timestamp='2014-07-25T19:34:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24356608' lat='59.9315779' lon='30.3713772' />
+  <node id='2980058654' timestamp='2014-07-25T20:20:57Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9306684' lon='30.3721887'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2980058695' timestamp='2014-07-25T20:20:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9309915' lon='30.3726646' />
+  <node id='2980058705' timestamp='2014-07-25T20:20:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9310955' lon='30.3727959' />
+  <node id='2980058708' timestamp='2014-07-25T20:20:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9311326' lon='30.3726789' />
+  <node id='2980058709' timestamp='2014-07-25T20:20:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9311426' lon='30.3726506'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2980058715' timestamp='2014-07-25T20:20:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9312223' lon='30.3724225' />
+  <node id='2980058719' timestamp='2014-07-25T20:20:58Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9313152' lon='30.3710759'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2980058728' timestamp='2014-07-25T20:20:59Z' uid='290271' user='Zverik' visible='true' version='1' changeset='24357385' lat='59.9314674' lon='30.3716904'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5869753291' timestamp='2018-08-31T01:05:43Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62157261' lat='59.93028855237' lon='30.37339008132'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Российский научно-исследовательский институт гематологии и трансфузиологии, консультативно-поликлиническое отделение' />
+  </node>
+  <node id='5869753292' timestamp='2018-08-31T01:05:43Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62157261' lat='59.93057273703' lon='30.37254136646'>
+    <tag k='contact:vk' v='https://vk.com/centerhotels' />
+    <tag k='name' v='The Red' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.centerhotels.ru/red' />
+  </node>
+  <node id='5869753293' timestamp='2018-08-31T01:05:43Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62157261' lat='59.93098485575' lon='30.37121292158'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='621348562' timestamp='2018-08-31T01:05:43Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='62157261'>
+    <nd ref='2980001845' />
+    <nd ref='5869753293' />
+    <nd ref='2980001021' />
+    <nd ref='2980058654' />
+    <nd ref='429513207' />
+    <nd ref='429513209' />
+    <nd ref='2980058695' />
+    <nd ref='2980058705' />
+    <nd ref='2980058708' />
+    <nd ref='2980058709' />
+    <nd ref='2980001848' />
+    <nd ref='2980058715' />
+    <nd ref='2980001863' />
+    <nd ref='2980058728' />
+    <nd ref='2980001864' />
+    <nd ref='2980001865' />
+    <nd ref='2980001861' />
+    <nd ref='2980058719' />
+    <nd ref='2980001854' />
+    <nd ref='2980001845' />
+    <tag k='amenity' v='hospital' />
+    <tag k='health_specialty:haematology' v='main' />
+    <tag k='health_specialty:transfusion_medicine' v='main' />
+    <tag k='name' v='Российский научно-исследовательский институт гематологии и трансфузиологии' />
+    <tag k='office' v='research' />
+    <tag k='website' v='http://www.bloodscience.ru/' />
+  </way>
+</osm>

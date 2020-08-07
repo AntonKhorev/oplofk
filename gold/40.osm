@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1107315291' timestamp='2018-07-08T21:09:29Z' uid='437809' user='Anton Khorev' version='3' changeset='60518708' lat='59.94360815789' lon='30.35359107693'>
+    <tag k='contact:vk' v='https://vk.com/muha_shop' />
+    <tag k='name' v='Муха' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='1116598153' timestamp='2018-07-08T21:09:29Z' uid='437809' user='Anton Khorev' version='3' changeset='60518708' lat='59.9435698932' lon='30.35358943606'>
+    <tag k='contact:vk' v='https://vk.com/mam_cupy' />
+    <tag k='name' v='Мам, купи!' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ИП Зарыковская Дарья Олеговна' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='https://mamcupy.com/' />
+  </node>
+  <node id='1116598154' timestamp='2018-07-08T21:09:29Z' uid='437809' user='Anton Khorev' version='3' changeset='60518708' lat='59.94362626504' lon='30.35359185341'>
+    <tag k='contact:vk' v='https://vk.com/clubnukupi' />
+    <tag k='name' v='Ну купи' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='2715652075' timestamp='2018-06-14T02:54:12Z' uid='437809' user='Anton Khorev' version='4' changeset='59829449' lat='59.9438539' lon='30.3536026'>
+    <tag k='contact:vk' v='https://vk.com/gradusi_market' />
+    <tag k='name' v='Градусы всего мира' />
+    <tag k='opening_hours' v='Mo-Su,PH 09:00-22:00' />
+    <tag k='operator' v='ООО «Брют»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.gradusi.net/shops/spb/567/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4862653716' timestamp='2018-07-08T21:09:29Z' uid='437809' user='Anton Khorev' version='2' changeset='60518708' lat='59.9433583' lon='30.3535899'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/huqqa_spb' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Huqqa' />
+  </node>
+  <node id='5006846925' timestamp='2018-07-08T21:09:29Z' uid='437809' user='Anton Khorev' version='3' changeset='60518708' lat='59.94371500173' lon='30.35359298219'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/tulpancoffee' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Тюльпан' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-19:00; Sa-Su,PH 10:00-19:00' />
+  </node>
+  <node id='5747843732' timestamp='2018-07-08T21:09:29Z' uid='437809' user='Anton Khorev' version='1' changeset='60518708' lat='59.94345779559' lon='30.35358462907'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/clinica_gromovoi' />
+    <tag k='name' v='Клиника Громовой С.Б.' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='http://clinica-gromovoi.ru/' />
+  </node>
+</osm>
