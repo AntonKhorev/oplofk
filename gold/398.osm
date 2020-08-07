@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2701307959' timestamp='2020-08-07T15:12:12Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='89098951' lat='59.9366223' lon='30.3172956'>
+    <tag k='contact:vk' v='https://vk.com/piratmarmelad7' />
+    <tag k='level' v='0' />
+    <tag k='name' v='PiratMarmelad' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='operator' v='ООО «ПиратМармелад»' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='https://piratmarmelad.ru/' />
+  </node>
+  <node id='4437884658' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89101065' lat='59.93765594043' lon='30.31738564961'>
+    <tag k='amenity' v='courthouse' />
+    <tag k='name' v='Санкт-Петербургский гарнизонный военный суд' />
+    <tag k='phone' v='+7 812 5713001' />
+    <tag k='website' v='http://gvs.spb.sudrf.ru/' />
+  </node>
+  <node id='4437884663' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='89101065' lat='59.9369435' lon='30.3172997'>
+    <tag k='contact:phone' v='+7 812 9385506' />
+    <tag k='contact:vk' v='https://vk.com/bm5spb' />
+    <tag k='name' v='Дом Великана' />
+    <tag k='name:en' v='Giant’s house' />
+    <tag k='name:zh' v='巨人之家' />
+    <tag k='opening_hours' v='Mo-Su 11:00-24:00' />
+    <tag k='tourism' v='attraction' />
+    <tag k='website' v='https://big-funny.com/sankt-peterburg/dom-velikana' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4437884664' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89101065' lat='59.9369791' lon='30.3173011'>
+    <tag k='contact:phone' v='+7 812 9385506' />
+    <tag k='contact:vk' v='https://vk.com/bm5spb' />
+    <tag k='name' v='Стеклянный лабиринт' />
+    <tag k='opening_hours' v='Mo-Su 11:00-24:00' />
+    <tag k='tourism' v='attraction' />
+    <tag k='website' v='https://big-funny.com/v-sankt-peterburge/steklyannyj-labirint' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4437884665' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89101065' lat='59.9370111' lon='30.3173024'>
+    <tag k='contact:phone' v='+7 812 9385506' />
+    <tag k='contact:vk' v='https://vk.com/bm5spb' />
+    <tag k='name' v='Музей иллюзий' />
+    <tag k='opening_hours' v='Mo-Su 11:00-24:00' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://big-funny.com/sankt-peterburg/muzej-illyuzij' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4437884667' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89101065' lat='59.9370807' lon='30.3173052'>
+    <tag k='contact:phone' v='+7 812 9385506' />
+    <tag k='contact:vk' v='https://vk.com/bm5spb' />
+    <tag k='opening_hours' v='Mo-Su 11:00-24:00' />
+    <tag k='tourism' v='zoo' />
+    <tag k='website' v='https://big-funny.com/v-sankt-peterburge/zoopark' />
+    <tag k='zoo' v='petting_zoo' />
+  </node>
+  <node id='4924914485' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89101065' lat='59.93745788233' lon='30.31737138627'>
+    <tag k='name' v='Александр Зимин' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://www.a-zimin.ru/' />
+  </node>
+  <node id='4924914486' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89101065' lat='59.93745759709' lon='30.31735341379'>
+    <tag k='amenity' v='language_school' />
+    <tag k='name' v='Educa' />
+    <tag k='website' v='https://educalanguageschool.com/' />
+  </node>
+  <node id='4924914487' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89101065' lat='59.93745797311' lon='30.3173351469'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/coachinstitute' />
+    <tag k='name' v='Институт Коучинга' />
+    <tag k='website' v='https://coachinstitute.ru/' />
+  </node>
+  <node id='4924914488' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89101065' lat='59.93745864648' lon='30.31731986287'>
+    <tag k='contact:vk' v='https://vk.com/nickfedorovru' />
+    <tag k='name' v='Ник Фёдоров' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://nickfedorov.ru/' />
+  </node>
+  <node id='4924914492' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89101065' lat='59.9371519' lon='30.3173081'>
+    <tag k='contact:phone' v='+7 812 9385506' />
+    <tag k='contact:vk' v='https://vk.com/bm5spb' />
+    <tag k='leisure' v='escape_game' />
+    <tag k='name' v='Побег из тюрьмы' />
+    <tag k='opening_hours' v='Mo-Su 11:00-24:00' />
+    <tag k='website' v='https://big-funny.com/v-sankt-peterburge/pobeg-iz-tyurmy' />
+  </node>
+  <node id='4924914493' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89101065' lat='59.9371171' lon='30.3173067'>
+    <tag k='contact:phone' v='+7 812 9385506' />
+    <tag k='contact:vk' v='https://vk.com/bm5spb' />
+    <tag k='name' v='Внутри человека' />
+    <tag k='opening_hours' v='Mo-Su 11:00-24:00' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://big-funny.com/v-sankt-peterburge/vnutri-cheloveka' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='7794915040' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.93748179091' lon='30.31737282397'>
+    <tag k='amenity' v='language_school' />
+    <tag k='name' v='English-hit.ru' />
+    <tag k='website' v='https://www.english-hit.ru/' />
+  </node>
+  <node id='7794915041' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.93748209646' lon='30.31735382907'>
+    <tag k='name' v='Де-юре' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='http://deurespb.ru/' />
+  </node>
+  <node id='7794915042' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.93748226442' lon='30.31733773582'>
+    <tag k='contact:vk' v='https://vk.com/kortunovru' />
+    <tag k='name' v='Павел Кортунов и партнёры' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://kortunov.ru/' />
+  </node>
+  <node id='7794915043' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.93748176089' lon='30.31731828913'>
+    <tag k='contact:facebook' v='https://www.facebook.com/citybreaktoursrussia/' />
+    <tag k='name' v='City Break Tours' />
+    <tag k='office' v='guide' />
+    <tag k='website' v='https://stpetercitybreak.com/' />
+  </node>
+  <node id='7794915044' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.93704590002' lon='30.3173038'>
+    <tag k='name' v='Movie Art' />
+    <tag k='tourism' v='attraction' />
+    <tag k='website' v='https://big-funny.com/v-sankt-peterburge/movie-art' />
+  </node>
+  <node id='7794915045' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.937183' lon='30.3173093'>
+    <tag k='name' v='Ленточный лабиринт' />
+    <tag k='tourism' v='attraction' />
+    <tag k='website' v='https://big-funny.com/v-sankt-peterburge/lentochnyj-labirint' />
+  </node>
+  <node id='7794915046' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.93682756965' lon='30.31732345887'>
+    <tag k='contact:vk' v='https://vk.com/wolkonskyspb' />
+    <tag k='name' v='Волконский' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://wolkonsky.com/spb' />
+  </node>
+  <node id='7794915047' timestamp='2020-08-07T16:11:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89101065' lat='59.93675969301' lon='30.31731782772'>
+    <tag k='brand' v='Фабрика имени Крупской' />
+    <tag k='brand:wikidata' v='Q4480319' />
+    <tag k='name' v='Фирменный магазин фабрики имени Крупской' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Гермес»' />
+    <tag k='shop' v='confectionery' />
+  </node>
+</osm>
