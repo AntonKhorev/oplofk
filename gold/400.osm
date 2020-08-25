@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='806509586' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='89311163' lat='59.93442358972' lon='30.31375051501'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Север' />
+    <tag k='brand:wikidata' v='Q4411982' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sever.metropol.official' />
+    <tag k='contact:instagram' v='https://www.instagram.com/sever_metropol/' />
+    <tag k='contact:phone' v='+7 812 6151182' />
+    <tag k='contact:vk' v='https://vk.com/sever.metropol.official' />
+    <tag k='contact:website' v='https://sever-metropol.ru/wheretobuy/spb/kafe-konditerskie/bolshaya-morskaya-2312/' />
+    <tag k='name' v='Север-Метрополь' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00' />
+    <tag k='shop' v='pastry' />
+  </node>
+  <node id='806509595' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='89311163' lat='59.93527' lon='30.3160576'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:email' v='ads@evrasia.spb.ru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/evrasiaru/' />
+    <tag k='contact:phone' v='+7 812 3142181' />
+    <tag k='contact:vk' v='https://vk.com/evrasiaspb' />
+    <tag k='contact:website' v='https://evrasia.spb.ru/' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='name' v='Евразия' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:00, Fr-Sa 11:00-05:00' />
+    <tag k='operator' v='ООО «Лилит»' />
+    <tag k='smoking' v='yes' />
+  </node>
+  <node id='2049712476' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89311163' lat='59.9351161' lon='30.3156375'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/tihiihod' />
+    <tag k='cuisine' v='russian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Тихий ход' />
+    <tag k='opening_hours' v='12:00-01:00' />
+    <tag k='phone' v='+7 911 9352169' />
+  </node>
+  <node id='2161570088' timestamp='2018-05-16T01:44:10Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='59001541' lat='59.9347746' lon='30.3146359'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cafe' v='time_cafe' />
+    <tag k='contact:vk' v='https://vk.com/12rooms' />
+    <tag k='cuisine' v='coffee' />
+    <tag k='email' v='TWELVEROOMSSPB@GMAIL.COM' />
+    <tag k='level' v='2' />
+    <tag k='name' v='12 Комнат' />
+    <tag k='opening_hours' v='10:00-06:00' />
+    <tag k='website' v='http://www.12komnat.com/' />
+  </node>
+  <node id='5102292762' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89311163' lat='59.9349086' lon='30.3150666'>
+    <tag k='brand' v='Lee' />
+    <tag k='brand:wikidata' v='Q1632681' />
+    <tag k='clothes' v='denim' />
+    <tag k='contact:instagram' v='https://www.instagram.com/lee.spb/' />
+    <tag k='name' v='Lee' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='phone' v='+7 812 3158968' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://lee-mustang.business.site/' />
+  </node>
+  <node id='5102292763' timestamp='2018-05-16T01:44:10Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='59001541' lat='59.934779' lon='30.3147138'>
+    <tag k='name' v='Триумф' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://triumph-travel.ru/' />
+  </node>
+  <node id='5102292764' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89311163' lat='59.9347595' lon='30.3146627'>
+    <tag k='brand' v='РЕСО-Гарантия' />
+    <tag k='brand:ru' v='РЕСО-Гарантия' />
+    <tag k='brand:wikidata' v='Q4386516' />
+    <tag k='brand:wikipedia' v='ru:РЕСО-Гарантия' />
+    <tag k='contact:vk' v='https://vk.com/reso_garantia' />
+    <tag k='name' v='РЕСО-Гарантия' />
+    <tag k='name:ru' v='РЕСО-Гарантия' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='website' v='https://www.reso.ru/Branches/SPB/Nevsky/morskoe.html' />
+  </node>
+  <node id='5102292765' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89311163' lat='59.9347392' lon='30.3146087'>
+    <tag k='contact:vk' v='https://vk.com/fossart' />
+    <tag k='name' v='FoSSart' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='shop' v='art' />
+    <tag k='tourism' v='gallery' />
+    <tag k='website' v='http://www.fossart.org/' />
+  </node>
+  <node id='5102292766' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89311163' lat='59.9347024' lon='30.3145103'>
+    <tag k='contact:instagram' v='https://www.instagram.com/diadema_beauty/' />
+    <tag k='name' v='Diadema' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 10:00-19:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://diadema-beauty.ru/' />
+  </node>
+  <node id='5102292767' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89311163' lat='59.9346439' lon='30.3143508'>
+    <tag k='name' v='Diadema' />
+    <tag k='opening_hours' v='11:00-19:00' />
+    <tag k='operator' v='ООО «Ретро»' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='http://diadema-spb.ru/diadema-diamond.ru/' />
+  </node>
+  <node id='5102292768' timestamp='2020-06-04T22:29:26Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='86211739' lat='59.93437' lon='30.3136044'>
+    <tag k='amenity' v='school' />
+    <tag k='contact:email' v='school@interschool.ru' />
+    <tag k='contact:phone' v='+7 812 2757684;+7 812 3157442' />
+    <tag k='contact:website' v='https://interschool.ru/?page_id=681' />
+    <tag k='description' v='1-5 класс' />
+    <tag k='name' v='Международная школа Герценовского университета' />
+    <tag k='official_name' v='Автономная некоммерческая организация общеобразовательная «Международная школа Герценовского университета»' />
+  </node>
+  <node id='5620959719' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89311163' lat='59.93525599354' lon='30.31601904958'>
+    <tag k='int_name' v='Admiral' />
+    <tag k='name' v='Адмирал' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://admiralhotels.ru/' />
+  </node>
+  <node id='7807030297' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89311163' lat='59.9352700585' lon='30.31599730119'>
+    <tag k='alt_name' v='Пилки' />
+    <tag k='contact:vk' v='https://vk.com/pilkinail' />
+    <tag k='name' v='ПиLки' />
+    <tag k='note' v='на сайте в одном списке есть, в другом нет; на дверях табличка раньше вроде была, теперь нет' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://pilkinail.ru/' />
+  </node>
+  <node id='7807030298' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89311163' lat='59.93506984453' lon='30.31551165314'>
+    <tag k='amenity' v='stripclub' />
+    <tag k='name' v='Maximus' />
+    <tag k='website' v='http://maximus-club.ru/' />
+  </node>
+  <node id='7807030299' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89311163' lat='59.93501173792' lon='30.31535014449'>
+    <tag k='contact:vk' v='https://vk.com/gazprom_neft' />
+    <tag k='email' v='info@gazprom-neft.ru' />
+    <tag k='fax' v='+7 812 3633151' />
+    <tag k='name' v='Газпром нефть' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='ПАО «Газпром нефть»' />
+    <tag k='operator:wikidata' v='Q1461799' />
+    <tag k='phone' v='+7 812 3633152' />
+    <tag k='website' v='https://www.gazprom-neft.ru/' />
+  </node>
+  <node id='7807030300' timestamp='2020-08-12T15:03:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89311163' lat='59.93452011803' lon='30.31401341264'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/chocobar' />
+    <tag k='name' v='Chocolate Bar' />
+    <tag k='website' v='https://www.шоколадныйбар.рф/' />
+  </node>
+</osm>

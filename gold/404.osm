@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='819235358' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='89921253' lat='59.93737035733' lon='30.3178849558'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/holstmaslo' />
+    <tag k='name' v='Холст Масло' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='operator' v='ООО «Холст масло»' />
+    <tag k='phone' v='+7 812 5704069' />
+    <tag k='website' v='https://holstmaslo.ru/' />
+  </node>
+  <node id='819235369' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='89921253' lat='59.93711617044' lon='30.31786303336'>
+    <tag k='amenity' v='cafe' />
+  </node>
+  <node id='4348509898' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='89921253' lat='59.93669014735' lon='30.31782926719'>
+    <tag k='name' v='Сувениры' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='phone' v='+7 812 3127615' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='4437884675' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='89921253' lat='59.93729656313' lon='30.31787779172'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/rockstarcafe' />
+    <tag k='int_name' v='Rock Star Cafe' />
+    <tag k='internet_access' v='yes' />
+    <tag k='name' v='Рок Стар Кафе' />
+    <tag k='phone' v='+7 812 3098883' />
+    <tag k='website' v='https://rockstarcafe.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4889041320' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='89921253' lat='59.93708735609' lon='30.31786095008'>
+    <tag k='contact:vk' v='https://vk.com/wax_figures' />
+    <tag k='name' v='Alex Show' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='http://www.wax.ru/' />
+  </node>
+  <node id='4889041321' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='89921253' lat='59.93698520684' lon='30.31785265865'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='opening_hours' v='09:30-21:00' />
+    <tag k='operator' v='ООО «Инновации и сервис»' />
+  </node>
+  <node id='4889041322' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='89921253' lat='59.93690194388' lon='30.31784520796'>
+    <tag k='contact:instagram' v='https://www.instagram.com/dom__naoborot/' />
+    <tag k='name' v='Дом наоборот' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='tourism' v='attraction' />
+    <tag k='website' v='https://domnaoborot.ru/' />
+  </node>
+  <node id='4889041323' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='89921253' lat='59.93682263805' lon='30.3178392254'>
+    <tag k='contact:vk' v='https://vk.com/cafebrat' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Брат' />
+  </node>
+  <node id='7843619829' timestamp='2020-08-25T14:39:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89921253' lat='59.93694416859' lon='30.31784911113'>
+    <tag k='contact:vk' v='https://vk.com/vcspb' />
+    <tag k='name' v='Волонтерский центр Санкт-Петербургского государственного экономического университета' />
+    <tag k='office' v='foundation' />
+  </node>
+</osm>

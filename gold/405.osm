@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='778258113' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='20' changeset='69187142' lat='59.9397037' lon='30.3189185' />
+  <node id='778258125' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9375156' lon='30.3178596' />
+  <node id='778258133' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187142' lat='59.9384855' lon='30.3177688' />
+  <node id='778258137' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9385672' lon='30.3178162'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='778258157' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='21' changeset='69187142' lat='59.9374243' lon='30.3193559' />
+  <node id='778258209' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='20' changeset='69187142' lat='59.9390633' lon='30.3188126' />
+  <node id='778258229' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9381814' lon='30.3173717' />
+  <node id='778258240' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187142' lat='59.9379612' lon='30.3176865' />
+  <node id='778258244' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9374835' lon='30.3182071' />
+  <node id='778258263' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9375133' lon='30.3182089' />
+  <node id='778258274' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.939274' lon='30.3178425' />
+  <node id='778258279' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9384065' lon='30.3177019' />
+  <node id='778258283' timestamp='2019-04-13T19:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9380934' lon='30.3174735' />
+  <node id='778258297' timestamp='2019-04-13T19:54:47Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='69187142' lat='59.937757' lon='30.3178793' />
+  <node id='778258300' timestamp='2019-04-13T19:54:47Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9383211' lon='30.3176085'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='1140911978' timestamp='2019-04-13T19:55:40Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.938934' lon='30.3178215'>
+    <tag k='entrance' v='exit' />
+  </node>
+  <node id='1140911985' timestamp='2019-04-13T19:55:40Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9393755' lon='30.3180446' />
+  <node id='1156349453' timestamp='2019-04-13T19:55:48Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9394017' lon='30.3188861' />
+  <node id='1156349455' timestamp='2019-04-13T19:55:48Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9389705' lon='30.3188446'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1156349464' timestamp='2019-04-13T19:55:48Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9378943' lon='30.3192056' />
+  <node id='1156349473' timestamp='2019-04-13T19:55:48Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9384952' lon='30.3190088' />
+  <node id='1179043498' timestamp='2019-04-13T19:56:02Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.9378214' lon='30.3178762' />
+  <node id='4435044191' timestamp='2019-04-13T19:59:21Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.93969' lon='30.3189525' />
+  <node id='4435044218' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9375256' lon='30.3193235'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4435044219' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9374937' lon='30.3193338'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4435044227' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9389952' lon='30.3188363'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4435044228' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9389444' lon='30.3188549'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4435044229' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9384055' lon='30.3190382'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4435044230' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.938441' lon='30.3190265'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4435044231' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9383685' lon='30.3190505'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4437884670' timestamp='2016-10-08T16:06:54Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42737017' lat='59.9376202' lon='30.3178681'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5280766341' timestamp='2019-04-13T20:00:41Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9396744' lon='30.3189489'>
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='набережная реки Мойки' />
+  </node>
+  <node id='7843661332' timestamp='2020-08-25T14:47:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89921599' lat='59.93893382253' lon='30.31785771385'>
+    <tag k='contact:vk' v='https://vk.com/hermitageshop' />
+    <tag k='name' v='Эрмитажный магазин' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='https://www.hermitageshop.ru/' />
+  </node>
+  <way id='309796655' timestamp='2020-08-25T14:47:49Z' uid='437809' user='Anton Khorev' visible='true' version='36' changeset='89921599'>
+    <nd ref='778258229' />
+    <nd ref='778258300' />
+    <nd ref='778258279' />
+    <nd ref='778258133' />
+    <nd ref='778258137' />
+    <nd ref='1140911978' />
+    <nd ref='778258274' />
+    <nd ref='1140911985' />
+    <nd ref='778258113' />
+    <nd ref='4435044191' />
+    <nd ref='5280766341' />
+    <nd ref='1156349453' />
+    <nd ref='778258209' />
+    <nd ref='4435044227' />
+    <nd ref='1156349455' />
+    <nd ref='4435044228' />
+    <nd ref='1156349473' />
+    <nd ref='4435044230' />
+    <nd ref='4435044229' />
+    <nd ref='4435044231' />
+    <nd ref='1156349464' />
+    <nd ref='4435044218' />
+    <nd ref='4435044219' />
+    <nd ref='778258157' />
+    <nd ref='778258244' />
+    <nd ref='778258263' />
+    <nd ref='778258125' />
+    <nd ref='4437884670' />
+    <nd ref='778258297' />
+    <nd ref='1179043498' />
+    <nd ref='778258240' />
+    <nd ref='778258283' />
+    <nd ref='778258229' />
+    <tag k='addr:housenumber' v='6-8' />
+    <tag k='addr:street' v='Дворцовая площадь' />
+    <tag k='architect' v='Карл Иванович Росси' />
+    <tag k='architect:wikidata' v='Q619584' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='4' />
+    <tag k='fee:conditional' v='yes, no@Dec 07,Th[3]' />
+    <tag k='name' v='Восточное крыло Главного штаба' />
+    <tag k='opening_hours' v='Tu-Su 12:00-21:00' />
+    <tag k='start_date' v='1829' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://www.hermitagemuseum.org/wps/portal/hermitage/visitus/general-staff/' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wikidata' v='Q2622043' />
+  </way>
+</osm>

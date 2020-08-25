@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='656297492' timestamp='2018-05-16T03:01:55Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='59002267' lat='59.9363419' lon='30.3173107' />
+  <node id='2709501130' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89918524' lat='59.93652200136' lon='30.31561918955'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cafe' v='time_cafe' />
+    <tag k='contact:vk' v='https://vk.com/place43spb' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='level' v='4' />
+    <tag k='name' v='Place 43' />
+    <tag k='phone' v='+7 911 0281444' />
+    <tag k='website' v='https://place43.ru/' />
+  </node>
+  <node id='3636498749' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='89918524' lat='59.93645837643' lon='30.31616067011'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Штолле' />
+    <tag k='brand:wikidata' v='Q62502236' />
+    <tag k='contact:vk' v='https://vk.com/stollerussia' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='int_name' v='Stolle' />
+    <tag k='name' v='Штолле' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su,PH 10:00-22:00' />
+    <tag k='operator' v='ООО «Столовая №64»' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://spb.stolle.ru/addresses/nevskij-pr-d11' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4750673521' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='89918524' lat='59.93643184858' lon='30.3163862418'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Столовая' />
+    <tag k='operator' v='ООО «Ника»' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4915782454' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89918524' lat='59.9363826' lon='30.3168234'>
+    <tag k='brand' v='Буквоед' />
+    <tag k='brand:wikidata' v='Q4098549' />
+    <tag k='brand:wikipedia' v='ru:Буквоед' />
+    <tag k='contact:vk' v='https://vk.com/bookvoed' />
+    <tag k='name' v='Буквоед' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='shop' v='books' />
+    <tag k='website' v='https://www.bookvoed.ru/shop?id=2' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4915782455' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89918524' lat='59.93641715077' lon='30.31651148166'>
+    <tag k='contact:vk' v='https://vk.com/club22863243' />
+    <tag k='description' v='всё для танцев' />
+    <tag k='name' v='Танго' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 12:00-18:00' />
+    <tag k='shop' v='sports' />
+    <tag k='website' v='https://salontango.ru/' />
+  </node>
+  <node id='4915782456' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89918524' lat='59.93648670068' lon='30.31592024478'>
+    <tag k='name' v='Русский витязь' />
+    <tag k='shop' v='art' />
+    <tag k='website' v='http://ruvit.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4915782457' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89918524' lat='59.93647169224' lon='30.31591217055'>
+    <tag k='name' v='Мир' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://mirtc.ru/' />
+  </node>
+  <node id='4915782458' timestamp='2017-06-15T01:17:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='49545112' lat='59.936468' lon='30.3159477'>
+    <tag k='contact:vk' v='https://vk.com/club12567796' />
+    <tag k='int_name' v='Sonata' />
+    <tag k='name' v='Соната' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotel-sonata.ru/hotels/sonata-na-nevskom-11-u-dvorcovoy-ploshchadi/' />
+  </node>
+  <node id='4915782459' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89918524' lat='59.93648252576' lon='30.31595496287'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/anypasta' />
+    <tag k='cuisine' v='italian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Any.Pasta.Pizza.Bar' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='https://anypasta.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4915782460' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89918524' lat='59.93650167559' lon='30.31579292668'>
+    <tag k='contact:facebook' v='https://www.facebook.com/bosco.di.ciliegi' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bosco_di_ciliegi/' />
+    <tag k='contact:twitter' v='https://twitter.com/bosco_diciliegi' />
+    <tag k='contact:vk' v='https://vk.com/bosco_di_ciliegi' />
+    <tag k='name' v='Bosco di Ciliegi' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://boscofamily.ru/bosco-di-ciliegi/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4915782461' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89918524' lat='59.9364875' lon='30.3156459'>
+    <tag k='office' v='notary' />
+  </node>
+  <node id='4915782463' timestamp='2017-06-15T01:17:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='49545112' lat='59.9364915' lon='30.3156003'>
+    <tag k='name' v='Индустрия Медиа' />
+    <tag k='office' v='it' />
+    <tag k='website' v='http://imedia.pro/' />
+  </node>
+  <node id='4915782465' timestamp='2017-06-15T01:17:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='49545112' lat='59.9364948' lon='30.3155601'>
+    <tag k='contact:vk' v='https://vk.com/nmarketpro' />
+    <tag k='name' v='Нмаркет' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='https://spb.nmarket.pro/' />
+  </node>
+  <node id='4915782467' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89918524' lat='59.93651126408' lon='30.31556877055'>
+    <tag k='contact:facebook' v='https://www.facebook.com/primeadvice' />
+    <tag k='name' v='Прайм Эдвайс' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='http://www.hlbprime.com/' />
+  </node>
+  <node id='4915782468' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89918524' lat='59.93652700102' lon='30.31557651716'>
+    <tag k='contact:email' v='wowhotelspb@gmail.com' />
+    <tag k='contact:facebook' v='https://www.facebook.com/group.hotels.spb/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/group_hotels/' />
+    <tag k='contact:phone' v='+7 812 4182244;+7 812 9262227' />
+    <tag k='contact:vk' v='https://vk.com/wowhostelspb' />
+    <tag k='name' v='Wow' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='Отель Центр' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://group-hotels.ru/wow-on-nevsky/' />
+  </node>
+  <node id='4915782469' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89918524' lat='59.9365396261' lon='30.31547053526'>
+    <tag k='name' v='Провизия' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='5621028190' timestamp='2018-05-16T03:01:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59002267' lat='59.9363291' lon='30.3173226'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5621028191' timestamp='2018-05-16T03:01:54Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='59002267' lat='59.9363164' lon='30.3173346' />
+  <node id='5621028193' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89918524' lat='59.936373' lon='30.3170459' />
+  <node id='6346173414' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89918524' lat='59.93627249137' lon='30.31699892324' />
+  <node id='6346173415' timestamp='2019-03-18T23:12:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='68275711' lat='59.9362418' lon='30.3172604' />
+  <node id='7843509732' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89918524' lat='59.93650660072' lon='30.31561173432'>
+    <tag k='contact:facebook' v='https://www.facebook.com/legisti' />
+    <tag k='name' v='Legisti' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://legisti.ru/' />
+  </node>
+  <way id='588525044' timestamp='2020-08-25T13:39:07Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89918524'>
+    <nd ref='6346173414' />
+    <nd ref='5621028193' />
+    <nd ref='656297492' />
+    <nd ref='5621028190' />
+    <nd ref='5621028191' />
+    <nd ref='6346173415' />
+    <nd ref='6346173414' />
+    <tag k='name' v='1+1=3' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Орбита»' />
+    <tag k='shop' v='gift' />
+  </way>
+</osm>
