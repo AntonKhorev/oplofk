@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='633147735' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='89308413' lat='59.9334752' lon='30.3112091'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club_tokyocity' />
+    <tag k='cuisine' v='japanese;sushi' />
+    <tag k='name' v='Токио-City' />
+    <tag k='name:en' v='Tokyo-City' />
+    <tag k='name:ru' v='Токио-Сити' />
+    <tag k='opening_hours' v='Su-Th 11:00-03:00; Fr-Sa 11:00-06:00' />
+    <tag k='operator' v='ООО «Кизил»' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 812 6777062' />
+    <tag k='website' v='https://www.tokyo-city.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='667322125' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='89308413' lat='59.9334162' lon='30.3110483'>
+    <tag k='amenity' v='library' />
+    <tag k='contact:vk' v='https://vk.com/pushkinlib' />
+    <tag k='name' v='Центральная городская детская библиотека имени А. С. Пушкина' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 10:00-18:00' />
+    <tag k='website' v='http://new.pushkinlib.spb.ru/about/cgdb-im-a-s-pushkina/' />
+  </node>
+  <node id='806724631' timestamp='2019-12-19T00:09:58Z' uid='8506183' user='Пивун' visible='true' version='12' changeset='78605037' lat='59.9338066' lon='30.312112'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='bic' v='VTBRRUMM' />
+    <tag k='brand' v='ВТБ' />
+    <tag k='brand:en' v='VTB Bank' />
+    <tag k='brand:wikidata' v='Q1549389' />
+    <tag k='brand:wikipedia' v='en:VTB Bank' />
+    <tag k='contact:email' v='info@vtb.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vtbgroup' />
+    <tag k='contact:phone' v='+7 800 2007799' />
+    <tag k='contact:twitter' v='https://twitter.com/vtb' />
+    <tag k='contact:vk' v='https://vk.com/vtb' />
+    <tag k='contact:website' v='https://www.vtb.ru' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/vtbgroup' />
+    <tag k='name' v='ВТБ' />
+    <tag k='name:en' v='VTB Bank' />
+    <tag k='name:ru' v='ВТБ' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='operator' v='Банк ВТБ (публичное акционерное общество)' />
+    <tag k='operator:wikidata' v='Q1549389' />
+    <tag k='operator:wikipedia' v='ru:Банк ВТБ' />
+  </node>
+  <node id='918186962' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='89308413' lat='59.93409832405' lon='30.3129074806'>
+    <tag k='construction:amenity' v='restaurant' />
+    <tag k='name' v='Butcher House' />
+  </node>
+  <node id='2407215418' timestamp='2020-07-22T16:20:36Z' uid='519501' user='parukhin' visible='true' version='6' changeset='88359027' lat='59.933157' lon='30.3103416'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='madeinchinacafe' />
+    <tag k='contact:instagram' v='madeinchinacafe' />
+    <tag k='name' v='Made In China' />
+    <tag k='opening_hours' v='Mo-Th 09:00-24:00; Fr 09:00-02:00; Sa 12:00-02:00; Su 12:00-24:00' />
+    <tag k='operator' v='Мальчики и девочки' />
+    <tag k='outdoor_seating' v='yes' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 812 9055135' />
+    <tag k='website' v='https://madeinchina-spb.ru/' />
+  </node>
+  <node id='2407215419' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='89308413' lat='59.9339246' lon='30.3124359'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/phalihinkali' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Пхали-Хинкали' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='phone' v='+7 812 9200012' />
+    <tag k='website' v='https://phali-hinkali.ru/restoran/morskaya' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='2407215422' timestamp='2019-09-23T15:06:10Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='74790822' lat='59.9341535' lon='30.3130017'>
+    <tag k='addr:floor' v='4' />
+    <tag k='int_name' v='Herzen House' />
+    <tag k='name' v='Герцен Хаус' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.herzen-hotel.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2407215423' timestamp='2019-09-23T15:06:21Z' uid='290680' user='wheelmap_visitor' visible='true' version='6' changeset='74790822' lat='59.9341395' lon='30.3130242'>
+    <tag k='addr:floor' v='2' />
+    <tag k='contact:vk' v='https://vk.com/comfortotel' />
+    <tag k='int_name' v='Comfort' />
+    <tag k='name' v='Комфорт' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://comfort-hotel.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2407215425' timestamp='2018-05-16T00:02:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='59000733' lat='59.9331029' lon='30.3101945'>
+    <tag k='disused:office' v='logistics' />
+    <tag k='name' v='Северо-Западное пароходство' />
+    <tag k='website' v='http://www.nwship.com/' />
+  </node>
+  <node id='3517314640' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='89308413' lat='59.9332085' lon='30.3104744'>
+    <tag k='contact:website' v='http://starovoitova.ru/?p=149' />
+    <tag k='level' v='3' />
+    <tag k='name' v='Музей Г.В. Старовойтовой' />
+    <tag k='name:en' v='Galina Starovoytova Museum' />
+    <tag k='opening_hours' v='We, Sa 11:00-16:00' />
+    <tag k='phone' v='+7 812 3143728' />
+    <tag k='tourism' v='museum' />
+  </node>
+  <node id='4634810871' timestamp='2018-05-16T00:02:04Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='59000733' lat='59.9332578' lon='30.3106162'>
+    <tag k='name' v='Castello d&apos;Oro' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 10:00-20:00' />
+    <tag k='operator' v='ООО «Санпиетро»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.castellodoro.com/' />
+  </node>
+  <node id='4810638069' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89308413' lat='59.9336682' lon='30.3117351'>
+    <tag k='contact:vk' v='https://vk.com/spb_kpmp' />
+    <tag k='name' v='Комитет по молодежной политике и взаимодействию с общественными организациями' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.gov.spb.ru/gov/otrasl/kpmp/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4810638071' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89308413' lat='59.9335029' lon='30.3112844'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/citycakes' />
+    <tag k='name' v='Городские кондитерские №1' />
+    <tag k='opening_hours' v='08:30-22:00' />
+    <tag k='operator' v='ООО «Кизил»' />
+    <tag k='website' v='https://www.konditer1.ru/' />
+  </node>
+  <node id='4810638072' timestamp='2017-04-22T23:26:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48047451' lat='59.9332201' lon='30.3105176'>
+    <tag k='name' v='Управление Судебного департамента в Санкт-Петербурге' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://usd.spb.sudrf.ru/' />
+  </node>
+  <node id='4810638073' timestamp='2017-04-22T23:26:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48047451' lat='59.9331926' lon='30.3104357'>
+    <tag k='name' v='Управление Судебного департамента в Ленинградской области' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://usd.lo.sudrf.ru/' />
+  </node>
+  <node id='4810638074' timestamp='2020-07-22T16:20:36Z' uid='519501' user='parukhin' visible='true' version='4' changeset='88359027' lat='59.932777' lon='30.3090495'>
+    <tag k='amenity' v='bar' />
+    <tag k='name' v='Lichfield' />
+    <tag k='phone' v='+7 812 4945757' />
+    <tag k='website' v='https://www.roccofortehotels.com/hotels-and-resorts/hotel-astoria/restaurants-and-bars/lichfield-bar/' />
+  </node>
+  <node id='7806831930' timestamp='2020-08-12T13:49:51Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89308413' lat='59.93272270455' lon='30.30869066266'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Rotonda Lounge' />
+    <tag k='website' v='https://www.roccofortehotels.com/hotels-and-resorts/hotel-astoria/restaurants-and-bars/rotonda-lounge/' />
+  </node>
+</osm>
