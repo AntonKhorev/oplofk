@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2343478382' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89992971' lat='59.9216337227' lon='30.286021025'>
+    <tag k='brand' v='Wildberries' />
+    <tag k='brand:wikidata' v='Q24933714' />
+    <tag k='brand:wikipedia' v='ru:Wildberries' />
+    <tag k='contact:vk' v='https://vk.com/wildberries_shop' />
+    <tag k='name' v='Wildberries' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='operator' v='ООО «Вайлдберриз»' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://www.wildberries.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2343478383' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89992971' lat='59.92186381324' lon='30.28581492348'>
+    <tag k='name' v='То, что надо!' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2343478384' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89992971' lat='59.9221271838' lon='30.28557872485'>
+    <tag k='name' v='РосАл' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Рона»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.rosal24.ru/' />
+  </node>
+  <node id='4495863944' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89992971' lat='59.92178611669' lon='30.2858456317'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekaaloea' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Алоэ' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa, Su 09:00-21:00' />
+    <tag k='ref' v='032-78' />
+    <tag k='website' v='https://aloeapteka.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='6484300145' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89992971' lat='59.92197722472' lon='30.28571327254'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:instagram' v='https://www.instagram.com/mm_coffeetogo/' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='mm' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='takeaway' v='only' />
+  </node>
+  <node id='7541362991' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89992971' lat='59.92150511401' lon='30.28613640044'>
+    <tag k='brand' v='Красное &amp; Белое' />
+    <tag k='brand:wikidata' v='Q24933790' />
+    <tag k='brand:wikipedia' v='en:Krasnoe &amp; Beloe' />
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='Mo-Su 09:00-22:05' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='7847703685' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89992971' lat='59.92130571795' lon='30.28624209814'>
+    <tag k='contact:vk' v='https://vk.com/spb.terra' />
+    <tag k='name' v='Терра Азия Трэвел' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.terra-asia.ru/' />
+  </node>
+  <node id='7847703686' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89992971' lat='59.92131242959' lon='30.28627295204'>
+    <tag k='name' v='Катран-Пневмо' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.katran-pnevmo.ru/' />
+  </node>
+  <node id='7847703687' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89992971' lat='59.92131916509' lon='30.28630324313'>
+    <tag k='contact:vk' v='https://vk.com/shtrihmseverozapad' />
+    <tag k='name' v='Штрих-М' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://shtrih-m-spb.ru/' />
+  </node>
+  <node id='7847703688' timestamp='2020-08-26T22:13:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89992971' lat='59.92179221152' lon='30.28580127529'>
+    <tag k='contact:vk' v='https://vk.com/glavglaz' />
+    <tag k='name' v='ГлавГлаз' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ИП Коваль О.В.' />
+    <tag k='shop' v='optician' />
+  </node>
+</osm>

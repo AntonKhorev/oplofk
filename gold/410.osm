@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2126417487' timestamp='2020-08-27T00:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89995198' lat='59.91872156362' lon='30.28799257726'>
+    <tag k='name' v='Акварель' />
+    <tag k='shop' v='stationery' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2126417491' timestamp='2018-11-25T21:58:18Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='64878238' lat='59.9186079' lon='30.287497'>
+    <tag k='level' v='-1' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='origin' v='finnish' />
+    <tag k='shop' v='general' />
+  </node>
+  <node id='4524011835' timestamp='2020-08-27T00:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89995198' lat='59.91879712849' lon='30.28831731948'>
+    <tag k='level' v='-1' />
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='4524011836' timestamp='2020-08-27T00:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89995198' lat='59.91877635428' lon='30.28822869856'>
+    <tag k='name' v='Адмиралтейский районный отдел судебных приставов' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://r78.fssp.gov.ru/admiralteyskiy/' />
+  </node>
+  <node id='5074855737' timestamp='2020-08-27T00:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89995198' lat='59.91827853139' lon='30.28653146563'>
+    <tag k='name' v='Меч и шлем' />
+    <tag k='shop' v='antiques' />
+    <tag k='website' v='http://www.swordandhelmet.ru/' />
+  </node>
+  <node id='6091004946' timestamp='2018-11-25T21:58:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64878238' lat='59.9186402' lon='30.2874676'>
+    <tag k='level' v='-1' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='6091004947' timestamp='2018-11-25T21:58:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='64878238' lat='59.9186318' lon='30.2875152'>
+    <tag k='craft' v='tailor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='6873117895' timestamp='2020-08-27T00:49:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89995198' lat='59.91881227159' lon='30.28838234593'>
+    <tag k='contact:vk' v='https://vk.com/lavka_pekarya' />
+    <tag k='drink:coffee' v='served' />
+    <tag k='drink:tea' v='served' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Лавка Пекаря' />
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='operator' v='АО «Паляница»' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://www.lavkapekarya.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

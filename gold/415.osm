@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2030820238' timestamp='2020-08-27T17:21:19Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90039132' lat='59.91925162558' lon='30.28867783955'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Канонерская улица' />
+    <tag k='name' v='Ветеран' />
+    <tag k='name:ru' v='Ветеран' />
+    <tag k='opening_hours' v='Mo-Su,PH 09:00-23:00' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='convenience' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2030879772' timestamp='2020-08-27T17:21:19Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90039132' lat='59.9190374' lon='30.288868'>
+    <tag k='brand' v='Watsons' />
+    <tag k='brand:wikidata' v='Q7974785' />
+    <tag k='brand:wikipedia' v='en:Watsons' />
+    <tag k='contact:vk' v='https://vk.com/watsonsrussia' />
+    <tag k='name' v='Watsons' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://www.watsons.com.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2105771154' timestamp='2020-08-27T17:21:19Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90039132' lat='59.91893353527' lon='30.28896552728'>
+    <tag k='amenity' v='cafe' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='note' v='бывший Север-Метрополь' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ИП Долгобородов Вадим Германович' />
+    <tag k='shop' v='pastry' />
+    <tag k='takeaway' v='yes' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='4503622934' timestamp='2019-05-26T01:35:47Z' uid='103003' user='Alexandrcfif' visible='true' version='4' changeset='70622353' lat='59.9189597' lon='30.2888016'>
+    <tag k='building' v='kiosk' />
+    <tag k='noname' v='yes' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:credit_cards' v='no' />
+    <tag k='payment:debit_cards' v='no' />
+    <tag k='shop' v='greengrocer' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+</osm>

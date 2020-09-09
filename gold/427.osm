@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1574807272' timestamp='2020-09-09T14:17:30Z' uid='437809' user='Anton Khorev' visible='true' version='22' changeset='90651646' lat='59.92629786992' lon='30.31585817855'>
+    <tag k='addr:housenumber' v='39/41' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/hochuharcho' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Хочу харчо' />
+    <tag k='name:en' v='Hochu Harcho' />
+    <tag k='name:ru' v='Хочу харчо' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='phone' v='+7 812 6401616' />
+    <tag k='website' v='https://ginza.ru/spb/restaurant/hochu_harcho' />
+  </node>
+  <node id='4574500571' timestamp='2020-09-09T14:17:30Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='90651646' lat='59.92638399381' lon='30.31570907471'>
+    <tag k='disused:shop' v='bookmaker' />
+    <tag k='name' v='Фонбет' />
+    <tag k='website' v='https://www.fonbet.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='773932371' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='90649685' lat='59.9251246' lon='30.3134687'>
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «АМ-2 СПб»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/433847/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='773932374' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='90649685' lat='59.9253386' lon='30.3139735'>
+    <tag k='brand' v='Ювелирторг' />
+    <tag k='contact:vk' v='https://vk.com/juvelirtorg' />
+    <tag k='name' v='Агат' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 11:00-18:00' />
+    <tag k='operator' v='АО «Ювелирторг»' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://juvelirtorg.spb.ru/stores/sankt-peterburg/1' />
+  </node>
+  <node id='773932421' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90649685' lat='59.9251851' lon='30.3136138'>
+    <tag k='contact:vk' v='https://vk.com/eco_bio_market' />
+    <tag k='name' v='Компас здоровья' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ИП Егорова Екатерина Сергеевна' />
+    <tag k='shop' v='health_food' />
+    <tag k='website' v='http://www.smkfarm.ru/contacts/stores/rossiya/sank-peterburg/953/' />
+  </node>
+  <node id='2054963540' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='90649685' lat='59.924844' lon='30.3128059'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Домашний вкус' />
+    <tag k='opening_hours' v='09:00-21:00' />
+  </node>
+  <node id='2197639109' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='20' changeset='90649685' lat='59.9245608' lon='30.3121389'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/dodospb' />
+    <tag k='cuisine' v='pizza' />
+    <tag k='delivery' v='yes' />
+    <tag k='name' v='Додо Пицца' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://dodopizza.ru/peterburg/sadovaya49/contacts' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2512790559' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='90649685' lat='59.9248986' lon='30.3129071'>
+    <tag k='contact:vk' v='https://vk.com/optika_novoe_zrenie' />
+    <tag k='name' v='Новое зрение' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 11:00-20:00' />
+    <tag k='operator' v='ИП Крылов Сергей Николаевич' />
+    <tag k='shop' v='optician' />
+  </node>
+  <node id='2512790562' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='90649685' lat='59.9249606' lon='30.3130833'>
+    <tag k='contact:vk' v='https://vk.com/newlifemag' />
+    <tag k='name' v='NewLife.Moda' />
+    <tag k='second_hand' v='only' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://newlife.moda/' />
+  </node>
+  <node id='4572563287' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90649685' lat='59.9250192' lon='30.3132224'>
+    <tag k='brand' v='Belwest' />
+    <tag k='brand:wikidata' v='Q4081686' />
+    <tag k='contact:email' v='hotline@belwest.by' />
+    <tag k='contact:facebook' v='https://www.facebook.com/belwest.shoes/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/belwest.shoes/' />
+    <tag k='contact:ok' v='https://ok.ru/belwest.shoes' />
+    <tag k='contact:phone' v='+7 812 3101676' />
+    <tag k='contact:vk' v='https://vk.com/belwest.shoes' />
+    <tag k='contact:website' v='https://belwest.ru/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/channel/UCMxwgKfu3jxDiv9lAdluR1Q' />
+    <tag k='name' v='Belwest' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='Белвест Ритейл Москва' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='4572563288' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='90649685' lat='59.9249033' lon='30.3129456'>
+    <tag k='brand' v='Юлмарт' />
+    <tag k='brand:wikidata' v='Q4534379' />
+    <tag k='contact:vk' v='https://vk.com/ulmart' />
+    <tag k='disused:shop' v='electronics' />
+    <tag k='name' v='Ulmart.ru' />
+    <tag k='operator' v='ООО «Юлплейс»' />
+    <tag k='website' v='https://www.ulmart.ru/help/spb/spb_pvz_sadov_49a' />
+  </node>
+  <node id='4572563989' timestamp='2019-04-13T19:59:34Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9247004' lon='30.3122536'>
+    <tag k='craft' v='jeweller;photographer' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-20:00' />
+  </node>
+  <node id='4572563990' timestamp='2018-09-06T13:24:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62343925' lat='59.9246218' lon='30.3122827'>
+    <tag k='contact:vk' v='https://vk.com/manysha_4070777' />
+    <tag k='name' v='Маняша' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='baby_goods' />
+  </node>
+  <node id='5090652567' timestamp='2020-09-09T13:36:54Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90649685' lat='59.9247254' lon='30.3122573'>
+    <tag k='contact:vk' v='https://vk.com/pitertextil' />
+    <tag k='name' v='Петербургский уют' />
+    <tag k='note' v='возможно переехал' />
+    <tag k='shop' v='bed' />
+    <tag k='website' v='https://tex-til.spb.ru/' />
+  </node>
+  <node id='5938092616' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.924698' lon='30.3123036' />
+  <node id='5938092617' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9247235' lon='30.3123079' />
+  <node id='5938092624' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9247626' lon='30.3122436' />
+  <node id='5938092625' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9247093' lon='30.3123312' />
+  <node id='5938092626' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9246846' lon='30.3122712' />
+  <node id='5938092627' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9248286' lon='30.3124084' />
+  <node id='5938092628' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9247255' lon='30.3125826' />
+  <node id='5938092629' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9246314' lon='30.312361' />
+  <node id='5938092630' timestamp='2019-04-13T20:01:20Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9246785' lon='30.3124719'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <way id='628937034' timestamp='2018-09-29T03:20:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='63027226'>
+    <nd ref='5938092627' />
+    <nd ref='5938092624' />
+    <nd ref='5938092617' />
+    <nd ref='5938092625' />
+    <nd ref='5938092616' />
+    <nd ref='5938092626' />
+    <nd ref='5938092629' />
+    <nd ref='5938092630' />
+    <nd ref='5938092628' />
+    <nd ref='5938092627' />
+    <tag k='name' v='Белорусский дворик' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </way>
+</osm>

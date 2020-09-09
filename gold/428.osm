@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='869001300' timestamp='2019-04-13T19:55:28Z' uid='437809' user='Anton Khorev' visible='true' version='23' changeset='69187142' lat='59.9269045' lon='30.3162975' />
+  <node id='1422754872' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90653138' lat='59.92674133874' lon='30.31600243523'>
+    <tag k='contact:vk' v='https://vk.com/novbekon' />
+    <tag k='name' v='Новгородский бекон' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-22:00; Sa 10:00-21:00; Su 10:00-19:00' />
+    <tag k='operator' v='ООО «Новгородский бекон Плюс»' />
+    <tag k='ref' v='14' />
+    <tag k='shop' v='butcher' />
+    <tag k='website' v='https://adept.ru/chastnym_pokupatelyam/' />
+  </node>
+  <node id='1422778063' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='90653138' lat='59.92703882602' lon='30.3167101178'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekivita' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Вита Экспресс' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-23:00; Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Нептун»' />
+    <tag k='website' v='https://vitaexpress.ru/' />
+  </node>
+  <node id='1422778064' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='90653138' lat='59.9269841' lon='30.3165787'>
+    <tag k='name' v='Павловопосадские платки' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://platki.ru/' />
+  </node>
+  <node id='1422778065' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='90653138' lat='59.92710075482' lon='30.31684514928'>
+    <tag k='contact:vk' v='https://vk.com/spbzu' />
+    <tag k='name' v='Зайди — увидишь' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 11:00-20:00' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='https://zaidiuvidish.ru/nashi-salonyi/grivtsova-per-d1311' />
+  </node>
+  <node id='1422778069' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='90653138' lat='59.92700906369' lon='30.31663888744'>
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='4634809755' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90653138' lat='59.92692612582' lon='30.31644167116'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/planeta_zdorovo' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Планета здоровья' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://planetazdorovo.ru/' />
+  </node>
+  <node id='4634809756' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90653138' lat='59.92682308929' lon='30.31619650424'>
+    <tag k='disused:shop' v='jewelry' />
+    <tag k='name' v='Белла' />
+  </node>
+  <node id='5200173079' timestamp='2019-04-13T20:00:34Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.926888' lon='30.3162581'>
+    <tag k='entrance' v='yes' />
+    <tag k='indoor' v='yes' />
+  </node>
+  <node id='5200173080' timestamp='2019-04-13T20:00:34Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9267748' lon='30.3161324' />
+  <node id='5200173081' timestamp='2019-04-13T20:00:34Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.926869' lon='30.3163569' />
+  <node id='5200173082' timestamp='2019-04-13T20:00:34Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9268103' lon='30.316073' />
+  <way id='536917140' timestamp='2020-09-09T14:49:20Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90653138'>
+    <nd ref='5200173082' />
+    <nd ref='5200173079' />
+    <nd ref='869001300' />
+    <nd ref='5200173081' />
+    <nd ref='5200173080' />
+    <nd ref='5200173082' />
+    <tag k='amenity' v='post_office' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Санкт-Петербург 190031' />
+    <tag k='official_name' v='Городское отделение почтовой связи Санкт-Петербург 31' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7 812 3107235' />
+    <tag k='ref' v='190031' />
+    <tag k='website' v='https://www.pochta.ru/' />
+  </way>
+</osm>

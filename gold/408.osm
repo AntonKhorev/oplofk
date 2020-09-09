@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4460041289' timestamp='2020-08-26T23:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89994050' lat='59.91933378492' lon='30.2851757285'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/2banket' />
+    <tag k='name' v='Фламбе' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='reservation' v='required' />
+    <tag k='website' v='https://2banket.ru/banketnyj-zal-flambe/' />
+  </node>
+  <node id='4460041290' timestamp='2020-08-26T23:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89994050' lat='59.91910084975' lon='30.28464666463'>
+    <tag k='contact:vk' v='https://vk.com/bierstube_brewery' />
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Бирштубе' />
+  </node>
+  <node id='5074835308' timestamp='2020-08-26T23:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89994050' lat='59.91710169318' lon='30.28201421286'>
+    <tag k='name' v='Gastronom' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://gastronomnail.ru/' />
+  </node>
+  <node id='5074835309' timestamp='2020-08-26T23:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89994050' lat='59.9172572349' lon='30.28208705754'>
+    <tag k='name' v='Гангут' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://gangut.com/' />
+  </node>
+  <node id='5074835310' timestamp='2020-08-26T23:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='89994050' lat='59.91918669497' lon='30.2848415095'>
+    <tag k='contact:vk' v='https://vk.com/minihotel_gh_ms' />
+    <tag k='name' v='GH_MS' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='7847750183' timestamp='2020-08-26T23:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89994050' lat='59.9185915951' lon='30.2834880423'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/laschastie' />
+    <tag k='name' v='La Счастье' />
+    <tag k='note' v='вход со двора?' />
+  </node>
+  <node id='7847750184' timestamp='2020-08-26T23:16:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='89994050' lat='59.91891176507' lon='30.28421690898'>
+    <tag k='contact:vk' v='https://vk.com/lermontovkaspb' />
+    <tag k='name' v='МЦБС им. М.Ю. Лермонтова, Центр управления фондом' />
+    <tag k='office' v='library' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-18:00' />
+    <tag k='operator' v='СПб ГБУК «Межрайонная централизованная библиотечная система им. М. Ю. Лермонтова»' />
+    <tag k='website' v='https://lermontovka-spb.ru/' />
+  </node>
+</osm>

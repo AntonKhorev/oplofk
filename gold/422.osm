@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2261776293' timestamp='2020-09-09T11:56:58Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='90644366' lat='59.92196117653' lon='30.30431354559'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Багратиони' />
+    <tag k='opening_hours' v='11:00-01:00' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='takeaway' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2261776296' timestamp='2020-09-09T11:56:58Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90644366' lat='59.92186671176' lon='30.30388279389'>
+    <tag k='contact:phone' v='+7 812 9431365' />
+    <tag k='contact:website' v='https://iphone-remont.spb.ru' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Mobiline Service' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-18:00' />
+  </node>
+  <node id='2261776299' timestamp='2020-09-09T11:56:58Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='90644366' lat='59.92182523672' lon='30.30369291892'>
+    <tag k='name' v='Для тебя' />
+    <tag k='name:en' v='For you' />
+    <tag k='note' v='на двери сейчас написано &quot;For you&quot;' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП &quot;Кукушкин&quot;' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='2261776302' timestamp='2020-09-09T11:56:58Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90644366' lat='59.9220320759' lon='30.30462820636'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/club16350207' />
+    <tag k='cuisine' v='asian' />
+    <tag k='name' v='Персия' />
+    <tag k='website' v='http://persiaspb.ru/' />
+  </node>
+  <node id='2261776305' timestamp='2020-09-09T11:56:58Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='90644366' lat='59.92190611059' lon='30.30406316409'>
+    <tag k='name' v='От 39 рублей' />
+    <tag k='opening_hours' v='09:30-21:00' />
+    <tag k='shop' v='variety_store' />
+  </node>
+  <node id='2261776316' timestamp='2020-09-09T11:56:58Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='90644366' lat='59.92213761972' lon='30.3050961849'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Уют' />
+    <tag k='opening_hours' v='Mo-Su 10:00-20:00' />
+    <tag k='operator' v='Уют' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4567769586' timestamp='2020-09-09T11:56:58Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='90644366' lat='59.92193509695' lon='30.3041958655'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/izbabar' />
+    <tag k='cuisine' v='russian' />
+    <tag k='delivery' v='yes' />
+    <tag k='name' v='Изба' />
+    <tag k='opening_hours' v='11:00+' />
+    <tag k='website' v='http://izba-kafe.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

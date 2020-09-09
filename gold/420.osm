@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='924319881' timestamp='2012-02-17T13:03:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10710957' lat='59.9203379' lon='30.2952398' />
+  <node id='924319931' timestamp='2012-02-17T13:03:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10710957' lat='59.9198941' lon='30.2951664' />
+  <node id='937643378' timestamp='2012-02-17T13:03:38Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10710957' lat='59.9203066' lon='30.2951035' />
+  <node id='937643391' timestamp='2012-02-17T13:03:39Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10710957' lat='59.9203726' lon='30.2949999' />
+  <node id='1391775249' timestamp='2020-09-08T12:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90588921' lat='59.92016795642' lon='30.29630271634'>
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1391775255' timestamp='2019-06-29T22:29:13Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='71745077' lat='59.9202091' lon='30.2964865'>
+    <tag k='contact:vk' v='https://vk.com/public149742214' />
+    <tag k='name' v='Галина' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='1391775257' timestamp='2019-05-24T17:38:26Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='70594397' lat='59.9198944' lon='30.2951533' />
+  <node id='1391775259' timestamp='2012-02-17T13:03:27Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10710957' lat='59.9198986' lon='30.2951431' />
+  <node id='1391775266' timestamp='2020-09-08T12:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='90588921' lat='59.92009850578' lon='30.29599269777'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:instagram' v='https://www.instagram.com/shaurma_33/' />
+    <tag k='name' v='Студенческая шаурма' />
+  </node>
+  <node id='1391775271' timestamp='2020-09-08T12:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90588921' lat='59.920276254' lon='30.29678742529'>
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:credit_cards' v='no' />
+    <tag k='payment:debit_cards' v='no' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='1391775278' timestamp='2012-02-17T13:03:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10710957' lat='59.9202896' lon='30.295284' />
+  <node id='1391775291' timestamp='2012-02-17T13:03:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10710957' lat='59.9203498' lon='30.2950207' />
+  <node id='1391775293' timestamp='2012-02-17T13:03:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10710957' lat='59.920358' lon='30.2950565' />
+  <node id='1391775294' timestamp='2012-02-17T13:03:29Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10710957' lat='59.920362' lon='30.2950096' />
+  <node id='1391775306' timestamp='2020-09-08T12:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90588921' lat='59.92031624875' lon='30.29696677868'>
+    <tag k='fixme' v='Магазины Интерторг закрылись! Скорее всего в этом месте будет другой магазин, пожалуйста обновите точку1' />
+    <tag k='was:shop' v='supermarket' />
+  </node>
+  <node id='1636563242' timestamp='2012-02-17T13:02:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10710957' lat='59.9199831' lon='30.2955645' />
+  <node id='1636563244' timestamp='2012-02-17T13:02:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10710957' lat='59.9200002' lon='30.2950522' />
+  <node id='1636563271' timestamp='2012-02-17T13:03:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10710957' lat='59.9203088' lon='30.2947762' />
+  <node id='1636563273' timestamp='2012-02-17T13:03:00Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10710957' lat='59.920319' lon='30.294767' />
+  <node id='4524090684' timestamp='2020-09-08T12:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90588921' lat='59.92013763224' lon='30.29616739812'>
+    <tag k='craft' v='key_cutter;shoemaker' />
+  </node>
+  <node id='6498310400' timestamp='2019-05-24T17:38:26Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70594397' lat='59.9198959' lon='30.2951479' />
+  <node id='6498310401' timestamp='2019-05-24T17:38:26Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70594397' lat='59.9198938' lon='30.2951598' />
+  <node id='6498310403' timestamp='2019-05-24T17:38:26Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70594397' lat='59.9198951' lon='30.2951711'>
+    <tag k='amenity' v='clock' />
+    <tag k='date' v='no' />
+    <tag k='display' v='analog' />
+    <tag k='faces' v='2' />
+    <tag k='support' v='wall_mounted' />
+  </node>
+  <node id='6498310404' timestamp='2019-05-24T17:38:26Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70594397' lat='59.9199379' lon='30.2953625'>
+    <tag k='entrance' v='main' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='6558075434' timestamp='2019-06-19T16:35:01Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='71408823' lat='59.9203428' lon='30.2950704'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6558075435' timestamp='2019-06-19T16:35:01Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='71408823' lat='59.9203305' lon='30.2952076'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6558075436' timestamp='2019-06-19T16:35:01Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='71408823' lat='59.920324' lon='30.2951792'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='7887248139' timestamp='2020-09-08T12:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90588921' lat='59.92011833393' lon='30.29608153263'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Buena mañana' />
+  </node>
+  <way id='125249251' timestamp='2020-09-08T12:54:46Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90588921'>
+    <nd ref='937643391' />
+    <nd ref='1391775294' />
+    <nd ref='1391775291' />
+    <nd ref='1391775293' />
+    <nd ref='6558075434' />
+    <nd ref='937643378' />
+    <nd ref='6558075436' />
+    <nd ref='6558075435' />
+    <nd ref='924319881' />
+    <nd ref='1391775278' />
+    <nd ref='1636563242' />
+    <nd ref='6498310404' />
+    <nd ref='6498310403' />
+    <nd ref='924319931' />
+    <nd ref='6498310401' />
+    <nd ref='1391775257' />
+    <nd ref='6498310400' />
+    <nd ref='1391775259' />
+    <nd ref='1636563244' />
+    <nd ref='1636563271' />
+    <nd ref='1636563273' />
+    <nd ref='937643391' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Лермонтовский проспект' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='2' />
+    <tag k='contact:vk' v='https://vk.com/dmrecord' />
+    <tag k='disused:amenity' v='arts_centre' />
+    <tag k='name' v='Дом молодёжи «Рекорд»' />
+    <tag k='note' v='здание на ремонте, у &quot;Рекорда&quot; на сайте указан другой адрес' />
+    <tag k='website' v='http://dmrecord.admiral.gov.spb.ru/' />
+  </way>
+</osm>
