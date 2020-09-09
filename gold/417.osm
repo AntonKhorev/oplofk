@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7854946231' timestamp='2020-08-29T17:16:33Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90125764' lat='59.9359218' lon='30.3163086'>
+    <tag k='name' v='Макдоналдс, центр по приему на работу' />
+    <tag k='office' v='employment_agency' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-18:00' />
+    <tag k='phone' v='+7 812 3256600' />
+    <tag k='website' v='https://rabotavmcdonalds.ru/' />
+  </node>
+</osm>

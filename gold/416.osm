@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7856927111' timestamp='2020-08-29T16:22:44Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90124423' lat='59.9342176' lon='30.3125432'>
+    <tag k='alt_name' v='Christopher' />
+    <tag k='contact:vk' v='https://vk.com/spbchristopher' />
+    <tag k='name' v='Cristopher' />
+    <tag k='note' v='&quot;Cristopher&quot; написано на двери' />
+    <tag k='tourism' v='hostel' />
+  </node>
+</osm>

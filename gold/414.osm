@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1668527024' timestamp='2013-01-11T14:11:18Z' uid='368493' user='fserges' visible='true' version='2' changeset='14610504' lat='59.9197489' lon='30.2881902' />
+  <node id='1668527027' timestamp='2012-03-10T11:31:26Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10930597' lat='59.9201063' lon='30.2878728' />
+  <node id='1668527038' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='87029480' lat='59.9204172' lon='30.2875942' />
+  <node id='2030813777' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='87029480' lat='59.9204225' lon='30.2875965'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='2105771182' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90038729' lat='59.9194146' lon='30.2885325'>
+    <tag k='name' v='РосАл' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Актив 78»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.rosal24.ru/' />
+  </node>
+  <node id='2105771183' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90038729' lat='59.91968308951' lon='30.28824998312'>
+    <tag k='entrance' v='service' />
+    <tag k='note' v='здесь дверь, на которой написано &quot;Кафе Орли&quot;; судя по старым фотографиям это то же место, что и ресторан Хаочи, только вход теперь через другую дверь' />
+  </node>
+  <node id='2110697661' timestamp='2017-10-01T02:15:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='52525478' lat='59.9200849' lon='30.2879309'>
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='2110697705' timestamp='2019-04-24T20:52:45Z' uid='103003' user='Alexandrcfif' visible='true' version='4' changeset='69541364' lat='59.9199064' lon='30.2880904'>
+    <tag k='name' v='СтройМаг' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='hardware' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4423029594' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90038729' lat='59.91961431048' lon='30.28831246278'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4423029595' timestamp='2019-05-24T16:48:20Z' uid='103003' user='Alexandrcfif' visible='true' version='3' changeset='70592974' lat='59.9200194' lon='30.2879895'>
+    <tag k='opening_hours' v='Mo-Su 11:00-20:00' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='7646034888' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.9201332' lon='30.2879868' />
+  <node id='7646034889' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.9204065' lon='30.2877422' />
+  <node id='7646034890' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.9204782' lon='30.2879065' />
+  <node id='7646034891' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.9205257' lon='30.2878232'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='7646034892' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.9204277' lon='30.2875988' />
+  <node id='7646034894' timestamp='2020-06-23T10:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='87029480' lat='59.9205296' lon='30.287832' />
+  <node id='7850644638' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90038729' lat='59.91976969161' lon='30.28828130884' />
+  <node id='7850644639' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90038729' lat='59.91957285528' lon='30.28846011732' />
+  <node id='7850644640' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90038729' lat='59.91955206355' lon='30.28836900848' />
+  <way id='818737247' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90038729'>
+    <nd ref='7646034894' />
+    <nd ref='7646034890' />
+    <nd ref='7646034889' />
+    <nd ref='7646034888' />
+    <nd ref='1668527027' />
+    <nd ref='1668527038' />
+    <nd ref='2030813777' />
+    <nd ref='7646034892' />
+    <nd ref='7646034891' />
+    <nd ref='7646034894' />
+    <tag k='name' v='Вместе' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://spbvmeste.ru/' />
+  </way>
+  <way id='841417705' timestamp='2020-08-27T17:10:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90038729'>
+    <nd ref='7850644640' />
+    <nd ref='7850644639' />
+    <nd ref='7850644638' />
+    <nd ref='1668527024' />
+    <nd ref='2105771183' />
+    <nd ref='4423029594' />
+    <nd ref='7850644640' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/hao_chi' />
+    <tag k='cuisine' v='chinese' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Хаочи' />
+    <tag k='opening_hours' v='11:30-00:00' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='website' v='http://hao-chi.ru/' />
+    <tag k='wheelchair' v='no' />
+  </way>
+</osm>

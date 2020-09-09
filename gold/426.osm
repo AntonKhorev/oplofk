@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2197639096' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='90651312' lat='59.92545457369' lon='30.31430456081'>
+    <tag k='alt_name' v='КиллФиш' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/killfishbar' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='name' v='KillFish' />
+    <tag k='opening_hours' v='Mo-Su 12:00-03:00' />
+    <tag k='operator' v='ООО «НГБ Ваян»' />
+    <tag k='phone' v='+7 812 4480800' />
+    <tag k='website' v='https://killfish.ru/' />
+  </node>
+  <node id='2197639107' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='90651312' lat='59.92579579636' lon='30.31510179393'>
+    <tag k='brand' v='Магнит' />
+    <tag k='brand:en' v='Magnit' />
+    <tag k='brand:wikidata' v='Q940518' />
+    <tag k='brand:wikipedia' v='ru:Магнит (сеть магазинов)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/magnitretail' />
+    <tag k='contact:ok' v='https://ok.ru/magnitinfo' />
+    <tag k='contact:twitter' v='https://twitter.com/magnitretail' />
+    <tag k='contact:vk' v='https://vk.com/magnitretail' />
+    <tag k='contact:youtube' v='https://www.youtube.com/channel/UCoWX1GhHlSJGwKpCEJitsoA/' />
+    <tag k='name' v='Магнит у дома' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='АО «Тандер»' />
+    <tag k='phone' v='+7 800 2009002' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://magnit.ru/shops/49685/' />
+  </node>
+  <node id='4184451754' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90651312' lat='59.92613797374' lon='30.31589675102'>
+    <tag k='contact:vk' v='https://vk.com/lilkko' />
+    <tag k='name' v='Lilkko' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='https://www.lilkko.ru/' />
+  </node>
+  <node id='4450558901' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90651312' lat='59.92600850575' lon='30.31559569048'>
+    <tag k='alt_name' v='Едимруками' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/edimrukami' />
+    <tag k='name' v='Едим руками' />
+    <tag k='note' v='возможно не работает' />
+    <tag k='opening_hours' v='12:00-01:00' />
+    <tag k='website' v='http://ginza.ru/spb/restaurant/edimrukami' />
+  </node>
+  <node id='4574427110' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90651312' lat='59.9258938359' lon='30.31532962347'>
+    <tag k='clothes' v='women' />
+    <tag k='contact:vk' v='https://vk.com/evagraffova' />
+    <tag k='name' v='Eva Graffova' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://spb.evagraffova.ru/' />
+  </node>
+  <node id='4574427111' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90651312' lat='59.92566489788' lon='30.3147964712'>
+    <tag k='brand' v='Ортека' />
+    <tag k='brand:wikidata' v='Q62393660' />
+    <tag k='contact:email' v='info@orteka.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/orteka.rus' />
+    <tag k='contact:instagram' v='https://www.instagram.com/orteka_rus/' />
+    <tag k='contact:phone' v='+7 800 3333112' />
+    <tag k='contact:vk' v='https://vk.com/orteka_ru' />
+    <tag k='contact:website' v='https://orteka.ru/salons/spb/12134/' />
+    <tag k='medical_supply' v='orthopedic' />
+    <tag k='name' v='Ортека' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Никамед»' />
+    <tag k='shop' v='medical_supply' />
+  </node>
+  <node id='4574427112' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90651312' lat='59.92563528131' lon='30.31472713196'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Совкомбанк' />
+    <tag k='brand:ru' v='Совкомбанк' />
+    <tag k='brand:wikidata' v='Q4426566' />
+    <tag k='brand:wikipedia' v='ru:Совкомбанк' />
+    <tag k='contact:vk' v='https://vk.com/sovcombank' />
+    <tag k='name' v='Совкомбанк' />
+    <tag k='name:ru' v='Совкомбанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 10:00-17:00' />
+    <tag k='website' v='https://sovcombank.ru/' />
+  </node>
+  <node id='4574427113' timestamp='2020-09-09T14:09:18Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90651312' lat='59.92549431614' lon='30.31439781619'>
+    <tag k='contact:vk' v='https://vk.com/bileter' />
+    <tag k='name' v='Bileter' />
+    <tag k='opening_hours' v='10:00-21:00; 14:00-15:00 off' />
+    <tag k='shop' v='ticket' />
+    <tag k='tickets:theatre' v='yes' />
+    <tag k='website' v='https://www.bileter.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1424085175' timestamp='2020-03-21T18:43:46Z' uid='3664566' user='aleksiy68' visible='true' version='9' changeset='82467299' lat='59.9211287' lon='30.2870082'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/apteki_raduga_pp' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Первая помощь' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-22:00; Sa-Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Эркафарм Санкт-Петербург»' />
+    <tag k='website' v='https://superapteka.ru/' />
+  </node>
+  <node id='1424085176' timestamp='2020-07-22T16:20:36Z' uid='519501' user='parukhin' visible='true' version='16' changeset='88359027' lat='59.9211835' lon='30.2872582'>
+    <tag k='amenity' v='bank' />
+    <tag k='bic' v='SABRRUMM' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:en' v='Sberbank' />
+    <tag k='brand:ru' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='brand:wikipedia' v='en:Sberbank of Russia' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sberbank' />
+    <tag k='contact:instagram' v='https://instagram.com/sberbank' />
+    <tag k='contact:ok' v='https://ok.ru/sberbank' />
+    <tag k='contact:phone' v='+7 812 7140191' />
+    <tag k='contact:twitter' v='https://twitter.com/sberbank/' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/sberbank' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='name:en' v='Sberbank' />
+    <tag k='name:ru' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='operator:wikipedia' v='ru:Сбербанк России' />
+    <tag k='ref' v='9055/0369' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4460045937' timestamp='2020-08-27T16:26:21Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90037222' lat='59.9214969' lon='30.2886405'>
+    <tag k='amenity' v='dentist' />
+    <tag k='healthcare' v='dentist' />
+    <tag k='name' v='Universtom' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Университетская Стоматология»' />
+    <tag k='website' v='https://implantgood.ru/' />
+  </node>
+</osm>

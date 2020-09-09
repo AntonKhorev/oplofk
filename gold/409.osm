@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2188559458' timestamp='2020-08-27T00:27:47Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89994977' lat='59.91801715694' lon='30.28676464912'>
+    <tag k='disused:shop' v='florist' />
+    <tag k='note' v='возможно https://mazzo-flowers.ru/' />
+  </node>
+  <node id='2188559461' timestamp='2020-08-27T00:27:47Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89994977' lat='59.91766050305' lon='30.28514583766'>
+    <tag k='disused:office' v='insurance' />
+    <tag k='name' v='РЕСО-Гарантия' />
+  </node>
+  <node id='4523998824' timestamp='2020-08-27T00:27:47Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89994977' lat='59.91735811869' lon='30.28377252319'>
+    <tag k='club' v='yes' />
+    <tag k='contact:vk' v='https://vk.com/pmk_perspectiva' />
+    <tag k='name' v='Подростково-молодёжный клуб «Перспектива»' />
+    <tag k='operator' v='СПб ГБУ «Центр «Адмиралтейский» по работе с подростками и молодежью»' />
+    <tag k='website' v='http://admiralteisky.spb.ru/%D0%BA%D0%BB%D1%83%D0%B1%D1%8B/%D0%BF%D0%BC%D0%BA-%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B0/' />
+  </node>
+  <node id='5074845135' timestamp='2020-08-27T00:27:47Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89994977' lat='59.91793304362' lon='30.28638242417'>
+    <tag k='name' v='Check-in' />
+    <tag k='phone' v='+7 950 0022255' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5074845136' timestamp='2020-08-27T00:27:47Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89994977' lat='59.91779248949' lon='30.28574423258'>
+    <tag k='disused:shop' v='yes' />
+    <tag k='name' v='Parquet Decor' />
+  </node>
+</osm>

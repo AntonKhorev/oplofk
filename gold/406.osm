@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1313205564' timestamp='2020-08-26T21:08:26Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='89991433' lat='59.9236391' lon='30.2841872'>
+    <tag k='name' v='Вкусный' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ИП Коваленко Ю.А.' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1313577057' timestamp='2020-08-26T21:08:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89991433' lat='59.92275694603' lon='30.2850062786'>
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='1313577082' timestamp='2020-08-26T21:08:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89991433' lat='59.92235479414' lon='30.28536337971'>
+    <tag k='contact:vk' v='https://vk.com/f.volchek' />
+    <tag k='inscription' v='Булочная № 92' />
+    <tag k='name' v='Булочная Ф. Вольчека' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='phone' v='+7 812 6420638' />
+    <tag k='ref' v='92' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://fvolchek.ru/' />
+  </node>
+  <node id='1313577089' timestamp='2020-08-26T21:08:26Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='89991433' lat='59.92257827248' lon='30.28516609501'>
+    <tag k='brand' v='Великолукский мясокомбинат' />
+    <tag k='brand:wikidata' v='Q18401767' />
+    <tag k='name' v='Великолукский мясокомбинат' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 09:00-20:00' />
+    <tag k='operator' v='ООО «Аркада»' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='3709161683' timestamp='2020-08-26T21:08:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='89991433' lat='59.92329903009' lon='30.28452008033'>
+    <tag k='alt_name' v='Многофункциональный центр' />
+    <tag k='amenity' v='public_service' />
+    <tag k='brand' v='Мои документы' />
+    <tag k='government' v='public_service' />
+    <tag k='name' v='Сектор 1 МФЦ Адмиралтейского района' />
+    <tag k='office' v='government' />
+    <tag k='official_name' v='Сектор 1 Многофункционального центра предоставления государственных и муниципальных услуг Адмиралтейского района' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='СПб ГКУ «Многофункциональный центр предоставления государственных и муниципальных услуг»' />
+    <tag k='phone' v='+7 812 5739000' />
+    <tag k='short_name' v='МФЦ' />
+    <tag k='website' v='https://gu.spb.ru/mfc/list/66371/' />
+  </node>
+</osm>

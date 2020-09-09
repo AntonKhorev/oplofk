@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='924319733' timestamp='2017-01-07T23:33:06Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='44991022' lat='59.9216306' lon='30.3029411' />
+  <node id='924319762' timestamp='2017-01-07T23:33:06Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='44991022' lat='59.9215904' lon='30.3027678' />
+  <node id='924319839' timestamp='2017-01-07T23:33:06Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='44991022' lat='59.9217167' lon='30.3028616' />
+  <node id='924319911' timestamp='2017-01-07T23:33:06Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='44991022' lat='59.9216765' lon='30.3026883' />
+  <node id='4595504698' timestamp='2017-01-07T23:33:05Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='44991022' lat='59.921696' lon='30.3027721'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <way id='79095334' timestamp='2020-09-08T13:04:27Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='90589386'>
+    <nd ref='924319762' />
+    <nd ref='924319733' />
+    <nd ref='924319839' />
+    <nd ref='4595504698' />
+    <nd ref='924319911' />
+    <nd ref='924319762' />
+    <tag k='addr:housenumber' v='69А' />
+    <tag k='addr:street' v='Садовая улица' />
+    <tag k='amenity' v='toilets' />
+    <tag k='building' v='toilets' />
+    <tag k='building:levels' v='1' />
+    <tag k='changing_table' v='yes' />
+    <tag k='fee' v='yes' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ГУП «Водоканал Санкт-Петербурга»' />
+    <tag k='operator:wikidata' v='Q4114077' />
+    <tag k='website' v='http://www.vodokanal.spb.ru/kanalizovanie/tualety/' />
+  </way>
+</osm>

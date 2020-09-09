@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2187136301' timestamp='2019-04-13T19:57:29Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9226422' lon='30.307386'>
+    <tag k='contact:vk' v='https://vk.com/floristsalonspb' />
+    <tag k='name' v='Цветочная' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='2187136310' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='90645808' lat='59.9225911' lon='30.3071604'>
+    <tag k='name' v='Парикмахерская' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Мастер-ЛТД»' />
+    <tag k='phone' v='+7 812 3146183' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='2187136311' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='90645808' lat='59.9225532' lon='30.3069923'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Grand Lion' />
+    <tag k='note' v='если &quot;Лион&quot; и &quot;Гранд Лион&quot; - два разных отеля, то &quot;Гранд&quot; здесь' />
+    <tag k='website' v='http://hotelgrandlion.ru/restaurants/' />
+  </node>
+  <node id='2187136313' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='21' changeset='90645808' lat='59.9227409' lon='30.3077999'>
+    <tag k='contact:vk' v='https://vk.com/ludilovebakery' />
+    <tag k='name' v='ЛюдиЛюбят' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00' />
+    <tag k='operator' v='ООО «Премьера»' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='http://ludilove.ru/' />
+  </node>
+  <node id='4569655330' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='90645808' lat='59.9226851' lon='30.3075768'>
+    <tag k='disused:shop' v='convenience' />
+    <tag k='name' v='Продукты' />
+  </node>
+  <node id='4569655331' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='90645808' lat='59.9226128' lon='30.3072566'>
+    <tag k='contact:vk' v='https://vk.com/justfit' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='JustFit' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00' />
+    <tag k='website' v='https://justfitclub.ru/' />
+  </node>
+  <node id='4569655332' timestamp='2019-04-13T19:59:33Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9225178' lon='30.3068361'>
+    <tag k='contact:vk' v='https://vk.com/hotel_lion' />
+    <tag k='name' v='Lion' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotellion.ru/' />
+  </node>
+  <node id='4569655333' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='90645808' lat='59.9224894' lon='30.3067103'>
+    <tag k='contact:vk' v='https://vk.com/kasumovshoes' />
+    <tag k='disused:shop' v='shoes' />
+    <tag k='name' v='Kasumov' />
+    <tag k='website' v='http://vasifkasumov.com/' />
+  </node>
+  <node id='5090559898' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='90645808' lat='59.9226357' lon='30.307358'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Шаверма' />
+  </node>
+  <node id='5090559899' timestamp='2020-09-09T12:22:18Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='90645808' lat='59.9225854' lon='30.3071355'>
+    <tag k='disused:second_hand' v='yes' />
+    <tag k='disused:shop' v='clothes' />
+  </node>
+</osm>
