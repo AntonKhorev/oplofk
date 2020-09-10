@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4712494429' timestamp='2020-09-10T11:19:55Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90698438' lat='59.91285159488' lon='30.31009370866'>
+    <tag k='amenity' v='dentist' />
+    <tag k='name' v='Альфа Дент' />
+    <tag k='website' v='https://alfadent.spb.ru/' />
+  </node>
+</osm>

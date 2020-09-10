@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7893215924' timestamp='2020-09-10T11:16:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90698232' lat='59.91353611619' lon='30.31010129556'>
+    <tag k='contact:vk' v='https://vk.com/mirtanca' />
+    <tag k='description' v='товары для спортивных бальных танцев' />
+    <tag k='name' v='Мир танца' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='sports' />
+    <tag k='website' v='http://mirtanca.ru/' />
+  </node>
+</osm>

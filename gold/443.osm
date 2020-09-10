@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1558151131' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90701337' lat='59.91173741544' lon='30.31153067596'>
+    <tag k='disused:clothes' v='women' />
+    <tag k='disused:shop' v='clothes' />
+    <tag k='name' v='Lady Elegance' />
+  </node>
+  <node id='1558151132' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90701337' lat='59.91175768024' lon='30.31313453922'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/stomatologiaemident' />
+    <tag k='healthcare' v='dentist' />
+    <tag k='name' v='Эмидент' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00' />
+    <tag k='website' v='http://стоматология-эмидент.рф/' />
+  </node>
+  <node id='1558151133' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='90701337' lat='59.91181577849' lon='30.31339484722'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:en' v='Sberbank' />
+    <tag k='brand:ru' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='brand:wikipedia' v='en:Sberbank of Russia' />
+    <tag k='contact:phone' v='+7 800 5555550' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru/' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='name:en' v='Sberbank' />
+    <tag k='name:ru' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='operator:wikipedia' v='ru:Сбербанк России' />
+    <tag k='ref' v='9055/0705' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='1558157607' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90701337' lat='59.91175476832' lon='30.31289569302'>
+    <tag k='contact:instagram' v='https://www.instagram.com/druzya.krasoty/' />
+    <tag k='name' v='Друзья красоты' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='4712532242' timestamp='2020-09-10T11:25:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90698781' lat='59.91171962795' lon='30.31004374783'>
+    <tag k='name' v='РосАл' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.rosal24.ru/' />
+  </node>
+  <node id='4712555312' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90701337' lat='59.91175148457' lon='30.31264269035'>
+    <tag k='contact:vk' v='https://vk.com/bagetka' />
+    <tag k='name' v='МамаРама' />
+    <tag k='opening_hours' v='Mo,Tu,Th,Fr 11:00-19:00; Sa 12:00-17:00' />
+    <tag k='shop' v='frame' />
+    <tag k='website' v='https://багетнаяспб.рф/' />
+  </node>
+  <node id='4712555313' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90701337' lat='59.9117419274' lon='30.31189289952'>
+    <tag k='disused:shop' v='spices' />
+    <tag k='name' v='Фундук' />
+    <tag k='website' v='https://fundukshop.ru/funduk-krasnoarmeyskaya' />
+  </node>
+  <node id='4712555314' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90701337' lat='59.91173028867' lon='30.31099172511'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='7893406990' timestamp='2020-09-10T12:09:14Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90701337' lat='59.91174293765' lon='30.31196774519'>
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00; Su 12:00-19:00' />
+    <tag k='shop' v='antiques' />
+  </node>
+</osm>

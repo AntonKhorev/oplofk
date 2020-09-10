@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4464849036' timestamp='2020-09-10T05:31:20Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90677028' lat='59.91522719911' lon='30.29767543707'>
+    <tag k='brand' v='Watsons' />
+    <tag k='brand:wikidata' v='Q7974785' />
+    <tag k='contact:vk' v='https://vk.com/watsonsrussia' />
+    <tag k='name' v='Watsons' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Спектр Групп»' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://www.watsons.com.ru/' />
+  </node>
+  <node id='4464849037' timestamp='2020-09-10T05:31:20Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90677028' lat='59.91540285663' lon='30.29765653345'>
+    <tag k='name' v='Посуда+' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 10:00-19:00' />
+    <tag k='shop' v='houseware' />
+    <tag k='website' v='https://posuda-plus-spb.ru/' />
+  </node>
+</osm>

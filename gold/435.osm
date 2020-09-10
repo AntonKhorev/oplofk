@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='852665401' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90689678' lat='59.91155730445' lon='30.29862731194' />
+  <node id='852665767' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90689678' lat='59.9117222684' lon='30.29862013423' />
+  <node id='852665812' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90689678' lat='59.91155346148' lon='30.29832210309' />
+  <node id='852665938' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90689678' lat='59.91209695668' lon='30.29779905984' />
+  <node id='852665952' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90689678' lat='59.91154721142' lon='30.29782572421' />
+  <node id='852666026' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90689678' lat='59.91164992827' lon='30.29862267176' />
+  <node id='852666223' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90689678' lat='59.91210591304' lon='30.29851328552' />
+  <node id='852666239' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90689678' lat='59.91210320931' lon='30.2982976758' />
+  <node id='1081931151' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90689678' lat='59.9120573115' lon='30.29860341754' />
+  <node id='1081931174' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90689678' lat='59.91205621234' lon='30.29851576531' />
+  <node id='1081931189' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90689678' lat='59.91155414524' lon='30.29837640771'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1121962262' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90689678' lat='59.91210365307' lon='30.29833306382'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='7892758611' timestamp='2020-09-10T09:14:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90690365' lat='59.91178282233' lon='30.29781429639'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='7892758612' timestamp='2020-09-10T09:14:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90690365' lat='59.91182635916' lon='30.29781218472'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='93311394' timestamp='2020-09-10T09:14:18Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90690365'>
+    <nd ref='852665767' />
+    <nd ref='1081931151' />
+    <nd ref='1081931174' />
+    <nd ref='852666223' />
+    <nd ref='1121962262' />
+    <nd ref='852666239' />
+    <nd ref='852665938' />
+    <nd ref='7892758612' />
+    <nd ref='7892758611' />
+    <nd ref='852665952' />
+    <nd ref='852665812' />
+    <nd ref='1081931189' />
+    <nd ref='852665401' />
+    <nd ref='852666026' />
+    <nd ref='852665767' />
+    <tag k='amenity' v='school' />
+    <tag k='contact:email' v='sc280@adm-edu.spb.ru' />
+    <tag k='contact:phone' v='+7 812 2511415' />
+    <tag k='contact:website' v='http://school280.ru' />
+    <tag k='name' v='Школа № 280 имени М. Ю. Лермонтова' />
+    <tag k='official_name' v='Государственное бюджетное общеобразовательное учреждение средняя общеобразовательная школа № 280 имени М. Ю. Лермонтова Адмиралтейского района Санкт-Петербурга' />
+    <tag k='ref' v='280' />
+  </way>
+</osm>

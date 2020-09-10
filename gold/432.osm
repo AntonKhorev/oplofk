@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='846829566' timestamp='2020-05-17T22:34:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='85350285' lat='59.9137986' lon='30.2989195' />
+  <node id='846829611' timestamp='2010-12-30T12:02:54Z' uid='368493' user='fserges' visible='true' version='3' changeset='6808371' lat='59.9142939' lon='30.2976897' />
+  <node id='846829641' timestamp='2010-12-30T10:59:36Z' uid='368493' user='fserges' visible='true' version='4' changeset='6807699' lat='59.9142982' lon='30.2981685' />
+  <node id='846829645' timestamp='2020-05-17T22:34:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='85350285' lat='59.9140053' lon='30.2985254' />
+  <node id='846829660' timestamp='2020-05-17T22:34:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='85350285' lat='59.9138988' lon='30.2989183' />
+  <node id='846829897' timestamp='2020-05-17T22:34:02Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='85350285' lat='59.914003' lon='30.2986704' />
+  <node id='846829899' timestamp='2010-12-30T10:59:36Z' uid='368493' user='fserges' visible='true' version='2' changeset='6807699' lat='59.9141812' lon='30.2981727' />
+  <node id='1110321805' timestamp='2016-09-13T19:48:59Z' uid='472653' user='Pavel47' visible='true' version='6' changeset='42134565' lat='59.9141619' lon='30.2978545' />
+  <node id='1110401374' timestamp='2011-01-19T15:05:10Z' uid='368493' user='fserges' visible='true' version='1' changeset='7021349' lat='59.913747' lon='30.2976892' />
+  <node id='1110401375' timestamp='2020-05-17T22:34:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='85350285' lat='59.9137818' lon='30.2987143' />
+  <node id='1110401382' timestamp='2020-05-17T22:34:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='85350285' lat='59.9140045' lon='30.2989123' />
+  <node id='1110401386' timestamp='2011-01-19T15:05:11Z' uid='368493' user='fserges' visible='true' version='1' changeset='7021349' lat='59.9143112' lon='30.2981683' />
+  <node id='1110401392' timestamp='2011-01-19T15:05:11Z' uid='368493' user='fserges' visible='true' version='1' changeset='7021349' lat='59.9141108' lon='30.2981739' />
+  <node id='1110401393' timestamp='2011-01-19T15:05:11Z' uid='368493' user='fserges' visible='true' version='1' changeset='7021349' lat='59.9140683' lon='30.2985244' />
+  <node id='1110401400' timestamp='2011-01-19T15:05:11Z' uid='368493' user='fserges' visible='true' version='1' changeset='7021349' lat='59.9143098' lon='30.2976637' />
+  <node id='1110401405' timestamp='2011-01-19T15:05:12Z' uid='368493' user='fserges' visible='true' version='1' changeset='7021349' lat='59.9137598' lon='30.2987154' />
+  <node id='1110401407' timestamp='2020-05-17T22:34:02Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='85350285' lat='59.9137856' lon='30.2989035' />
+  <node id='3492940811' timestamp='2017-09-23T12:28:32Z' uid='472653' user='Pavel47' visible='true' version='4' changeset='52302702' lat='59.914291' lon='30.2976898'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 07:50,19:05; Sa 10:10; Su 19:05' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='23' />
+  </node>
+  <node id='4399715195' timestamp='2016-09-13T19:48:53Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='42134565' lat='59.9141609' lon='30.2976962' />
+  <node id='4399715197' timestamp='2016-09-13T19:48:53Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='42134565' lat='59.9142854' lon='30.29769'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4399715198' timestamp='2016-09-13T19:48:53Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='42134565' lat='59.9142953' lon='30.2978478' />
+  <node id='4464870622' timestamp='2020-09-10T05:46:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90677838' lat='59.91393455232' lon='30.29774315823'>
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <way id='95807735' timestamp='2020-09-10T05:46:28Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90677838'>
+    <nd ref='1110401386' />
+    <nd ref='1110401400' />
+    <nd ref='1110401374' />
+    <nd ref='1110401405' />
+    <nd ref='1110401375' />
+    <nd ref='1110401407' />
+    <nd ref='846829566' />
+    <nd ref='846829660' />
+    <nd ref='1110401382' />
+    <nd ref='846829897' />
+    <nd ref='846829645' />
+    <nd ref='1110401393' />
+    <nd ref='1110401392' />
+    <nd ref='846829899' />
+    <nd ref='846829641' />
+    <nd ref='1110401386' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='190103' />
+    <tag k='addr:street' v='Лермонтовский проспект' />
+    <tag k='amenity' v='university' />
+    <tag k='email' v='rector@spbume.ru' />
+    <tag k='name' v='Санкт-Петербургский университет технологий управления и экономики' />
+    <tag k='official_name' v='Частное образовательное учреждение высшего образования «Санкт-Петербургский университет технологий управления и экономики»' />
+    <tag k='old_name' v='Санкт-Петербургский академический университет' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00' />
+    <tag k='phone' v='+7 812 5750300' />
+    <tag k='website' v='https://www.spbume.ru/' />
+  </way>
+  <way id='442279596' timestamp='2020-09-10T05:46:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90677838'>
+    <nd ref='4399715195' />
+    <nd ref='1110321805' />
+    <nd ref='4399715198' />
+    <nd ref='846829611' />
+    <nd ref='3492940811' />
+    <nd ref='4399715197' />
+    <nd ref='4399715195' />
+    <tag k='amenity' v='post_office' />
+    <tag k='description' v='САНКТ-ПЕТЕРБУРГ 103' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 190103' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa 09:00-14:00,15:00-18:00; Su off' />
+    <tag k='operator' v='Почта России' />
+    <tag k='phone' v='+7 812 7146590' />
+    <tag k='ref' v='190103' />
+    <tag k='website' v='https://www.pochta.ru/' />
+  </way>
+</osm>
