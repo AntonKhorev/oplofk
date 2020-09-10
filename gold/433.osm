@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1102058496' timestamp='2020-09-10T05:52:58Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90678199' lat='59.91327719602' lon='30.29776437825'>
+    <tag k='name' v='РосАл' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.rosal24.ru/' />
+  </node>
+  <node id='1119896181' timestamp='2020-09-10T05:52:58Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90678199' lat='59.9131731105' lon='30.29777122623'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Север' />
+    <tag k='brand:wikidata' v='Q4411982' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sever.metropol.official' />
+    <tag k='contact:instagram' v='https://www.instagram.com/sever_metropol/' />
+    <tag k='contact:vk' v='https://vk.com/sever.metropol.official' />
+    <tag k='name' v='Север-Метрополь' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ИП Шаденков И.С.' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='https://sever-metropol.ru/wheretobuy/spb/kafe-konditerskie/lermontovskij-pr-48/' />
+  </node>
+</osm>

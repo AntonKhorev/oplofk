@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1110321810' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90708823' lat='59.91429906301' lon='30.29992515959'>
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='Ч.П. Пономарев' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='4723609584' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90708823' lat='59.91436111218' lon='30.30543365833'>
+    <tag k='contact:vk' v='https://vk.com/topbarbers' />
+    <tag k='name' v='OldBoy' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://topbarbers.ru/tehnolozhka' />
+  </node>
+  <node id='4723609585' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90708823' lat='59.91433054262' lon='30.30251885142'>
+    <tag k='brand' v='Koni' />
+    <tag k='disused:shop' v='car_parts' />
+    <tag k='website' v='http://www.koni-rus.ru/' />
+  </node>
+  <node id='4723609586' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90708823' lat='59.9143292426' lon='30.30238614892'>
+    <tag k='name' v='Адвокатский кабинет Микина Ивана Викторовича' />
+    <tag k='office' v='lawyer' />
+    <tag k='phone' v='+7 911 7775216' />
+    <tag k='website' v='http://mikin.ru/' />
+  </node>
+  <node id='4723609587' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90708823' lat='59.91432958334' lon='30.3024263629'>
+    <tag k='name' v='Ассоциация защиты прав и интересов бизнеса' />
+    <tag k='office' v='association' />
+    <tag k='website' v='http://www.azpib.ru/' />
+  </node>
+  <node id='4723610892' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90708823' lat='59.91429410363' lon='30.2994367613'>
+    <tag k='name' v='Садово-парковое предприятие «Центральное»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://sppcentralnoe.ru/' />
+  </node>
+  <node id='4723610893' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90708823' lat='59.91429244436' lon='30.29923427355'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/attek' />
+    <tag k='name' v='Attek Group' />
+    <tag k='website' v='https://www.centrattek.ru/' />
+  </node>
+  <node id='4723610894' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90708823' lat='59.91427966295' lon='30.2981238544'>
+    <tag k='disused:shop' v='car_parts' />
+    <tag k='operator' v='ООО &quot;АВД Авто&quot;' />
+  </node>
+  <node id='4723610895' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90708823' lat='59.91427784256' lon='30.29791594441'>
+    <tag k='brand' v='Nokia' />
+    <tag k='brand:wikidata' v='Q1418' />
+    <tag k='craft' v='mobile_phone' />
+    <tag k='name' v='Сервисный центр Nokia' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00' />
+    <tag k='website' v='http://www.nokiaservice.ru/' />
+  </node>
+  <node id='7894006130' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90708823' lat='59.9143533519' lon='30.30477104629'>
+    <tag k='name' v='Региональный центр экспертиз' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://rcespb.ru/' />
+  </node>
+  <node id='7894006137' timestamp='2020-09-10T14:37:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90708823' lat='59.91428069474' lon='30.29821195508'>
+    <tag k='clothes' v='workwear' />
+    <tag k='contact:vk' v='https://vk.com/publicspecodejkin' />
+    <tag k='name' v='Спецодежкин' />
+    <tag k='shop' v='clothes' />
+  </node>
+</osm>

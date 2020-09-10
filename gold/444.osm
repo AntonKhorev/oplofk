@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1554518181' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90705845' lat='59.91179792357' lon='30.31749275131'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/21versta' />
+    <tag k='name' v='21 верста' />
+    <tag k='website' v='http://cafe21versta.ru/' />
+  </node>
+  <node id='1555638446' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90705845' lat='59.91178635028' lon='30.31623798309'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Манилов' />
+  </node>
+  <node id='1555638451' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90705845' lat='59.91177585208' lon='30.3150289061'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='email' v='etloncoffee@gmail.com' />
+    <tag k='internet_access' v='yes' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='Etlon Coffee' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00' />
+    <tag k='phone' v='+7 921 6440664' />
+    <tag k='smoking' v='no' />
+    <tag k='website' v='https://vk.com/etloncoffee' />
+  </node>
+  <node id='1555638454' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90705845' lat='59.91176879622' lon='30.31428106914'>
+    <tag k='name' v='Продукты' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1555638456' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90705845' lat='59.91178238713' lon='30.31573950915'>
+    <tag k='name' v='Яндекс.Лавка' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='07:30-23:30' />
+    <tag k='operator' v='ООО «Яндекс.Лавка»' />
+    <tag k='website' v='https://lavka.yandex/spb' />
+  </node>
+  <node id='1555638458' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90705845' lat='59.91178829148' lon='30.31646174454'>
+    <tag k='disused:shop' v='convenience' />
+  </node>
+  <node id='1555638468' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90705845' lat='59.91180132648' lon='30.31802427213'>
+    <tag k='contact:vk' v='https://vk.com/ulybka_radugi' />
+    <tag k='name' v='Улыбка радуги' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://www.r-ulybka.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4712592130' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90705845' lat='59.9117958701' lon='30.31720970868'>
+    <tag k='contact:vk' v='https://vk.com/galeon_okna' />
+    <tag k='craft' v='window_construction' />
+    <tag k='name' v='Галеон' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 11:00-17:00' />
+    <tag k='website' v='https://www.galeon-okna.ru/' />
+  </node>
+  <node id='4712592131' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90705845' lat='59.91179469045' lon='30.31701301329'>
+    <tag k='clothes' v='men' />
+    <tag k='contact:vk' v='https://vk.com/marioline' />
+    <tag k='name' v='Mario' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.marioline.ru/' />
+  </node>
+  <node id='4712592132' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90705845' lat='59.91178382029' lon='30.31591817561'>
+    <tag k='contact:vk' v='https://vk.com/rotas_spb' />
+    <tag k='name' v='Rotas' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://rotas-hotels.ru/hotels/hotel-rotas-7th-krasnoarmeyskaya/' />
+  </node>
+  <node id='4712592133' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90705845' lat='59.91177469789' lon='30.31493622429'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/mokokocafe' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Mokoko' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su 09:00-20:00' />
+    <tag k='website' v='https://www.mokoko.ru/' />
+  </node>
+  <node id='4712592134' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90705845' lat='59.91177361096' lon='30.3148490425'>
+    <tag k='disused:shop' v='florist' />
+    <tag k='name' v='Крокусы' />
+    <tag k='phone' v='+7 812 3178541' />
+    <tag k='website' v='http://crocus-flower.ru/' />
+  </node>
+  <node id='7893794012' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90705845' lat='59.91178764404' lon='30.31637961552'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/baton_moloka_2.0/' />
+    <tag k='name' v='Батон Молока' />
+  </node>
+  <node id='7893794020' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90705845' lat='59.91178126933' lon='30.31556425456'>
+    <tag k='name' v='ЮрРайт' />
+    <tag k='office' v='lawyer' />
+    <tag k='phone' v='+7 969 2038477' />
+    <tag k='website' v='http://jurrait.ru/' />
+  </node>
+  <node id='7893794021' timestamp='2020-09-10T13:40:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90705845' lat='59.91178749494' lon='30.31493447654'>
+    <tag k='contact:instagram' v='https://www.instagram.com/nogtivolosy.spb/' />
+    <tag k='contact:vk' v='https://vk.com/club157956585' />
+    <tag k='name' v='Ногти и волосы' />
+    <tag k='shop' v='beauty' />
+  </node>
+</osm>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='463252332' timestamp='2020-09-10T05:40:20Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='90677523' lat='59.91457929975' lon='30.2977113803'>
+    <tag k='contact:instagram' v='https://www.instagram.com/mossmoda21/' />
+    <tag k='name' v='Mossmoda' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4464884232' timestamp='2020-08-07T09:16:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='89082770' lat='59.9149945' lon='30.2976904'>
+    <tag k='name' v='Rossi' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ООО «Дизайн»' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://rossi-spb.ru/' />
+  </node>
+</osm>

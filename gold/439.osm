@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='695120444' timestamp='2011-01-11T12:32:21Z' uid='368493' user='fserges' visible='true' version='3' changeset='6936196' lat='59.9151701' lon='30.3108375' />
+  <node id='695120445' timestamp='2010-07-21T16:37:40Z' uid='136198' user='tmprec' visible='true' version='2' changeset='5280312' lat='59.9151641' lon='30.3103937' />
+  <node id='695120446' timestamp='2010-07-21T16:37:39Z' uid='136198' user='tmprec' visible='true' version='2' changeset='5280312' lat='59.9151152' lon='30.310395' />
+  <node id='695120447' timestamp='2010-07-21T16:37:40Z' uid='136198' user='tmprec' visible='true' version='2' changeset='5280312' lat='59.915114' lon='30.3102221' />
+  <node id='695120448' timestamp='2010-07-21T16:37:39Z' uid='136198' user='tmprec' visible='true' version='2' changeset='5280312' lat='59.914684' lon='30.310234' />
+  <node id='695120449' timestamp='2010-07-21T16:37:40Z' uid='136198' user='tmprec' visible='true' version='2' changeset='5280312' lat='59.9146848' lon='30.3103617' />
+  <node id='695120450' timestamp='2010-12-21T12:02:11Z' uid='368493' user='fserges' visible='true' version='3' changeset='6724515' lat='59.9146396' lon='30.3103626' />
+  <node id='695120451' timestamp='2010-12-21T12:02:10Z' uid='368493' user='fserges' visible='true' version='3' changeset='6724515' lat='59.9146432' lon='30.3108729' />
+  <node id='827732924' timestamp='2010-07-21T16:37:29Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5280312' lat='59.9150406' lon='30.3109741' />
+  <node id='827733051' timestamp='2010-07-21T16:37:32Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5280312' lat='59.9147442' lon='30.3109961' />
+  <node id='827733087' timestamp='2010-07-21T16:37:33Z' uid='136198' user='tmprec' visible='true' version='1' changeset='5280312' lat='59.914646' lon='30.3109989' />
+  <node id='827733139' timestamp='2011-01-11T12:32:22Z' uid='368493' user='fserges' visible='true' version='3' changeset='6936196' lat='59.9151719' lon='30.3109735' />
+  <node id='1108838820' timestamp='2011-01-18T10:00:42Z' uid='368493' user='fserges' visible='true' version='1' changeset='7008654' lat='59.9146447' lon='30.3109302'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1492597575' timestamp='2011-12-14T09:14:47Z' uid='368493' user='fserges' visible='true' version='2' changeset='10114068' lat='59.9148932' lon='30.3108142' />
+  <node id='1492597576' timestamp='2011-11-05T18:33:11Z' uid='368493' user='fserges' visible='true' version='1' changeset='9749131' lat='59.9148936' lon='30.3109805' />
+  <node id='1492597577' timestamp='2011-12-14T09:14:47Z' uid='368493' user='fserges' visible='true' version='2' changeset='10114068' lat='59.9149501' lon='30.3108138' />
+  <node id='1492597578' timestamp='2011-11-05T18:33:11Z' uid='368493' user='fserges' visible='true' version='1' changeset='9749131' lat='59.9149505' lon='30.31098' />
+  <node id='1545561589' timestamp='2011-12-14T09:14:33Z' uid='368493' user='fserges' visible='true' version='1' changeset='10114068' lat='59.915171' lon='30.3109034'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <way id='55339019' timestamp='2011-12-14T09:14:45Z' uid='368493' user='fserges' visible='true' version='4' changeset='10114068'>
+    <nd ref='695120444' />
+    <nd ref='695120445' />
+    <nd ref='695120446' />
+    <nd ref='695120447' />
+    <nd ref='695120448' />
+    <nd ref='695120449' />
+    <nd ref='695120450' />
+    <nd ref='695120451' />
+  </way>
+  <way id='90806317' timestamp='2011-01-18T10:00:44Z' uid='368493' user='fserges' visible='true' version='2' changeset='7008654'>
+    <nd ref='827733087' />
+    <nd ref='1108838820' />
+    <nd ref='695120451' />
+    <tag k='barrier' v='fence' />
+  </way>
+  <way id='90806318' timestamp='2011-12-14T09:14:46Z' uid='368493' user='fserges' visible='true' version='3' changeset='10114068'>
+    <nd ref='827733139' />
+    <nd ref='1545561589' />
+    <nd ref='695120444' />
+    <tag k='barrier' v='fence' />
+  </way>
+  <way id='136006598' timestamp='2011-12-14T09:14:44Z' uid='368493' user='fserges' visible='true' version='2' changeset='10114068'>
+    <nd ref='1492597576' />
+    <nd ref='1492597575' />
+    <nd ref='1492597577' />
+    <nd ref='1492597578' />
+  </way>
+  <way id='141181313' timestamp='2011-12-14T09:14:37Z' uid='368493' user='fserges' visible='true' version='1' changeset='10114068'>
+    <nd ref='827732924' />
+    <nd ref='827733139' />
+  </way>
+  <way id='141181314' timestamp='2011-12-14T09:14:37Z' uid='368493' user='fserges' visible='true' version='1' changeset='10114068'>
+    <nd ref='1492597576' />
+    <nd ref='827733051' />
+    <tag k='barrier' v='fence' />
+  </way>
+  <way id='141181315' timestamp='2011-12-14T09:14:38Z' uid='368493' user='fserges' visible='true' version='1' changeset='10114068'>
+    <nd ref='827733087' />
+    <nd ref='827733051' />
+  </way>
+  <way id='141181317' timestamp='2011-12-14T09:14:38Z' uid='368493' user='fserges' visible='true' version='1' changeset='10114068'>
+    <nd ref='827732924' />
+    <nd ref='1492597578' />
+    <tag k='barrier' v='fence' />
+  </way>
+  <relation id='1911226' timestamp='2020-07-28T01:27:09Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='88590108'>
+    <member type='way' ref='55339019' role='outer' />
+    <member type='way' ref='90806317' role='outer' />
+    <member type='way' ref='141181315' role='outer' />
+    <member type='way' ref='141181314' role='outer' />
+    <member type='way' ref='136006598' role='outer' />
+    <member type='way' ref='141181317' role='outer' />
+    <member type='way' ref='141181313' role='outer' />
+    <member type='way' ref='90806318' role='outer' />
+    <tag k='amenity' v='school' />
+    <tag k='contact:email' v='sc281.adm@obr.gov.spb.ru' />
+    <tag k='contact:phone' v='+7 812 3161701' />
+    <tag k='contact:website' v='https://school281.spb.ru' />
+    <tag k='name' v='Лицей № 281' />
+    <tag k='official_name' v='Государственное бюджетное общеобразовательное учреждение Лицей № 281 Адмиралтейского района Санкт-Петербурга' />
+    <tag k='ref' v='281' />
+    <tag k='type' v='multipolygon' />
+    <tag k='wikidata' v='Q4525174' />
+  </relation>
+</osm>

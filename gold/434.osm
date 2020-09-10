@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1102058504' timestamp='2020-09-10T06:09:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90679047' lat='59.91254792555' lon='30.29782087777'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Бородино' />
+    <tag k='opening_hours' v='11:00-00:00' />
+    <tag k='website' v='http://borodinospb.ru/' />
+  </node>
+  <node id='1107508484' timestamp='2020-09-10T06:09:15Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='90679047' lat='59.91229457996' lon='30.2978337193'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='phone' v='+7 800 3330201' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='2161340894' timestamp='2020-09-10T06:09:15Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90679047' lat='59.91275090559' lon='30.2978108818'>
+    <tag k='contact:vk' v='https://vk.com/club57' />
+    <tag k='name' v='Petshop.ru' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://www.petshop.ru/' />
+  </node>
+  <node id='4554071971' timestamp='2020-09-10T06:09:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90679047' lat='59.91260712235' lon='30.29781795315'>
+    <tag k='contact:vk' v='https://vk.com/imperiaplatya' />
+    <tag k='name' v='Империя платья' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://империяплатья.рф/' />
+  </node>
+  <node id='4554071972' timestamp='2020-09-10T06:09:15Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90679047' lat='59.91237930219' lon='30.29782947111'>
+    <tag k='name' v='X-фото' />
+    <tag k='shop' v='photo' />
+  </node>
+</osm>

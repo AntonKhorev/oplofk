@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1559424443' timestamp='2020-09-10T11:04:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90697456' lat='59.91586314383' lon='30.31018106882'>
+    <tag k='name' v='Jeans Джинс' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+</osm>

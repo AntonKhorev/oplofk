@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='852666165' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90689678' lat='59.91159737498' lon='30.30180971529' />
+  <node id='852666171' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90689678' lat='59.91172955706' lon='30.30094388337' />
+  <node id='852666219' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90689678' lat='59.91173898998' lon='30.30180262078' />
+  <node id='852666231' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90689678' lat='59.91158650899' lon='30.30094673747' />
+  <node id='1109144429' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90695322' lat='59.91168015474' lon='30.30695033831'>
+    <tag k='brand' v='Великолукский мясокомбинат' />
+    <tag k='brand:wikidata' v='Q18401767' />
+    <tag k='brand:wikipedia' v='ru:Великолукский мясокомбинат' />
+    <tag k='disused:shop' v='butcher' />
+    <tag k='name' v='Великолукский мясокомбинат' />
+  </node>
+  <node id='1109224279' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='90695322' lat='59.91166823803' lon='30.30600278673'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='1109589546' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90689678' lat='59.9118166537' lon='30.30094406064' />
+  <node id='1109589564' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90689678' lat='59.91182631634' lon='30.30179833395' />
+  <node id='1109589591' timestamp='2020-09-10T09:04:02Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90689678' lat='59.91159682547' lon='30.30176607337' />
+  <node id='1140898354' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90695322' lat='59.91166021992' lon='30.30536111887'>
+    <tag k='contact:vk' v='https://vk.com/sozvuchie_dance' />
+    <tag k='dance:teaching' v='yes' />
+    <tag k='leisure' v='dance' />
+    <tag k='name' v='Подростково-молодёжный клуб «Созвучие»' />
+    <tag k='website' v='http://admiralteisky.spb.ru/%d0%ba%d0%bb%d1%83%d0%b1%d1%8b/%d0%bf%d0%bc%d0%ba-%d1%81%d0%be%d0%b7%d0%b2%d1%83%d1%87%d0%b8%d0%b5/' />
+  </node>
+  <node id='4459944712' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90695322' lat='59.91158054842' lon='30.29903441731'>
+    <tag k='contact:vk' v='https://vk.com/st.jessica' />
+    <tag k='name' v='Джессика' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://студияджессика.рф/' />
+  </node>
+  <node id='4459944713' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90695322' lat='59.91166448122' lon='30.305711966'>
+    <tag k='contact:vk' v='https://vk.com/gravernuspb' />
+    <tag k='craft' v='engraver' />
+    <tag k='name' v='GR' />
+    <tag k='website' v='https://gravernu.ru/' />
+  </node>
+  <node id='7893039674' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90695322' lat='59.91165124068' lon='30.3046603992'>
+    <tag k='contact:vk' v='https://vk.com/vector4' />
+    <tag k='name' v='Вектор4' />
+    <tag k='note' v='скорее всего во дворе' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://vector4.ru/' />
+  </node>
+  <node id='7893039675' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='90695322' lat='59.91159094243' lon='30.3012988416'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='95706887' timestamp='2020-09-10T10:31:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90695322'>
+    <nd ref='852666231' />
+    <nd ref='852666171' />
+    <nd ref='1109589546' />
+    <nd ref='1109589564' />
+    <nd ref='852666219' />
+    <nd ref='852666165' />
+    <nd ref='1109589591' />
+    <nd ref='7893039675' />
+    <nd ref='852666231' />
+    <tag k='amenity' v='college' />
+    <tag k='contact:email' v='kptspb@obr.gov.spb.ru' />
+    <tag k='contact:phone' v='+7 911 9829126;+7 812 2955401' />
+    <tag k='contact:website' v='http://kpt.petersburgedu.ru' />
+    <tag k='name' v='Колледж Пищевых технологий' />
+    <tag k='official_name' v='Санкт-Петербургское государственное бюджетное профессиональное образовательное учреждение &quot;Колледж Пищевых технологий&quot;' />
+  </way>
+</osm>

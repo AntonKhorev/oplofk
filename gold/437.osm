@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1558157590' timestamp='2020-09-10T10:47:45Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='90696332' lat='59.91170244156' lon='30.30880856007'>
+    <tag k='amenity' v='embassy' />
+    <tag k='consulate' v='honorary_consul' />
+    <tag k='country' v='SI' />
+    <tag k='diplomatic' v='consulate' />
+    <tag k='name' v='Почётное консульство Республики Словения' />
+    <tag k='office' v='diplomatic' />
+  </node>
+  <node id='1558157606' timestamp='2020-09-10T10:47:45Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90696332' lat='59.91170295564' lon='30.30887866731'>
+    <tag k='contact:vk' v='https://vk.com/socinstspb' />
+    <tag k='name' v='Социологический институт РАН' />
+    <tag k='office' v='research' />
+    <tag k='website' v='http://socinst.ru/' />
+  </node>
+  <node id='5597320941' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.9116725' lon='30.3080041' />
+  <node id='5597320942' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.911673' lon='30.3081108' />
+  <node id='5597320943' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.9116461' lon='30.3081113' />
+  <node id='5597320944' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.9116456' lon='30.3080047' />
+  <node id='5597320945' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.9116698' lon='30.3077689' />
+  <node id='5597320946' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.9116712' lon='30.3078802' />
+  <node id='5597320947' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.9116428' lon='30.3078816' />
+  <node id='5597320948' timestamp='2018-05-04T21:48:20Z' uid='143266' user='Sergey Astakhov' visible='true' version='1' changeset='58692415' lat='59.9116414' lon='30.3077703' />
+  <way id='585773857' timestamp='2020-09-10T10:47:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90696332'>
+    <nd ref='5597320944' />
+    <nd ref='5597320941' />
+    <nd ref='5597320942' />
+    <nd ref='5597320943' />
+    <nd ref='5597320944' />
+    <tag k='building' v='kiosk' />
+    <tag k='building:levels' v='1' />
+    <tag k='shop' v='greengrocer' />
+  </way>
+  <way id='585773858' timestamp='2020-09-10T10:47:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90696332'>
+    <nd ref='5597320948' />
+    <nd ref='5597320945' />
+    <nd ref='5597320946' />
+    <nd ref='5597320947' />
+    <nd ref='5597320948' />
+    <tag k='building' v='kiosk' />
+    <tag k='building:levels' v='1' />
+    <tag k='shop' v='florist' />
+  </way>
+</osm>
