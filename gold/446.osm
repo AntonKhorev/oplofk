@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1288988294' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90747313' lat='59.92386465357' lon='30.28511373175'>
+    <tag k='contact:phone' v='+7 812 7141924' />
+    <tag k='contact:vk' v='https://vk.com/zooexpress' />
+    <tag k='contact:website' v='https://zooexpress.ru/informacija/zoomarkety/adresa_magazinov/dekabristov_ul_58' />
+    <tag k='name' v='Zoo Express' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='pet' />
+  </node>
+  <node id='1313678434' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90747313' lat='59.92427516548' lon='30.28693086655'>
+    <tag k='disused:amenity' v='cafe' />
+  </node>
+  <node id='1357215534' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90747313' lat='59.923757' lon='30.2846417'>
+    <tag k='contact:instagram' v='https://www.instagram.com/vosaduli.spb/' />
+    <tag k='contact:vk' v='https://vk.com/vosadyli' />
+    <tag k='name' v='Восадули' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ИП Буланова А.С.' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='1357215535' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='90747313' lat='59.92381564336' lon='30.28489771088'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Бобби' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='1357215541' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90747313' lat='59.9238001219' lon='30.28482817021'>
+    <tag k='contact:instagram' v='https://www.instagram.com/konfetillaspb/' />
+    <tag k='contact:vk' v='https://vk.com/konfetillaspb' />
+    <tag k='name' v='Конфетилла' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ИП Аринина Н.М.' />
+    <tag k='shop' v='confectionery' />
+  </node>
+  <node id='1357215544' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90747313' lat='59.92392020669' lon='30.28535976153'>
+    <tag k='brand' v='Watsons' />
+    <tag k='brand:wikidata' v='Q7974785' />
+    <tag k='brand:wikipedia' v='en:Watsons' />
+    <tag k='contact:vk' v='https://vk.com/watsonsrussia' />
+    <tag k='name' v='Watsons' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Спектр Групп»' />
+    <tag k='shop' v='chemist' />
+    <tag k='website' v='https://www.watsons.com.ru/' />
+  </node>
+  <node id='1357215549' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='90747313' lat='59.92410650732' lon='30.28618476435'>
+    <tag k='note' v='сейчас &quot;Продукты&quot; не написано' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4280642205' timestamp='2020-09-11T09:03:43Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='90747313' lat='59.924024426' lon='30.28582112647'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:en' v='Dixy' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+</osm>

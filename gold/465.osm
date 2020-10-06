@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7962874315' timestamp='2020-10-01T11:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91821811' lat='59.9463498939' lon='30.38931222882'>
+    <tag k='amenity' v='courthouse' />
+    <tag k='name' v='Уставный суд Санкт-Петербурга' />
+    <tag k='website' v='http://www.spbustavsud.ru/' />
+  </node>
+  <node id='7962874316' timestamp='2020-10-01T11:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91821811' lat='59.94638853219' lon='30.38931318549'>
+    <tag k='contact:vk' v='https://vk.com/opalataspb' />
+    <tag k='name' v='Общественная палата Санкт-Петербурга' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.op78.ru/' />
+  </node>
+  <node id='7962874317' timestamp='2020-10-01T11:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91821811' lat='59.94642717044' lon='30.38931414217'>
+    <tag k='name' v='Управление Росреестра по Санкт-Петербургу' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://rosreestr.gov.ru/site/about/struct/territorialnye-organy/upravlenie-rosreestra-po-sankt-peterburgu/' />
+  </node>
+  <node id='7962874318' timestamp='2020-10-01T11:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91821811' lat='59.94646580864' lon='30.38931509884'>
+    <tag k='name' v='Уполномоченный по правам человека в Санкт-Петербурге' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://ombudsmanspb.ru/' />
+  </node>
+  <node id='7962874319' timestamp='2020-10-01T11:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91821811' lat='59.9465044468' lon='30.38931605552'>
+    <tag k='name' v='Уполномоченный по защите прав предпринимателей в Санкт-Петербурге' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://ombudsmanbiz.spb.ru/' />
+  </node>
+</osm>

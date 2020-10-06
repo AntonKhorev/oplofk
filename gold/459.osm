@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3010825422' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='91805027' lat='59.94902326812' lon='30.36745827638'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='3010825423' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91805027' lat='59.94902444263' lon='30.36630703436'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:vk' v='https://vk.com/pscb_bank' />
+    <tag k='name' v='ПСКБ' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+    <tag k='operator' v='АО «Петербургский социальный коммерческий банк»' />
+    <tag k='website' v='https://pscb.ru/' />
+  </node>
+  <node id='6580324061' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91805027' lat='59.9490237685' lon='30.36707831928'>
+    <tag k='contact:email' v='res@favouritegardenhotel.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/myfavouritegardenhotel/' />
+    <tag k='contact:phone' v='+7 812 5797100' />
+    <tag k='contact:website' v='https://www.favouritegardenhotel.ru' />
+    <tag k='level' v='0' />
+    <tag k='name' v='My Favourite Garden' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='7961973626' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91805027' lat='59.94902396433' lon='30.3669979272'>
+    <tag k='brand' v='Wildberries' />
+    <tag k='brand:wikidata' v='Q24933714' />
+    <tag k='contact:vk' v='https://vk.com/wildberries_shop' />
+    <tag k='name' v='Wildberries' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Вайлдберриз»' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://www.wildberries.ru/' />
+  </node>
+  <node id='7961973627' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91805027' lat='59.94902403092' lon='30.36692037505'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Аллергоцентр Плюс' />
+    <tag k='website' v='http://center-allergo.ru/' />
+  </node>
+  <node id='7961973628' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91805027' lat='59.94902406255' lon='30.36589980493'>
+    <tag k='name' v='Элтим' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://eltim.sp.ru/' />
+  </node>
+  <node id='7961973629' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91805027' lat='59.94902577617' lon='30.36492887734'>
+    <tag k='brand' v='Азбука-Аттикус' />
+    <tag k='brand:wikidata' v='Q4058206' />
+    <tag k='contact:vk' v='https://vk.com/azbooka_books' />
+    <tag k='name' v='Азбука' />
+    <tag k='office' v='publisher' />
+    <tag k='website' v='https://azbooka.ru/' />
+  </node>
+  <node id='7961973630' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91805027' lat='59.94902608844' lon='30.36486181593'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/logoclinic' />
+    <tag k='name' v='Logoclinic' />
+    <tag k='website' v='http://olgalukash.ru/' />
+  </node>
+  <node id='7961973631' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91805027' lat='59.94902715788' lon='30.36459356721'>
+    <tag k='name' v='ИМС Инжиниринг' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://ims-engineering.com/' />
+  </node>
+  <node id='7961973632' timestamp='2020-10-01T06:53:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91805027' lat='59.9490277916' lon='30.36444741948'>
+    <tag k='name' v='Студия-45' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://project45.ru/' />
+  </node>
+</osm>

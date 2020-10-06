@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7981233039' timestamp='2020-10-06T12:17:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92049142' lat='59.94337225581' lon='30.39672871005'>
+    <tag k='contact:instagram' v='https://www.instagram.com/ilmoroart/' />
+    <tag k='name' v='Il Moro' />
+    <tag k='shop' v='interior_decoration' />
+    <tag k='website' v='https://www.ilmoro.ru/' />
+  </node>
+  <node id='7981233040' timestamp='2020-10-06T12:17:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92049142' lat='59.94379121073' lon='30.39676743848'>
+    <tag k='alt_name' v='_levitacia^' />
+    <tag k='contact:vk' v='https://vk.com/levitacia_0' />
+    <tag k='name' v='Levitacia' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://levitacia.co/' />
+  </node>
+  <node id='7981233041' timestamp='2020-10-06T12:17:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92049142' lat='59.94396312996' lon='30.39678362389'>
+    <tag k='contact:vk' v='https://vk.com/grantains' />
+    <tag k='int_name' v='Granta' />
+    <tag k='name' v='Гранта' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='operator' v='ООО СК «Гранта»' />
+    <tag k='website' v='https://grantains.ru/' />
+  </node>
+  <node id='7981233042' timestamp='2020-10-06T12:17:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92049142' lat='59.94400179651' lon='30.39674386248'>
+    <tag k='contact:vk' v='https://vk.com/tandemspb' />
+    <tag k='name' v='Тандем' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://tandem-travel.ru/' />
+  </node>
+  <node id='7981233043' timestamp='2020-10-06T12:17:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92049142' lat='59.9439995426' lon='30.39678691993'>
+    <tag k='contact:vk' v='https://vk.com/flower_lab_spb' />
+    <tag k='name' v='Flower Lab' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://spb.labflower.com/' />
+  </node>
+  <node id='7981233045' timestamp='2020-10-06T12:17:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92049142' lat='59.9441076674' lon='30.39679702427'>
+    <tag k='alt_name' v='Студия пилатеса Марии Варакиной' />
+    <tag k='contact:vk' v='https://vk.com/club75857907' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='MVpilates' />
+    <tag k='opening_hours' v='07:00-23:00' />
+    <tag k='reservation' v='required' />
+    <tag k='website' v='https://www.mvpilates.ru/our-studios/studiya-na-smolnom-prospekte/' />
+  </node>
+  <node id='7981233046' timestamp='2020-10-06T12:17:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92049142' lat='59.94413932813' lon='30.39679978809'>
+    <tag k='contact:instagram' v='https://www.instagram.com/Luisa_boutique_spb/' />
+    <tag k='name' v='Luisa' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://luisa-spb.ru/' />
+  </node>
+</osm>

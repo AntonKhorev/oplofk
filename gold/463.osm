@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='332772372' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91816044' lat='59.94945728811' lon='30.39032574856' />
+  <node id='332772378' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91816044' lat='59.94946616455' lon='30.38944295889' />
+  <node id='332772382' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91816044' lat='59.9495766' lon='30.38944590797' />
+  <node id='332772386' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91816044' lat='59.94957194315' lon='30.39001230919' />
+  <node id='332772389' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='91816044' lat='59.94960204315' lon='30.39006560919' />
+  <node id='1106210282' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91816044' lat='59.94944167102' lon='30.3898827447'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='1106227477' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91816044' lat='59.9494857' lon='30.38944300797' />
+  <node id='1106227478' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91816044' lat='59.9495432' lon='30.38944600797' />
+  <node id='7962557212' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94970257997' lon='30.3900697754' />
+  <node id='7962557213' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.9496025057' lon='30.39036848732'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='7962557217' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94946533959' lon='30.38952875971' />
+  <node id='7962557218' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94944507503' lon='30.3895287088' />
+  <node id='7962557223' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94969902429' lon='30.39032643633' />
+  <node id='7962557226' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94969855545' lon='30.39037239482' />
+  <node id='7962557227' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94950075702' lon='30.39032728' />
+  <node id='7962557228' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94950042965' lon='30.39036433467' />
+  <node id='7962557229' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.94945822775' lon='30.39023748382' />
+  <node id='7962557230' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044' lat='59.949438267' lon='30.39023678059' />
+  <way id='853701374' timestamp='2020-10-01T09:37:46Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91816044'>
+    <nd ref='7962557223' />
+    <nd ref='7962557212' />
+    <nd ref='332772389' />
+    <nd ref='332772386' />
+    <nd ref='332772382' />
+    <nd ref='1106227478' />
+    <nd ref='1106227477' />
+    <nd ref='332772378' />
+    <nd ref='7962557217' />
+    <nd ref='7962557218' />
+    <nd ref='1106210282' />
+    <nd ref='7962557230' />
+    <nd ref='7962557229' />
+    <nd ref='332772372' />
+    <nd ref='7962557227' />
+    <nd ref='7962557228' />
+    <nd ref='7962557213' />
+    <nd ref='7962557226' />
+    <nd ref='7962557223' />
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Россия' />
+    <tag k='brand:wikidata' v='Q827011' />
+    <tag k='name' v='Россия' />
+    <tag k='opening_hours' v='Mo-Th 09:30-17:00; Fr 09:30-16:00' />
+    <tag k='operator' v='АО «АБ «Россия»' />
+    <tag k='website' v='https://abr.ru/' />
+  </way>
+</osm>

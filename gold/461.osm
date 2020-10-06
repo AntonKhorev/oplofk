@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='332754706' timestamp='2020-07-15T16:20:35Z' uid='5459104' user='fdjrgio' visible='true' version='6' changeset='88042306' lat='59.9497964' lon='30.3855658' />
+  <node id='332754708' timestamp='2020-07-15T16:20:35Z' uid='5459104' user='fdjrgio' visible='true' version='6' changeset='88042306' lat='59.9497988' lon='30.3853255' />
+  <node id='332754740' timestamp='2020-07-15T16:20:35Z' uid='5459104' user='fdjrgio' visible='true' version='6' changeset='88042306' lat='59.9493981' lon='30.3855498' />
+  <node id='332754743' timestamp='2020-07-15T16:20:35Z' uid='5459104' user='fdjrgio' visible='true' version='6' changeset='88042306' lat='59.9494087' lon='30.384491' />
+  <node id='332754745' timestamp='2020-07-15T16:20:35Z' uid='5459104' user='fdjrgio' visible='true' version='6' changeset='88042306' lat='59.9500565' lon='30.384517' />
+  <node id='332754747' timestamp='2020-07-15T16:20:35Z' uid='5459104' user='fdjrgio' visible='true' version='6' changeset='88042306' lat='59.9500534' lon='30.3848265' />
+  <node id='332754752' timestamp='2020-07-15T16:20:35Z' uid='5459104' user='fdjrgio' visible='true' version='6' changeset='88042306' lat='59.9497994' lon='30.3852682' />
+  <node id='3010825408' timestamp='2020-10-01T08:51:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91812850' lat='59.94954700904' lon='30.3855198966'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/catering_amande' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Северо-Западная кейтеринговая компания' />
+    <tag k='opening_hours' v='Mo-Fr 12:00-16:00' />
+    <tag k='website' v='https://amande.ru/' />
+  </node>
+  <node id='3010825410' timestamp='2020-10-01T08:51:19Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91812850' lat='59.9495457866' lon='30.38555573266'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='3010826446' timestamp='2019-12-04T00:35:15Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='77904045' lat='59.9500498' lon='30.385117' />
+  <node id='3731011548' timestamp='2019-12-04T00:35:15Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='77904045' lat='59.9498001' lon='30.3851098' />
+  <node id='7030258991' timestamp='2019-12-04T00:35:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='77904045' lat='59.9500523' lon='30.3849374'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='7962422760' timestamp='2020-10-01T08:51:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91812850' lat='59.94962660131' lon='30.38552309379'>
+    <tag k='contact:vk' v='https://vk.com/satsspb' />
+    <tag k='name' v='АТС Смольного' />
+    <tag k='office' v='telecommunication' />
+    <tag k='operator' v='СПб ГУП «АТС Смольного»' />
+    <tag k='website' v='https://www.sats.spb.ru/' />
+  </node>
+  <node id='7962422762' timestamp='2020-10-01T08:51:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91812850' lat='59.94959028196' lon='30.38555752006'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <way id='853687763' timestamp='2020-10-01T08:51:19Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91812850'>
+    <nd ref='332754740' />
+    <nd ref='3010825410' />
+    <nd ref='7962422762' />
+    <nd ref='332754706' />
+    <nd ref='332754708' />
+    <nd ref='332754752' />
+    <nd ref='3731011548' />
+    <nd ref='3010826446' />
+    <nd ref='7030258991' />
+    <nd ref='332754747' />
+    <nd ref='332754745' />
+    <nd ref='332754743' />
+    <nd ref='332754740' />
+    <tag k='contact:vk' v='https://vk.com/cniimfru' />
+    <tag k='name' v='ЦНИИМФ' />
+    <tag k='office' v='research' />
+    <tag k='official_name' v='Центральный ордена Трудового Красного Знамени научно-исследовательский и проектно-конструкторский институт морского флота' />
+    <tag k='operator' v='АО «ЦНИИМФ»' />
+    <tag k='website' v='http://cniimf.ru/' />
+    <tag k='wikidata' v='Q4504323' />
+  </way>
+</osm>

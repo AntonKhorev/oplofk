@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1295436932' timestamp='2019-04-13T19:56:22Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.927124' lon='30.29893'>
+    <tag k='contact:vk' v='https://vk.com/apteki_raduga_pp' />
+    <tag k='disused:amenity' v='pharmacy' />
+    <tag k='name' v='Радуга' />
+    <tag k='note' v='&quot;закрыта по техническим причинам&quot;, нет на сайте' />
+    <tag k='website' v='http://apteka-raduga.ru/' />
+  </node>
+  <node id='1383193649' timestamp='2020-09-17T20:40:16Z' uid='437809' user='Anton Khorev' visible='true' version='21' changeset='91070195' lat='59.92715786183' lon='30.2990769963'>
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2352635194' timestamp='2020-09-17T20:40:16Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='91070195' lat='59.92723600851' lon='30.29941639377'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Ay-y!' />
+  </node>
+  <node id='3361495548' timestamp='2020-09-17T20:40:16Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='91070195' lat='59.92728138835' lon='30.29961329694'>
+    <tag k='name' v='Фикс цена' />
+    <tag k='shop' v='variety_store' />
+  </node>
+  <node id='4460092791' timestamp='2020-09-17T20:40:16Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='91070195' lat='59.92746606772' lon='30.30041469809'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='opening_hours' v='08:30-21:00' />
+  </node>
+  <node id='4460092792' timestamp='2020-09-17T20:40:16Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='91070195' lat='59.9274976' lon='30.3005511'>
+    <tag k='name' v='ПитерБулки' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='4460092793' timestamp='2020-09-17T20:40:16Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='91070195' lat='59.92704783104' lon='30.29859964868'>
+    <tag k='disused:shop' v='bag' />
+    <tag k='name' v='Ты прекрасна' />
+  </node>
+  <node id='4931761469' timestamp='2020-09-17T20:40:16Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='91070195' lat='59.92737804709' lon='30.30003209924'>
+    <tag k='contact:vk' v='https://vk.com/matryoshkarf' />
+    <tag k='name' v='Matryoshka' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='operator' v='ООО «Матрешка Рус»' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://matryoshkadesign.com/' />
+  </node>
+</osm>

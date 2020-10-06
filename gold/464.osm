@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4271460183' timestamp='2020-10-01T10:06:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91818157' lat='59.94847311101' lon='30.38947302814'>
+    <tag k='contact:vk' v='https://vk.com/public195298662' />
+    <tag k='email' v='tavr_hotel@mail.ru' />
+    <tag k='fax' v='+7 812 3266851' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='Таврическая' />
+    <tag k='phone' v='+7 812 3266772' />
+    <tag k='rooms' v='50' />
+    <tag k='stars' v='3' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://tavricheskaya-hotel.com/' />
+  </node>
+</osm>

@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='6367269108' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92054404' lat='59.9432291614' lon='30.3941757069'>
+    <tag k='brand' v='РЕСО-Гарантия' />
+    <tag k='brand:wikidata' v='Q4386516' />
+    <tag k='contact:vk' v='https://vk.com/reso_garantia' />
+    <tag k='name' v='РЕСО-Гарантия' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:00; Sa 10:00-18:00; Su 10:00-16:00' />
+    <tag k='website' v='https://www.reso.ru/' />
+  </node>
+  <node id='6367270688' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92054404' lat='59.94325285745' lon='30.39321281925'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='brand' v='Ригла' />
+    <tag k='brand:wikidata' v='Q4394431' />
+    <tag k='brand:wikipedia' v='ru:Ригла' />
+    <tag k='contact:email' v='info@rigla.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/rigla.ru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/rigla.ru/' />
+    <tag k='contact:ok' v='https://ok.ru/rigla.ru' />
+    <tag k='contact:vk' v='https://vk.com/rigla_ru' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/RiglaVideo' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Ригла' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00' />
+    <tag k='phone' v='+7 800 7770303' />
+    <tag k='website' v='https://spb.rigla.ru/pharmacy/78168' />
+  </node>
+  <node id='6367272790' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92054404' lat='59.9431926616' lon='30.3956595619'>
+    <tag k='contact:instagram' v='https://www.instagram.com/spb_blues/' />
+    <tag k='contact:vk' v='https://vk.com/cvetbluess' />
+    <tag k='name' v='Цветочный блюз' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://blues24.ru/' />
+  </node>
+  <node id='7079327154' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='92054404' lat='59.94325831407' lon='30.3929970563'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:email' v='info@tseh85.ru' />
+    <tag k='contact:instagram' v='instagram.com/tseh85' />
+    <tag k='contact:phone' v='+7 812 7757785' />
+    <tag k='contact:vk' v='https://vk.com/tseh85' />
+    <tag k='contact:website' v='https://tseh85.ru/' />
+    <tag k='name' v='Цех 85' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su 09:00-21:00' />
+    <tag k='operator' v='Щеглова' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='7981515340' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94325990897' lon='30.39292530981'>
+    <tag k='contact:vk' v='https://vk.com/cvetclubopt' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://cvetclub.ru/' />
+  </node>
+  <node id='7981515341' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94325106739' lon='30.39329060634'>
+    <tag k='amenity' v='doctors' />
+    <tag k='brand' v='Инвитро' />
+    <tag k='brand:wikidata' v='Q4200546' />
+    <tag k='contact:vk' v='https://vk.com/invitro' />
+    <tag k='int_name' v='Invitro' />
+    <tag k='name' v='Инвитро' />
+    <tag k='opening_hours' v='Mo-Fr 07:30-20:00; Sa 08:30-17:00' />
+    <tag k='operator' v='ООО «Инвитро СПб»' />
+    <tag k='website' v='https://www.invitro.ru/offices/piter/clinic.php?ID=53979' />
+  </node>
+  <node id='7981515342' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.9432457181' lon='30.39350230568'>
+    <tag k='name' v='Табакрус' />
+    <tag k='opening_hours' v='07:45-21:45' />
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='7981515343' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94324439646' lon='30.39356157982'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/baristokrat/' />
+    <tag k='contact:vk' v='https://vk.com/baristokrat' />
+    <tag k='name' v='Баристократ' />
+  </node>
+  <node id='7981515344' timestamp='2020-10-06T13:59:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92054553' lat='59.94323898946' lon='30.39377588985'>
+    <tag k='contact:vk' v='https://vk.com/club160238990' />
+    <tag k='name' v='Vin à la Carte' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='operator' v='ООО «Винкарт»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://vincart.ru/' />
+  </node>
+  <node id='7981515345' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.9432374176' lon='30.39384224012'>
+    <tag k='contact:vk' v='https://vk.com/zeynbarber' />
+    <tag k='name' v='Zeyn' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://zeynbarbers.com/' />
+  </node>
+  <node id='7981515346' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94324781921' lon='30.39410725102'>
+    <tag k='brand' v='Ozon.ru' />
+    <tag k='brand:wikidata' v='Q2365235' />
+    <tag k='contact:facebook' v='https://www.facebook.com/ozon.ru/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/ozonru/' />
+    <tag k='contact:twitter' v='https://twitter.com/Ozon_ru/' />
+    <tag k='contact:vk' v='https://vk.com/ozon' />
+    <tag k='name' v='Ozon' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://www.ozon.ru/' />
+  </node>
+  <node id='7981515347' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.9432309673' lon='30.39410499105'>
+    <tag k='contact:vk' v='https://vk.com/gayaboutique' />
+    <tag k='name' v='Gaya' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='perfumery' />
+    <tag k='website' v='https://gayaselective.ru/' />
+  </node>
+  <node id='7981515348' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94322595257' lon='30.39431021522'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/warmbreadinbed' />
+    <tag k='name' v='Тёплого Хлеба и Под Одеяло' />
+    <tag k='opening_hours' v='08:30-20:00' />
+    <tag k='operator' v='ООО «ПКД «Венец»' />
+    <tag k='short_name' v='ТХПО' />
+    <tag k='website' v='https://bushe.ru/' />
+  </node>
+  <node id='7981515349' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94322250189' lon='30.39444686714'>
+    <tag k='contact:instagram' v='https://www.instagram.com/frenchkiss.spb/' />
+    <tag k='name' v='French Kiss' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 10:00-19:00' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='http://www.frenchkiss.spb.ru/' />
+  </node>
+  <node id='7981515350' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94321863738' lon='30.39460339749'>
+    <tag k='contact:facebook' v='https://www.facebook.com/vertigo.trend.spb/' />
+    <tag k='name' v='Vertigo' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='7981515351' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94321694392' lon='30.39467323231'>
+    <tag k='contact:vk' v='https://vk.com/sabaisabai_spb' />
+    <tag k='name' v='Sabai Sabai' />
+    <tag k='shop' v='massage' />
+    <tag k='website' v='https://sabaisabai.ru/contact/salon-smolni/' />
+  </node>
+  <node id='7981515352' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94321431883' lon='30.39477898805'>
+    <tag k='contact:vk' v='https://vk.com/aroma_della_casa' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 11:00-17:00' />
+    <tag k='shop' v='perfumery' />
+    <tag k='website' v='https://aromadellacasa.com/' />
+  </node>
+  <node id='7981515353' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94320989995' lon='30.39495865795'>
+    <tag k='amenity' v='pub' />
+    <tag k='name' v='Food &amp; Beer' />
+    <tag k='phone' v='+7 911 7881838' />
+  </node>
+  <node id='7981515356' timestamp='2020-10-06T13:56:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92054404' lat='59.94317409805' lon='30.39641446097'>
+    <tag k='name' v='April' />
+    <tag k='note' v='возможно закрыт' />
+    <tag k='shop' v='clothes' />
+  </node>
+</osm>

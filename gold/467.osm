@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3676707163' timestamp='2020-10-01T12:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91827877' lat='59.94365602795' lon='30.39231393267'>
+    <tag k='brand' v='Красное &amp; Белое' />
+    <tag k='brand:wikidata' v='Q24933790' />
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа Ижевск»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='7541356685' timestamp='2020-10-01T12:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91827877' lat='59.9441186087' lon='30.39183547391'>
+    <tag k='contact:vk' v='https://vk.com/real_svezhie_produkty' />
+    <tag k='name' v='РеалЪ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Торговый дом «Реалъ»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.tdreal.spb.ru/?page=101' />
+  </node>
+  <node id='7963218096' timestamp='2020-10-01T12:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91827877' lat='59.94383519559' lon='30.39212722349'>
+    <tag k='contact:vk' v='https://vk.com/lavdi_boutique_atelier' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Лавди' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00' />
+    <tag k='website' v='http://lavdi.ru/' />
+  </node>
+  <node id='7963218097' timestamp='2020-10-01T12:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91827877' lat='59.94372629829' lon='30.39224089948'>
+    <tag k='contact:vk' v='https://vk.com/modernsalon' />
+    <tag k='name' v='Модерн' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='7963218098' timestamp='2020-10-01T12:45:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91827877' lat='59.94353696368' lon='30.39243835965'>
+    <tag k='name' v='Смольнинская кондитерская' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-18:00' />
+    <tag k='operator' v='CПб ГБУ «Дирекция по управлению гостиничным и ресторанным комплексом»' />
+    <tag k='shop' v='pastry' />
+  </node>
+</osm>

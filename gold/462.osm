@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7962476334' timestamp='2020-10-01T09:11:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91814195' lat='59.95027055656' lon='30.38805544338'>
+    <tag k='contact:instagram' v='https://www.instagram.com/arkhatletika/' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='Архитектура Атлетика' />
+    <tag k='opening_hours' v='Mo-Fr 07:00-23:00; Sa 09:00-21:00' />
+    <tag k='website' v='http://www.archatletika.ru/' />
+  </node>
+</osm>
