@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2401320427' timestamp='2020-10-01T11:47:33Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91824672' lat='59.94597981372' lon='30.38907364545'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/centralspb' />
+    <tag k='name' v='Центральный' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-23:00; Sa-Su 11:00-23:00' />
+    <tag k='operator' v='ООО «Ленрестрест»' />
+  </node>
+  <node id='7963010682' timestamp='2020-10-01T11:47:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91824672' lat='59.94533242903' lon='30.38779201434'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/euromedclinic' />
+    <tag k='int_name' v='Euromed' />
+    <tag k='name' v='Евромед' />
+    <tag k='operator' v='ООО «Евромед Клиник»' />
+    <tag k='website' v='https://euromed.ru/' />
+  </node>
+  <node id='7963010683' timestamp='2020-10-01T11:47:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91824672' lat='59.94563127637' lon='30.38839287736'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад № 48' />
+    <tag k='website' v='http://48dou.ru/' />
+  </node>
+</osm>

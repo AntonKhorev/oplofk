@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4698242223' timestamp='2020-09-17T22:28:52Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91073477' lat='59.9169627' lon='30.2793929'>
+    <tag k='building' v='kiosk' />
+    <tag k='shop' v='newsagent' />
+  </node>
+</osm>

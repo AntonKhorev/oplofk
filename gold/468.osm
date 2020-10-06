@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7965467254' timestamp='2020-10-02T04:34:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91852946' lat='59.94166940977' lon='30.35060023941'>
+    <tag k='contact:vk' v='https://vk.com/alenbureau' />
+    <tag k='name' v='А.Лен' />
+    <tag k='office' v='architect' />
+    <tag k='website' v='https://a-len.ru/' />
+  </node>
+  <node id='7965467255' timestamp='2020-10-02T04:34:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91852946' lat='59.94140071496' lon='30.35058146386'>
+    <tag k='brand' v='Wildberries' />
+    <tag k='brand:wikidata' v='Q24933714' />
+    <tag k='contact:vk' v='https://vk.com/wildberries_shop' />
+    <tag k='name' v='Wildberries' />
+    <tag k='operator' v='ООО «Вайлдберриз»' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://www.wildberries.ru/' />
+  </node>
+  <node id='7965467256' timestamp='2020-10-02T04:34:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91852946' lat='59.94075180173' lon='30.35053622454'>
+    <tag k='name' v='Аркат' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-17:00' />
+    <tag k='website' v='https://arkat.ru/' />
+  </node>
+  <node id='7965467257' timestamp='2020-10-02T04:34:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91852946' lat='59.94036285936' lon='30.3505225492'>
+    <tag k='brand' v='Мираторг' />
+    <tag k='contact:vk' v='https://vk.com/supermarketmiratorg' />
+    <tag k='name' v='Мираторг' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «ПродМир»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://shop.miratorg.ru/' />
+    <tag k='wikidata' v='Q4295539' />
+  </node>
+</osm>

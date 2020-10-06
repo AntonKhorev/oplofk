@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1810030624' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='91395731' lat='59.90973833883' lon='30.27528986845'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Dixyclub' />
+    <tag k='contact:instagram' v='https://www.instagram.com/dixy.channel/' />
+    <tag k='contact:ok' v='https://ok.ru/dixyclub' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='1810030629' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='91395731' lat='59.90959547177' lon='30.27519536266'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Щи да борщи' />
+    <tag k='opening_hours' v='Mo-Fr 07:00-21:00; Sa-Su 09:00-21:00' />
+    <tag k='operator' v='ООО «Здоровье»' />
+    <tag k='phone' v='+7 812 2517395' />
+  </node>
+  <node id='1810117407' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91395731' lat='59.9103676' lon='30.2756533'>
+    <tag k='name' v='Mari Beauty' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1810117408' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='91395731' lat='59.91110982868' lon='30.276080783'>
+    <tag k='name' v='Food Market' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «И.Ш.Т.»' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1810117409' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='91395731' lat='59.91017178115' lon='30.27554467196'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Ника Фарм»' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4423106483' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91395731' lat='59.9104249902' lon='30.27568479599'>
+    <tag k='contact:vk' v='https://vk.com/royal_computers' />
+    <tag k='name' v='Royal Computers' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00' />
+    <tag k='shop' v='computer' />
+    <tag k='website' v='https://royal-computers.ru/' />
+  </node>
+  <node id='4423106484' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91395731' lat='59.91105184787' lon='30.27604605737'>
+    <tag k='brand' v='Ozon.ru' />
+    <tag k='brand:wikidata' v='Q2365235' />
+    <tag k='contact:facebook' v='https://www.facebook.com/ozon.ru/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/ozonru/' />
+    <tag k='contact:twitter' v='https://twitter.com/Ozon_ru/' />
+    <tag k='contact:vk' v='https://vk.com/ozon' />
+    <tag k='name' v='Ozon' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://www.ozon.ru/' />
+  </node>
+  <node id='4905717054' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91395731' lat='59.9101372' lon='30.275524'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/coffeemoose.spb/' />
+    <tag k='contact:phone' v='+7 906 3031704' />
+    <tag k='contact:vk' v='https://vk.com/coffeemoose178' />
+    <tag k='contact:website' v='https://coffee-moose.ru/' />
+    <tag k='name' v='Coffee Moose' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-21:00; Sa-Su 08:00-20:00' />
+    <tag k='operator' v='ИП Киселев Александр Сергеевич' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4905717057' timestamp='2018-06-23T00:47:35Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60090195' lat='59.9113341' lon='30.2762047'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/zippymoose' />
+    <tag k='name' v='Zippy Moose' />
+    <tag k='opening_hours' v='09:00-22:00' />
+  </node>
+  <node id='5712535447' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91395731' lat='59.911389' lon='30.2762356'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Городская»' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='7936008457' timestamp='2020-09-24T01:32:47Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91395731' lat='59.91028392011' lon='30.27560673606'>
+    <tag k='craft' v='tailor' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00' />
+    <tag k='phone' v='+7 905 2040872' />
+  </node>
+</osm>

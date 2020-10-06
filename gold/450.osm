@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='910855212' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='28' changeset='91072395' lat='59.927699' lon='30.3014681'>
+    <tag k='brand' v='Дикси' />
+    <tag k='brand:en' v='Dixy' />
+    <tag k='brand:wikidata' v='Q4161561' />
+    <tag k='brand:wikipedia' v='ru:Дикси (сеть магазинов)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Dixyclub' />
+    <tag k='contact:instagram' v='https://www.instagram.com/dixy.channel/' />
+    <tag k='contact:ok' v='https://ok.ru/dixyclub' />
+    <tag k='contact:phone' v='+7 800 3330201' />
+    <tag k='contact:vk' v='https://vk.com/dixyclub' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/DixyChannel' />
+    <tag k='name' v='Дикси' />
+    <tag k='name:ru' v='Дикси' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='АО «Дикси Юг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://dixy.ru/' />
+  </node>
+  <node id='1083189791' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='24' changeset='91072395' lat='59.92846969285' lon='30.30483043769'>
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:en' v='Pyaterochka' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='brand:wikipedia' v='ru:Пятёрочка' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pyaterochka/' />
+    <tag k='contact:ok' v='https://ok.ru/x5pyaterka' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:en' v='Pyaterochka' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-23:00; Sa-Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='1355518921' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='91072395' lat='59.92813470452' lon='30.30337010445'>
+    <tag k='contact:vk' v='https://vk.com/mo3_spb' />
+    <tag k='name' v='Местная администрация м. о. Адмиралтейский округ' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://www.admiralokrug.ru/organy-mestnogo-samoupravleniya/mestnaya-administratsiya' />
+  </node>
+  <node id='3636945261' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='91072395' lat='59.92797721387' lon='30.30268523038'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cupincup' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Cup in Cup' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-21:30; Sa-Su 10:00-21:00' />
+    <tag k='smoking' v='no' />
+    <tag k='website' v='https://cupincup.ru/' />
+  </node>
+  <node id='4526596478' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='91072395' lat='59.92834359786' lon='30.30428099468'>
+    <tag k='name' v='Рускол' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00' />
+    <tag k='website' v='http://ruskol.ru/' />
+  </node>
+  <node id='4526596479' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='91072395' lat='59.9281488007' lon='30.30343237311'>
+    <tag k='name' v='Антиквариат' />
+    <tag k='opening_hours' v='11:00-19:00' />
+    <tag k='shop' v='antiques' />
+    <tag k='website' v='http://skupka-expert.ru/' />
+  </node>
+  <node id='4526596480' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='91072395' lat='59.92796068643' lon='30.30261338204'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Столовая №37' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-20:00; Sa-Su 10:00-20:00' />
+    <tag k='website' v='http://www.stolovaya37.ru/' />
+  </node>
+  <node id='4526596481' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='91072395' lat='59.92790078335' lon='30.30235224686'>
+    <tag k='contact:vk' v='https://vk.com/ulahostel' />
+    <tag k='name' v='ULA Hostel' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://ulahostel.ru/' />
+  </node>
+  <node id='5146338937' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='91072395' lat='59.92776789373' lon='30.30177339654'>
+    <tag k='name' v='Яндекс.Лавка' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='07:30-23:30' />
+    <tag k='operator' v='ООО «Яндекс.Лавка»' />
+    <tag k='website' v='https://lavka.yandex/spb' />
+  </node>
+  <node id='5294308991' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='91072395' lat='59.92822614193' lon='30.30376949458'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Ваша столовая' />
+    <tag k='opening_hours' v='09:00-22:00' />
+  </node>
+  <node id='5294308992' timestamp='2020-09-17T21:51:28Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='91072395' lat='59.927706' lon='30.301498'>
+    <tag k='disused:craft' v='key_cutter;shoemaker' />
+  </node>
+</osm>

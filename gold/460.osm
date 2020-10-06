@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='332754668' timestamp='2012-01-18T00:54:39Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10423819' lat='59.9503098' lon='30.3842684' />
+  <node id='332754676' timestamp='2012-01-18T00:54:39Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10423819' lat='59.9501838' lon='30.3842609' />
+  <node id='332754690' timestamp='2012-01-18T00:54:39Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10423819' lat='59.9503061' lon='30.3845106' />
+  <node id='332754691' timestamp='2012-01-18T00:54:39Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10423819' lat='59.9501801' lon='30.3845031' />
+  <node id='1106170468' timestamp='2012-01-18T00:54:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10423819' lat='59.9502397' lon='30.3842642' />
+  <node id='1106170470' timestamp='2012-01-18T00:54:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10423819' lat='59.9502382' lon='30.3845065' />
+  <node id='6211937312' timestamp='2020-10-01T08:28:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91811286' lat='59.95018971096' lon='30.38477264114'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='13 литА' />
+    <tag k='addr:street' v='Таврический переулок' />
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='CoffeeCube' />
+    <tag k='opening_hours' v='Mo-Fr 07:00-21:00; Sa-Su 09:00-21:00' />
+    <tag k='website' v='https://www.coffee-cube.ru/' />
+  </node>
+  <way id='30196953' timestamp='2020-10-01T08:28:11Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='91811286'>
+    <nd ref='332754668' />
+    <nd ref='332754690' />
+    <nd ref='1106170470' />
+    <nd ref='332754691' />
+    <nd ref='332754676' />
+    <nd ref='1106170468' />
+    <nd ref='332754668' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='191015' />
+    <tag k='addr:street' v='Таврический переулок' />
+    <tag k='amenity' v='fuel' />
+    <tag k='brand' v='ПТК' />
+    <tag k='brand:en' v='The Petersburg Fuel Company' />
+    <tag k='brand:ru' v='ПТК' />
+    <tag k='brand:wikidata' v='Q4360193' />
+    <tag k='brand:wikipedia' v='ru:Петербургская топливная компания' />
+    <tag k='building' v='yes' />
+    <tag k='fuel:octane_92' v='yes' />
+    <tag k='fuel:octane_95' v='yes' />
+    <tag k='name' v='ПТК' />
+    <tag k='name:en' v='The Petersburg Fuel Company' />
+    <tag k='name:ru' v='ПТК' />
+    <tag k='operator' v='ООО &quot;ПТК-Сервис&quot;' />
+    <tag k='phone' v='+7 812 2734962' />
+    <tag k='ref' v='18' />
+    <tag k='website' v='https://www.ptk.ru/rails/fuel_stations/9637' />
+  </way>
+</osm>

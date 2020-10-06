@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1135910461' timestamp='2019-01-10T07:12:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66185212' lat='59.9411083' lon='30.3561302' />
+  <node id='1135910483' timestamp='2011-09-20T15:36:54Z' uid='336663' user='PavelRus' visible='true' version='2' changeset='9352444' lat='59.9411298' lon='30.3555629' />
+  <node id='1135910560' timestamp='2019-01-10T07:12:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66185212' lat='59.9412385' lon='30.3560631' />
+  <node id='1135910648' timestamp='2011-09-20T15:36:55Z' uid='336663' user='PavelRus' visible='true' version='2' changeset='9352444' lat='59.9413268' lon='30.3557564' />
+  <node id='1135910683' timestamp='2019-01-10T07:12:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66185212' lat='59.9412608' lon='30.3561476' />
+  <node id='1135910705' timestamp='2011-09-20T15:36:55Z' uid='336663' user='PavelRus' visible='true' version='2' changeset='9352444' lat='59.9411282' lon='30.3556894' />
+  <node id='1135910783' timestamp='2019-01-10T07:12:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66185212' lat='59.9412403' lon='30.3558741' />
+  <node id='1135910880' timestamp='2011-09-20T15:36:56Z' uid='336663' user='PavelRus' visible='true' version='2' changeset='9352444' lat='59.941356' lon='30.3557579' />
+  <node id='1135910920' timestamp='2019-01-10T07:12:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66185212' lat='59.9412612' lon='30.356065' />
+  <node id='1135910946' timestamp='2011-09-20T15:36:56Z' uid='336663' user='PavelRus' visible='true' version='2' changeset='9352444' lat='59.9411097' lon='30.3556884' />
+  <node id='1135911006' timestamp='2019-01-10T07:12:14Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66185212' lat='59.9413258' lon='30.3558772' />
+  <node id='1438400345' timestamp='2011-09-20T15:36:33Z' uid='336663' user='PavelRus' visible='true' version='1' changeset='9352444' lat='59.9413284' lon='30.355668' />
+  <node id='1438400346' timestamp='2011-09-20T15:36:33Z' uid='336663' user='PavelRus' visible='true' version='1' changeset='9352444' lat='59.9413296' lon='30.3555729' />
+  <node id='1438400369' timestamp='2011-09-20T15:36:33Z' uid='336663' user='PavelRus' visible='true' version='1' changeset='9352444' lat='59.9413572' lon='30.3556694' />
+  <node id='2861371834' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91857903' lat='59.94108032342' lon='30.35926786592'>
+    <tag k='contact:vk' v='https://vk.com/dobrinya_vk' />
+    <tag k='name' v='Добрыня' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='http://www.добрыня.com' />
+  </node>
+  <node id='4614554189' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91857903' lat='59.94107386416' lon='30.35960040674'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Шаверма' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='7965790657' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91857903' lat='59.94107594955' lon='30.35949526778'>
+    <tag k='alt_name' v='Юмедиа' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='ЮMedia' />
+    <tag k='note' v='возможно закрыт' />
+    <tag k='website' v='https://remont3.ru/contact/remont-na-chernishevskoi/' />
+  </node>
+  <node id='7965790658' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91857903' lat='59.94108740962' lon='30.35889966683'>
+    <tag k='construction:tourism' v='hotel' />
+    <tag k='contact:vk' v='https://vk.com/5rooms_spb' />
+    <tag k='name' v='5 Rooms' />
+    <tag k='note' v='закрыт на ремонт' />
+  </node>
+  <node id='7965790659' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91857903' lat='59.94113088172' lon='30.35805567965'>
+    <tag k='name' v='Инкери' />
+    <tag k='office' v='insurance' />
+    <tag k='website' v='http://www.inkeri.su/' />
+  </node>
+  <node id='7965790660' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91857903' lat='59.94111610332' lon='30.35805567965'>
+    <tag k='contact:facebook' v='https://www.facebook.com/domdetskoiknigi' />
+    <tag k='contact:vk' v='https://vk.com/ddk_spb' />
+    <tag k='name' v='Дом детской книги' />
+    <tag k='office' v='publisher' />
+  </node>
+  <node id='7965790661' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91857903' lat='59.94110056678' lon='30.358055753'>
+    <tag k='club' v='sport' />
+    <tag k='name' v='Медный всадник' />
+    <tag k='sport' v='chess' />
+    <tag k='website' v='https://clubvsadnik.ru/' />
+  </node>
+  <node id='7965790662' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91857903' lat='59.94111384206' lon='30.3568924649'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Бек' />
+  </node>
+  <node id='7965790663' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91857903' lat='59.94112532975' lon='30.3561928748'>
+    <tag k='contact:vk' v='https://vk.com/venumshop' />
+    <tag k='name' v='4MMA' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='sports' />
+    <tag k='sport' v='martial_arts' />
+    <tag k='website' v='https://4mma.ru/' />
+  </node>
+  <way id='98186659' timestamp='2020-10-02T08:07:38Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='91857903'>
+    <nd ref='1438400369' />
+    <nd ref='1438400345' />
+    <nd ref='1438400346' />
+    <nd ref='1135910483' />
+    <nd ref='1135910705' />
+    <nd ref='1135910946' />
+    <nd ref='1135910461' />
+    <nd ref='1135910683' />
+    <nd ref='1135910920' />
+    <nd ref='1135910560' />
+    <nd ref='1135910783' />
+    <nd ref='1135911006' />
+    <nd ref='1135910648' />
+    <nd ref='1135910880' />
+    <nd ref='1438400369' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Сапёрный переулок' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='building' v='yes' />
+    <tag k='name' v='Детский сад № 81' />
+    <tag k='website' v='http://gbdou81.ru/' />
+  </way>
+</osm>

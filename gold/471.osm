@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='7541356685' timestamp='2020-10-01T12:45:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91827877' lat='59.9441186' lon='30.3918355'>
+    <tag k='contact:vk' v='https://vk.com/real_svezhie_produkty' />
+    <tag k='name' v='РеалЪ' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Торговый дом «Реалъ»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='http://www.tdreal.spb.ru/?page=101' />
+  </node>
+  <node id='7981103811' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.94431852139' lon='30.39668055744'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/sova.restspb' />
+    <tag k='name' v='Сова' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-21:00; Sa-Su 10:00-21:00' />
+    <tag k='operator' v='ООО «СоВа»' />
+    <tag k='website' v='https://sova.rest/' />
+  </node>
+  <node id='7981103812' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.94432379092' lon='30.3961335133'>
+    <tag k='contact:vk' v='https://vk.com/yit.service' />
+    <tag k='name' v='Смольный проспект' />
+    <tag k='office' v='property_management' />
+    <tag k='opening_hours' v='08:30-22:00' />
+    <tag k='website' v='https://spb.yitservice.ru/zhk/kapremont/novosti/' />
+  </node>
+  <node id='7981103813' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.94432914894' lon='30.39558881541'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='contact:vk' v='https://vk.com/childhoodcity' />
+    <tag k='name' v='Город детства' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:00; Sa 09:30-17:00' />
+    <tag k='website' v='https://childhood.city/' />
+  </node>
+  <node id='7981103814' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.9443317497' lon='30.39531796118'>
+    <tag k='phone' v='+7 812 9991909' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='7981103815' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.94433718534' lon='30.3947492707'>
+    <tag k='clothes' v='workwear' />
+    <tag k='contact:vk' v='https://vk.com/nolinocereshop' />
+    <tag k='name' v='Noli Nocere' />
+    <tag k='note' v='возможно закрыт' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ООО «Ноли Ноцере»' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='7981103816' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.94434715888' lon='30.39372950036'>
+    <tag k='brand' v='Стаф-Альянс' />
+    <tag k='name' v='Линк-1' />
+    <tag k='office' v='security' />
+    <tag k='website' v='http://www.staf.ru/' />
+  </node>
+  <node id='7981103817' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.94435373551' lon='30.39306623972'>
+    <tag k='name' v='Межрегиональное объединение профессиональных изыскателей' />
+    <tag k='office' v='association' />
+    <tag k='short_name' v='МОПИ' />
+    <tag k='website' v='http://www.mopi.pro/' />
+  </node>
+  <node id='7981103818' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.94435468116' lon='30.39296437727'>
+    <tag k='contact:vk' v='https://vk.com/hlebsol.market' />
+    <tag k='name' v='Хлеб соль' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='7981103819' timestamp='2020-10-06T11:36:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92046222' lat='59.9443600148' lon='30.39242399031'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/laperlanera.rest/' />
+    <tag k='name' v='La Perla Nera' />
+    <tag k='website' v='https://laperlarest.ru/nera/' />
+  </node>
+</osm>

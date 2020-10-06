@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1161917581' timestamp='2020-09-23T16:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='91380912' lat='59.913195' lon='30.2772759'>
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pyaterochka/' />
+    <tag k='contact:ok' v='https://ok.ru/x5pyaterka' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='1812740189' timestamp='2020-09-23T16:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='91380912' lat='59.91231971526' lon='30.27676856738'>
+    <tag k='brand' v='Ароматный мир' />
+    <tag k='contact:facebook' v='https://www.facebook.com/amwine.ru' />
+    <tag k='contact:instagram' v='https://instagram.com/amwine.ru' />
+    <tag k='contact:telegram' v='https://t.me/amwineru' />
+    <tag k='contact:twitter' v='https://twitter.com/amwineru' />
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='drink:beer' v='bottled' />
+    <tag k='drink:cider' v='bottled' />
+    <tag k='drink:cognac' v='bottled' />
+    <tag k='drink:soft_drink' v='bottled' />
+    <tag k='drink:sparkling_wine' v='bottled' />
+    <tag k='drink:vodka' v='bottled' />
+    <tag k='drink:whisky' v='bottled' />
+    <tag k='drink:wine' v='bottled' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='name:ru' v='Ароматный мир' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='operator' v='ООО «АМ-2 СПб»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/433855/' />
+  </node>
+  <node id='1812740191' timestamp='2020-09-23T16:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='91380912' lat='59.91252809139' lon='30.27688612432'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/club28313329' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Чито Гврито' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='website' v='http://chitogvrito.ru/' />
+  </node>
+  <node id='1812740199' timestamp='2017-11-30T15:50:15Z' uid='143266' user='Sergey Astakhov' visible='true' version='5' changeset='54208689' lat='59.9127744' lon='30.2770362'>
+    <tag k='name' v='Белорусский продукт' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4551979940' timestamp='2020-02-22T12:43:48Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='81345032' lat='59.9117369' lon='30.2764162'>
+    <tag k='clothes' v='men' />
+    <tag k='disused:shop' v='clothes' />
+    <tag k='name' v='btc' />
+    <tag k='operator' v='АО &quot;БТК групп&quot;' />
+    <tag k='website' v='https://www.btc-wear.com/' />
+  </node>
+  <node id='4551979941' timestamp='2020-09-23T16:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='91380912' lat='59.9125824' lon='30.2769187'>
+    <tag k='brand' v='Красное &amp; Белое' />
+    <tag k='brand:wikidata' v='Q24933790' />
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа Ижевск»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='4551979942' timestamp='2020-09-23T16:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='91380912' lat='59.91270489576' lon='30.2769924984'>
+    <tag k='contact:instagram' v='https://www.instagram.com/fresh_89006400017/' />
+    <tag k='contact:vk' v='https://vk.com/club174832879' />
+    <tag k='name' v='Fresh' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ИП Дегтярева Е.Н.' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='4551979943' timestamp='2020-09-23T16:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='91380912' lat='59.9128981' lon='30.2771077'>
+    <tag k='contact:facebook' v='https://www.facebook.com/filyashop' />
+    <tag k='contact:instagram' v='https://www.instagram.com/filya_shop/' />
+    <tag k='contact:vk' v='https://vk.com/zootovarfilya' />
+    <tag k='name' v='Филя' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Дреничев А.А.' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://www.zootovar-spb.ru/magazin/6221-staro-petergofskii-15.htm' />
+  </node>
+  <node id='4905642622' timestamp='2020-09-23T16:35:13Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91380912' lat='59.91240170267' lon='30.27681555323'>
+    <tag k='disused:shop' v='ticket' />
+  </node>
+</osm>

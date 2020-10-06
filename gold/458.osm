@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3322189661' timestamp='2020-10-01T06:14:57Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='91802525' lat='59.94844305262' lon='30.35975458642'>
+    <tag k='name' v='Spar Express' />
+    <tag k='was:shop' v='supermarket' />
+  </node>
+  <node id='4893356989' timestamp='2019-03-30T20:55:44Z' uid='9451067' user='b-jazz-bot' visible='true' version='3' changeset='68709525' lat='59.9486288' lon='30.3600526'>
+    <tag k='name' v='ТАСС' />
+    <tag k='office' v='company' />
+    <tag k='official_name' v='Информационное телеграфное агентство России (ИТАР-ТАСС)' />
+    <tag k='website' v='https://tass.ru/' />
+    <tag k='wikidata' v='Q223799' />
+  </node>
+  <node id='5290368159' timestamp='2020-10-01T06:14:57Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91802525' lat='59.94827675955' lon='30.35974566899'>
+    <tag k='disused:shop' v='florist' />
+    <tag k='name' v='De Fleur' />
+    <tag k='note' v='помещение видимо используется салоном красоты' />
+  </node>
+  <node id='7961826012' timestamp='2020-10-01T06:14:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='91802525' lat='59.94840024113' lon='30.35975220727'>
+    <tag k='contact:instagram' v='https://www.instagram.com/glamy.spot/' />
+    <tag k='contact:vk' v='https://vk.com/glamy_team' />
+    <tag k='name' v='Glamy Spot' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://glamy.ru/' />
+  </node>
+</osm>

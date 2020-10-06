@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2520349885' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='91074158' lat='59.91392073402' lon='30.27770598494'>
+    <tag k='name' v='Цветы' />
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='3672542944' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91074158' lat='59.9138236896' lon='30.27765038628'>
+    <tag k='contact:vk' v='https://vk.com/hotelmari' />
+    <tag k='int_name' v='Mari' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Мари' />
+    <tag k='phone' v='+7 812 2517041' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotel-mari.ru/' />
+  </node>
+  <node id='3672557849' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='91074158' lat='59.9138283' lon='30.2776182'>
+    <tag k='contact:vk' v='https://vk.com/leohotels_spb' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Leo На Рижском' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://leohotels.ru/hotels/otel-na-rizhskom' />
+  </node>
+  <node id='3673233104' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='91074158' lat='59.91373994805' lon='30.27760266618'>
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='bic' v='SABRRUMM' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sberbank' />
+    <tag k='contact:instagram' v='https://instagram.com/sberbank' />
+    <tag k='contact:ok' v='https://ok.ru/sberbank' />
+    <tag k='contact:phone' v='+7 800 5555550' />
+    <tag k='contact:twitter' v='https://twitter.com/sberbank/' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru' />
+    <tag k='contact:youtube' v='https://www.youtube.com/sberbank' />
+    <tag k='drive_through' v='no' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='name:en' v='Sberbank' />
+    <tag k='name:ru' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='operator:wikipedia' v='ru:Сбербанк России' />
+    <tag k='ref' v='9055/0112' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4551938937' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91074158' lat='59.91542805218' lon='30.27856784899'>
+    <tag k='name' v='Книга' />
+    <tag k='shop' v='books' />
+  </node>
+  <node id='4551938938' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='91074158' lat='59.91547090282' lon='30.2785926281'>
+    <tag k='disused:shop' v='hairdresser' />
+    <tag k='name' v='Эконом' />
+  </node>
+  <node id='4905566227' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91074158' lat='59.91384173764' lon='30.27766065245'>
+    <tag k='level' v='1' />
+    <tag k='name' v='Консул' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://konsulocenka.ru/' />
+  </node>
+  <node id='4905566229' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='91074158' lat='59.91519886333' lon='30.27843528472'>
+    <tag k='contact:vk' v='https://vk.com/ortmed' />
+    <tag k='name' v='Ортея медика' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-19:00; Sa 09:00-17:00' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='https://ort-med.pro/' />
+  </node>
+  <node id='4905566230' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91074158' lat='59.9153205' lon='30.2785054'>
+    <tag k='name' v='УК Отельфудсервис' />
+    <tag k='note' v='возможно hoteldelivery.ru / htmeal.ru' />
+    <tag k='office' v='company' />
+    <tag k='phone' v='+7 812 4244125' />
+  </node>
+  <node id='7230842852' timestamp='2020-09-17T22:52:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='91074158' lat='59.91348' lon='30.2774421'>
+    <tag k='contact:vk' v='https://vk.com/vselennaya_vkusa' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Вселенная вкуса' />
+    <tag k='note' v='ремонт здания, у кафе на сайте адрес другой' />
+  </node>
+</osm>

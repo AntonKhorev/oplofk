@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='938464795' timestamp='2012-02-17T13:58:10Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.92499' lon='30.2911691' />
+  <node id='938464820' timestamp='2018-11-18T23:02:04Z' uid='345975' user='VlIvYur' visible='true' version='5' changeset='64633726' lat='59.9250306' lon='30.2917328' />
+  <node id='938464824' timestamp='2018-11-18T23:02:04Z' uid='345975' user='VlIvYur' visible='true' version='4' changeset='64633726' lat='59.925081' lon='30.2919725' />
+  <node id='938464964' timestamp='2012-02-17T13:58:11Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9251119' lon='30.2910651' />
+  <node id='938465231' timestamp='2012-02-17T13:58:13Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10711386' lat='59.9249148' lon='30.2912334' />
+  <node id='1667603188' timestamp='2012-03-09T17:42:16Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10923020' lat='59.9252103' lon='30.2909808' />
+  <node id='1667603229' timestamp='2012-03-09T17:42:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10923020' lat='59.9253211' lon='30.2914707'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1667603249' timestamp='2012-03-09T17:42:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10923020' lat='59.9253764' lon='30.2917156' />
+  <node id='2595720126' timestamp='2020-09-17T19:33:27Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='91067477' lat='59.92556303502' lon='30.29262917028'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Subway' />
+    <tag k='brand:wikidata' v='Q244457' />
+    <tag k='brand:wikipedia' v='en:Subway (restaurant)' />
+    <tag k='contact:email' v='subway@subway.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/subwayrussiaofficial' />
+    <tag k='contact:instagram' v='https://www.instagram.com/subwayrussia_official/' />
+    <tag k='contact:ok' v='https://ok.ru/subwayrussia' />
+    <tag k='contact:vk' v='https://vk.com/subwayrussia' />
+    <tag k='contact:website' v='https://subway.ru/stores/detail/54815/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/c/SubwayRussia' />
+    <tag k='cuisine' v='sandwich' />
+    <tag k='diet:vegetarian' v='no' />
+    <tag k='int_name' v='Subway' />
+    <tag k='name' v='Subway' />
+    <tag k='name:de' v='Subway' />
+    <tag k='name:en' v='Subway' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Квадрум»' />
+    <tag k='takeaway' v='yes' />
+  </node>
+  <node id='2595720127' timestamp='2020-09-17T19:33:27Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='91067477' lat='59.92561059573' lon='30.29283968304'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Столовая' />
+    <tag k='opening_hours' v='09:00-21:00' />
+  </node>
+  <node id='4460070654' timestamp='2020-09-17T19:33:27Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='91067477' lat='59.92547000752' lon='30.29221846532'>
+    <tag k='brand' v='Буквоед' />
+    <tag k='brand:wikidata' v='Q4098549' />
+    <tag k='brand:wikipedia' v='ru:Буквоед' />
+    <tag k='contact:vk' v='https://vk.com/bookvoed' />
+    <tag k='name' v='Буквоед' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='books' />
+    <tag k='website' v='https://www.bookvoed.ru/shop?id=20' />
+  </node>
+  <node id='5136248179' timestamp='2017-09-28T21:32:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='52458744' lat='59.9251091' lon='30.2919448'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='5136248220' timestamp='2020-09-17T19:35:34Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='91067570' lat='59.92519251595' lon='30.29187327406'>
+    <tag k='entrance' v='yes' />
+    <tag k='name' v='Амбулаторно-поликлиническое отделение' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-16:00' />
+  </node>
+  <way id='80424613' timestamp='2020-09-17T19:35:34Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='91067570'>
+    <nd ref='1667603188' />
+    <nd ref='1667603229' />
+    <nd ref='1667603249' />
+    <nd ref='5136248220' />
+    <nd ref='5136248179' />
+    <nd ref='938464824' />
+    <nd ref='938464820' />
+    <nd ref='938465231' />
+    <nd ref='938464795' />
+    <nd ref='938464964' />
+    <nd ref='1667603188' />
+    <tag k='amenity' v='hospital' />
+    <tag k='healthcare' v='hospital' />
+    <tag k='name' v='Детская городская больница №17 святителя Николая Чудотворца' />
+    <tag k='website' v='https://dgb17spb.ru/' />
+  </way>
+</osm>
