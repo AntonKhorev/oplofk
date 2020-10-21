@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='633145290' timestamp='2013-07-28T14:51:25Z' uid='368493' user='fserges' visible='true' version='6' changeset='17126544' lat='59.9329476' lon='30.3105863' />
+  <node id='633145291' timestamp='2013-07-28T14:51:25Z' uid='368493' user='fserges' visible='true' version='5' changeset='17126544' lat='59.9327697' lon='30.3108622' />
+  <node id='633145292' timestamp='2013-08-04T18:34:20Z' uid='368493' user='fserges' visible='true' version='3' changeset='17218489' lat='59.9325886' lon='30.3093941' />
+  <node id='633145293' timestamp='2013-08-04T18:34:20Z' uid='368493' user='fserges' visible='true' version='4' changeset='17218489' lat='59.9327331' lon='30.3100241' />
+  <node id='633145300' timestamp='2013-07-28T14:51:25Z' uid='368493' user='fserges' visible='true' version='3' changeset='17126544' lat='59.9321464' lon='30.3097605' />
+  <node id='633145327' timestamp='2013-07-28T14:51:26Z' uid='368493' user='fserges' visible='true' version='4' changeset='17126544' lat='59.9324644' lon='30.3112933' />
+  <node id='633145328' timestamp='2013-07-28T14:51:26Z' uid='368493' user='fserges' visible='true' version='5' changeset='17126544' lat='59.9326004' lon='30.3111023' />
+  <node id='803569714' timestamp='2013-07-28T14:51:27Z' uid='368493' user='fserges' visible='true' version='4' changeset='17126544' lat='59.9327347' lon='30.3106945' />
+  <node id='803569725' timestamp='2013-07-28T14:51:27Z' uid='368493' user='fserges' visible='true' version='2' changeset='17126544' lat='59.9325522' lon='30.3108727' />
+  <node id='817393479' timestamp='2016-10-08T22:04:17Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='42743500' lat='59.9316475' lon='30.307579' />
+  <node id='817393488' timestamp='2013-08-03T15:32:47Z' uid='368493' user='fserges' visible='true' version='6' changeset='17205266' lat='59.931469' lon='30.3068818' />
+  <node id='817393500' timestamp='2013-08-03T15:32:47Z' uid='368493' user='fserges' visible='true' version='6' changeset='17205266' lat='59.931918' lon='30.3064643' />
+  <node id='817393511' timestamp='2016-10-08T22:04:17Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='42743500' lat='59.9320936' lon='30.3072113' />
+  <node id='1613393187' timestamp='2016-10-08T22:04:17Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='42743500' lat='59.9319992' lon='30.306802'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2406077565' timestamp='2013-08-03T15:32:45Z' uid='368493' user='fserges' visible='true' version='1' changeset='17205266' lat='59.9317516' lon='30.3066112' />
+  <node id='2407181733' timestamp='2013-08-04T18:34:13Z' uid='368493' user='fserges' visible='true' version='1' changeset='17218489' lat='59.9322947' lon='30.3104754'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2407181747' timestamp='2013-08-04T18:34:13Z' uid='368493' user='fserges' visible='true' version='1' changeset='17218489' lat='59.9326258' lon='30.3108008' />
+  <node id='3629441773' timestamp='2015-07-01T16:16:08Z' uid='700550' user='EIjas' visible='true' version='1' changeset='32335557' lat='59.9321672' lon='30.3097433'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Исаакиевская площадь' />
+  </node>
+  <node id='4438337882' timestamp='2016-10-08T22:04:16Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42743500' lat='59.9315586' lon='30.3072315' />
+  <node id='4683728156' timestamp='2019-05-14T20:17:14Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='70251604' lat='59.9317998' lon='30.3074535'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='Здесь с 1921 по 1940 г. работал выдающийся биолог, академик Николай Иванович Вавилов' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='Н. И. Вавилову' />
+    <tag k='subject:wikidata' v='Q214926' />
+    <tag k='subject:wikipedia' v='ru:Вавилов, Николай Иванович' />
+  </node>
+  <node id='8031747562' timestamp='2020-10-21T11:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92828137' lat='59.93236750074' lon='30.3095773'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='49832660' timestamp='2020-10-21T11:09:37Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='92828137'>
+    <nd ref='633145292' />
+    <nd ref='633145293' />
+    <nd ref='633145290' />
+    <nd ref='633145291' />
+    <nd ref='803569714' />
+    <nd ref='2407181747' />
+    <nd ref='803569725' />
+    <nd ref='633145328' />
+    <nd ref='633145327' />
+    <nd ref='2407181733' />
+    <nd ref='633145300' />
+    <nd ref='3629441773' />
+    <nd ref='8031747562' />
+    <nd ref='633145292' />
+  </way>
+  <way id='67664346' timestamp='2018-06-29T13:41:26Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='60280063'>
+    <nd ref='817393511' />
+    <nd ref='4683728156' />
+    <nd ref='817393479' />
+    <nd ref='4438337882' />
+    <nd ref='817393488' />
+    <nd ref='2406077565' />
+    <nd ref='817393500' />
+    <nd ref='1613393187' />
+    <nd ref='817393511' />
+  </way>
+  <relation id='3119307' timestamp='2020-10-21T11:09:35Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92828137'>
+    <member type='way' ref='67664346' role='outer' />
+    <member type='way' ref='49832660' role='outer' />
+    <tag k='contact:vk' v='https://vk.com/virvavilov' />
+    <tag k='landuse' v='industrial' />
+    <tag k='name' v='Всероссийский институт генетических ресурсов растений имени Н. И. Вавилова' />
+    <tag k='office' v='research' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='https://www.vir.nw.ru/' />
+    <tag k='wikidata' v='Q2466783' />
+  </relation>
+</osm>

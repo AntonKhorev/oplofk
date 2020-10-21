@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2903082254' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92834090' lat='59.93572120936' lon='30.30874270634'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/tandoorspb' />
+    <tag k='cuisine' v='indian' />
+    <tag k='int_name' v='Tandoor' />
+    <tag k='name' v='Тандур' />
+    <tag k='opening_hours' v='Mo-Su 12:00-23:00' />
+    <tag k='phone' v='+7 812 3123886' />
+    <tag k='website' v='https://mytandoor.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4161318791' timestamp='2020-10-21T13:05:09Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='92835366' lat='59.93622501303' lon='30.31005513165'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/traktirspb/' />
+    <tag k='name' v='Трактир на Гороховой' />
+  </node>
+  <node id='4222280106' timestamp='2020-10-21T13:05:09Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92835366' lat='59.93601423467' lon='30.30949640573'>
+    <tag k='name' v='Петръ отель' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.petr-hotel.com/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4587578091' timestamp='2020-10-21T13:05:09Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='92835366' lat='59.93584401191' lon='30.30904545362'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/metel.rest' />
+    <tag k='name' v='Метель' />
+    <tag k='website' v='http://restaurant-metel.ru/' />
+  </node>
+  <node id='4771911302' timestamp='2020-10-21T13:05:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='92835366' lat='59.93606359118' lon='30.30962742156'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/MarioTrattoriaspb/' />
+    <tag k='contact:vk' v='https://vk.com/public143234466' />
+    <tag k='name' v='Mario' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='website' v='https://www.mariotrattoria.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4771911303' timestamp='2020-10-21T13:05:09Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='92835366' lat='59.93597460421' lon='30.30939175321'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:facebook' v='https://www.facebook.com/radioirelandcenter' />
+    <tag k='contact:vk' v='https://vk.com/radioireland' />
+    <tag k='name' v='Radio Ireland' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>
