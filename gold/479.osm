@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='806509562' timestamp='2020-10-21T14:18:35Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='92839050' lat='59.93485972486' lon='30.31230333159'>
+    <tag k='contact:vk' v='https://vk.com/spbgptek' />
+    <tag k='name' v='Топливно-энергетический комплекс Санкт-Петербурга' />
+    <tag k='office' v='energy_supplier' />
+    <tag k='operator' v='ГУП «ТЭК СПб»' />
+    <tag k='short_name' v='ТЭК СПб' />
+    <tag k='website' v='https://gptek.spb.ru/' />
+  </node>
+  <node id='806509590' timestamp='2020-10-21T14:18:35Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='92839050' lat='59.9342882562' lon='30.31314317579'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/jeromerestaurant/' />
+    <tag k='contact:phone' v='+7 812 3146443' />
+    <tag k='contact:website' v='https://jeromerestaurant.ru/' />
+    <tag k='cuisine' v='french' />
+    <tag k='name' v='Jérôme' />
+    <tag k='opening_hours' v='Mo-Su 12:00-24:00' />
+  </node>
+  <node id='2407126698' timestamp='2020-10-21T14:18:35Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92839050' lat='59.93463433715' lon='30.31263630866'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/coffeeroomspb' />
+    <tag k='name' v='Сoffee Room Street' />
+    <tag k='opening_hours' v='Mo-Th 09:00-23:00, Fr 09:00-00:00, Sa-Su 10:00-00:00' />
+    <tag k='website' v='https://www.coffeeroomspb.com/' />
+  </node>
+  <node id='4689223494' timestamp='2020-10-21T14:18:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='92839050' lat='59.9344890946' lon='30.31284945735'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Georgia' />
+  </node>
+  <node id='4771939262' timestamp='2020-10-21T14:18:35Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92839050' lat='59.934602' lon='30.312684'>
+    <tag k='name' v='Серебряный шар' />
+    <tag k='name:en' v='Silver Sphere' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.silver-sphere.ru/' />
+  </node>
+</osm>

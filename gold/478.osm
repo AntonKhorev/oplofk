@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1080327353' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='92838072' lat='59.9351998' lon='30.3112309'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/craftbrewcafe' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Craft Brew Cafe' />
+    <tag k='opening_hours' v='Su-Th 10:00-02:00, Fr-Sa 10:00-05:00' />
+    <tag k='phone' v='+7 812 9389193' />
+    <tag k='website' v='https://reca.rest/restaurants/craftbrewcafe' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='2875597595' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='92838072' lat='59.93550406778' lon='30.31123295371'>
+    <tag k='disused:shop' v='convenience' />
+    <tag k='name' v='Аллея' />
+  </node>
+  <node id='4582332117' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92838072' lat='59.93538050779' lon='30.31137721963'>
+    <tag k='name' v='Mayfair Investments' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.mayfair-corp.com/' />
+  </node>
+  <node id='4582332118' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92838072' lat='59.93539962468' lon='30.31134776503'>
+    <tag k='name' v='Лентелефонстрой' />
+    <tag k='note' v='таблички больше нет, признано банкротом' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://lts.spb.ru/' />
+  </node>
+  <node id='4582332119' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92838072' lat='59.93538990173' lon='30.31136311901'>
+    <tag k='contact:vk' v='https://vk.com/patenticaagency' />
+    <tag k='name' v='Патентика' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.patentica.ru/' />
+  </node>
+  <node id='4582332122' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92838072' lat='59.93558270795' lon='30.31111535489'>
+    <tag k='contact:facebook' v='https://www.facebook.com/swissflexru/' />
+    <tag k='name' v='Swissflex' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='https://swissflex-eyewear.ru/' />
+  </node>
+  <node id='4582332123' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92838072' lat='59.93562597727' lon='30.31105050651'>
+    <tag k='name' v='Престиж Центр' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://c-hotel.ru/' />
+  </node>
+  <node id='4582332124' timestamp='2017-11-04T20:42:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='53513691' lat='59.9358187' lon='30.3107651'>
+    <tag k='addr:floor' v='4' />
+    <tag k='contact:vk' v='https://vk.com/club12567796' />
+    <tag k='name' v='Sonata' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotel-sonata.ru/hotels/sonata-na-gorohovoy-u-dvorcovoy-ploshchadi/' />
+  </node>
+  <node id='4582332126' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='92838072' lat='59.93581456521' lon='30.3107287454'>
+    <tag k='addr:floor' v='6' />
+    <tag k='contact:vk' v='https://vk.com/club6727081' />
+    <tag k='name' v='Solo Panorama' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.solo-central.ru/solo-panorama' />
+  </node>
+  <node id='4582332127' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92838072' lat='59.93594433628' lon='30.31057854573'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Сибирь' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-23:00; Sa-Su 12:00-23:00' />
+    <tag k='website' v='http://русская-забава.рф/' />
+  </node>
+  <node id='4582332128' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92838072' lat='59.9360739' lon='30.3103815'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Mamá' />
+  </node>
+  <node id='4582332129' timestamp='2020-06-03T01:51:55Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='86103127' lat='59.9361183' lon='30.3103225'>
+    <tag k='disused:amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №20' />
+  </node>
+  <node id='5211139523' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92838072' lat='59.93580146521' lon='30.3107522454'>
+    <tag k='addr:floor' v='6' />
+    <tag k='contact:vk' v='https://vk.com/minihotel_admiral' />
+    <tag k='name' v='Адмиралтейский' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://admiralty-book.otelms.com/' />
+  </node>
+  <node id='8032455976' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92838072' lat='59.93539809918' lon='30.31139070863'>
+    <tag k='contact:vk' v='https://vk.com/kaleidoscopehotel' />
+    <tag k='int_name' v='Kaleidoscope Gold' />
+    <tag k='name' v='Калейдоскоп Голд' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://kaleidoscophotel.com/gold/' />
+  </node>
+  <node id='8032455977' timestamp='2020-10-21T13:57:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92838072' lat='59.9356713946' lon='30.31098263399'>
+    <tag k='name' v='Общество литовской культуры в Санкт-Петербурге' />
+    <tag k='note' v='упоминается на http://spbdn.ru/sotrudnichestvo/nko-nka-i-zemljachestva/' />
+    <tag k='office' v='ngo' />
+  </node>
+</osm>

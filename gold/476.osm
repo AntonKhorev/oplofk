@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='802068900' timestamp='2013-08-04T15:44:47Z' uid='368493' user='fserges' visible='true' version='7' changeset='17216611' lat='59.9348042' lon='30.3090472' />
+  <node id='802069131' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='50423593' lat='59.9351607' lon='30.3093823' />
+  <node id='802124061' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='50423593' lat='59.9350564' lon='30.3089096' />
+  <node id='802124078' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='50423593' lat='59.9352053' lon='30.3093179' />
+  <node id='802124089' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='50423593' lat='59.9347138' lon='30.30879' />
+  <node id='802124161' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='50423593' lat='59.9350114' lon='30.3095982' />
+  <node id='1629443089' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='50423593' lat='59.934714' lon='30.3086464' />
+  <node id='1629443097' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='50423593' lat='59.9350533' lon='30.3086638' />
+  <node id='2139870808' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92834090' lat='59.93439417707' lon='30.30866599249'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/memo.rest/' />
+    <tag k='name' v='Memo' />
+    <tag k='website' v='https://memo.rest/' />
+  </node>
+  <node id='2903082254' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92834090' lat='59.93572120936' lon='30.30874270634'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/tandoorspb' />
+    <tag k='cuisine' v='indian' />
+    <tag k='int_name' v='Tandoor' />
+    <tag k='name' v='Тандур' />
+    <tag k='opening_hours' v='Mo-Su 12:00-23:00' />
+    <tag k='phone' v='+7 812 3123886' />
+    <tag k='website' v='https://mytandoor.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2903082255' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='92834090' lat='59.93536828538' lon='30.30871606165'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='cuisine' v='indian' />
+    <tag k='name' v='Tandoori Nights' />
+    <tag k='opening_hours' v='12:00-23:00' />
+    <tag k='phone' v='+7 812 3128772' />
+    <tag k='website' v='http://tandoorinightsspb.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4204476089' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='92834090' lat='59.9347467' lon='30.3086829'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/biomybio.cafe/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/biomybio_foodlab/' />
+    <tag k='name' v='Bio My Bio' />
+    <tag k='website' v='https://biomybiodelivery.ru/' />
+  </node>
+  <node id='4418839183' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='50423593' lat='59.9348787' lon='30.3086549'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='4418839184' timestamp='2017-07-20T06:25:00Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='50423593' lat='59.9347464' lon='30.3086481'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4505074192' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='92834090' lat='59.93518858983' lon='30.30870669723'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/perepizza.spb/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/perepizza/' />
+    <tag k='name' v='Перелётные пиццы' />
+    <tag k='opening_hours' v='11:00-23:00' />
+  </node>
+  <node id='4799620595' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='92834090' lat='59.93542385865' lon='30.30871902658'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Колесо' />
+    <tag k='website' v='http://kolesorest.ru/' />
+  </node>
+  <node id='4982017193' timestamp='2017-07-20T06:24:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50423593' lat='59.9351931' lon='30.3093355' />
+  <node id='4982019227' timestamp='2017-07-20T06:24:58Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50423593' lat='59.935219' lon='30.3091939' />
+  <node id='4982019228' timestamp='2017-07-20T06:24:58Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50423593' lat='59.9351558' lon='30.3090021' />
+  <node id='4982019229' timestamp='2017-07-20T06:24:58Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50423593' lat='59.9351411' lon='30.3090008' />
+  <node id='4982019230' timestamp='2017-07-20T06:24:58Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50423593' lat='59.9351028' lon='30.3090517' />
+  <node id='4982019231' timestamp='2017-07-20T06:24:58Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='50423593' lat='59.9349623' lon='30.3094661' />
+  <way id='508887500' timestamp='2020-10-21T12:41:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92834090'>
+    <nd ref='1629443097' />
+    <nd ref='4418839183' />
+    <nd ref='4418839184' />
+    <nd ref='1629443089' />
+    <nd ref='802124089' />
+    <nd ref='802068900' />
+    <nd ref='4982019231' />
+    <nd ref='802124161' />
+    <nd ref='802069131' />
+    <nd ref='4982017193' />
+    <nd ref='802124078' />
+    <nd ref='4982019227' />
+    <nd ref='4982019228' />
+    <nd ref='4982019229' />
+    <nd ref='4982019230' />
+    <nd ref='802124061' />
+    <nd ref='1629443097' />
+    <tag k='brand' v='Sofitel' />
+    <tag k='brand:wikidata' v='Q749431' />
+    <tag k='contact:vk' v='https://vk.com/sosofitelstpetersburg' />
+    <tag k='name' v='SO/' />
+    <tag k='operator' v='ООО «Форум»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://all.accor.com/hotel/B315/index.ru.shtml' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+</osm>
