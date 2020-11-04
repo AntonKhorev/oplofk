@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2965187419' timestamp='2020-11-04T16:24:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93553418' lat='59.93583026971' lon='30.36727693934'>
+    <tag k='name' v='B7' />
+    <tag k='name:en' v='B7' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2965187535' timestamp='2020-11-04T16:24:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93553418' lat='59.93618890696' lon='30.36768910994'>
+    <tag k='brand' v='Ozon.ru' />
+    <tag k='brand:wikidata' v='Q2365235' />
+    <tag k='contact:facebook' v='https://www.facebook.com/ozon.ru/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/ozonru/' />
+    <tag k='contact:twitter' v='https://twitter.com/Ozon_ru/' />
+    <tag k='contact:vk' v='https://vk.com/ozon' />
+    <tag k='name' v='Ozon' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://www.ozon.ru/' />
+  </node>
+  <node id='4982432625' timestamp='2020-11-04T16:24:04Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93553418' lat='59.93599904241' lon='30.36747546037'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/blackflag.coffee' />
+    <tag k='note' v='сейчас название снаружи отсутствует' />
+  </node>
+  <node id='8081762154' timestamp='2020-11-04T16:24:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93553418' lat='59.93620803572' lon='30.3677504959'>
+    <tag k='contact:vk' v='https://vk.com/pronto_servis_plus' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Сервис плюс' />
+    <tag k='website' v='https://www.servis.plus/' />
+  </node>
+  <node id='8081762155' timestamp='2020-11-04T16:24:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93553418' lat='59.93621657381' lon='30.36771890701'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/coffee_bon' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Кофе Бон' />
+    <tag k='website' v='https://www.coffeebon.ru/' />
+  </node>
+  <node id='8081762157' timestamp='2020-11-04T16:24:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93553418' lat='59.93612975166' lon='30.3676240465'>
+    <tag k='contact:instagram' v='https://www.instagram.com/xpress_birki/' />
+    <tag k='name' v='X-Press' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://x-press.ru/' />
+  </node>
+  <node id='8081762158' timestamp='2020-11-04T16:24:04Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93553418' lat='59.93585365287' lon='30.36730452356'>
+    <tag k='amenity' v='fast_food' />
+  </node>
+</osm>

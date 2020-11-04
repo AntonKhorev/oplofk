@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8062316014' timestamp='2020-10-29T10:46:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93230896' lat='59.93126169035' lon='30.38664249741'>
+    <tag k='name' v='Управление Федерального агентства по государственным резервам по Северо-Западному федеральному округу' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://rosrezerv.gov.ru/Agentstvo/Territorialnie_organi/SevZapFO' />
+  </node>
+  <node id='8062316015' timestamp='2020-10-29T10:46:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93230896' lat='59.93145088644' lon='30.38871923488'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bakunina.lounge/' />
+    <tag k='contact:vk' v='https://vk.com/bakuninalounge' />
+    <tag k='name' v='Bakunina Lounge' />
+    <tag k='note' v='возможно не работает, дверь закрыта на навесной замок, но это было днём, когда она и не должна быть открыта' />
+  </node>
+</osm>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8039732567' timestamp='2020-10-23T12:38:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92950273' lat='59.93760940695' lon='30.39524852961'>
+    <tag k='alt_name' v='Водоканал Ленинградской области' />
+    <tag k='contact:vk' v='https://vk.com/vodokanallo' />
+    <tag k='name' v='Леноблводоканал' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://vodokanal-lo.ru/' />
+  </node>
+  <node id='8039732568' timestamp='2020-10-23T12:38:24Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92950273' lat='59.93761275915' lon='30.39470352698'>
+    <tag k='name' v='Единый миграционный центр' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.7771000.ru/services/edinyy-migratsionnyy-tsentr/' />
+  </node>
+</osm>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8062630100' timestamp='2020-10-29T12:59:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93238013' lat='59.9324902723' lon='30.36952154688'>
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ИП Кобахия А.Р.' />
+    <tag k='second_hand' v='yes' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='8062630101' timestamp='2020-10-29T12:59:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93238013' lat='59.93238539343' lon='30.36982658714'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/club134764904' />
+    <tag k='name' v='Хуторок' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-23:00; Su 11:00-23:00' />
+    <tag k='operator' v='ООО «Зевс»' />
+  </node>
+  <node id='8062630102' timestamp='2020-10-29T12:59:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93238013' lat='59.93231887335' lon='30.37002028134'>
+    <tag k='name' v='Продукты' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='8062630103' timestamp='2020-10-29T12:59:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93238013' lat='59.9321014366' lon='30.37065350579'>
+    <tag k='amenity' v='student_accommodation' />
+    <tag k='name' v='Финансовый университет, общежитие № 3' />
+    <tag k='website' v='http://www.fa.ru/fil/spb/strukture/dep/obsh/Pages/Home.aspx' />
+  </node>
+  <node id='8062630104' timestamp='2020-10-29T12:59:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93238013' lat='59.93196616032' lon='30.37104686578'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:vk' v='https://vk.com/allfriends_spb' />
+    <tag k='name' v='All Friends' />
+    <tag k='opening_hours' v='Su-Th 14:00-00:00, Fr-Sa 14:00-02:00' />
+  </node>
+  <node id='8062630105' timestamp='2020-10-29T12:59:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93238013' lat='59.93189652673' lon='30.3712498096'>
+    <tag k='name' v='Благотворительный фонд «Надежда»' />
+    <tag k='office' v='charity' />
+    <tag k='website' v='http://nadezda.spb.ru/' />
+  </node>
+</osm>

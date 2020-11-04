@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2992198025' timestamp='2020-11-02T17:03:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='93432044' lat='59.93400129329' lon='30.36522974246'>
+    <tag k='name' v='Вместе' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://universamvmeste.ru/' />
+  </node>
+</osm>

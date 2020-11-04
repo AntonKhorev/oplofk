@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1172599211' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='2' changeset='26526542' lat='59.9336224' lon='30.3667533' />
+  <node id='1172599349' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='3' changeset='26526542' lat='59.933627' lon='30.3671633' />
+  <node id='1172599423' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='2' changeset='26526542' lat='59.9335942' lon='30.3668386' />
+  <node id='1172599496' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='3' changeset='26526542' lat='59.9335782' lon='30.3670989' />
+  <node id='1172599531' timestamp='2018-09-04T01:08:51Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='62262380' lat='59.933396' lon='30.3668593' />
+  <node id='1172599626' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='2' changeset='26526542' lat='59.9335649' lon='30.3667999' />
+  <node id='1172599716' timestamp='2016-10-30T20:16:49Z' uid='624271' user='qiriner' visible='true' version='5' changeset='43291140' lat='59.9336114' lon='30.3667385' />
+  <node id='1172599790' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='2' changeset='26526542' lat='59.9335448' lon='30.3668608' />
+  <node id='1172599859' timestamp='2018-09-04T01:08:51Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='62262380' lat='59.9334934' lon='30.3665838' />
+  <node id='1172599933' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='2' changeset='26526542' lat='59.9336717' lon='30.3670282' />
+  <node id='1756003567' timestamp='2020-11-02T17:03:22Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='93432044' lat='59.932866' lon='30.3684207'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/st.patrick_irishpub' />
+    <tag k='email' v='st.patrick@list.ru' />
+    <tag k='name' v='Saint Patrick' />
+    <tag k='note' v='возможно не работает' />
+  </node>
+  <node id='2975334457' timestamp='2018-09-04T01:08:52Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='62262380' lat='59.9334766' lon='30.3666315' />
+  <node id='2975334464' timestamp='2014-11-03T14:08:11Z' uid='624271' user='qiriner' visible='true' version='2' changeset='26526542' lat='59.9335548' lon='30.3668305'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='2975334471' timestamp='2016-06-12T14:26:01Z' uid='700550' user='EIjas' visible='true' version='3' changeset='39972437' lat='59.9336094' lon='30.3667928' />
+  <node id='2992198010' timestamp='2020-11-02T17:03:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93432044' lat='59.93306324524' lon='30.3678628963'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='2992198017' timestamp='2020-11-02T17:03:22Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='93432044' lat='59.93300120321' lon='30.36803839268'>
+    <tag k='contact:instagram' v='https://www.instagram.com/magiasvetaspb/' />
+    <tag k='name' v='Магия света' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-19:00' />
+    <tag k='shop' v='lighting' />
+    <tag k='website' v='https://magiasvetaspb.com/' />
+  </node>
+  <node id='2992198025' timestamp='2020-11-02T17:03:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='93432044' lat='59.93400129329' lon='30.36522974246'>
+    <tag k='name' v='Вместе' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://universamvmeste.ru/' />
+  </node>
+  <node id='8075208987' timestamp='2020-11-02T17:03:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93432044' lat='59.93360980882' lon='30.3663170317'>
+    <tag k='contact:vk' v='https://vk.com/oteli_peterburg' />
+    <tag k='name' v='Samsonov Hotels' />
+    <tag k='note' v='название не написано, может быть другой отель, принадлежность с сети определена по номеру телефона, но в сети этот номер у другого отеля' />
+    <tag k='phone' v='+7 906 2652414' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://sutki78.ru/' />
+  </node>
+  <way id='101539846' timestamp='2020-11-02T17:03:22Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='93432044'>
+    <nd ref='1172599859' />
+    <nd ref='2975334457' />
+    <nd ref='1172599531' />
+    <nd ref='1172599496' />
+    <nd ref='1172599349' />
+    <nd ref='1172599933' />
+    <nd ref='1172599790' />
+    <nd ref='2975334464' />
+    <nd ref='1172599626' />
+    <nd ref='1172599423' />
+    <nd ref='2975334471' />
+    <nd ref='1172599211' />
+    <nd ref='1172599716' />
+    <nd ref='1172599859' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='3-я Советская улица' />
+    <tag k='amenity' v='library' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='2' />
+    <tag k='contact:vk' v='https://vk.com/det_bibka_in_lit' />
+    <tag k='name' v='ЦДГБ им. А.С. Пушкина, Детская библиотека иностранной литературы' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 10:00-18:00' />
+    <tag k='operator' v='СПб ГБУК «Центральная городская детская библиотека им. А.С. Пушкина»' />
+    <tag k='website' v='https://www.pushkinlib.spb.ru/about/biblioteka-inostrannoy-literatury/' />
+    <tag k='wheelchair' v='limited' />
+  </way>
+</osm>

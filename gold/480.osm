@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='945285895' timestamp='2020-10-23T12:18:06Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='92949311' lat='59.94127284556' lon='30.39425791395'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Центральная столовая' />
+    <tag k='opening_hours' v='Mo,We,Fr 08:00-19:00; Tu,Th 08:00-20:00; Sa 09:00-19:00' />
+    <tag k='website' v='https://www.7771000.ru/services/tsentr-obshchestvennogo-pitaniya/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='945285987' timestamp='2020-10-23T12:18:06Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92949311' lat='59.94015532353' lon='30.39427153436'>
+    <tag k='contact:vk' v='https://vk.com/nevskaya_rukodelnica' />
+    <tag k='name' v='Невская рукодельница' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='https://nitki-kirova.ru/' />
+  </node>
+  <node id='8039706988' timestamp='2020-10-23T12:18:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92949311' lat='59.94015521772' lon='30.39422932114'>
+    <tag k='name' v='То, что надо!' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='houseware' />
+  </node>
+</osm>

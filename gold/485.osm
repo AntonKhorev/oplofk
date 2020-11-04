@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2399952016' timestamp='2020-10-29T12:28:12Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='93236761' lat='59.9308988' lon='30.3741046'>
+    <tag k='name' v='РосАл' />
+    <tag k='note' v='возможно также круглосуточный бар' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Актив 198»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='http://www.rosal24.ru/' />
+  </node>
+  <node id='8062561313' timestamp='2020-10-29T12:28:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93236761' lat='59.93156269736' lon='30.37218342775'>
+    <tag k='name' v='Centrodisconto' />
+    <tag k='opening_hours' v='Mo-Tu 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='https://tkani13.ru/' />
+  </node>
+  <node id='8062561314' timestamp='2020-10-29T12:28:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93236761' lat='59.93137773833' lon='30.37271822912'>
+    <tag k='amenity' v='courthouse' />
+    <tag k='name' v='Смольнинский районный суд, Отдел обеспечения судопроизводства по уголовным и административным делам' />
+    <tag k='website' v='http://smolninsky.spb.sudrf.ru/' />
+  </node>
+  <node id='8062561315' timestamp='2020-10-29T12:28:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93236761' lat='59.93126471818' lon='30.37304536854'>
+    <tag k='name' v='Жилищное агентство Центрального района, отдел вселения и регистрационного учета граждан' />
+    <tag k='office' v='government' />
+  </node>
+</osm>
