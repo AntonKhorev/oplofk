@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1028329095' timestamp='2016-05-24T17:15:45Z' uid='392109' user='GaM' visible='true' version='8' changeset='39538762' lat='59.9306519' lon='30.3749247'>
+    <tag k='alt_name' v='Пожарная часть №7 Центрального района' />
+    <tag k='amenity' v='fire_station' />
+    <tag k='fire_station:type' v='fpo' />
+    <tag k='name' v='Пожарная часть №7' />
+    <tag k='official_name' v='7-я пожарная часть 14-го отряда Федеральной Противопожарной Службы МЧС по Санкт-Петербургу' />
+    <tag k='operator' v='14-ОФПС по Санкт-Петербургу' />
+    <tag k='ref' v='7-ПЧ' />
+  </node>
+</osm>

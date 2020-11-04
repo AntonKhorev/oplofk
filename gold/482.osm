@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='601612732' timestamp='2017-02-24T11:11:08Z' uid='1925053' user='J_Doe' visible='true' version='3' changeset='46364354' lat='59.9317718' lon='30.3895439' />
+  <node id='601612733' timestamp='2017-02-24T11:11:08Z' uid='1925053' user='J_Doe' visible='true' version='3' changeset='46364354' lat='59.9315501' lon='30.389451' />
+  <node id='601612734' timestamp='2017-02-24T11:11:08Z' uid='1925053' user='J_Doe' visible='true' version='3' changeset='46364354' lat='59.9314969' lon='30.3893492' />
+  <node id='601612735' timestamp='2017-02-24T11:11:08Z' uid='1925053' user='J_Doe' visible='true' version='3' changeset='46364354' lat='59.9314725' lon='30.3890748' />
+  <node id='601612736' timestamp='2017-02-24T11:11:08Z' uid='1925053' user='J_Doe' visible='true' version='3' changeset='46364354' lat='59.9318139' lon='30.3892518' />
+  <node id='1360208859' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92954346' lat='59.93392202693' lon='30.39153681828'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='4356038201' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92954346' lat='59.93267364456' lon='30.38994416213'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Столовая' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+  </node>
+  <node id='4356058694' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='92954346' lat='59.93254858864' lon='30.38987724936'>
+    <tag k='name' v='Халяль минимаркет № 1' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='https://halalspb.ru/' />
+  </node>
+  <node id='4356059491' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92954346' lat='59.9345508156' lon='30.39222949993'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/jazzberryspb' />
+    <tag k='name' v='Jazzberry' />
+    <tag k='website' v='http://jazzberry.ru/' />
+  </node>
+  <node id='4356156489' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92954346' lat='59.9340056305' lon='30.39161663916'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Самарканд' />
+    <tag k='phone' v='+7 953 1772222' />
+  </node>
+  <node id='6846863886' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='92954346' lat='59.93546401295' lon='30.39321898875'>
+    <tag k='name' v='Энергосервисная компания Ленэнерго' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://lenserv.ru/' />
+  </node>
+  <node id='8039937490' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93152350001' lon='30.3894001'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='8039937491' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.9316957243' lon='30.38947507481'>
+    <tag k='name' v='Валаамский Паломник' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; May-Sep Sa 10:00-18:00; 12:00-14:00 off' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.valaam.com/' />
+  </node>
+  <node id='8039937492' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93171720637' lon='30.38948426387'>
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='shop' v='religion' />
+  </node>
+  <node id='8039937495' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93442936871' lon='30.39210575229'>
+    <tag k='contact:facebook' v='https://www.facebook.com/%D0%A1%D0%B0%D0%BB%D0%BE%D0%BD-%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D1%8B-%D0%91%D0%B0%D1%88%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D1%8A-436620433447377/' />
+    <tag k='name' v='Башкировъ' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://salon-bashkirov.ru/' />
+  </node>
+  <node id='8039937498' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.9351084635' lon='30.3928329843'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Lamadjo' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+  </node>
+  <node id='8039937499' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93525122619' lon='30.39298705699'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Халяль' />
+  </node>
+  <node id='8039937500' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93547363266' lon='30.39318323001'>
+    <tag k='name' v='Ленэнерго, филиал «Кабельная сеть»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://rosseti-lenenergo.ru/about/filials/kabel/' />
+  </node>
+  <node id='8039937501' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93575662943' lon='30.3935362724'>
+    <tag k='name' v='Молодые мастера' />
+    <tag k='opening_hours' v='11:00-17:00' />
+    <tag k='operator' v='ГБНОУ Дворец учащейся молодежи Санкт-Петербурга' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://profmuseum.spb.ru/index.php?id=34' />
+  </node>
+  <node id='8039937502' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93580564516' lon='30.3935895931'>
+    <tag k='contact:vk' v='https://vk.com/professmuseum' />
+    <tag k='name' v='Музей истории профессионального образования' />
+    <tag k='operator' v='ГБНОУ Дворец учащейся молодежи Санкт-Петербурга' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='http://profmuseum.spb.ru/' />
+  </node>
+  <node id='8039937503' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93617335654' lon='30.39398034531'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Багратион' />
+    <tag k='opening_hours' v='07:00-23:00' />
+    <tag k='operator' v='ООО «Багратион»' />
+    <tag k='website' v='https://bagrationhotel.com/resto' />
+  </node>
+  <node id='8039937504' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='92954346' lat='59.93623290302' lon='30.39404284581'>
+    <tag k='contact:vk' v='https://vk.com/bagrationhotelspb' />
+    <tag k='name' v='Багратион' />
+    <tag k='operator' v='ООО «Багратион»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://bagrationhotel.com/' />
+  </node>
+  <way id='47218023' timestamp='2020-10-23T14:11:49Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='92954346'>
+    <nd ref='601612732' />
+    <nd ref='601612733' />
+    <nd ref='8039937490' />
+    <nd ref='601612734' />
+    <nd ref='601612735' />
+    <nd ref='601612736' />
+    <nd ref='601612732' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='34-36' />
+    <tag k='addr:street' v='Синопская набережная' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='2' />
+    <tag k='denomination' v='russian_orthodox' />
+    <tag k='description' v='Часть Санкт-Петербургского подворья Валаамского монастыря: Часовня в честь иконы Божией Матери «Всех скорбящих радость» (на историческом подворье Валаамского монастыря на Синопской набережной).' />
+    <tag k='name' v='Часовня Всех скорбящих Радость (Валаам)' />
+    <tag k='religion' v='christian' />
+    <tag k='website' v='https://valaam.spb.ru/o-monastire-i-podvorie/podvore-v-peterburge/kazanskij-khram-i-chasovni/chasovnya-na-sinopskoj' />
+  </way>
+</osm>

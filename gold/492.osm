@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1369643087' timestamp='2020-11-04T17:37:38Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='93555945' lat='59.93798495187' lon='30.36966929553'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/britishbakery/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/britishbakery/' />
+    <tag k='contact:phone' v='+78123634383' />
+    <tag k='contact:vk' v='https://vk.com/club_british_bakery' />
+    <tag k='cuisine' v='cake;breakfast;coffee_shop;tea' />
+    <tag k='email' v='shop@baltic-bread.ru' />
+    <tag k='name' v='Британские пекарни' />
+    <tag k='name:en' v='British bakery' />
+    <tag k='name:ru' v='Британские пекарни' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00' />
+    <tag k='operator' v='ООО «Британская кондитерская на Греческом 25»' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='https://british-bakery.ru/shops/grecheskiy-pr-25/' />
+  </node>
+  <node id='8081928101' timestamp='2020-11-04T17:37:38Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93555945' lat='59.93760785469' lon='30.36926269241'>
+    <tag k='contact:vk' v='https://vk.com/mrbrospb' />
+    <tag k='name' v='Mr. Bro' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://mrbrobarbershop.ru/' />
+  </node>
+</osm>

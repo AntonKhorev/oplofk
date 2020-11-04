@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2992201448' timestamp='2020-11-04T15:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='93551217' lat='59.9348517' lon='30.3662056'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад №34' />
+    <tag k='operator' v='ГБДОУ детский сад №34 Центрального района СПб' />
+    <tag k='website' v='http://34detsadspb.ru/' />
+  </node>
+  <node id='2992201449' timestamp='2020-11-04T15:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='93551217' lat='59.9350069' lon='30.3663905'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Мимино' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-23:00; Su 12:00-23:00' />
+  </node>
+  <node id='2992205088' timestamp='2020-11-04T15:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='93551217' lat='59.9351731' lon='30.3665872'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Греческий проспект' />
+    <tag k='name' v='Береста' />
+    <tag k='name:en' v='Beresta' />
+    <tag k='note' v='возможно переименован или закрыт' />
+    <tag k='phone' v='+7 812 2710434;+7 921 7992625' />
+    <tag k='smoking' v='outside' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.ghspb.info/' />
+  </node>
+  <node id='2992205089' timestamp='2020-11-04T15:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='93551217' lat='59.9352971' lon='30.3667342'>
+    <tag k='office' v='lawyer' />
+    <tag k='phone' v='+7 812 9047687' />
+  </node>
+  <node id='6300626485' timestamp='2020-11-04T15:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='93551217' lat='59.9353423' lon='30.3667879'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Греческий проспект' />
+    <tag k='contact:instagram' v='https://www.instagram.com/mrfox_coffee/' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Mr. Fox Coffee' />
+  </node>
+  <node id='8081642959' timestamp='2020-11-04T15:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93551217' lat='59.9351141' lon='30.3665172'>
+    <tag k='contact:vk' v='https://vk.com/club15600846' />
+    <tag k='name' v='Lucky Nail' />
+    <tag k='shop' v='beauty' />
+  </node>
+</osm>
