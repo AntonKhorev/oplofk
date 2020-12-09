@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='849157907' timestamp='2020-12-08T16:42:37Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='95500187' lat='59.92157829584' lon='30.35182572784'>
+    <tag k='name' v='Хозяйственный двор' />
+    <tag k='shop' v='houseware' />
+  </node>
+  <node id='6797200486' timestamp='2020-12-08T16:42:37Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='95500187' lat='59.92144946641' lon='30.35151960456'>
+    <tag k='contact:vk' v='https://vk.com/regaltextiles' />
+    <tag k='name' v='Regal Textiles' />
+    <tag k='opening_hours' v='Mo-Su 11:00-20:00' />
+    <tag k='phone' v='+7 965 0827000' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='http://regaltextiles.com/' />
+  </node>
+  <node id='8206601262' timestamp='2020-12-08T16:42:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95500187' lat='59.9205141925' lon='30.34931434496'>
+    <tag k='contact:instagram' v='https://www.instagram.com/salonyulana/' />
+    <tag k='contact:vk' v='https://vk.com/salonyulana' />
+    <tag k='name' v='Юлана' />
+    <tag k='note' v='возможно переехал' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://salonyulana.ru/' />
+  </node>
+  <node id='8206601263' timestamp='2020-12-08T16:42:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95500187' lat='59.92072461288' lon='30.34983000927'>
+    <tag k='contact:instagram' v='https://www.instagram.com/smo_lashes/' />
+    <tag k='contact:vk' v='https://vk.com/eyelashes2004' />
+    <tag k='name' v='Smo_Lashes' />
+    <tag k='note' v='возможно закрыто' />
+    <tag k='shop' v='beauty' />
+  </node>
+</osm>

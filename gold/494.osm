@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='771563053' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='3' changeset='92177313' lat='59.9233817' lon='30.3432293' />
+  <node id='771564510' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='5' changeset='92177313' lat='59.923099' lon='30.3436469' />
+  <node id='771565454' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='4' changeset='92177313' lat='59.9235124' lon='30.3429052' />
+  <node id='771566093' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='3' changeset='92177313' lat='59.9236881' lon='30.3431987' />
+  <node id='771566248' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='3' changeset='92177313' lat='59.9236155' lon='30.3430819' />
+  <node id='771566726' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='4' changeset='92177313' lat='59.9234398' lon='30.3427832' />
+  <node id='771567547' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='4' changeset='92177313' lat='59.9232676' lon='30.3442349' />
+  <node id='771568457' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='3' changeset='92177313' lat='59.9235723' lon='30.3434757' />
+  <node id='771568653' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='3' changeset='92177313' lat='59.9234942' lon='30.3433975' />
+  <node id='771569221' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='5' changeset='92177313' lat='59.9230215' lon='30.3438347' />
+  <node id='2081348189' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92177313' lat='59.9233468' lon='30.3440388' />
+  <node id='2081348192' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92177313' lat='59.9234054' lon='30.3438937' />
+  <node id='2081348195' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92177313' lat='59.9235483' lon='30.3435401' />
+  <node id='2963069051' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93568910' lat='59.92337036046' lon='30.34271071165'>
+    <tag k='contact:vk' v='https://vk.com/bunsburg' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Buns &amp; Burgers' />
+  </node>
+  <node id='4199861068' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93568910' lat='59.92338854705' lon='30.34274208848'>
+    <tag k='contact:vk' v='https://vk.com/nickol_spb' />
+    <tag k='level' v='0' />
+    <tag k='name' v='НикОль' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://nickolspb.ru/' />
+  </node>
+  <node id='4280642209' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='93568910' lat='59.92299578944' lon='30.34208848419'>
+    <tag k='amenity' v='cafe' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Шаверма-сити' />
+    <tag k='phone' v='+7 950 0005042' />
+  </node>
+  <node id='5048409521' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93568910' lat='59.92445409159' lon='30.34451939536'>
+    <tag k='contact:instagram' v='https://www.instagram.com/4130_shop/' />
+    <tag k='contact:vk' v='https://vk.com/shop_4130' />
+    <tag k='name' v='4130 Shop' />
+    <tag k='note' v='возможно вход не здесь' />
+    <tag k='shop' v='bicycle' />
+    <tag k='website' v='https://4130shop.ru/' />
+  </node>
+  <node id='6943112756' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='93568910' lat='59.92322681016' lon='30.34246245055'>
+    <tag k='alt_name' v='Ленусь, я всё уберу!' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/tbpbar/' />
+    <tag k='contact:vk' v='https://vk.com/tbpps' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Теория Большого Пива' />
+    <tag k='short_name' v='ТБП' />
+  </node>
+  <node id='6960645616' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='93568910' lat='59.9248459295' lon='30.34520515832'>
+    <tag k='brand' v='ВкусВилл' />
+    <tag k='brand:wikidata' v='Q57271676' />
+    <tag k='brand:wikipedia' v='ru:Вкусвилл' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vkusvill.ru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/vkusvill_ru/' />
+    <tag k='contact:phone' v='+7 921 3342787' />
+    <tag k='contact:twitter' v='https://twitter.com/we_are_vkusvill' />
+    <tag k='contact:vk' v='https://vk.com/vkusvill_ru' />
+    <tag k='name' v='ВкусВилл' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='https://spb.vkusvill.ru/shops/?shop_id=12473' />
+  </node>
+  <node id='7015964422' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='93568910' lat='59.92388307272' lon='30.34357012777'>
+    <tag k='alt_name' v='Хинкальная Сабатони' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/KafeSabatoni' />
+    <tag k='cuisine' v='georgian;dumplings' />
+    <tag k='name' v='Сабатони' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:59' />
+    <tag k='phone' v='+7 960 2674749' />
+    <tag k='website' v='https://sabatoni.ru/' />
+  </node>
+  <node id='7988269326' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='1' changeset='92177313' lat='59.9230727' lon='30.3437077' />
+  <node id='7988269518' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='1' changeset='92177313' lat='59.9234343' lon='30.3433079'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='7988269520' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='1' changeset='92177313' lat='59.923259' lon='30.3431681' />
+  <node id='7988269521' timestamp='2020-10-08T12:52:28Z' uid='2806751' user='Aulus' visible='true' version='1' changeset='92177313' lat='59.9232724' lon='30.3432378' />
+  <node id='8082933063' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92465314357' lon='30.34486012204'>
+    <tag k='contact:vk' v='https://vk.com/holidaypost' />
+    <tag k='name' v='Holiday Post' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='8082933064' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92460973237' lon='30.34478492842'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='name' v='Веда-Мед' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ООО «Веда-Мед»' />
+    <tag k='phone' v='+7 812 6794403' />
+  </node>
+  <node id='8082933065' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92459348493' lon='30.3447570364'>
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='greengrocer' />
+  </node>
+  <node id='8082933066' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92453352612' lon='30.34465349834'>
+    <tag k='amenity' v='cafe' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='8082933067' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92399950952' lon='30.34376425671'>
+    <tag k='brand' v='Фабрика имени Крупской' />
+    <tag k='brand:wikidata' v='Q4480319' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Фабрика имени Крупской' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='https://krypskaja-shop.ru/' />
+  </node>
+  <node id='8082933068' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92382901665' lon='30.34348048654'>
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 10:00-19:00' />
+    <tag k='shop' v='doityourself' />
+  </node>
+  <node id='8082933069' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92379263359' lon='30.3434195115'>
+    <tag k='name' v='Аватерра' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00' />
+    <tag k='website' v='http://www.avaterra.spb.ru/' />
+  </node>
+  <node id='8082933070' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92371904829' lon='30.3432973158'>
+    <tag k='contact:vk' v='https://vk.com/citystyle.salon' />
+    <tag k='name' v='City Style' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://saloncitystyle.ru/' />
+  </node>
+  <node id='8082933071' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92359927564' lon='30.34318341511'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Екатерина Великая' />
+    <tag k='website' v='https://thehermitagehotel.ru/catherine-the-great-restaurant/' />
+  </node>
+  <node id='8082933072' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92346518681' lon='30.3429646033'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Микеланджело' />
+    <tag k='website' v='https://thehermitagehotel.ru/michelangelo-restaurant/' />
+  </node>
+  <node id='8082933073' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93568910' lat='59.92315053081' lon='30.34233199022'>
+    <tag k='contact:vk' v='https://vk.com/brilliant_spb_2017' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Brilliant' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Бриллиант»' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://brilliant.spb.ru/' />
+  </node>
+  <way id='61909172' timestamp='2020-11-05T02:14:31Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='93568910'>
+    <nd ref='771566093' />
+    <nd ref='771566248' />
+    <nd ref='771568653' />
+    <nd ref='7988269518' />
+    <nd ref='771563053' />
+    <nd ref='771565454' />
+    <nd ref='771566726' />
+    <nd ref='7988269520' />
+    <nd ref='7988269521' />
+    <nd ref='771564510' />
+    <nd ref='7988269326' />
+    <nd ref='771569221' />
+    <nd ref='771567547' />
+    <nd ref='2081348189' />
+    <nd ref='2081348192' />
+    <nd ref='2081348195' />
+    <nd ref='771568457' />
+    <nd ref='771566093' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='улица Правды' />
+    <tag k='building' v='yes' />
+    <tag k='contact:facebook' v='https://www.facebook.com/thehermitagehotel.ru' />
+    <tag k='name' v='Эрмитаж' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://thehermitagehotel.ru/' />
+  </way>
+</osm>

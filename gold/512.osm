@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='676147106' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='95558761' lat='59.91803117347' lon='30.36238349937' />
+  <node id='676147150' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='95558761' lat='59.9181624312' lon='30.36158014569' />
+  <node id='676147152' timestamp='2013-11-30T19:30:16Z' uid='623185' user='coho' visible='true' version='3' changeset='19199673' lat='59.9183182' lon='30.3616814' />
+  <node id='676147186' timestamp='2015-02-11T16:55:00Z' uid='700550' user='EIjas' visible='true' version='4' changeset='28777559' lat='59.918222' lon='30.362268' />
+  <node id='676147188' timestamp='2015-02-11T16:55:00Z' uid='700550' user='EIjas' visible='true' version='4' changeset='28777559' lat='59.9181867' lon='30.3624888' />
+  <node id='1377381376' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='95544984' lat='59.91850442442' lon='30.35951012542' />
+  <node id='1377381377' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='95544984' lat='59.91873065104' lon='30.35810457998' />
+  <node id='1377381379' timestamp='2015-02-11T17:09:05Z' uid='700550' user='EIjas' visible='true' version='3' changeset='28777865' lat='59.9187055' lon='30.3596301' />
+  <node id='1377381380' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='95544984' lat='59.91891554014' lon='30.35822078435' />
+  <node id='8209857605' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.9180860057' lon='30.36204790299'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='8209857615' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.91818458725' lon='30.36156108751'>
+    <tag k='contact:instagram' v='https://www.instagram.com/ars_tuning_studio/' />
+    <tag k='name' v='ARS Tuning Studio' />
+    <tag k='shop' v='car_repair' />
+  </node>
+  <node id='8209857616' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.91838731785' lon='30.3604869734'>
+    <tag k='contact:vk' v='https://vk.com/shpagat.team_spb' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='Shpagat.team' />
+    <tag k='website' v='http://www.shpagat.team/page12049458.html' />
+  </node>
+  <node id='8209883717' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.91834177807' lon='30.3610119653'>
+    <tag k='contact:vk' v='https://vk.com/diskontreklama' />
+    <tag k='name' v='Дисконт Реклама' />
+    <tag k='office' v='advertising_agency' />
+    <tag k='website' v='https://дисконт-реклама.рф/' />
+  </node>
+  <node id='8209883718' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.91824107584' lon='30.36163126696' />
+  <node id='8209883725' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.9182097608' lon='30.36197335981' />
+  <node id='8209883726' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.91823393767' lon='30.36182538642' />
+  <node id='8209883727' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.91810890188' lon='30.36190776852' />
+  <node id='8209883728' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95558761' lat='59.91813307882' lon='30.36175979513' />
+  <way id='53513095' timestamp='2020-12-09T14:16:32Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='95558761'>
+    <nd ref='676147152' />
+    <nd ref='8209883718' />
+    <nd ref='676147150' />
+    <nd ref='8209883728' />
+    <nd ref='8209883726' />
+    <nd ref='8209883725' />
+    <nd ref='8209883727' />
+    <nd ref='8209857605' />
+    <nd ref='676147106' />
+    <nd ref='676147188' />
+    <nd ref='676147186' />
+    <nd ref='676147152' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Роменская улица' />
+    <tag k='amenity' v='place_of_worship' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='7' />
+    <tag k='denomination' v='orthodox' />
+    <tag k='name' v='Храм святителя Петра Митрополита Московского' />
+    <tag k='religion' v='christian' />
+    <tag k='source:addr' v='rgis' />
+    <tag k='website' v='http://xram-na-romenskoi.ru/' />
+  </way>
+  <way id='123552424' timestamp='2019-12-17T12:23:14Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='78526417'>
+    <nd ref='1377381376' />
+    <nd ref='1377381379' />
+    <nd ref='1377381380' />
+    <nd ref='1377381377' />
+    <nd ref='1377381376' />
+    <tag k='amenity' v='kindergarten' />
+    <tag k='barrier' v='fence' />
+    <tag k='contact:email' v='dou145.centr@obr.gov.spb.ru' />
+    <tag k='contact:phone' v='+7 812 7649965' />
+    <tag k='contact:website' v='http://sad145.my1.ru' />
+    <tag k='name' v='Детский сад № 145' />
+    <tag k='official_name' v='Государственное бюджетное дошкольное образовательное учреждение детский сад № 145 комбинированного вида Центрального района Санкт-Петербурга' />
+  </way>
+</osm>

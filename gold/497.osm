@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3632674834' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='94434034' lat='59.92296752571' lon='30.35039107113'>
+    <tag k='name' v='AST' />
+    <tag k='opening_hours' v='09:00-20:00' />
+    <tag k='operator' v='ООО «АСТ-Санкт-Петербург»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://ast-travel.ru/' />
+  </node>
+  <node id='3632929546' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94434034' lat='59.92419721209' lon='30.35115059036'>
+    <tag k='contact:instagram' v='https://www.instagram.com/rukodelie_shop.spb/' />
+    <tag k='name' v='Рукоделие' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ИП Маньков В.А.' />
+    <tag k='shop' v='sewing' />
+  </node>
+  <node id='3632929547' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94434034' lat='59.92414178053' lon='30.35111511232'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/meg_obari/' />
+    <tag k='contact:vk' v='https://vk.com/cafe_megobari' />
+    <tag k='name' v='Megobari' />
+  </node>
+  <node id='3632929548' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='94434034' lat='59.92408720078' lon='30.35108050409'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='улица Марата' />
+    <tag k='alt_name' v='21 век' />
+    <tag k='amenity' v='clinic' />
+    <tag k='contact:vk' v='https://vk.com/mc21vek' />
+    <tag k='healthcare' v='clinic' />
+    <tag k='healthcare:speciality' v='gynaecology;ophthalmology;paediatrics;orthopaedics;dermatology;otolaryngology;osteopathy;urology;surgery;cardiology;neurology' />
+    <tag k='name' v='XXI век' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ООО «МЦ «XXI век»' />
+    <tag k='phone' v='+7 812 3800238' />
+    <tag k='website' v='https://www.mc21.ru' />
+  </node>
+  <node id='3632929549' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='94434034' lat='59.92374685486' lon='30.35087150752'>
+    <tag k='amenity' v='dentist' />
+    <tag k='healthcare' v='dentist' />
+    <tag k='name' v='Все свои!' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='website' v='https://vse-svoi.ru/spb/adresa-stomatologiy/metro-ligovskiy-prospekt/' />
+  </node>
+  <node id='3632929550' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='94434034' lat='59.92362282363' lon='30.35079341868'>
+    <tag k='contact:vk' v='https://vk.com/laorspb' />
+    <tag k='massage' v='ayurvedic' />
+    <tag k='name' v='Лаор' />
+    <tag k='operator' v='ООО «Центр Лаор»' />
+    <tag k='shop' v='massage' />
+    <tag k='website' v='http://arpanaveda.com/' />
+  </node>
+  <node id='3632929551' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94434034' lat='59.92351553774' lon='30.35072712102'>
+    <tag k='name' v='Shooza' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='origin' v='italian' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='3632929552' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94434034' lat='59.92340121201' lon='30.35065649674'>
+    <tag k='contact:facebook' v='https://www.facebook.com/amwine.ru/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/amwine.ru/' />
+    <tag k='contact:telegram' v='https://t.me/amwineru' />
+    <tag k='contact:twitter' v='https://twitter.com/amwineru' />
+    <tag k='contact:vk' v='https://vk.com/amwineru' />
+    <tag k='name' v='Ароматный мир' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «АМ-2 СПб»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://amwine.ru/customers/shops/detail/433845/' />
+  </node>
+  <node id='3632929553' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94434034' lat='59.92331589645' lon='30.35060482645'>
+    <tag k='contact:vk' v='https://vk.com/spbshtory' />
+    <tag k='name' v='Одежда для окон' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ИП Елизаров В.В.' />
+    <tag k='shop' v='curtain' />
+    <tag k='website' v='https://spb-shtori.ru/' />
+  </node>
+  <node id='3632929554' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94434034' lat='59.92316060107' lon='30.35051033887'>
+    <tag k='name' v='Книги' />
+    <tag k='shop' v='books' />
+  </node>
+  <node id='3632929555' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94434034' lat='59.92305335857' lon='30.35044389207'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/laperlaspb/' />
+    <tag k='contact:vk' v='https://vk.com/laperlaspb' />
+    <tag k='name' v='La Perla Fish House' />
+    <tag k='opening_hours' v='12:00-00:00' />
+    <tag k='operator' v='ООО «Жемчужина»' />
+    <tag k='website' v='https://seafoodrestaurant.laperlarest.ru/' />
+  </node>
+  <node id='8142187920' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='94434034' lat='59.92328014482' lon='30.35058281763'>
+    <tag k='contact:facebook' v='https://www.facebook.com/404fashionbrand/' />
+    <tag k='name' v='404 Not Found' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://404notfound.ru/' />
+  </node>
+  <node id='8142187922' timestamp='2020-11-19T11:46:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='94434034' lat='59.92291809642' lon='30.35036046576'>
+    <tag k='contact:vk' v='https://vk.com/vinylbox' />
+    <tag k='name' v='Vinylbox' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='shop' v='music' />
+    <tag k='website' v='http://www.vinylbox.ru/' />
+  </node>
+</osm>

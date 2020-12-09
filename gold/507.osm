@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2558695253' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95504625' lat='59.92064547057' lon='30.35185182857'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Баня' />
+    <tag k='note' v='видимо vk.com/ur_shaverma_banya , но страница давно не обновлялась' />
+  </node>
+  <node id='4207548389' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='95504625' lat='59.9212048' lon='30.3533183'>
+    <tag k='brand' v='Булочные Ф. Вольчека' />
+    <tag k='contact:email' v='info@fvolchek.ru' />
+    <tag k='contact:phone' v='+7 812 6420638' />
+    <tag k='contact:vk' v='https://vk.com/f.volchek' />
+    <tag k='contact:website' v='http://fvolchek.ru/' />
+    <tag k='drink:coffee' v='served' />
+    <tag k='drink:mors' v='served' />
+    <tag k='drink:tea' v='served' />
+    <tag k='inscription' v='Булочная № 27' />
+    <tag k='name' v='Булочная Ф. Вольчека' />
+    <tag k='name:ru' v='Булочная Ф. Вольчека' />
+    <tag k='opening_hours' v='Mo-Su 08:00-22:00' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_debit' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='ref' v='27' />
+    <tag k='shop' v='bakery' />
+    <tag k='takeaway' v='yes' />
+  </node>
+  <node id='4227758945' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95504625' lat='59.92100774994' lon='30.35286758307'>
+    <tag k='name' v='Арена света' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='shop' v='lighting' />
+    <tag k='website' v='http://arenasveta.ru/arena-sveta-zaslonova/' />
+  </node>
+  <node id='7514904093' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95504625' lat='59.92082913902' lon='30.35236934698'>
+    <tag k='brand' v='Красное &amp; Белое' />
+    <tag k='brand:wikidata' v='Q24933790' />
+    <tag k='brand:wikipedia' v='en:Krasnoe &amp; Beloe' />
+    <tag k='contact:vk' v='https://vk.com/krasnoebeloe' />
+    <tag k='name' v='Красное &amp; Белое' />
+    <tag k='opening_hours' v='09:00-22:05' />
+    <tag k='operator' v='ООО «Альфа-М»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://krasnoeibeloe.ru/' />
+  </node>
+  <node id='8206846076' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92112644065' lon='30.35318983475'>
+    <tag k='name' v='Термобельё' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.kranti.ru/' />
+  </node>
+  <node id='8206846077' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92108378173' lon='30.35307549445'>
+    <tag k='contact:facebook' v='https://www.facebook.com/respublikaserbskaya/' />
+    <tag k='country' v='BA' />
+    <tag k='diplomatic' v='liaison' />
+    <tag k='liaison' v='subnational' />
+    <tag k='name' v='Представительство Республики Сербской' />
+    <tag k='office' v='diplomatic' />
+    <tag k='website' v='https://www.rsmoscowoffice.ru/' />
+  </node>
+  <node id='8206846078' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92096828266' lon='30.35275795641'>
+    <tag k='contact:vk' v='https://vk.com/service_to4ka' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='Сервис-Точка' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-21:00' />
+  </node>
+  <node id='8206846079' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92092513368' lon='30.35263734779'>
+    <tag k='contact:vk' v='https://vk.com/teaostrov' />
+    <tag k='name' v='Чайный остров' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 09:00-20:00' />
+    <tag k='operator' v='ИП Краснова Ольга Михайловна' />
+    <tag k='shop' v='confectionery' />
+  </node>
+  <node id='8206846080' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92076345144' lon='30.35218553181'>
+    <tag k='contact:vk' v='https://vk.com/tkanivalentinaspb' />
+    <tag k='name' v='Valentina' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='fabric' />
+    <tag k='website' v='https://tkani-valentina.ru/' />
+  </node>
+  <node id='8206846081' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92066853804' lon='30.35191796356'>
+    <tag k='name' v='LeningradArt.com' />
+    <tag k='tourism' v='gallery' />
+    <tag k='website' v='http://leningradart.com/' />
+  </node>
+  <node id='8206846082' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92062791945' lon='30.35163178973'>
+    <tag k='name' v='Атлантис' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://atlan.ru/' />
+  </node>
+  <node id='8206846083' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.9205504773' lon='30.35157802231'>
+    <tag k='contact:instagram' v='https://www.instagram.com/vintage_vchera/' />
+    <tag k='contact:vk' v='https://vk.com/secondvchera' />
+    <tag k='name' v='Вчера' />
+    <tag k='shop' v='second_hand' />
+  </node>
+  <node id='8206846084' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92038594077' lon='30.35107590191'>
+    <tag k='name' v='МРГ Технологии' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://mrgt.ru/' />
+  </node>
+  <node id='8206846085' timestamp='2020-12-08T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95504625' lat='59.92037206772' lon='30.35109315455'>
+    <tag k='amenity' v='university' />
+    <tag k='name' v='Международный институт экономики и права' />
+    <tag k='short_name' v='МИЭП' />
+    <tag k='website' v='https://miep.ru/region/6538/' />
+  </node>
+</osm>

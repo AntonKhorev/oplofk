@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4953089365' timestamp='2020-11-23T20:39:40Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94661124' lat='59.9231479' lon='30.2912616'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/24ugagika/' />
+    <tag k='name' v='У Гагика' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='website' v='http://www.ygagika68.ru/' />
+  </node>
+  <node id='8155893387' timestamp='2020-11-23T20:42:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='94661277' lat='59.923153' lon='30.2914382'>
+    <tag k='amenity' v='music_school' />
+    <tag k='contact:vk' v='https://vk.com/factorymusicschool' />
+    <tag k='name' v='Factory Music School' />
+    <tag k='opening_hours' v='Mo-Fr 14:00-22:00; Sa-Su 12:00-20:00' />
+    <tag k='website' v='https://factorymusic.ru/' />
+  </node>
+</osm>

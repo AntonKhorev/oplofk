@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3632929544' timestamp='2020-12-08T14:47:31Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95494748' lat='59.92428161741' lon='30.35137065174'>
+    <tag k='name' v='Новая волна' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-17:00' />
+    <tag k='shop' v='hearing_aids' />
+    <tag k='website' v='https://newsluh.ru/' />
+  </node>
+</osm>

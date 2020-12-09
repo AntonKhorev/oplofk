@@ -38,6 +38,19 @@ function getGoldCell(josmLayerTitle,goldId) {
 	}
 	return getLink("файл",josmLayerTitle,"gold/"+goldId+".osm",window.location.href.replace(/\/[^/]*$/,"/gold/"+goldId+".osm"))
 }
+function getDateCell(date,points) {
+	var poly=''
+	for (var i=0;i<points.length;i++) {
+		if (i) poly+=' '
+		poly+=points[i][0]+' '+points[i][1]
+	}
+	var query=''
+	query+='[date:"'+date+'T00:00:00Z"];\n' // TODO use proper timezone
+	query+='nwr(poly:"'+poly+'");\n'
+	query+='//nwr._[!landuse];\n'
+	query+='out meta geom;'
+	return "<sup><a href='https://overpass-turbo.eu/?Q="+encodeURIComponent(query)+"'>OPT-</a></sup><time>"+date+"</time>"
+}
 
 var div=document.getElementById('map')
 div.innerHTML=''
@@ -50,12 +63,6 @@ var latAcc=0, lonAcc=0
 var segmentLayer=L.featureGroup(data.map(function(segment){
 	var LATS=0, LONS=1, NAME=2, DESC=3, SURVEYS=4
 	var DATE=0, CSETS=1, GOLD=2
-	var popupHtml="<strong>"+segment[NAME]+"</strong><br>"+segment[DESC]+"<br><br><table><tr><th>дата<th>пакеты<th>данные"
-	for (var i=0;i<segment[SURVEYS].length;i++) {
-		var josmLayerTitle=segment[NAME]+" - "+segment[SURVEYS][i][DATE]
-		popupHtml+="<tr><td><time>"+segment[SURVEYS][i][DATE]+"</time><td>"+getChangesetsCell(josmLayerTitle,segment[SURVEYS][i][CSETS])+"<td>"+getGoldCell(josmLayerTitle,segment[SURVEYS][i][GOLD])
-	}
-	popupHtml+="</table>"
 	var age=now-Date.parse(segment[SURVEYS][segment[SURVEYS].length-1][DATE])
 	var points=[]
 	for (var i=0;i<segment[LATS].length;i++) {
@@ -64,6 +71,12 @@ var segmentLayer=L.featureGroup(data.map(function(segment){
 			(lonAcc+=segment[LONS][i])/100000
 		])
 	}
+	var popupHtml="<strong>"+segment[NAME]+"</strong><br>"+segment[DESC]+"<br><br><table><tr><th>дата<th>пакеты<th>данные"
+	for (var i=0;i<segment[SURVEYS].length;i++) {
+		var josmLayerTitle=segment[NAME]+" - "+segment[SURVEYS][i][DATE]
+		popupHtml+="<tr><td>"+getDateCell(segment[SURVEYS][i][DATE],points)+"<td>"+getChangesetsCell(josmLayerTitle,segment[SURVEYS][i][CSETS])+"<td>"+getGoldCell(josmLayerTitle,segment[SURVEYS][i][GOLD])
+	}
+	popupHtml+="</table>"
 	var segmentPolygon=L.polygon(points,{color:computePolygonColor(age,defaultColorThreshold)}).bindPopup(popupHtml)
 	segmentPolygon.age=age
 	return segmentPolygon

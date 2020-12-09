@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803254403' timestamp='2020-12-09T12:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='95553982' lat='59.9192476' lon='30.3536003'>
+    <tag k='brand' v='ВТБ' />
+    <tag k='brand:wikidata' v='Q1549389' />
+    <tag k='brand:wikipedia' v='en:VTB Bank' />
+    <tag k='contact:email' v='info@vtb.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vtbrussia' />
+    <tag k='contact:ok' v='https://ok.ru/vtb' />
+    <tag k='contact:twitter' v='https://twitter.com/vtb' />
+    <tag k='contact:vk' v='https://vk.com/vtb' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/vtbgroup' />
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='ВТБ' />
+    <tag k='operator' v='Банк ВТБ (публичное акционерное общество)' />
+    <tag k='operator:wikidata' v='Q1549389' />
+    <tag k='website' v='https://www.vtb.ru/o-banke/kontakty/otdeleniya/business/mb/spbobl_spb_ligovskiipr_108a_mb_exbm/' />
+  </node>
+  <node id='849150438' timestamp='2020-12-09T12:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='95553982' lat='59.91902745513' lon='30.35480788083'>
+    <tag k='contact:vk' v='https://vk.com/sk_guideh' />
+    <tag k='name' v='Гайде' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-19:00; Sa 10:00-17:00' />
+    <tag k='website' v='https://guidehins.ru/' />
+  </node>
+  <node id='8209621069' timestamp='2020-12-09T12:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95553982' lat='59.91915551945' lon='30.35418256983'>
+    <tag k='contact:vk' v='https://vk.com/hotelnaligovke' />
+    <tag k='name' v='Отель на Лиговском' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.hotelnaligovskom.com/' />
+  </node>
+  <node id='8209621070' timestamp='2020-12-09T12:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95553982' lat='59.91910542613' lon='30.35449423502'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/clinic.guideh' />
+    <tag k='name' v='Гайде' />
+    <tag k='website' v='https://guideh.clinic/' />
+  </node>
+  <node id='8209621071' timestamp='2020-12-09T12:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95553982' lat='59.91894634185' lon='30.35480671488'>
+    <tag k='contact:vk' v='https://vk.com/maestro_hostel_spb' />
+    <tag k='name' v='Maestro Hostel' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='http://maestrohostel.ru/' />
+  </node>
+  <node id='8209621074' timestamp='2020-12-09T12:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95553982' lat='59.91889874918' lon='30.35512405257'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Восточный банк' />
+    <tag k='brand:wikidata' v='Q4126657' />
+    <tag k='contact:vk' v='https://vk.com/vostbankru' />
+    <tag k='name' v='Восточный' />
+    <tag k='operator' v='ПАО КБ «Восточный»' />
+    <tag k='operator:wikidata' v='Q4126657' />
+    <tag k='website' v='https://www.vostbank.ru/' />
+  </node>
+</osm>

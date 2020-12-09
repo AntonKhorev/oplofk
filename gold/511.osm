@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1085406498' timestamp='2020-12-09T13:28:05Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='95556297' lat='59.91611631758' lon='30.35071006536'>
+    <tag k='alt_name' v='Я люблю кофе' />
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Мельница' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 10:00-22:00' />
+  </node>
+  <node id='4117210090' timestamp='2020-12-09T13:28:05Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='95556297' lat='59.91602030646' lon='30.35064392505'>
+    <tag k='contact:vk' v='https://vk.com/gentlemen_spb' />
+    <tag k='name' v='Джентельмены' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://barbergentle.ru/' />
+  </node>
+  <node id='8209745714' timestamp='2020-12-09T13:28:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95556297' lat='59.91643006858' lon='30.35090771649'>
+    <tag k='amenity' v='police' />
+    <tag k='name' v='Главное следственное управление МВД по Санкт-Петербургу и Ленинградской области' />
+    <tag k='website' v='https://78.мвд.рф/gumvd/structure/item/609271/' />
+  </node>
+</osm>

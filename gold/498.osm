@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8147469758' timestamp='2020-11-20T21:27:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='94524617' lat='59.9231196' lon='30.3434984'>
+    <tag k='contact:vk' v='https://vk.com/vladimokspb' />
+    <tag k='name' v='Владимирский округ, Муниципальный Совет и Местная Администрация' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://владимирскийокруг.рф/' />
+  </node>
+  <node id='8147469759' timestamp='2020-11-20T21:27:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='94524617' lat='59.9228698' lon='30.3430779'>
+    <tag k='contact:instagram' v='https://www.instagram.com/magazin_tolstovok/' />
+    <tag k='contact:vk' v='https://vk.com/magazin_tolstovok' />
+    <tag k='name' v='Magazin-Tolstovok' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://magazin-tolstovok.ru/' />
+  </node>
+  <node id='8147469760' timestamp='2020-11-20T21:27:18Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='94524617' lat='59.9227519' lon='30.3428672'>
+    <tag k='name' v='Топэнерго' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.topenergospb.ru/' />
+  </node>
+</osm>

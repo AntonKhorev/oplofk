@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3633411890' timestamp='2019-02-01T18:15:41Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='66840626' lat='59.9219223' lon='30.3524436'>
+    <tag k='contact:vk' v='https://vk.com/podrygkashop' />
+    <tag k='name' v='Подружка' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://www.podrygka.ru/shoplist/260_sankt_peterburg_na_razezzhey/' />
+  </node>
+  <node id='3633437903' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95498100' lat='59.92270617326' lon='30.35296598058'>
+    <tag k='name' v='Помощь' />
+    <tag k='office' v='insurance' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='operator' v='ООО «Страховое общество «Помощь»' />
+    <tag k='website' v='https://www.pomosch.com/' />
+  </node>
+  <node id='3633437904' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95498100' lat='59.92250621329' lon='30.35283288996'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/dentesteticstom' />
+    <tag k='healthcare' v='dentist' />
+    <tag k='name' v='ДентЭстетик' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa 10:00-20:00' />
+    <tag k='website' v='https://dentesthetic.ru/' />
+  </node>
+  <node id='3633437905' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='95498100' lat='59.92202168128' lon='30.3525098212'>
+    <tag k='contact:email' v='flower.boutique.spb@gmail.com' />
+    <tag k='contact:phone' v='+7 911 9210286' />
+    <tag k='contact:website' v='https://topflower24.ru' />
+    <tag k='name' v='Top Flower' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='4590843889' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95498100' lat='59.92354827432' lon='30.35352707606'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='name' v='Детский сад № 23' />
+    <tag k='name:ru' v='Детский сад № 23' />
+    <tag k='operator' v='ГБДОУ детский сад № 23 Центрального района Санкт-Петербурга' />
+    <tag k='website' v='https://dou23.caduk.ru/' />
+  </node>
+  <node id='7024373152' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95498100' lat='59.92200446012' lon='30.35249834673'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:instagram' v='https://www.instagram.com/leoncoffeespb/' />
+    <tag k='contact:vk' v='https://vk.com/leoncoffeespb' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Leon Coffee' />
+  </node>
+  <node id='7024373153' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95498100' lat='59.92210491836' lon='30.35256546814'>
+    <tag k='contact:email' v='kancspbrf@gmail.com' />
+    <tag k='contact:phone' v='+7 921 5587788;+7 905 2220522;+7 965 7667566;+7 969 7227702' />
+    <tag k='contact:website' v='https://канцспб.рф' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='operator' v='ИП Розин И.В.' />
+    <tag k='shop' v='stationery' />
+  </node>
+  <node id='8205996669' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95498100' lat='59.92218655863' lon='30.35261985516'>
+    <tag k='name' v='Всё от 39 рублей' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='variety_store' />
+  </node>
+  <node id='8205996670' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95498100' lat='59.92235117792' lon='30.35272946658'>
+    <tag k='office' v='notary' />
+  </node>
+  <node id='8205996671' timestamp='2020-12-08T16:01:45Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95498100' lat='59.92389149593' lon='30.35375570534'>
+    <tag k='contact:instagram' v='https://www.instagram.com/k20.store/' />
+    <tag k='contact:vk' v='https://vk.com/lokiswear' />
+    <tag k='name' v='К20' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://lokiswear.ru/' />
+  </node>
+</osm>
