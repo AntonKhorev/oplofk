@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4079678497' timestamp='2020-11-19T10:51:54Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='94430647' lat='59.92356019726' lon='30.34842233335'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Разъезжая улица' />
+    <tag k='alt_name' v='Пятерочка' />
+    <tag k='alt_name:ru' v='Пятерочка' />
+    <tag k='brand' v='Пятёрочка' />
+    <tag k='brand:en' v='Pyaterochka' />
+    <tag k='brand:wikidata' v='Q1768969' />
+    <tag k='brand:wikipedia' v='ru:Пятёрочка' />
+    <tag k='contact:facebook' v='https://www.facebook.com/pyaterochka/' />
+    <tag k='contact:ok' v='https://ok.ru/x5pyaterka' />
+    <tag k='contact:vk' v='https://vk.com/pyaterochka_shop' />
+    <tag k='name' v='Пятёрочка' />
+    <tag k='name:en' v='Pyaterochka' />
+    <tag k='name:ru' v='Пятёрочка' />
+    <tag k='opening_hours' v='Mo-Su 08:00-23:00' />
+    <tag k='operator' v='ООО «Агроторг»' />
+    <tag k='phone' v='+7 800 5555505' />
+    <tag k='shop' v='supermarket' />
+    <tag k='website' v='https://5ka.ru/' />
+  </node>
+  <node id='4079683090' timestamp='2020-11-19T10:51:54Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='94430647' lat='59.92351518605' lon='30.34853292774'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Разъезжая улица' />
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:instagram' v='https://www.instagram.com/shaverma_s_lokot/' />
+    <tag k='name' v='Шаверма с локоть' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='website' v='http://shaverma-s-lokot.ru/' />
+  </node>
+  <node id='4079968269' timestamp='2020-11-19T10:51:54Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='94430647' lat='59.92345733355' lon='30.3486804225'>
+    <tag k='amenity' v='clinic' />
+    <tag k='contact:vk' v='https://vk.com/public27919233' />
+    <tag k='healthcare' v='clinic' />
+    <tag k='name' v='Противотуберкулезный диспансер № 17' />
+    <tag k='operator' v='СПБ ГБУЗ «Противотуберкулезный диспансер № 17»' />
+    <tag k='phone' v='+7 812 7647655' />
+    <tag k='website' v='http://ptd-17.ru/' />
+  </node>
+  <node id='5538916133' timestamp='2020-11-19T10:51:54Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='94430647' lat='59.92342559323' lon='30.34873223875'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/express_med_center' />
+    <tag k='name' v='Экспресс' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-20:00; Sa-Su 10:00-16:00' />
+    <tag k='website' v='http://www.express-med.spb.ru/' />
+  </node>
+</osm>

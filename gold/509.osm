@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='676147086' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='95544984' lat='59.9193062325' lon='30.36048821105' />
+  <node id='676147101' timestamp='2013-11-30T19:30:16Z' uid='623185' user='coho' visible='true' version='2' changeset='19199673' lat='59.9188992' lon='30.3602733' />
+  <node id='676147315' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='95544984' lat='59.91982818346' lon='30.35879439789' />
+  <node id='676147321' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='95544984' lat='59.9197178323' lon='30.35947691105' />
+  <node id='676147357' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='95544984' lat='59.91949693241' lon='30.36060031105' />
+  <node id='849156230' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='95552313' lat='59.91988028278' lon='30.35886472622'>
+    <tag k='name' v='Гастроном № 1' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1076812412' timestamp='2011-01-01T12:03:31Z' uid='40577' user='guggis' visible='true' version='1' changeset='6827187' lat='59.9190192' lon='30.3604155' />
+  <node id='1076812470' timestamp='2013-11-30T19:30:16Z' uid='623185' user='coho' visible='true' version='2' changeset='19199673' lat='59.9188896' lon='30.3603289' />
+  <node id='1388853190' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91894608391' lon='30.35897091295' />
+  <node id='1859213707' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95552313' lat='59.91977095315' lon='30.3587584271' />
+  <node id='1859213709' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95552313' lat='59.91998030246' lon='30.35892775572'>
+    <tag k='contact:vk' v='https://vk.com/volosperfect' />
+    <tag k='name' v='Фабрика русских волос' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://hairuss.com/' />
+  </node>
+  <node id='3344229141' timestamp='2015-02-11T16:54:48Z' uid='700550' user='EIjas' visible='true' version='1' changeset='28777559' lat='59.9188366' lon='30.3602307' />
+  <node id='4337929585' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='95552313' lat='59.92013700981' lon='30.35902608739'>
+    <tag k='amenity' v='clinic' />
+    <tag k='contact:vk' v='https://vk.com/gruzdev_clinic' />
+    <tag k='description' v='Клиника косметологии' />
+    <tag k='healthcare' v='clinic' />
+    <tag k='name' v='Gruzdev Clinic' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='ООО «Лидингмед»' />
+    <tag k='website' v='https://www.gruzdevclinic.ru/' />
+  </node>
+  <node id='4976172268' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91915083258' lon='30.36066771105' />
+  <node id='4976172272' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91919173256' lon='30.36041771105' />
+  <node id='4976172275' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95544984' lat='59.9195052324' lon='30.36054411105' />
+  <node id='4976172276' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91927293252' lon='30.36046921105'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4976172282' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91969193231' lon='30.35965361105' />
+  <node id='4976172313' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91928763251' lon='30.36047781105'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4976172319' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91925753252' lon='30.36046011105' />
+  <node id='4976173123' timestamp='2020-12-09T10:20:17Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95544984' lat='59.91956233237' lon='30.36057921105' />
+  <node id='8209556357' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.9191462958' lon='30.35840341915'>
+    <tag k='name' v='Невская межрайонная инспекция рыбоохраны' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='8209556358' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.91875546447' lon='30.36017652889' />
+  <node id='8209556359' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.91899515996' lon='30.36055836827' />
+  <node id='8209556360' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.91952923966' lon='30.35860650433' />
+  <node id='8209556361' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.91944321568' lon='30.35917684302' />
+  <node id='8209556362' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.91895856214' lon='30.35888994762' />
+  <node id='8209556363' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.91972030885' lon='30.35872659584' />
+  <node id='8209556364' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.92025287484' lon='30.35909891266'>
+    <tag k='contact:vk' v='https://vk.com/papiroska_rf' />
+    <tag k='name' v='Папироска.рф' />
+    <tag k='shop' v='e-cigarette' />
+    <tag k='website' v='https://папироска.рф/' />
+  </node>
+  <node id='8209556366' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313' lat='59.92023574124' lon='30.35908814359'>
+    <tag k='brand' v='Boxberry' />
+    <tag k='brand:wikidata' v='Q55662608' />
+    <tag k='contact:vk' v='https://vk.com/boxberry_ru' />
+    <tag k='name' v='Boxberry' />
+    <tag k='note' v='нет на сайте; на двери ещё и &quot;Ozon&quot; написано' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='outpost' />
+    <tag k='website' v='https://boxberry.ru/' />
+  </node>
+  <way id='882769714' timestamp='2020-12-09T12:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95552313'>
+    <nd ref='8209556362' />
+    <nd ref='8209556361' />
+    <nd ref='8209556360' />
+    <nd ref='8209556363' />
+    <nd ref='1859213707' />
+    <nd ref='676147315' />
+    <nd ref='676147321' />
+    <nd ref='4976172282' />
+    <nd ref='4976173123' />
+    <nd ref='4976172275' />
+    <nd ref='676147357' />
+    <nd ref='676147086' />
+    <nd ref='4976172313' />
+    <nd ref='4976172276' />
+    <nd ref='4976172319' />
+    <nd ref='4976172272' />
+    <nd ref='4976172268' />
+    <nd ref='8209556359' />
+    <nd ref='1076812412' />
+    <nd ref='1076812470' />
+    <nd ref='676147101' />
+    <nd ref='3344229141' />
+    <nd ref='8209556358' />
+    <nd ref='1388853190' />
+    <nd ref='8209556362' />
+    <tag k='amenity' v='school' />
+    <tag k='name' v='Турбаза «Школьная»' />
+    <tag k='website' v='https://www.balticbereg.ru/index.php/turbaza-lshkolnayar' />
+  </way>
+</osm>

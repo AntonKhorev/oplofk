@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8206601262' timestamp='2020-12-08T16:42:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95500187' lat='59.9205141925' lon='30.34931434496'>
+    <tag k='contact:instagram' v='https://www.instagram.com/salonyulana/' />
+    <tag k='contact:vk' v='https://vk.com/salonyulana' />
+    <tag k='name' v='Юлана' />
+    <tag k='note' v='возможно переехал' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://salonyulana.ru/' />
+  </node>
+</osm>

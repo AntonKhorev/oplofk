@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1771491004' timestamp='2020-11-04T23:12:06Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='93566179' lat='59.92468827742' lon='30.33907079146'>
+    <tag k='name' v='Prosto' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='3638940599' timestamp='2020-11-04T23:12:06Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='93566179' lat='59.92319239365' lon='30.34172620672'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='улица Правды' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/hachapuriivino' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='email' v='hpvino9@gmail.com' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Хачапури и вино' />
+    <tag k='name:en' v='Hachapuri and Wine' />
+    <tag k='opening_hours' v='Su-Th 11:30-24:00; Fr-Sa 11:30-01:00' />
+    <tag k='phone' v='+7 952 2322543' />
+    <tag k='smoking' v='outside' />
+    <tag k='website' v='https://hachapuriivino.ru/' />
+  </node>
+  <node id='5208429335' timestamp='2020-11-04T23:12:06Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='93566179' lat='59.92326062128' lon='30.34159155064'>
+    <tag k='amenity' v='cafe' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Хинкальная' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='7133464305' timestamp='2020-11-04T23:12:06Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='93566179' lat='59.92442950367' lon='30.33950451163'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/helix_lab' />
+    <tag k='description' v='ДЦ Владимирский Лабораторной службы Хеликс' />
+    <tag k='health_facility:type' v='clinic' />
+    <tag k='health_person:type' v='physician;therapist;physician_assitant' />
+    <tag k='healthcare' v='doctor' />
+    <tag k='medical_system' v='western' />
+    <tag k='name' v='Хеликс' />
+    <tag k='name:en' v='Helix' />
+    <tag k='opening_hours' v='Mo-Fr 7:30-20:00;Sa 9:00-17:00;Su 9:00-16:00' />
+    <tag k='operator' v='ООО «Олимпус Медика»' />
+    <tag k='phone' v='+7 812 3091221;+7 800 7000303' />
+    <tag k='website' v='https://helix.ru/center/09682' />
+  </node>
+  <node id='8082748326' timestamp='2020-11-04T23:12:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93566179' lat='59.92337592198' lon='30.34138595995'>
+    <tag k='contact:vk' v='https://vk.com/ilockedru' />
+    <tag k='leisure' v='escape_game' />
+    <tag k='name' v='iLocked' />
+    <tag k='website' v='https://ilocked.ru/' />
+  </node>
+  <node id='8082748327' timestamp='2020-11-04T23:12:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93566179' lat='59.92346941452' lon='30.3412187147'>
+    <tag k='contact:vk' v='https://vk.com/lenyrspb' />
+    <tag k='name' v='ЛенЮр' />
+    <tag k='office' v='lawyer' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 10:00-19:00' />
+    <tag k='operator' v='ООО «ЛенЮр»' />
+    <tag k='website' v='https://www.lenyr.ru/' />
+  </node>
+  <node id='8082748328' timestamp='2020-11-04T23:12:06Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='93566179' lat='59.92367207636' lon='30.34085674751'>
+    <tag k='amenity' v='dentist' />
+    <tag k='contact:vk' v='https://vk.com/supersmile_spb' />
+    <tag k='name' v='Super Смайл' />
+    <tag k='website' v='https://smilestom.spb.ru/' />
+  </node>
+</osm>

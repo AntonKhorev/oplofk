@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8210128435' timestamp='2020-12-09T15:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95561903' lat='59.9170007461' lon='30.36168134122'>
+    <tag k='contact:vk' v='https://vk.com/toolsdiold' />
+    <tag k='name' v='Диолд' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='operator' v='ЗАО «Диффузион Инструмент»' />
+    <tag k='shop' v='power_tools' />
+    <tag k='website' v='https://spb.diold.ru/' />
+  </node>
+  <node id='8210128453' timestamp='2020-12-09T15:18:09Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95561903' lat='59.91764149505' lon='30.36211158128'>
+    <tag k='contact:vk' v='https://vk.com/pantera7809988' />
+    <tag k='name' v='Улыбка пантеры' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://pantera88.ru/' />
+  </node>
+</osm>
