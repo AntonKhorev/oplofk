@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5303950697' timestamp='2017-12-26T01:31:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='54918918' lat='59.926247' lon='30.3785357'>
+    <tag k='name' v='Надежда' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='operator' v='ИП Мазуркевич Н.Н.' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='8323302161' timestamp='2021-01-15T05:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97530685' lat='59.92692793439' lon='30.37949114134'>
+    <tag k='contact:vk' v='https://vk.com/atriumhotelspb' />
+    <tag k='name' v='Атриум' />
+    <tag k='operator' v='ООО «Альтаир»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.hotel-atrium.ru/' />
+  </node>
+  <node id='8323302162' timestamp='2021-01-15T05:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97530685' lat='59.9268909087' lon='30.37943909143'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/gastronomist.spb/' />
+    <tag k='name' v='Gastronomist' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-21:00' />
+    <tag k='website' v='http://gastronomist.pro/' />
+  </node>
+  <node id='8323302163' timestamp='2021-01-15T05:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97530685' lat='59.9266275219' lon='30.37906915298'>
+    <tag k='contact:instagram' v='https://www.instagram.com/hloplook/' />
+    <tag k='name' v='hloplook' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='operator' v='ИП Нестеров Р.А.' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='8323302164' timestamp='2021-01-15T05:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97530685' lat='59.92655571705' lon='30.37896827694'>
+    <tag k='contact:vk' v='https://vk.com/taaruga' />
+    <tag k='name' v='Тааруга' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://taaruga.ru/' />
+  </node>
+  <node id='8323302165' timestamp='2021-01-15T05:29:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97530685' lat='59.92646961828' lon='30.37884737461'>
+    <tag k='contact:vk' v='https://vk.com/zooolimpshop' />
+    <tag k='name' v='ZooOlimp' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://zooolimp.ru/' />
+  </node>
+</osm>

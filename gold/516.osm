@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2422365489' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95681743' lat='59.92062159948' lon='30.34775518021'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='2422365490' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='95681743' lat='59.92047796176' lon='30.34766039098'>
+    <tag k='disused:shop' v='convenience' />
+    <tag k='name' v='Продукты' />
+  </node>
+  <node id='3638934005' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95681743' lat='59.91924051333' lon='30.34691708001'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Хинкали &amp; Вино' />
+    <tag k='note' v='возможно название поменялось или его вообще нет' />
+    <tag k='website' v='https://cafe-2013.business.site/' />
+  </node>
+  <node id='6665790985' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95681743' lat='59.91979937732' lon='30.34725199456'>
+    <tag k='amenity' v='cafe' />
+    <tag k='note' v='&quot;бистро шаурма/шаверма&quot;' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='8219597422' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.92003088649' lon='30.34739500775'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/GAVAZI.SPB/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/gavazi.spb/' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='name' v='Gavazi' />
+  </node>
+  <node id='8219597423' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.91990165021' lon='30.34731365651'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kofestoria/' />
+    <tag k='contact:vk' v='https://vk.com/kofestoria' />
+    <tag k='name' v='Кофестория' />
+  </node>
+  <node id='8219597424' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.91948863362' lon='30.34706341866'>
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Городская наркологическая больница, Отделение медицинского освидетельствования на состояние опьянения' />
+    <tag k='website' v='http://nhosp.ru/omonaso/' />
+  </node>
+  <node id='8219597425' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.91932098105' lon='30.34696347585'>
+    <tag k='contact:instagram' v='https://www.instagram.com/ray.borovaya/' />
+    <tag k='contact:vk' v='https://vk.com/ray.borovaya' />
+    <tag k='name' v='Рай' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='8219597426' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.9191531287' lon='30.34686678854'>
+    <tag k='contact:vk' v='https://vk.com/sportsliv2016' />
+    <tag k='name' v='SportSliv' />
+    <tag k='shop' v='sports' />
+    <tag k='website' v='http://sportsliv.ru/' />
+  </node>
+  <node id='8219597427' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.9189023161' lon='30.34678625548'>
+    <tag k='name' v='Фонд развития промышленности Санкт-Петербурга' />
+    <tag k='office' v='government' />
+    <tag k='website' v='http://frp.spb.ru/' />
+  </node>
+  <node id='8219597428' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.918866476' lon='30.34690573744'>
+    <tag k='name' v='ФСК' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://fsk78.ru/' />
+  </node>
+  <node id='8219597429' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.91887252576' lon='30.34689165585'>
+    <tag k='name' v='Люкс-Авто' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='8219597430' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95681743' lat='59.91886112758' lon='30.34688136832'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:instagram' v='https://www.instagram.com/standart_orto/' />
+    <tag k='contact:vk' v='https://vk.com/standartorto' />
+    <tag k='name' v='Стандарт-Орто' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 10:00-18:00' />
+    <tag k='operator' v='ООО «Стандарт Орто»' />
+    <tag k='website' v='https://standart-orto.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2657855457' timestamp='2021-01-15T04:57:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='97528736' lat='59.92399247266' lon='30.37595050797'>
+    <tag k='name' v='Экспертный центр оценки дополнительного и среднего профессионального образования' />
+    <tag k='office' v='government' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00; 13:00-14:00 off' />
+    <tag k='website' v='https://guexpert.ru/' />
+  </node>
+</osm>

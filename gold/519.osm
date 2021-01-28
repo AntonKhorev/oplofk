@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8219844457' timestamp='2020-12-11T14:08:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95685887' lat='59.92049100106' lon='30.35201553014'>
+    <tag k='contact:vk' v='https://vk.com/spb_okrug' />
+    <tag k='name' v='Округ' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-18:00' />
+    <tag k='operator' v='ООО «Округ-Петербург»' />
+    <tag k='shop' v='outdoor' />
+    <tag k='website' v='https://spb.okrug.ru/' />
+  </node>
+  <node id='8219862023' timestamp='2020-12-11T14:16:57Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95686321' lat='59.92031398633' lon='30.35235136668'>
+    <tag k='name' v='Инруском' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.inruscom.com/' />
+  </node>
+</osm>

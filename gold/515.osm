@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='804059475' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='89970316' lat='59.9202526' lon='30.3944775' />
+  <node id='804059503' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='89970316' lat='59.920243' lon='30.3947627' />
+  <node id='804059990' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='89970316' lat='59.9202037' lon='30.3944717' />
+  <node id='804060135' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='89970316' lat='59.9202828' lon='30.3944953' />
+  <node id='804060245' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='89970316' lat='59.9201972' lon='30.3947569' />
+  <node id='804060406' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='89970316' lat='59.9202698' lon='30.3945142' />
+  <node id='7846332546' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9202023' lon='30.3945325' />
+  <node id='7846332547' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9201638' lon='30.394529' />
+  <node id='7846332548' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9201641' lon='30.3944921' />
+  <node id='7846332549' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9200989' lon='30.3944834' />
+  <node id='7846332550' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9200932' lon='30.394643' />
+  <node id='7846332551' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9200307' lon='30.3946336' />
+  <node id='7846332552' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9200277' lon='30.3947671' />
+  <node id='7846332553' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9201561' lon='30.3947798' />
+  <node id='7846332554' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9201604' lon='30.3946363' />
+  <node id='7846332555' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9201999' lon='30.3946397' />
+  <node id='7846332556' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9203374' lon='30.3946214' />
+  <node id='7846332557' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.9202871' lon='30.3947148' />
+  <node id='7846332558' timestamp='2020-08-26T11:51:15Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='89970316' lat='59.92028' lon='30.3946993' />
+  <way id='66344657' timestamp='2020-12-10T15:31:36Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='95626454'>
+    <nd ref='804059503' />
+    <nd ref='804060245' />
+    <nd ref='7846332555' />
+    <nd ref='7846332546' />
+    <nd ref='804059990' />
+    <nd ref='804059475' />
+    <nd ref='804060406' />
+    <nd ref='804060135' />
+    <nd ref='7846332556' />
+    <nd ref='7846332557' />
+    <nd ref='7846332558' />
+    <nd ref='804059503' />
+    <tag k='addr:housenumber' v='3 литБ' />
+    <tag k='addr:letter' v='Б' />
+    <tag k='addr:street' v='проспект Обуховской Обороны' />
+    <tag k='building' v='retail' />
+    <tag k='building:levels' v='1' />
+    <tag k='name' v='Авто-пост' />
+    <tag k='shop' v='convenience' />
+  </way>
+  <way id='840891521' timestamp='2020-12-10T15:31:36Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95626454'>
+    <nd ref='7846332555' />
+    <nd ref='7846332554' />
+    <nd ref='7846332553' />
+    <nd ref='7846332552' />
+    <nd ref='7846332551' />
+    <nd ref='7846332550' />
+    <nd ref='7846332549' />
+    <nd ref='7846332548' />
+    <nd ref='7846332547' />
+    <nd ref='7846332546' />
+    <nd ref='7846332555' />
+    <tag k='addr:housenumber' v='3 литБ' />
+    <tag k='addr:letter' v='Б' />
+    <tag k='addr:street' v='проспект Обуховской Обороны' />
+    <tag k='amenity' v='fuel' />
+    <tag k='brand' v='Роснефть' />
+    <tag k='brand:wikidata' v='Q1141123' />
+    <tag k='building' v='roof' />
+    <tag k='fuel:diesel' v='yes' />
+    <tag k='fuel:octane_92' v='yes' />
+    <tag k='fuel:octane_95' v='yes' />
+    <tag k='fuel:octane_98' v='yes' />
+    <tag k='name' v='ПТК' />
+    <tag k='name:ru' v='ПТК' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО &quot;ПТК-Сервис&quot;' />
+    <tag k='phone' v='+7 812 7102533' />
+    <tag k='ref' v='170' />
+    <tag k='website' v='https://www.ptk.ru/' />
+  </way>
+</osm>

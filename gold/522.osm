@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4125344190' timestamp='2021-01-15T04:46:00Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='97528066' lat='59.92431721176' lon='30.37510650057'>
+    <tag k='amenity' v='college' />
+    <tag k='contact:vk' v='https://vk.com/augsgip' />
+    <tag k='name' v='Академия управления городской средой, градостроительства и печати' />
+    <tag k='short_name' v='АУГСГиП' />
+    <tag k='website' v='https://agp.edu.ru/' />
+  </node>
+</osm>

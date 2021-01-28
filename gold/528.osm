@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2868711824' timestamp='2021-01-19T12:16:40Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='97768102' lat='59.92892833947' lon='30.38816861835'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/restaurantferma' />
+    <tag k='name' v='FermA' />
+    <tag k='opening_hours' v='Su-Th 12:00-23:00; Fr-Sa 12:00-00:00' />
+    <tag k='operator' v='ООО «Ле Бот»' />
+    <tag k='website' v='https://white-group.ru/restaurants/view/restoran-ferma-na-sinopskoy/' />
+  </node>
+  <node id='4356056990' timestamp='2021-01-19T12:16:40Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='97768102' lat='59.92954931782' lon='30.38816198808'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Нева' />
+  </node>
+  <node id='8338224491' timestamp='2021-01-19T12:16:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97768102' lat='59.92911069532' lon='30.38814780876'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Газпромбанк' />
+    <tag k='brand:wikidata' v='Q1924338' />
+    <tag k='name' v='Газпромбанк' />
+    <tag k='website' v='https://www.gazprombank.ru/offices/21768/' />
+  </node>
+  <node id='8338224492' timestamp='2021-01-19T12:16:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97768102' lat='59.92978601356' lon='30.38816452882'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:vk' v='https://vk.com/kursyparikmaherov_spb' />
+    <tag k='name' v='Дом Распутина' />
+    <tag k='note' v='возможно не работает' />
+  </node>
+  <node id='8338224494' timestamp='2021-01-19T12:16:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97768102' lat='59.93098777952' lon='30.38840519092'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:instagram' v='https://www.instagram.com/se7en_spb/' />
+    <tag k='contact:vk' v='https://vk.com/se7en_spb' />
+    <tag k='name' v='Se7en Lounge' />
+  </node>
+</osm>

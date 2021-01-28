@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1442080109' timestamp='2021-01-21T14:28:46Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='97912011' lat='59.9243461' lon='30.3235615'>
+    <tag k='contact:vk' v='https://vk.com/morecha' />
+    <tag k='name' v='Море чая' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Попов А.Г.' />
+    <tag k='shop' v='tea' />
+    <tag k='website' v='http://morecha.ru/' />
+  </node>
+  <node id='3108736229' timestamp='2021-01-21T14:28:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97912011' lat='59.92456158991' lon='30.32413488745'>
+    <tag k='name' v='Буржуй' />
+    <tag k='operator' v='ООО «Поляны»' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='4684911259' timestamp='2021-01-21T14:28:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97912011' lat='59.9252789' lon='30.3256639'>
+    <tag k='contact:vk' v='https://vk.com/vsk.insurance' />
+    <tag k='name' v='Страховой дом ВСК' />
+    <tag k='office' v='insurance' />
+    <tag k='website' v='https://www.vsk.ru/offices/30348576/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4684911260' timestamp='2021-01-21T14:28:46Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97912011' lat='59.9252139' lon='30.3257697'>
+    <tag k='contact:vk' v='https://vk.com/ecobiomarket_organica' />
+    <tag k='name' v='Organica' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Зиганшина Ю.А.' />
+    <tag k='organic' v='only' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='https://supergreen.ru/' />
+  </node>
+  <node id='4684911261' timestamp='2021-01-21T14:28:46Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='97912011' lat='59.92463243021' lon='30.32431867925'>
+    <tag k='name' v='Муниципальный совет Муниципального образования Сенной округ' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.sennoy-okrug.ru/' />
+  </node>
+  <node id='4684911262' timestamp='2021-01-21T14:28:46Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97912011' lat='59.9244476' lon='30.3238394'>
+    <tag k='contact:vk' v='https://vk.com/belorusskayamebel' />
+    <tag k='disused:shop' v='furniture' />
+    <tag k='name' v='Белорусская мебель' />
+    <tag k='operator' v='ООО &quot;Елисейский мебельный дом&quot;' />
+    <tag k='website' v='http://bel-meb.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1392016083' timestamp='2021-01-15T06:07:29Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97533379' lat='59.92744296669' lon='30.38013690895'>
+    <tag k='disused:amenity' v='bank' />
+    <tag k='name' v='Газпромбанк' />
+    <tag k='website' v='https://www.gazprombank.ru/' />
+  </node>
+  <node id='5392724026' timestamp='2021-01-15T06:07:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='97533379' lat='59.9281315' lon='30.3811926'>
+    <tag k='construction:shop' v='supermarket' />
+    <tag k='name' v='Магнит' />
+  </node>
+  <node id='8323373785' timestamp='2021-01-15T06:07:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97533379' lat='59.92796229575' lon='30.38095567791'>
+    <tag k='contact:vk' v='https://vk.com/mfitness_ru' />
+    <tag k='name' v='MFitness' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-19:00' />
+    <tag k='operator' v='ООО «МФитнес Северо-Запад»' />
+    <tag k='shop' v='sports' />
+    <tag k='website' v='https://www.mfitness.ru/' />
+  </node>
+  <node id='8323373786' timestamp='2021-01-15T06:07:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97533379' lat='59.92790354105' lon='30.3808730201'>
+    <tag k='contact:vk' v='https://vk.com/morepilates' />
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='More Pilates' />
+    <tag k='opening_hours' v='10:00-19:00' />
+    <tag k='operator' v='ООО «МФитнес Северо-Запад»' />
+    <tag k='website' v='http://morepilates.ru/more-pilates-spb-nevsky/' />
+  </node>
+  <node id='8323373787' timestamp='2021-01-15T06:07:29Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97533379' lat='59.92771679974' lon='30.3806046843'>
+    <tag k='name' v='Возврат авто' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='http://avto-vozvrat.ru/' />
+  </node>
+</osm>

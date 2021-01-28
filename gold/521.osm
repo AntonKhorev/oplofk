@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='420545546' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58411753' lat='59.923639' lon='30.3758572' />
+  <node id='420545553' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58411753' lat='59.9234293' lon='30.3763868' />
+  <node id='420545554' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58411753' lat='59.9235217' lon='30.3761325' />
+  <node id='420545555' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58411753' lat='59.9235575' lon='30.3761842' />
+  <node id='420545556' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58411753' lat='59.9235968' lon='30.376076' />
+  <node id='420545557' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58411753' lat='59.9235724' lon='30.3760408' />
+  <node id='420547464' timestamp='2018-04-25T15:18:33Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='58411753' lat='59.9215479' lon='30.378087' />
+  <node id='420547468' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='58411753' lat='59.9243851' lon='30.3722106' />
+  <node id='420547469' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='58411753' lat='59.9247777' lon='30.3728138' />
+  <node id='420547471' timestamp='2018-04-25T15:18:33Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='58411753' lat='59.9230677' lon='30.377446' />
+  <node id='420547472' timestamp='2015-10-31T20:41:02Z' uid='386821' user='paavolobja' visible='true' version='3' changeset='35000284' lat='59.921222' lon='30.3759539' />
+  <node id='805205428' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='58411753' lat='59.9232675' lon='30.3768325' />
+  <node id='1509638234' timestamp='2018-04-25T15:18:32Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='58411753' lat='59.9231255' lon='30.3726641'>
+    <tag k='barrier' v='lift_gate' />
+  </node>
+  <node id='2406350229' timestamp='2019-07-04T11:35:25Z' uid='392109' user='GaM' visible='true' version='4' changeset='71893493' lat='59.9236915' lon='30.375789'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2962131569' timestamp='2020-04-22T10:16:50Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='83933019' lat='59.9192254' lon='30.3740435' />
+  <node id='2962131570' timestamp='2014-07-14T04:48:05Z' uid='392109' user='GaM' visible='true' version='1' changeset='24132570' lat='59.9193971' lon='30.3759978' />
+  <node id='2962131571' timestamp='2015-10-31T20:41:02Z' uid='386821' user='paavolobja' visible='true' version='2' changeset='35000284' lat='59.9198067' lon='30.3767503' />
+  <node id='2962131572' timestamp='2015-10-31T20:41:02Z' uid='386821' user='paavolobja' visible='true' version='2' changeset='35000284' lat='59.9199427' lon='30.3766842' />
+  <node id='3202780044' timestamp='2018-04-25T16:12:15Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='58413373' lat='59.9217416' lon='30.373162' />
+  <node id='3811632007' timestamp='2015-10-31T20:41:00Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='35000284' lat='59.9202574' lon='30.3765046' />
+  <node id='3811632020' timestamp='2015-10-31T20:41:00Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='35000284' lat='59.9213242' lon='30.3764779' />
+  <node id='3811632021' timestamp='2015-10-31T20:41:00Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='35000284' lat='59.9213644' lon='30.3768524' />
+  <node id='3811632022' timestamp='2015-10-31T20:41:00Z' uid='386821' user='paavolobja' visible='true' version='1' changeset='35000284' lat='59.9214319' lon='30.3768223' />
+  <node id='5578613887' timestamp='2018-04-25T15:18:24Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='58411753' lat='59.9247647' lon='30.3727017' />
+  <node id='5578613888' timestamp='2018-04-25T15:18:24Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='58411753' lat='59.9247752' lon='30.3728682' />
+  <node id='5578613889' timestamp='2018-04-25T15:18:24Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='58411753' lat='59.9247758' lon='30.3727379' />
+  <node id='7433366733' timestamp='2020-04-22T10:16:50Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='83933019' lat='59.9192285' lon='30.3740836' />
+  <node id='7515115277' timestamp='2020-05-13T15:11:30Z' uid='10228243' user='MaddMapper' visible='true' version='1' changeset='85152479' lat='59.9224561' lon='30.377706'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='8235696406' timestamp='2020-12-16T20:52:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95963478' lat='59.91753213291' lon='30.37470616794'>
+    <tag k='contact:vk' v='https://vk.com/butterfly_flower_spb' />
+    <tag k='name' v='Butterfly' />
+    <tag k='opening_hours' v='08:00-22:00' />
+    <tag k='operator' v='ИП Шкут Ольга Владимировна' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://butterfly-flower.ru/' />
+  </node>
+  <node id='8235696407' timestamp='2020-12-16T20:52:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95963478' lat='59.91746104789' lon='30.37473307185'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/baristokrat/' />
+    <tag k='contact:vk' v='https://vk.com/baristokrat' />
+    <tag k='name' v='Баристократ' />
+  </node>
+  <node id='8235696408' timestamp='2020-12-16T20:52:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95963478' lat='59.91743469158' lon='30.37474291211'>
+    <tag k='name' v='Горэлектротранс, Центральный архив' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='СПб ГУП «Горэлектротранс»' />
+    <tag k='website' v='https://www.electrotrans.spb.ru/' />
+  </node>
+  <way id='292672575' timestamp='2020-05-13T15:11:30Z' uid='10228243' user='MaddMapper' visible='true' version='10' changeset='85152479'>
+    <nd ref='2962131569' />
+    <nd ref='3202780044' />
+    <nd ref='1509638234' />
+    <nd ref='420547468' />
+    <nd ref='5578613887' />
+    <nd ref='5578613889' />
+    <nd ref='420547469' />
+    <nd ref='5578613888' />
+    <nd ref='2406350229' />
+    <nd ref='420545546' />
+    <nd ref='420545557' />
+    <nd ref='420545556' />
+    <nd ref='420545555' />
+    <nd ref='420545554' />
+    <nd ref='420545553' />
+    <nd ref='805205428' />
+    <nd ref='420547471' />
+    <nd ref='7515115277' />
+    <nd ref='420547464' />
+    <nd ref='3811632022' />
+    <nd ref='3811632021' />
+    <nd ref='3811632020' />
+    <nd ref='420547472' />
+    <nd ref='3811632007' />
+    <nd ref='2962131572' />
+    <nd ref='2962131571' />
+    <nd ref='2962131570' />
+    <nd ref='7433366733' />
+    <nd ref='2962131569' />
+    <tag k='amenity' v='hospital' />
+    <tag k='healthcare' v='hospital' />
+    <tag k='name' v='Клиническая инфекционная больница имени Сергея Петровича Боткина' />
+    <tag k='website' v='http://botkinhosp.org/' />
+    <tag k='wikidata' v='Q4223876' />
+  </way>
+</osm>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8337572171' timestamp='2021-01-19T10:17:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97759123' lat='59.93118582586' lon='30.38825353997'>
+    <tag k='name' v='ЦНИИ Конструкционных материалов «Прометей»' />
+    <tag k='office' v='research' />
+    <tag k='website' v='http://www.crism-prometey.ru/' />
+    <tag k='wikidata' v='Q18212308' />
+  </node>
+  <node id='8337572177' timestamp='2021-01-19T10:17:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97759123' lat='59.93084787327' lon='30.38471428001'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Наша столовая' />
+  </node>
+</osm>

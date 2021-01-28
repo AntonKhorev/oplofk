@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4638450614' timestamp='2018-09-01T01:23:57Z' visible='true' version='5' lat='59.9263399' lon='30.3192782'>
+    <tag k='level' v='0' />
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='4638450616' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='98254599' lat='59.9263017' lon='30.3192999'>
+    <tag k='craft' v='electronics_repair' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Smile' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://smile-gsm.ru/' />
+  </node>
+  <node id='4638450619' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='98254599' lat='59.9263319' lon='30.3193662'>
+    <tag k='contact:vk' v='https://vk.com/zurb_spb' />
+    <tag k='disused:shop' v='electronics' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Зурбаганъ' />
+    <tag k='note' v='переехал на Московский 5Б' />
+    <tag k='website' v='http://зурбаганъ.рф/' />
+  </node>
+  <node id='5647517894' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='98254599' lat='59.9262943' lon='30.3193613'>
+    <tag k='disused:shop' v='copyshop' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Пиксель' />
+    <tag k='note' v='переехал на Московский 4' />
+    <tag k='website' v='http://piksel-spb.ru/' />
+  </node>
+  <node id='5647517895' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='98254599' lat='59.9262755' lon='30.3193475'>
+    <tag k='contact:vk' v='https://vk.com/zanachka_spb' />
+    <tag k='disused:shop' v='money_lender' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Заначка' />
+    <tag k='website' v='https://zdengi.ru/' />
+  </node>
+  <node id='5647517897' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='98254599' lat='59.9262885' lon='30.3193238'>
+    <tag k='brand' v='Викинг' />
+    <tag k='brand:wikidata' v='Q37650790' />
+    <tag k='disused:amenity' v='bureau_de_change' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Викинг' />
+    <tag k='website' v='http://www.vikingbank.ru/' />
+  </node>
+  <node id='5647517899' timestamp='2018-09-01T01:23:58Z' visible='true' version='5' lat='59.9263137' lon='30.319326'>
+    <tag k='contact:vk' v='https://vk.com/hotvapespb' />
+    <tag k='level' v='0' />
+    <tag k='name' v='HotVape' />
+    <tag k='shop' v='e-cigarette' />
+  </node>
+  <node id='5647517900' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='98254599' lat='59.9263267' lon='30.3193022'>
+    <tag k='disused:craft' v='watchmaker' />
+    <tag k='level' v='0' />
+    <tag k='note' v='переехал на Московский 5' />
+    <tag k='operator' v='ИП Стеклянников Г.В.' />
+    <tag k='phone' v='+7 931 2097957' />
+  </node>
+  <node id='5647517902' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='98254599' lat='59.9263451' lon='30.3193423'>
+    <tag k='level' v='0' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:30; Su 10:00-20:00' />
+    <tag k='phone' v='+7 921 5504333' />
+    <tag k='shop' v='perfumery' />
+  </node>
+  <node id='5862404234' timestamp='2021-01-27T22:55:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='98254599' lat='59.9263385' lon='30.3193543'>
+    <tag k='contact:vk' v='https://vk.com/ochkovnet2018' />
+    <tag k='disused:shop' v='optician' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Ochkov.Net' />
+    <tag k='note' v='переехал на Сенную 6' />
+    <tag k='website' v='https://spb.ochkov.net/pamyatka-pokupatelyu/adresa-magazinov/m-sankt-peterburg.htm' />
+  </node>
+</osm>

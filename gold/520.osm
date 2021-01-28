@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5969020259' timestamp='2020-12-11T14:25:41Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95686662' lat='59.92002639529' lon='30.35318948664'>
+    <tag k='contact:vk' v='https://vk.com/club86902983' />
+    <tag k='name' v='Фабрика' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+</osm>
