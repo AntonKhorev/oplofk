@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8341848220' timestamp='2021-01-20T12:03:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97835981' lat='59.9267481' lon='30.3240679'>
+    <tag k='contact:vk' v='https://vk.com/novolaser_spb' />
+    <tag k='name' v='NovoLaser' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://novolazer.ru/spb' />
+  </node>
+  <node id='8341848221' timestamp='2021-01-20T12:03:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97835981' lat='59.9261987' lon='30.3242585'>
+    <tag k='contact:vk' v='https://vk.com/2cub_permanent' />
+    <tag k='name' v='2cub' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='http://2cub.ru/' />
+  </node>
+  <node id='8341848222' timestamp='2021-01-20T12:03:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97835981' lat='59.9263778' lon='30.3241673'>
+    <tag k='craft' v='plasterer' />
+    <tag k='name' v='Астмал' />
+    <tag k='website' v='http://www.astmal.ru/' />
+  </node>
+  <node id='8341848223' timestamp='2021-01-20T12:03:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97835981' lat='59.9264848' lon='30.3243564'>
+    <tag k='brand' v='Bosch' />
+    <tag k='brand:wikidata' v='Q234021' />
+    <tag k='craft' v='power_tools_repair' />
+    <tag k='name' v='Астмал-Сервис' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='website' v='https://www.astmal-remont.info/' />
+  </node>
+  <node id='8341848224' timestamp='2021-01-20T12:03:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97835981' lat='59.926319' lon='30.3245261'>
+    <tag k='contact:vk' v='https://vk.com/abatrade' />
+    <tag k='craft' v='tailor' />
+    <tag k='inscription' v='Ателье меха-кожа' />
+    <tag k='note' v='возможно не работает, вход закрыт' />
+    <tag k='website' v='http://abatrade.site/' />
+  </node>
+  <node id='8341848225' timestamp='2021-01-20T12:03:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97835981' lat='59.92645' lon='30.3246052'>
+    <tag k='contact:instagram' v='https://www.instagram.com/oh_my_nails_spb_/' />
+    <tag k='name' v='Oh My Nails' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+</osm>

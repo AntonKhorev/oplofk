@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4695582239' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97969807' lat='59.9272221' lon='30.3213542'>
+    <tag k='disused:shop' v='money_lender' />
+    <tag k='name' v='Быстроденьги' />
+    <tag k='note' v='переехали на 3 двери налево' />
+    <tag k='website' v='https://bistrodengi.ru/' />
+  </node>
+  <node id='4695582240' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97969807' lat='59.9273416' lon='30.3211437'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/helix_lab' />
+    <tag k='health_facility:type' v='laboratory' />
+    <tag k='name' v='Helix' />
+    <tag k='opening_hours' v='Mo-Fr 07:00-21:00; Sa-Su 08:00-19:00' />
+    <tag k='website' v='https://helix.ru/center/31443' />
+  </node>
+  <node id='4695582241' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97969807' lat='59.9273867' lon='30.3210635'>
+    <tag k='note' v='&quot;Tobacco Shop&quot; с двумя перекрещивающимися трубками на логотипе' />
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='4695582242' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97969807' lat='59.9274495' lon='30.3209518'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:vk' v='https://vk.com/pskbpublic' />
+    <tag k='name' v='ПримСоцБанк' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-18:00' />
+    <tag k='operator' v='ПАО СКБ Приморья «Примсоцбанк»' />
+    <tag k='website' v='https://pskb.com/offices/office/8461/' />
+  </node>
+  <node id='4695582243' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97969807' lat='59.92751014345' lon='30.32084438404'>
+    <tag k='name' v='Гарант' />
+    <tag k='opening_hours' v='Mo-Su 10:00-20:00' />
+    <tag k='operator' v='ООО «Олимп»' />
+    <tag k='phone' v='+7 812 5702860' />
+    <tag k='shop' v='pawnbroker' />
+    <tag k='website' v='http://lombardspb.info' />
+  </node>
+  <node id='4695582244' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97969807' lat='59.9275307' lon='30.3207658'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/vsevlavashe' />
+    <tag k='name' v='Vлаvаше' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://vlavashe.ru/' />
+  </node>
+  <node id='4695582245' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97969807' lat='59.9275513' lon='30.3204914'>
+    <tag k='brand' v='Великолукский мясокомбинат' />
+    <tag k='brand:wikidata' v='Q18401767' />
+    <tag k='name' v='Великолукский мясокомбинат' />
+    <tag k='opening_hours' v='Mo 11:00-22:00; Tu-Sa 08:00-22:00; Su 08:00-21:00' />
+    <tag k='operator' v='ИП Лоскутова М.А.' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='4695582246' timestamp='2018-03-30T00:46:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='57649414' lat='59.9275843' lon='30.3203343'>
+    <tag k='name' v='Мегалит' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://megalit.ru/' />
+  </node>
+  <node id='5079382721' timestamp='2019-09-06T14:28:24Z' uid='4060262' user='MrBrightsideTK' visible='true' version='4' changeset='74179691' lat='59.9270629' lon='30.3217961'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/hinkalspb' />
+    <tag k='cuisine' v='georgian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Хинкальная' />
+    <tag k='name:ru' v='Хинкальная' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+    <tag k='phone' v='+7 9052061208' />
+  </node>
+  <node id='5515392193' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='97969807' lat='59.9271564' lon='30.3217392'>
+    <tag k='contact:vk' v='https://vk.com/dontelefon' />
+    <tag k='name' v='Дон Телефон' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://don-telefon.ru/outpost/sadovaja40' />
+  </node>
+  <node id='5515392194' timestamp='2018-03-30T00:46:42Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='57649414' lat='59.9271639' lon='30.3217595'>
+    <tag k='contact:vk' v='https://vk.com/3s_service' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='name' v='3С-Сервис' />
+    <tag k='website' v='http://3с-сервис.рф/home-office' />
+  </node>
+  <node id='5515392195' timestamp='2021-01-19T12:26:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='97768774' lat='59.9271461' lon='30.3217572'>
+    <tag k='contact:facebook' v='https://www.facebook.com/groups/352211931620610' />
+    <tag k='contact:instagram' v='https://www.instagram.com/oqprint/' />
+    <tag k='contact:vk' v='https://vk.com/copyspbru' />
+    <tag k='name' v='OQ' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+    <tag k='phone' v='+7 812 7027070' />
+    <tag k='shop' v='copyshop' />
+    <tag k='website' v='https://copy.spb.ru/about/kontakti/sennaya/' />
+  </node>
+  <node id='5515392197' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='97969807' lat='59.9271978' lon='30.3216658'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:instagram' v='https://www.instagram.com/shanti.project_sennaya/' />
+    <tag k='name' v='Shanti' />
+    <tag k='opening_hours' v='Su-Th 12:00-02:00; Fr-Sa 12:00-04:00' />
+    <tag k='operator' v='ООО «Аллон»' />
+    <tag k='website' v='https://shantilounge.ru/' />
+  </node>
+  <node id='8348840008' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97969807' lat='59.92741343963' lon='30.32101559898'>
+    <tag k='contact:vk' v='https://vk.com/bistrodengi' />
+    <tag k='name' v='Быстроденьги' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 10:00-19:00' />
+    <tag k='shop' v='money_lender' />
+    <tag k='website' v='https://bistrodengi.ru/' />
+  </node>
+  <node id='8348840009' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97969807' lat='59.92742543252' lon='30.3210423733'>
+    <tag k='name' v='Free Flowers' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://ff24.ru/' />
+  </node>
+  <node id='8348840012' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97969807' lat='59.92739866158' lon='30.32109009228'>
+    <tag k='name' v='Просто 585' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='pawnbroker' />
+    <tag k='website' v='https://lombard.zoloto585.ru/' />
+  </node>
+  <node id='8348840013' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97969807' lat='59.92720692465' lon='30.32138265444'>
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='В пикселях' />
+    <tag k='note' v='вход скорее всего был через бывшие Быстроденьги' />
+  </node>
+  <node id='8348840014' timestamp='2021-01-22T11:14:22Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97969807' lat='59.92715395639' lon='30.3217777979'>
+    <tag k='contact:vk' v='https://vk.com/krossiki24' />
+    <tag k='name' v='Кроссовки24.рф' />
+    <tag k='note' v='на их vk написан всё ещё адрес Гороховая 49' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='phone' v='+7 812 4269303' />
+    <tag k='shop' v='shoes' />
+  </node>
+</osm>

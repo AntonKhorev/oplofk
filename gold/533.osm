@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='3805511757' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='97975601' lat='59.9280491' lon='30.3211971'>
+    <tag k='brand' v='Tezenis' />
+    <tag k='brand:wikidata' v='Q28056374' />
+    <tag k='clothes' v='underwear' />
+    <tag k='contact:vk' v='https://vk.com/tezenisofficial' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Tezenis' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://ru.tezenis.com/store/ST-PETERSBURG-SADOVAYA-38/8488.uts' />
+  </node>
+  <node id='4184451735' timestamp='2019-10-02T13:24:21Z' uid='290680' user='wheelmap_visitor' visible='true' version='7' changeset='75181637' lat='59.9283497' lon='30.3219877'>
+    <tag k='contact:vk' v='https://vk.com/covanishoes' />
+    <tag k='name' v='Covani' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+    <tag k='operator' v='ИП Кисляков Г.А.' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://www.covani-shoes.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4379348590' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='97975601' lat='59.9278617' lon='30.3207752'>
+    <tag k='brand' v='МТС' />
+    <tag k='brand:en' v='MTS' />
+    <tag k='brand:wikidata' v='Q1368919' />
+    <tag k='brand:wikipedia' v='en:MTS (network provider)' />
+    <tag k='contact:vk' v='https://vk.com/mts' />
+    <tag k='name' v='МТС' />
+    <tag k='name:en' v='MTS' />
+    <tag k='office' v='telecommunication' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='operator' v='АО «РТК»' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.mts.ru/' />
+  </node>
+  <node id='4692013422' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='97975601' lat='59.9276797' lon='30.3203401'>
+    <tag k='brand' v='Великолукский мясокомбинат' />
+    <tag k='brand:wikidata' v='Q18401767' />
+    <tag k='name' v='Великолукский мясокомбинат' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-22:00; Su 08:00-21:00' />
+    <tag k='operator' v='ИП Лоскутова М.А.' />
+    <tag k='shop' v='butcher' />
+  </node>
+  <node id='4692013423' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97975601' lat='59.9277322' lon='30.3204655'>
+    <tag k='contact:vk' v='https://vk.com/club_british_bakery' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Британские пекарни' />
+    <tag k='operator' v='ООО «Британская кондитерская»' />
+    <tag k='website' v='https://british-bakery.ru/shops/sadovaya-40/' />
+  </node>
+  <node id='4692013424' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='97975601' lat='59.9278141' lon='30.3206615'>
+    <tag k='contact:instagram' v='https://www.instagram.com/585zolotoy/' />
+    <tag k='contact:twitter' v='https://twitter.com/my585zolotoy' />
+    <tag k='contact:vk' v='https://vk.com/my585zolotoy' />
+    <tag k='name' v='585 Золотой' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://www.585zolotoy.ru/contacts/shops/sankt-peterburg/0dc033ec-194c-4e2b-80fd-b0c14d4883c4/' />
+    <tag k='wheelchair' v='limited' />
+  </node>
+  <node id='4692013425' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='97975601' lat='59.9278941' lon='30.3208528'>
+    <tag k='contact:vk' v='https://vk.com/piter_optika' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Питер Оптика' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 10:00-20:00' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='https://piteroptika.ru/about/optics/46171/' />
+  </node>
+  <node id='4692013426' timestamp='2019-07-09T02:22:37Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72034497' lat='59.9279466' lon='30.3209782'>
+    <tag k='contact:vk' v='https://vk.com/sofia_obuv_spb' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Sofia' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ИП Привалова Я.И.' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://www.sofiashoes.ru/' />
+  </node>
+  <node id='4692013427' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97975601' lat='59.9282039' lon='30.3215937'>
+    <tag k='contact:vk' v='https://vk.com/marko_obuv' />
+    <tag k='disused:shop' v='shoes' />
+    <tag k='name' v='Marko' />
+    <tag k='note' v='осталась надпись &quot;дисконт-зона&quot;' />
+    <tag k='website' v='http://www.markoclub.ru/' />
+  </node>
+  <node id='4692013428' timestamp='2019-07-09T02:22:37Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='72034497' lat='59.9282277' lon='30.3216507'>
+    <tag k='contact:vk' v='https://vk.com/interfaxru' />
+    <tag k='name' v='Интерфакс' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.interfax.ru/' />
+  </node>
+  <node id='4692013429' timestamp='2019-10-02T13:24:32Z' uid='290680' user='wheelmap_visitor' visible='true' version='5' changeset='75181637' lat='59.9282644' lon='30.3217386'>
+    <tag k='name' v='Кондитерский' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-20:00' />
+    <tag k='operator' v='ООО «Неженка»' />
+    <tag k='shop' v='confectionery' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='4692013430' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='97975601' lat='59.928305' lon='30.3218356'>
+    <tag k='contact:vk' v='https://vk.com/eco_bio_market' />
+    <tag k='name' v='Компас здоровья' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='operator' v='ИП Кузьмин Сергей Борисович' />
+    <tag k='shop' v='health_food' />
+    <tag k='website' v='http://www.smkfarm.ru/contacts/stores/rossiya/sank-peterburg/2942/' />
+  </node>
+  <node id='5508195953' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='97975601' lat='59.9281005' lon='30.3213197'>
+    <tag k='brand' v='ВкусВилл' />
+    <tag k='brand:wikidata' v='Q57271676' />
+    <tag k='brand:wikipedia' v='ru:Вкусвилл' />
+    <tag k='contact:facebook' v='https://www.facebook.com/vkusvill.ru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/vkusvill_ru/' />
+    <tag k='contact:twitter' v='https://twitter.com/we_are_vkusvill' />
+    <tag k='contact:vk' v='https://vk.com/vkusvill_ru' />
+    <tag k='name' v='ВкусВилл' />
+    <tag k='opening_hours' v='08:00-23:00' />
+    <tag k='operator' v='ООО «Вкусвилл»' />
+    <tag k='shop' v='convenience' />
+    <tag k='website' v='https://spb.vkusvill.ru/shops/?shop_id=7938' />
+  </node>
+  <node id='5508195955' timestamp='2021-01-22T12:40:31Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97975601' lat='59.9281622' lon='30.3214947'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/onepricecoffee60' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='One Price Coffee' />
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='operator' v='ООО «Азбука ритейла»' />
+    <tag k='website' v='https://onepricecoffee.com/' />
+  </node>
+  <node id='6150658510' timestamp='2020-03-20T16:14:10Z' uid='3664566' user='aleksiy68' visible='true' version='3' changeset='82439234' lat='59.9281487' lon='30.3215173'>
+    <tag k='brand' v='Tele2' />
+    <tag k='brand:wikidata' v='Q309865' />
+    <tag k='brand:wikipedia' v='en:Tele2' />
+    <tag k='contact:vk' v='https://vk.com/tele2' />
+    <tag k='name' v='Tele2' />
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='operator' v='ООО «ФЕС»' />
+    <tag k='shop' v='mobile_phone' />
+    <tag k='website' v='https://spb.tele2.ru/' />
+  </node>
+</osm>

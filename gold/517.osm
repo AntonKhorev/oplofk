@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2422365489' timestamp='2020-12-11T12:33:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95681743' lat='59.92062159948' lon='30.34775518021'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='6418983187' timestamp='2020-12-11T12:56:53Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='95682757' lat='59.92005917125' lon='30.34994896553'>
+    <tag k='contact:instagram' v='https://www.instagram.com/fmag_naligovke/' />
+    <tag k='contact:vk' v='https://vk.com/fmagazinru' />
+    <tag k='name' v='fMagazin.ru' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+    <tag k='phone' v='+7 812 4255663311' />
+    <tag k='shop' v='fishing' />
+    <tag k='website' v='https://fmagazin.ru/fmagazin_na_ligovke/' />
+  </node>
+  <node id='8219671704' timestamp='2020-12-11T12:56:53Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95682757' lat='59.9204398683' lon='30.34876079474'>
+    <tag k='contact:vk' v='https://vk.com/club19958850' />
+    <tag k='name' v='Тонометры' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-18:00' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='http://tonometers.spb.ru/' />
+  </node>
+  <node id='8219671705' timestamp='2020-12-11T12:56:53Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95682757' lat='59.92047028506' lon='30.34859780702'>
+    <tag k='contact:vk' v='https://vk.com/abra_store' />
+    <tag k='name' v='Abracadabra' />
+    <tag k='shop' v='esoteric' />
+  </node>
+</osm>

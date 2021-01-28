@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='693177181' timestamp='2018-10-07T05:40:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63270744' lat='59.9201175' lon='30.3509847' />
+  <node id='693177183' timestamp='2018-10-07T05:40:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63270744' lat='59.9199275' lon='30.3504921' />
+  <node id='693177184' timestamp='2018-10-07T05:40:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63270744' lat='59.9195818' lon='30.351019' />
+  <node id='693177189' timestamp='2020-10-07T07:02:37Z' uid='2806751' user='Aulus' visible='true' version='4' changeset='92088801' lat='59.919823' lon='30.3516249' />
+  <node id='693177203' timestamp='2018-10-07T05:40:08Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='63270744' lat='59.9201748' lon='30.3511363' />
+  <node id='1367254644' timestamp='2019-11-22T18:33:45Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='77441543' lat='59.919984' lon='30.3517109' />
+  <node id='1367254648' timestamp='2018-10-07T05:40:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63270744' lat='59.9199947' lon='30.3506678' />
+  <node id='1367254661' timestamp='2018-10-07T05:40:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='63270744' lat='59.9202455' lon='30.3513232' />
+  <node id='7002886285' timestamp='2020-10-07T07:02:37Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92088801' lat='59.9198861' lon='30.3516529' />
+  <node id='7002886286' timestamp='2020-10-07T07:02:37Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92088801' lat='59.9199373' lon='30.351569' />
+  <node id='7002886287' timestamp='2020-10-07T07:02:37Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92088801' lat='59.9199626' lon='30.3516305' />
+  <node id='7002886288' timestamp='2020-10-07T07:02:37Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92088801' lat='59.9198563' lon='30.3516973' />
+  <node id='7002886289' timestamp='2020-10-07T07:02:37Z' uid='2806751' user='Aulus' visible='true' version='2' changeset='92088801' lat='59.9198418' lon='30.3516697'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='7002886299' timestamp='2019-11-22T18:33:45Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='77441543' lat='59.9201901' lon='30.3511767'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='7832342001' timestamp='2020-12-11T14:08:40Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='95685887' lat='59.92035764583' lon='30.35166715779'>
+    <tag k='contact:email' v='loscut@loscut.shop' />
+    <tag k='contact:instagram' v='https://instagram.com/lo_scampolo' />
+    <tag k='contact:phone' v='+7 812 7645958' />
+    <tag k='contact:vk' v='https://vk.com/lo_scampolo' />
+    <tag k='name' v='Ткани Италии' />
+    <tag k='name:it' v='Lo scampolo' />
+    <tag k='name:ru' v='Ткани Италии' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ИП Салтыкова Ю.Н.' />
+    <tag k='shop' v='fabric' />
+  </node>
+  <node id='8219844457' timestamp='2020-12-11T14:08:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95685887' lat='59.92049100106' lon='30.35201553014'>
+    <tag k='contact:vk' v='https://vk.com/spb_okrug' />
+    <tag k='name' v='Округ' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00; Sa-Su 10:00-18:00' />
+    <tag k='operator' v='ООО «Округ-Петербург»' />
+    <tag k='shop' v='outdoor' />
+    <tag k='website' v='https://spb.okrug.ru/' />
+  </node>
+  <node id='8219844458' timestamp='2020-12-11T14:08:40Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='95685887' lat='59.92039536313' lon='30.35176540053'>
+    <tag k='name' v='Зеркало Петербурга' />
+    <tag k='office' v='advertising_agency' />
+    <tag k='website' v='http://www.zerkalospb.ru/' />
+  </node>
+  <way id='751425448' timestamp='2020-12-11T14:08:40Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='95685887'>
+    <nd ref='693177183' />
+    <nd ref='1367254648' />
+    <nd ref='693177181' />
+    <nd ref='693177203' />
+    <nd ref='7002886299' />
+    <nd ref='1367254661' />
+    <nd ref='1367254644' />
+    <nd ref='7002886287' />
+    <nd ref='7002886286' />
+    <nd ref='7002886285' />
+    <nd ref='7002886288' />
+    <nd ref='7002886289' />
+    <nd ref='693177189' />
+    <nd ref='693177184' />
+    <nd ref='693177183' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='улица Константина Заслонова' />
+    <tag k='amenity' v='school' />
+    <tag k='contact:email' v='sch309@center-edu.spb.ru' />
+    <tag k='contact:phone' v='+7 812 2412721' />
+    <tag k='contact:vk' v='https://vk.com/sch309' />
+    <tag k='contact:website' v='https://school309.ru' />
+    <tag k='name' v='Школа № 309' />
+    <tag k='operator' v='ГБОУ средняя общеобразовательная школа № 309 Центрального района СПб' />
+  </way>
+</osm>

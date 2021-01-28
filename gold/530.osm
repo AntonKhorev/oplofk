@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1192681397' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='97910869' lat='59.92423363397' lon='30.32323289094'>
+    <tag k='contact:vk' v='https://vk.com/mirsh' />
+    <tag k='name' v='Планета Секонд Хенд' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://planetashspb.ru/' />
+  </node>
+  <node id='1658945003' timestamp='2018-10-09T14:46:22Z' uid='392109' user='GaM' visible='true' version='7' changeset='63349356' lat='59.9232466' lon='30.3206432'>
+    <tag k='name' v='Food Market' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='3942487552' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='97910869' lat='59.9234072' lon='30.3210659'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/gemotestlab' />
+    <tag k='healthcare' v='doctor' />
+    <tag k='name' v='Гемотест' />
+    <tag k='opening_hours' v='Mo-Sa 07:30-16:30' />
+    <tag k='website' v='https://gemotest.ru/sankt-peterburg/address/naberezhnaya-reki-fontanki-103/' />
+  </node>
+  <node id='3942487553' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='97910869' lat='59.92409221764' lon='30.32287996337'>
+    <tag k='contact:vk' v='https://vk.com/grafit_spb' />
+    <tag k='name' v='Графит' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='operator' v='ИИЦ «Норма 8»' />
+    <tag k='shop' v='stationery' />
+    <tag k='website' v='https://www.grafitspb.com/' />
+  </node>
+  <node id='3942487554' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='97910869' lat='59.92376759017' lon='30.32201425105'>
+    <tag k='contact:vk' v='https://vk.com/ns.studia' />
+    <tag k='name' v='NS' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='3942487555' timestamp='2018-07-06T23:13:59Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='60479201' lat='59.9236281' lon='30.3216471'>
+    <tag k='contact:vk' v='https://vk.com/fontanka99' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Фонтанка 99' />
+    <tag k='rooms' v='4' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.hotel-fontanka.ru/' />
+  </node>
+  <node id='4611248289' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='97910869' lat='59.92413832499' lon='30.32300210648'>
+    <tag k='contact:instagram' v='https://www.instagram.com/instabulochka/' />
+    <tag k='contact:vk' v='https://vk.com/bulochka78' />
+    <tag k='name' v='Булочка' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='https://bulochka78.ru/' />
+  </node>
+  <node id='4611248290' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='97910869' lat='59.9238434' lon='30.3222144'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Pho&apos;n&apos;Roll' />
+    <tag k='contact:phone' v='+7 812 5048845' />
+    <tag k='contact:vk' v='https://vk.com/phonrollcafe' />
+    <tag k='contact:website' v='https://www.phonrollcafe.ru/adres-fontanka' />
+    <tag k='cuisine' v='vietnamese' />
+    <tag k='name' v='Pho&apos;n&apos;Roll' />
+    <tag k='opening_hours' v='Su-Th 12:00-23:00; Fr-Sa 12:00-24:00' />
+    <tag k='operator' v='ООО «Радость»' />
+  </node>
+  <node id='4611248291' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='97910869' lat='59.9237993' lon='30.3220983'>
+    <tag k='contact:vk' v='https://vk.com/goldenagehotel' />
+    <tag k='name' v='Золотой век' />
+    <tag k='name:en' v='Golden Age' />
+    <tag k='name:ru' v='Золотой век' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://goldenagehotel.ru/' />
+  </node>
+  <node id='4611248293' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97910869' lat='59.92379260714' lon='30.32202104199'>
+    <tag k='contact:vk' v='https://vk.com/trisestry_fontanka' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Три сестры' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa 11:00-18:00' />
+    <tag k='website' v='http://masterskaya-trisestry.ru/' />
+  </node>
+  <node id='4611248294' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97910869' lat='59.9237147' lon='30.3218752'>
+    <tag k='name' v='Аквариумы' />
+    <tag k='opening_hours' v='11:00-19:00' />
+    <tag k='operator' v='ООО «Аква Лайф»' />
+    <tag k='shop' v='pet' />
+    <tag k='website' v='https://www.aqplus.ru/about/salon-akvalandiya/' />
+  </node>
+  <node id='4611248295' timestamp='2018-07-07T01:21:32Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='60480137' lat='59.9235338' lon='30.3213991'>
+    <tag k='contact:vk' v='https://vk.com/anforpost' />
+    <tag k='name' v='Форпост' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-19:00; Sa 12:00-16:00' />
+    <tag k='website' v='http://www.estate78.ru/' />
+  </node>
+  <node id='4611248296' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='97910869' lat='59.9228796' lon='30.3196763'>
+    <tag k='contact:vk' v='https://vk.com/dekanto_shop' />
+    <tag k='name' v='ДеКанто' />
+    <tag k='opening_hours' v='12:00-21:00' />
+    <tag k='operator' v='ООО «Вивино»' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://dekanto.ru/about/kontaktyi/nab.-reki-fontanki-d.109.html' />
+  </node>
+  <node id='5341923130' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='97910869' lat='59.9231484' lon='30.3203839'>
+    <tag k='name' v='Северо-Западное межрегиональное управление государственного автодорожного надзора' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://ugadn78.tu.rostransnadzor.gov.ru/' />
+  </node>
+  <node id='5341923131' timestamp='2021-01-21T14:06:26Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='97910869' lat='59.923113' lon='30.3202912'>
+    <tag k='contact:facebook' v='https://www.facebook.com/kvartplata.info/' />
+    <tag k='name' v='Жилищное хозяйство' />
+    <tag k='office' v='government' />
+    <tag k='official_name' v='Санкт-Петербургское государственное унитарное предприятие “Вычислительный центр коллективного пользования многоотраслевого комплекса жилищного хозяйства”' />
+    <tag k='website' v='https://kvartplata.info/' />
+  </node>
+</osm>

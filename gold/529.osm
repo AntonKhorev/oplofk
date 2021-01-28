@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='665099522' timestamp='2021-01-21T13:24:11Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='97908646' lat='59.922859' lon='30.3186584'>
+    <tag k='alt_name' v='Парашют' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/parabar' />
+    <tag k='name' v='Sky-Bar' />
+    <tag k='website' v='http://skybar-spb.ru/' />
+  </node>
+  <node id='4611248297' timestamp='2021-01-21T13:24:11Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='97908646' lat='59.9227858' lon='30.3193179'>
+    <tag k='contact:vk' v='https://vk.com/nb_computers' />
+    <tag k='name' v='NB Computers' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ООО «Электроника»' />
+    <tag k='shop' v='computer' />
+    <tag k='website' v='https://www.nbcomputers.ru/kontakty/nb-msk14/' />
+  </node>
+  <node id='4611248298' timestamp='2021-01-21T13:24:11Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97908646' lat='59.9228151' lon='30.3191289'>
+    <tag k='name' v='Лаки Паркет' />
+    <tag k='shop' v='flooring' />
+    <tag k='website' v='http://www.spb.onefloor.ru/' />
+  </node>
+  <node id='4611248300' timestamp='2021-01-21T13:24:11Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='97908646' lat='59.9228515' lon='30.3182938'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/meat.star.cafe' />
+    <tag k='cuisine' v='cake;coffee_shop;local;pizza;sandwich' />
+    <tag k='name' v='Мит Стар' />
+    <tag k='opening_hours' v='Mo-Th 09:00-21:00; Fr 09:00-22:00; Sa-Su 10:00-21:00' />
+    <tag k='website' v='http://cafemeatstar.ru/' />
+  </node>
+  <node id='5341879918' timestamp='2021-01-21T13:24:11Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='97908646' lat='59.9228247' lon='30.3190592'>
+    <tag k='contact:vk' v='https://vk.com/nbcompany' />
+    <tag k='disused:craft' v='electronics_repair' />
+    <tag k='name' v='NB Company' />
+    <tag k='operator' v='ООО «Электроника»' />
+    <tag k='website' v='https://www.nbcomputers.ru/' />
+  </node>
+  <node id='7935206285' timestamp='2021-01-21T13:24:11Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='97908646' lat='59.9228548' lon='30.3187513'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/characterofcoffee/' />
+    <tag k='contact:vk' v='https://vk.com/characterofcoffee' />
+    <tag k='name' v='Характер кофе' />
+    <tag k='opening_hours' v='Mo-Su 10:00-21:00' />
+  </node>
+</osm>

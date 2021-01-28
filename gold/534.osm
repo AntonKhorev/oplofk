@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8349928244' timestamp='2021-01-22T18:12:07Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='97990987' lat='59.9238059' lon='30.3205416'>
+    <tag k='contact:vk' v='https://vk.com/spbmeh' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Мастерская кожи и меха' />
+    <tag k='website' v='https://master-meh.ru/' />
+  </node>
+</osm>

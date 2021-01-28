@@ -8951,6 +8951,17 @@
   <node id='-668726' action='modify' lat='59.92503330431' lon='30.29019981354' />
   <node id='-668734' action='modify' lat='59.925068252' lon='30.29035001725' />
   <node id='-668885' action='modify' lat='59.92570941961' lon='30.31585406763' />
+  <node id='-672689' action='modify' lat='59.92363874028' lon='30.32150960094' />
+  <node id='-672690' action='modify' lat='59.92399023324' lon='30.32087623805' />
+  <node id='-672691' action='modify' lat='59.92380070263' lon='30.32043367356' />
+  <node id='-672692' action='modify' lat='59.92346297196' lon='30.32104905055' />
+  <node id='-672712' action='modify' lat='59.92634516158' lon='30.3230649206' />
+  <node id='-672713' action='modify' lat='59.92586800638' lon='30.32383203238' />
+  <node id='-672714' action='modify' lat='59.92604139597' lon='30.32423704594' />
+  <node id='-672715' action='modify' lat='59.92609784819' lon='30.32415389746' />
+  <node id='-672716' action='modify' lat='59.92615026803' lon='30.3241646263' />
+  <node id='-672717' action='modify' lat='59.92633844113' lon='30.32472789019' />
+  <node id='-672718' action='modify' lat='59.92639385609' lon='30.32483064465' />
   <way id='-218960' action='modify'>
     <nd ref='-102244' />
     <nd ref='-118676' />
@@ -14185,6 +14196,7 @@
     <nd ref='-119608' />
     <nd ref='-119642' />
     <nd ref='-119866' />
+    <nd ref='-672718' />
     <nd ref='-107160' />
     <nd ref='-107162' />
     <nd ref='-107164' />
@@ -17169,6 +17181,8 @@
     <nd ref='-110336' />
     <nd ref='-110338' />
     <nd ref='-110340' />
+    <nd ref='-672689' />
+    <nd ref='-672692' />
     <nd ref='-110298' />
     <nd ref='-110296' />
     <nd ref='-110324' />
@@ -26549,5 +26563,29 @@
     <nd ref='-242462' />
     <tag k='description' v='двор со входом через арку' />
     <tag k='name' v='Бол. Морская ул. 25 - двор' />
+  </way>
+  <way id='-220149' action='modify'>
+    <nd ref='-672689' />
+    <nd ref='-672690' />
+    <nd ref='-672691' />
+    <nd ref='-672692' />
+    <nd ref='-672689' />
+    <tag k='description' v='дворы за аркой' />
+    <tag k='name' v='Фонтанки наб. 101 - дворы' />
+  </way>
+  <way id='-220296' action='modify'>
+    <nd ref='-119866' />
+    <nd ref='-119864' />
+    <nd ref='-119862' />
+    <nd ref='-672712' />
+    <nd ref='-672713' />
+    <nd ref='-672714' />
+    <nd ref='-672715' />
+    <nd ref='-672716' />
+    <nd ref='-672717' />
+    <nd ref='-672718' />
+    <nd ref='-119866' />
+    <tag k='description' v='дворы, соединяющиеся за домами' />
+    <tag k='name' v='Гороховая ул. 53-55 - дворы' />
   </way>
 </osm>
