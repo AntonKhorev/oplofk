@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4637974627' timestamp='2020-11-24T12:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='94707521' lat='59.9263051' lon='30.3184116'>
+    <tag k='brand' v='Билайн' />
+    <tag k='brand:wikidata' v='Q402880' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Билайн' />
+    <tag k='note' v='нет на сайте Билайна, возможно неофициальный' />
+    <tag k='shop' v='mobile_phone' />
+  </node>
+  <node id='4637974628' timestamp='2020-11-24T12:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='94707521' lat='59.9262123' lon='30.3185393'>
+    <tag k='craft' v='electronics_repair' />
+    <tag k='electronics_repair' v='phone' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Smile Mobile' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa-Su 11:00-20:00' />
+  </node>
+  <node id='5142095554' timestamp='2020-11-24T12:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='94707521' lat='59.9262571' lon='30.3184433'>
+    <tag k='level' v='0' />
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='5551653323' timestamp='2020-11-24T12:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='94707521' lat='59.9262348' lon='30.3184796'>
+    <tag k='contact:vk' v='https://vk.com/ochkovnet2018' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Ochkov.Net' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='optician' />
+    <tag k='website' v='https://spb.ochkov.net/pamyatka-pokupatelyu/adresa-magazinov/m-sankt-peterburg.htm' />
+  </node>
+  <node id='5551653324' timestamp='2020-11-24T12:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='94707521' lat='59.9262462' lon='30.3185074'>
+    <tag k='inscription' v='Скупка техники' />
+    <tag k='level' v='0' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='shop' v='mobile_phone' />
+  </node>
+  <node id='5551653326' timestamp='2020-11-24T12:29:30Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='94706551' lat='59.9262939' lon='30.3183834'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Coffee Like' />
+    <tag k='brand:wikidata' v='Q55662627' />
+    <tag k='brand:wikipedia' v='ru:Coffee Like' />
+    <tag k='contact:email' v='hotline@coffee-like.com' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Coffee Like' />
+    <tag k='note' v='соответствие между импортом и конкретным местом угадано по режиму работы' />
+    <tag k='opening_hours' v='07:30-20:30' />
+    <tag k='operator' v='Котосова А.В.' />
+    <tag k='phone' v='+7 341 2908292;+7 800 3334130' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://coffee-like.com' />
+  </node>
+  <node id='8158118050' timestamp='2020-11-24T12:48:50Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='94707521' lat='59.9262686' lon='30.3184713'>
+    <tag k='shop' v='optician' />
+  </node>
+</osm>
