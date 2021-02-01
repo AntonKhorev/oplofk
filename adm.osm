@@ -4534,13 +4534,13 @@
   <node id='-111310' action='modify' lat='59.92602891742' lon='30.317610235' />
   <node id='-111312' action='modify' lat='59.92603091966' lon='30.31778767872' />
   <node id='-111314' action='modify' lat='59.92603360787' lon='30.31790569591' />
-  <node id='-111316' action='modify' lat='59.92646573388' lon='30.3189705329' />
-  <node id='-111318' action='modify' lat='59.92654973906' lon='30.31900942492' />
-  <node id='-111320' action='modify' lat='59.92661031359' lon='30.31914118665' />
+  <node id='-111316' action='modify' lat='59.92643776404' lon='30.31903352483' />
+  <node id='-111318' action='modify' lat='59.92654014943' lon='30.3190381301' />
+  <node id='-111320' action='modify' lat='59.92659752249' lon='30.31916439504' />
   <node id='-111322' action='modify' lat='59.92665188908' lon='30.31906575132' />
   <node id='-111324' action='modify' lat='59.92613575947' lon='30.3178104775' />
-  <node id='-111326' action='modify' lat='59.92658755178' lon='30.31890927613' />
-  <node id='-111328' action='modify' lat='59.92655348382' lon='30.31896588403' />
+  <node id='-111326' action='modify' lat='59.92657506687' lon='30.31887891154' />
+  <node id='-111328' action='modify' lat='59.92653909937' lon='30.31893398938' />
   <node id='-111330' action='modify' lat='59.92595603443' lon='30.3199059983' />
   <node id='-111332' action='modify' lat='59.92596409905' lon='30.32008302409' />
   <node id='-111334' action='modify' lat='59.92590697455' lon='30.32020238239' />
@@ -8962,6 +8962,21 @@
   <node id='-672716' action='modify' lat='59.92615026803' lon='30.3241646263' />
   <node id='-672717' action='modify' lat='59.92633844113' lon='30.32472789019' />
   <node id='-672718' action='modify' lat='59.92639385609' lon='30.32483064465' />
+  <node id='-672727' action='modify' lat='59.92603327061' lon='30.31800490134' />
+  <node id='-672734' action='modify' lat='59.92630777696' lon='30.3184729553' />
+  <node id='-672735' action='modify' lat='59.92621867253' lon='30.31863641536' />
+  <node id='-672736' action='modify' lat='59.92639448374' lon='30.31902553006' />
+  <node id='-672737' action='modify' lat='59.92634613575' lon='30.31911403771' />
+  <node id='-672738' action='modify' lat='59.92632655679' lon='30.3190741694' />
+  <node id='-672739' action='modify' lat='59.92593537478' lon='30.3197957858' />
+  <node id='-672740' action='modify' lat='59.92600090508' lon='30.31993691961' />
+  <node id='-672741' action='modify' lat='59.92652714067' lon='30.31898645912' />
+  <node id='-682560' action='modify' lat='59.92624864823' lon='30.31855260333' />
+  <node id='-682561' action='modify' lat='59.92621554835' lon='30.31845793916' />
+  <node id='-682568' action='modify' lat='59.92629408513' lon='30.31832612984' />
+  <node id='-682575' action='modify' lat='59.92632869547' lon='30.31841263108' />
+  <node id='-682580' action='modify' lat='59.92618991771' lon='30.31850215014' />
+  <node id='-682581' action='modify' lat='59.92622671231' lon='30.31859166887' />
   <way id='-218960' action='modify'>
     <nd ref='-102244' />
     <nd ref='-118676' />
@@ -17998,6 +18013,11 @@
     <nd ref='-111310' />
     <nd ref='-111312' />
     <nd ref='-111314' />
+    <nd ref='-672727' />
+    <nd ref='-682561' />
+    <nd ref='-682568' />
+    <nd ref='-682575' />
+    <nd ref='-682560' />
     <nd ref='-111316' />
     <nd ref='-111318' />
     <nd ref='-111320' />
@@ -18005,7 +18025,7 @@
     <nd ref='-111326' />
     <nd ref='-111324' />
     <nd ref='-111308' />
-    <tag k='description' v='юг-вост часть между Ефимова и Московским' />
+    <tag k='description' v='юг-вост часть между Ефимова и Московским, кроме самого левого входа' />
     <tag k='name' v='Сенная пл. 4-6' />
   </way>
   <way id='-219426' action='modify'>
@@ -26587,5 +26607,30 @@
     <nd ref='-119866' />
     <tag k='description' v='дворы, соединяющиеся за домами' />
     <tag k='name' v='Гороховая ул. 53-55 - дворы' />
+  </way>
+  <way id='-220373' action='modify'>
+    <nd ref='-672734' />
+    <nd ref='-672735' />
+    <nd ref='-672736' />
+    <nd ref='-672737' />
+    <nd ref='-672738' />
+    <nd ref='-672739' />
+    <nd ref='-672740' />
+    <nd ref='-672741' />
+    <nd ref='-672734' />
+    <tag k='description' v='БЦ &quot;Сенная 4&quot; - 2 этаж и лестницы до него' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Ефимова ул. 1 - БЦ' />
+  </way>
+  <way id='-222082' action='modify'>
+    <nd ref='-682575' />
+    <nd ref='-682568' />
+    <nd ref='-682561' />
+    <nd ref='-682580' />
+    <nd ref='-682581' />
+    <nd ref='-682560' />
+    <nd ref='-682575' />
+    <tag k='description' v='левый вход в здание, через который можно пройти во двор мимо нескольких точек' />
+    <tag k='name' v='Сенная пл. 6 - левый вход' />
   </way>
 </osm>
