@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='806509566' timestamp='2021-02-25T09:18:50Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99962673' lat='59.93486925436' lon='30.31714250193'>
+    <tag k='disused:amenity' v='stripclub' />
+    <tag k='name' v='Maximus' />
+    <tag k='website' v='http://maximus-club.ru/' />
+  </node>
+  <node id='4437077152' timestamp='2021-02-25T09:18:50Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99962673' lat='59.93456523261' lon='30.31762193491'>
+    <tag k='contact:vk' v='https://vk.com/outletterminal' />
+    <tag k='name' v='Терминал' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='phone' v='+7 812 3155017' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.sale-terminal.ru/' />
+  </node>
+  <node id='4558319091' timestamp='2021-02-25T09:18:50Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='99962673' lat='59.93514920618' lon='30.31677368889'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/bonchcoffebar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bonch_cafe/' />
+    <tag k='cuisine' v='breakfast;coffee_shop' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Bonch' />
+    <tag k='name:ru' v='Бонч' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-23:00; Sa 10:00-23:00; Su 10:00-21:00' />
+    <tag k='phone' v='+7 812 7407083' />
+    <tag k='website' v='http://www.bonchcoffee.ru' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

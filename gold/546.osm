@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='778265947' timestamp='2012-05-02T15:18:04Z' uid='386821' user='paavolobja' visible='true' version='3' changeset='11480481' lat='59.917725' lon='30.3215442' />
+  <node id='778266095' timestamp='2020-10-08T23:01:57Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='92198805' lat='59.9178951' lon='30.3219852'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='2521152192' timestamp='2016-06-29T07:04:06Z' uid='472653' user='Pavel47' visible='true' version='2' changeset='40359143' lat='59.9177335' lon='30.3215667'>
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:street' v='Загородный проспект' />
+    <tag k='man_made' v='address_nameboard' />
+  </node>
+  <node id='3462316458' timestamp='2017-09-23T12:28:31Z' uid='472653' user='Pavel47' visible='true' version='4' changeset='52302702' lat='59.9178231' lon='30.3217992'>
+    <tag k='amenity' v='post_box' />
+    <tag k='collection_times' v='Mo-Fr 06:50,18:05; Sa 09:10; Su 18:05' />
+    <tag k='design:year' v='2010' />
+    <tag k='drive_through' v='no' />
+    <tag k='operator' v='Почта России' />
+    <tag k='post_box:design' v='ЯПНМ-II-С' />
+    <tag k='post_box:type' v='wall' />
+    <tag k='ref' v='17' />
+  </node>
+  <node id='4271098485' timestamp='2016-06-29T07:04:01Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='40359143' lat='59.9176812' lon='30.3215972' />
+  <node id='4271098486' timestamp='2016-06-29T07:04:01Z' uid='472653' user='Pavel47' visible='true' version='1' changeset='40359143' lat='59.9177336' lon='30.321567'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='4271098488' timestamp='2020-10-08T23:01:57Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='92198805' lat='59.9178481' lon='30.3220346' />
+  <way id='427946394' timestamp='2021-02-11T13:19:13Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99110164'>
+    <nd ref='4271098485' />
+    <nd ref='4271098488' />
+    <nd ref='778266095' />
+    <nd ref='3462316458' />
+    <nd ref='4271098486' />
+    <nd ref='2521152192' />
+    <nd ref='778265947' />
+    <nd ref='4271098485' />
+    <tag k='amenity' v='post_office' />
+    <tag k='brand' v='Почта России' />
+    <tag k='brand:wikidata' v='Q1502763' />
+    <tag k='contact:vk' v='https://vk.com/russianpost' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Санкт-Петербург 190013' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-13:00,14:00-20:00; Sa 09:00-13:00,14:00-18:00; Su off' />
+    <tag k='operator' v='АО «Почта России»' />
+    <tag k='operator:wikidata' v='Q1502763' />
+    <tag k='phone' v='+7 812 3160274' />
+    <tag k='ref' v='190013' />
+    <tag k='website' v='https://www.pochta.ru/offices/190013' />
+  </way>
+</osm>

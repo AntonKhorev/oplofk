@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4305680332' timestamp='2021-02-11T13:30:07Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='99110790' lat='59.91820597013' lon='30.32241747687'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:email' v='ads@evrasia.spb.ru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/evrasiaru/' />
+    <tag k='contact:phone' v='+7 812 6160384' />
+    <tag k='contact:vk' v='https://vk.com/evrasiaspb' />
+    <tag k='contact:website' v='https://evrasia.spb.ru/' />
+    <tag k='cuisine' v='sushi' />
+    <tag k='name' v='Евразия' />
+    <tag k='opening_hours' v='Su-Th 11:00-23:00, Fr-Sa 11:00-02:00' />
+    <tag k='operator' v='ООО «Евразия+»' />
+  </node>
+  <node id='5919448848' timestamp='2021-02-11T13:30:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99110790' lat='59.9181075' lon='30.3221929'>
+    <tag k='contact:vk' v='https://vk.com/nevskie.berega' />
+    <tag k='name' v='Невские берега' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='http://www.cake.spb.ru/' />
+  </node>
+</osm>

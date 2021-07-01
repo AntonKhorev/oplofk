@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2406884078' timestamp='2021-02-25T07:10:30Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99953085' lat='59.93130348337' lon='30.30389044702'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/restarcobaleno' />
+    <tag k='cuisine' v='italian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Arcobaleno' />
+    <tag k='opening_hours' v='Mo-Su 07:00-11:00, 12:00-23:00' />
+    <tag k='outdoor_seating' v='no' />
+    <tag k='phone' v='+7 812 3851292' />
+    <tag k='website' v='https://spb.dominarussia.com/restaurant-and-bar/arcobaleno-restaurant/' />
+  </node>
+  <node id='4807287786' timestamp='2021-02-25T07:10:30Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99953085' lat='59.9315432' lon='30.3049344'>
+    <tag k='contact:vk' v='https://vk.com/deltanevaspb' />
+    <tag k='int_name' v='Neva Delta' />
+    <tag k='name' v='Дельта Невы' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.nevadeltahotel.ru/' />
+  </node>
+  <node id='4807287788' timestamp='2021-02-25T07:10:30Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='99953085' lat='59.93186854423' lon='30.3063391791'>
+    <tag k='alt_name' v='Galerie Quarante-Six' />
+    <tag k='brand' v='Boffi / Minotti' />
+    <tag k='contact:email' v='shop@galerie46.com' />
+    <tag k='contact:phone' v='+7 812 3127141' />
+    <tag k='name' v='Galerie 46' />
+    <tag k='shop' v='interior_decoration' />
+    <tag k='website' v='https://galerie46.com/' />
+  </node>
+  <node id='6471077885' timestamp='2021-02-25T07:10:30Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99953085' lat='59.93141312247' lon='30.30436800726'>
+    <tag k='addr:postcode' v='190000' />
+    <tag k='alt_name' v='Особняк Половцева' />
+    <tag k='amenity' v='events_venue' />
+    <tag k='contact:email' v='arcunion@mail.ru' />
+    <tag k='contact:phone' v='+7 962 7237179' />
+    <tag k='contact:vk' v='https://vk.com/dom_arhitektora_spb' />
+    <tag k='contact:website' v='http://www.arcunionspb.ru/o-nas/dom-arhitektora/' />
+    <tag k='name' v='Дом архитектора' />
+    <tag k='name:ru' v='Дом архитектора' />
+    <tag k='opening_hours' v='Sa 11:00-12:00; Su 12:00-13:00' />
+  </node>
+  <node id='8456525793' timestamp='2021-02-25T07:10:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99953085' lat='59.93180237114' lon='30.30605745711'>
+    <tag k='alt_name' v='Galerie Quarante-Six' />
+    <tag k='brand' v='Rimadesio' />
+    <tag k='name' v='Galerie 46' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://galerie46.com/' />
+  </node>
+</osm>

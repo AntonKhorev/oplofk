@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8836126435' timestamp='2021-06-15T14:17:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106407285' lat='59.9230782' lon='30.2836499'>
+    <tag k='contact:vk' v='https://vk.com/bornitsky_ugol' />
+    <tag k='name' v='Борницкий уголь' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='8836126437' timestamp='2021-06-15T14:17:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106407285' lat='59.92290575685' lon='30.28374907429'>
+    <tag k='contact:vk' v='https://vk.com/gks1adm' />
+    <tag k='name' v='Жилищно-эксплуатационная служба №1' />
+    <tag k='office' v='property_management' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-17:00; 13:00-14:00 off' />
+    <tag k='website' v='https://www.jks-1.spb.ru/' />
+  </node>
+  <node id='8836126438' timestamp='2021-06-15T14:17:28Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106407285' lat='59.92268209807' lon='30.28418798021'>
+    <tag k='amenity' v='social_facility' />
+    <tag k='name' v='Странник' />
+    <tag k='website' v='https://strannik-spb.ru/' />
+  </node>
+</osm>

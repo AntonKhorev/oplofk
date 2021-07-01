@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='664453558' timestamp='2021-02-25T09:18:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99962673' lat='59.93517826065' lon='30.31673316491' />
+  <node id='664453559' timestamp='2013-08-18T19:57:31Z' uid='1189226' user='hiosm' visible='true' version='2' changeset='17401793' lat='59.9351169' lon='30.3167423' />
+  <node id='664453576' timestamp='2016-10-08T00:23:59Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='42724382' lat='59.9345433' lon='30.3175756' />
+  <node id='664453577' timestamp='2016-10-08T00:23:59Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='42724382' lat='59.9345514' lon='30.3176799' />
+  <node id='664453583' timestamp='2010-07-08T11:30:09Z' uid='43262' user='KonTur' visible='true' version='4' changeset='5165427' lat='59.935605' lon='30.3171723' />
+  <node id='664453584' timestamp='2010-08-15T08:48:52Z' uid='136198' user='tmprec' visible='true' version='4' changeset='5497156' lat='59.9355435' lon='30.3174557' />
+  <node id='664453591' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9353167' lon='30.3184924' />
+  <node id='664453592' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.9353868' lon='30.3181713' />
+  <node id='664453605' timestamp='2010-03-12T09:51:29Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9362278' lon='30.3178131' />
+  <node id='664453606' timestamp='2010-07-08T11:30:11Z' uid='43262' user='KonTur' visible='true' version='3' changeset='5165427' lat='59.9360646' lon='30.3176452' />
+  <node id='664453611' timestamp='2010-03-12T09:51:29Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9362537' lon='30.3178409' />
+  <node id='664453612' timestamp='2017-03-19T21:22:16Z' uid='700550' user='EIjas' visible='true' version='2' changeset='46994002' lat='59.9362585' lon='30.318024'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Невский проспект' />
+  </node>
+  <node id='664453613' timestamp='2010-03-12T09:51:30Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9362666' lon='30.3178932' />
+  <node id='664453614' timestamp='2010-03-12T09:51:30Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9362674' lon='30.3179591' />
+  <node id='664453615' timestamp='2010-03-12T09:51:30Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.936263' lon='30.3178651' />
+  <node id='664453616' timestamp='2010-03-12T09:51:30Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9362698' lon='30.3179261' />
+  <node id='664453618' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.936102' lon='30.3189791' />
+  <node id='664453621' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.935913' lon='30.3189344' />
+  <node id='664453622' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.9359675' lon='30.3189728' />
+  <node id='1580632253' timestamp='2021-02-21T15:07:02Z' uid='437809' user='Anton Khorev' visible='true' version='26' changeset='99684295' lat='59.9361102' lon='30.318924'>
+    <tag k='brand' v='Булочные Ф. Вольчека' />
+    <tag k='contact:email' v='info@fvolchek.ru' />
+    <tag k='contact:phone' v='+7 812 6420638' />
+    <tag k='contact:vk' v='https://vk.com/f.volchek' />
+    <tag k='contact:website' v='http://fvolchek.ru/' />
+    <tag k='inscription' v='Булочная № 60' />
+    <tag k='name' v='Булочная Ф. Вольчека' />
+    <tag k='name:ru' v='Булочная Ф. Вольчека' />
+    <tag k='opening_hours' v='08:00-24:00' />
+    <tag k='ref' v='60' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='1580632255' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='99965022' lat='59.93602244781' lon='30.31894622834'>
+    <tag k='name' v='Сувениры СПб' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='2423332497' timestamp='2017-10-21T00:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='53117578' lat='59.934822' lon='30.3171659' />
+  <node id='2423332585' timestamp='2019-06-17T17:21:11Z' uid='3846961' user='mini-me' visible='true' version='15' changeset='71337677' lat='59.9355746' lon='30.3186969'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4437077130' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9361564' lon='30.3188191' />
+  <node id='4437077131' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9361406' lon='30.318915' />
+  <node id='4437077132' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9360769' lon='30.3189922' />
+  <node id='4437077133' timestamp='2019-04-13T19:59:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9361215' lon='30.3189525'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4437077137' timestamp='2019-04-13T19:59:23Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9360501' lon='30.3189875'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4437077138' timestamp='2019-04-13T19:59:23Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9359916' lon='30.3189771'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4437077139' timestamp='2019-04-13T19:59:23Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9358787' lon='30.3189103'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='4437077140' timestamp='2019-04-13T19:59:23Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9356091' lon='30.3187211'>
+    <tag k='entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4437077141' timestamp='2019-04-13T19:59:23Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9355442' lon='30.3186728'>
+    <tag k='entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4437077147' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='99965022' lat='59.9353463' lon='30.3185159'>
+    <tag k='entrance' v='yes' />
+    <tag k='note' v='возможно неактуальные таблички &quot;Taleon Club&quot;, &quot;Eliseev Bar&quot;' />
+  </node>
+  <node id='4437077148' timestamp='2017-10-21T02:07:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='53117977' lat='59.9349037' lon='30.318054'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='4437077149' timestamp='2016-10-08T00:23:58Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42724382' lat='59.9349241' lon='30.3180756'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4437077150' timestamp='2016-10-08T00:23:58Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42724382' lat='59.934882' lon='30.318031'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4437077151' timestamp='2016-10-08T00:23:58Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42724382' lat='59.9345473' lon='30.3176272'>
+    <tag k='entrance' v='yes' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4437077152' timestamp='2021-02-25T09:18:50Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99962673' lat='59.93456523261' lon='30.31762193491'>
+    <tag k='contact:vk' v='https://vk.com/outletterminal' />
+    <tag k='name' v='Терминал' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='phone' v='+7 812 3155017' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.sale-terminal.ru/' />
+  </node>
+  <node id='4743903773' timestamp='2017-03-19T21:22:14Z' uid='700550' user='EIjas' visible='true' version='1' changeset='46994002' lat='59.9352159' lon='30.3167718'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Большая Морская улица' />
+  </node>
+  <node id='4743903778' timestamp='2019-04-13T19:59:57Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.935812' lon='30.3188635'>
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:street' v='набережная реки Мойки' />
+  </node>
+  <node id='4743903780' timestamp='2017-03-19T21:22:14Z' uid='700550' user='EIjas' visible='true' version='1' changeset='46994002' lat='59.9345547' lon='30.3175588'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Кирпичный переулок' />
+  </node>
+  <node id='5179214177' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='99965022' lat='59.93584361705' lon='30.31884743164'>
+    <tag k='contact:instagram' v='https://www.instagram.com/ligio_official/' />
+    <tag k='name' v='Ligio' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://ligio.ru/' />
+  </node>
+  <node id='5179214180' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='99965022' lat='59.93555073056' lon='30.3186393336'>
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:street' v='набережная реки Мойки' />
+    <tag k='contact:vk' v='https://vk.com/ushatava' />
+    <tag k='name' v='Ushatava' />
+    <tag k='opening_hours' v='Mo-Su 12:00-21:00' />
+    <tag k='operator' v='ООО Торговый дом «Ушатава»' />
+    <tag k='phone' v='+7 800 3505532' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.ushatava.com/showrooms/sankt-peterburg/' />
+  </node>
+  <node id='5179214182' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99965022' lat='59.93504159056' lon='30.31815958363'>
+    <tag k='contact:instagram' v='https://www.instagram.com/track_moika61/' />
+    <tag k='contact:vk' v='https://vk.com/track_fashion' />
+    <tag k='name' v='Track' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='operator' v='«Сода СПб»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://track-fashion.ru/' />
+  </node>
+  <node id='5179214183' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99965022' lat='59.93517580619' lon='30.31830210024'>
+    <tag k='alt_name' v='X=act;X^act' />
+    <tag k='contact:facebook' v='https://www.facebook.com/xact.spb' />
+    <tag k='contact:vk' v='https://vk.com/xact_spb' />
+    <tag k='name' v='X-act' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='operator' v='ООО «Мода Трейд»' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.xact.ru/' />
+  </node>
+  <node id='5179214184' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99965022' lat='59.9347064' lon='30.3178051'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/public_vitt' />
+    <tag k='healthcare' v='doctor' />
+    <tag k='name' v='ВиT Эстетик' />
+    <tag k='website' v='http://vitt.spb.ru/' />
+  </node>
+  <node id='5919441467' timestamp='2019-04-13T20:01:19Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9361626' lon='30.3187711'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6424179539' timestamp='2021-02-25T09:18:50Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99962673' lat='59.93514758034' lon='30.31673773245'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='8456959417' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99965022' lat='59.93491287918' lon='30.31802290742'>
+    <tag k='amenity' v='college' />
+    <tag k='name' v='Санкт-Петербургский колледж телекоммуникаций им. Э.Т.Кренкеля' />
+    <tag k='website' v='https://www.sutkt.ru/' />
+  </node>
+  <way id='52153133' timestamp='2020-07-17T20:45:47Z' uid='5459104' user='fdjrgio' visible='true' version='27' changeset='88161133'>
+    <nd ref='664453584' />
+    <nd ref='664453583' />
+    <nd ref='664453606' />
+    <nd ref='664453605' />
+    <nd ref='664453611' />
+    <nd ref='664453615' />
+    <nd ref='664453613' />
+    <nd ref='664453616' />
+    <nd ref='664453614' />
+    <nd ref='664453612' />
+    <nd ref='5919441467' />
+    <nd ref='4437077130' />
+    <nd ref='4437077131' />
+    <nd ref='4437077133' />
+    <nd ref='664453618' />
+    <nd ref='4437077132' />
+    <nd ref='4437077137' />
+    <nd ref='4437077138' />
+    <nd ref='664453622' />
+    <nd ref='664453621' />
+    <nd ref='4437077139' />
+    <nd ref='4743903778' />
+    <nd ref='4437077140' />
+    <nd ref='2423332585' />
+    <nd ref='4437077141' />
+    <nd ref='4437077147' />
+    <nd ref='664453591' />
+    <nd ref='664453592' />
+    <nd ref='664453584' />
+    <tag k='contact:phone' v='+7 812 3249911;+7 812 3249944' />
+    <tag k='contact:vk' v='https://vk.com/taleonimperialhotel' />
+    <tag k='int_name' v='Taleon Imperial Hotel' />
+    <tag k='landuse' v='commercial' />
+    <tag k='name' v='Талион Империал отель' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.taleonimperialhotel.com/' />
+    <tag k='wheelchair' v='yes' />
+  </way>
+  <way id='52153137' timestamp='2021-02-25T09:49:53Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='99965022'>
+    <nd ref='664453583' />
+    <nd ref='4743903773' />
+    <nd ref='664453558' />
+    <nd ref='6424179539' />
+    <nd ref='664453559' />
+    <nd ref='2423332497' />
+    <nd ref='4743903780' />
+    <nd ref='664453576' />
+    <nd ref='4437077151' />
+    <nd ref='664453577' />
+    <nd ref='4437077150' />
+    <nd ref='4437077148' />
+    <nd ref='4437077149' />
+    <nd ref='664453591' />
+    <nd ref='664453592' />
+    <nd ref='664453584' />
+    <nd ref='664453583' />
+    <tag k='amenity' v='university' />
+    <tag k='contact:vk' v='https://vk.com/sutru' />
+    <tag k='name' v='Санкт-Петербургский государственный университет телекоммуникаций имени профессора М. А. Бонч-Бруевича' />
+    <tag k='short_name' v='СПбГУТ' />
+    <tag k='website' v='https://www.sut.ru/' />
+    <tag k='wikidata' v='Q4407705' />
+  </way>
+</osm>

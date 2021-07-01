@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='588919458' timestamp='2016-10-26T03:19:07Z' uid='392109' user='GaM' visible='true' version='5' changeset='43180969' lat='59.9221768' lon='30.3339748' />
+  <node id='588919460' timestamp='2016-10-26T03:19:07Z' uid='392109' user='GaM' visible='true' version='5' changeset='43180969' lat='59.9221622' lon='30.3339386' />
+  <node id='588919461' timestamp='2016-10-26T03:19:07Z' uid='392109' user='GaM' visible='true' version='5' changeset='43180969' lat='59.9220292' lon='30.3341527' />
+  <node id='588919492' timestamp='2020-10-08T16:30:37Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='92185971' lat='59.9225201' lon='30.334941' />
+  <node id='588919494' timestamp='2020-10-08T16:30:37Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='92185971' lat='59.9226875' lon='30.3346714' />
+  <node id='588919498' timestamp='2016-10-26T03:19:07Z' uid='392109' user='GaM' visible='true' version='5' changeset='43180969' lat='59.9223228' lon='30.3337398' />
+  <node id='588919503' timestamp='2020-10-08T16:30:37Z' uid='3846961' user='mini-me' visible='true' version='6' changeset='92185971' lat='59.922595' lon='30.3348204' />
+  <node id='588919507' timestamp='2016-10-26T03:19:07Z' uid='392109' user='GaM' visible='true' version='4' changeset='43180969' lat='59.9225685' lon='30.3343473' />
+  <node id='588919508' timestamp='2016-10-26T03:19:07Z' uid='392109' user='GaM' visible='true' version='5' changeset='43180969' lat='59.9224357' lon='30.3347289' />
+  <node id='588919516' timestamp='2016-10-26T03:19:08Z' uid='392109' user='GaM' visible='true' version='5' changeset='43180969' lat='59.9223306' lon='30.3348981' />
+  <node id='2930653177' timestamp='2021-02-11T14:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99114465' lat='59.9214496' lon='30.3312799'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='building' v='kiosk' />
+    <tag k='name' v='Бабушкины пироги' />
+    <tag k='website' v='https://b-pirogki.ru/' />
+  </node>
+  <node id='4464312087' timestamp='2019-06-24T00:28:53Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='71543668' lat='59.9225048' lon='30.3348997'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='4562035065' timestamp='2021-02-11T14:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99114465' lat='59.92298336394' lon='30.33521926503'>
+    <tag k='brand' v='Союзпечать' />
+    <tag k='brand:wikidata' v='Q4430611' />
+    <tag k='brand:wikipedia' v='ru:Союзпечать' />
+    <tag k='building' v='kiosk' />
+    <tag k='name' v='Союзпечать' />
+    <tag k='shop' v='newsagent' />
+  </node>
+  <node id='4685331660' timestamp='2021-02-11T14:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='99114465' lat='59.9210934' lon='30.3304024'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='building' v='kiosk' />
+    <tag k='contact:vk' v='https://vk.com/etloncoffee' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Etlon Coffee' />
+    <tag k='website' v='https://etloncoffee.ru/' />
+  </node>
+  <node id='4685331661' timestamp='2021-02-11T14:40:05Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99114465' lat='59.9216281' lon='30.3315866'>
+    <tag k='building' v='kiosk' />
+    <tag k='shop' v='newsagent' />
+  </node>
+  <node id='4685331662' timestamp='2020-10-08T20:27:36Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='92195372' lat='59.9214621' lon='30.3318356' />
+  <node id='4685331663' timestamp='2020-10-08T20:27:36Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='92195372' lat='59.9215202' lon='30.3317421' />
+  <node id='4685331664' timestamp='2020-10-08T20:27:36Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='92195372' lat='59.9214929' lon='30.3319116' />
+  <node id='4685331665' timestamp='2020-10-08T20:27:36Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='92195372' lat='59.9215402' lon='30.3318362' />
+  <node id='4688794710' timestamp='2017-02-16T13:22:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='46136971' lat='59.9226317' lon='30.3345168'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4688794711' timestamp='2017-02-16T13:22:55Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='46136971' lat='59.9226528' lon='30.3345732' />
+  <node id='7989827038' timestamp='2020-10-08T20:27:36Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='92195372' lat='59.9215412' lon='30.3318176'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='7989827039' timestamp='2020-10-08T20:27:36Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='92195372' lat='59.9215424' lon='30.331797' />
+  <way id='474619409' timestamp='2020-10-08T20:27:36Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='92195372'>
+    <nd ref='4685331665' />
+    <nd ref='7989827038' />
+    <nd ref='7989827039' />
+    <nd ref='4685331663' />
+    <nd ref='4685331662' />
+    <nd ref='4685331664' />
+    <nd ref='4685331665' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='1' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='florist' />
+  </way>
+  <way id='475067223' timestamp='2020-02-19T12:13:39Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='81219916'>
+    <nd ref='588919461' />
+    <nd ref='588919516' />
+    <nd ref='588919508' />
+    <nd ref='4464312087' />
+    <nd ref='588919492' />
+    <nd ref='588919503' />
+    <nd ref='588919494' />
+    <nd ref='4688794711' />
+    <nd ref='4688794710' />
+    <nd ref='588919507' />
+    <nd ref='588919498' />
+    <nd ref='588919458' />
+    <nd ref='588919460' />
+    <nd ref='588919461' />
+    <tag k='amenity' v='bank' />
+    <tag k='atm' v='yes' />
+    <tag k='contact:vk' v='https://vk.com/alexbankspb' />
+    <tag k='name' v='Александровский' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:00; Sa 09:30-17:00' />
+    <tag k='operator' v='ПАО Банк «Александровский»' />
+    <tag k='website' v='https://alexbank.ru/' />
+  </way>
+</osm>

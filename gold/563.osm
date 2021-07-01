@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1401261870' timestamp='2021-06-15T16:44:59Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='106414274' lat='59.93139003237' lon='30.29336680491'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Теремок' />
+    <tag k='brand:wikidata' v='Q4455593' />
+    <tag k='brand:wikipedia' v='ru:Теремок (сеть быстрого питания)' />
+    <tag k='contact:email' v='office@teremok.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/teremok' />
+    <tag k='contact:instagram' v='https://instagram.com/teremok_ru' />
+    <tag k='contact:line' v='http://line.me/ti/p/%40teremok' />
+    <tag k='contact:phone' v='+7 495 9562730' />
+    <tag k='contact:twitter' v='https://twitter.com/teremok_ru' />
+    <tag k='contact:vk' v='https://vk.com/teremok' />
+    <tag k='contact:website' v='https://teremok.ru/places/pl_truda__uch__6/' />
+    <tag k='cuisine' v='crepe' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='name' v='Теремок' />
+    <tag k='name:ru' v='Теремок' />
+  </node>
+</osm>

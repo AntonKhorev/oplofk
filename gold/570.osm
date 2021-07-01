@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803238391' timestamp='2012-01-08T19:20:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10335505' lat='59.9367457' lon='30.313848' />
+  <node id='803238422' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72706936' lat='59.9362519' lon='30.3141637' />
+  <node id='803238437' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107148332' lat='59.9366329' lon='30.3148506'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='803238459' timestamp='2012-02-04T00:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10580506' lat='59.9364697' lon='30.314756' />
+  <node id='803238550' timestamp='2016-10-07T20:44:45Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='42721391' lat='59.9354473' lon='30.3119754' />
+  <node id='803238552' timestamp='2012-01-08T19:20:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10335505' lat='59.936564' lon='30.3137124' />
+  <node id='1839583847' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='107148332' lat='59.9356627' lon='30.3125004'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/gdegosti' />
+    <tag k='name' v='Гости' />
+    <tag k='name:en' v='Gosti' />
+    <tag k='opening_hours' v='09:00+' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 812 3125820' />
+    <tag k='website' v='https://www.gdegosti.com/' />
+  </node>
+  <node id='2002999216' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='107148332' lat='59.9359831' lon='30.313372'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/bushe.bakery' />
+    <tag k='name' v='Буше' />
+    <tag k='opening_hours' v='Su-Th 08:00-22:00; Fr-Sa 08:00-23:00' />
+    <tag k='operator' v='ООО «ПКД «Венец»' />
+    <tag k='phone' v='+7 812 3155371' />
+    <tag k='shop' v='pastry' />
+    <tag k='website' v='https://bushe.ru/' />
+  </node>
+  <node id='4436874655' timestamp='2019-07-27T02:13:04Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='72707290' lat='59.9360828' lon='30.3136426'>
+    <tag k='contact:vk' v='https://vk.com/amulethotels' />
+    <tag k='int_name' v='Amulet' />
+    <tag k='name' v='Амулет' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='phone' v='+7 812 5701732' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://amulet-hotels.ru/amulet-na-maloj-morskoj' />
+  </node>
+  <node id='4436874662' timestamp='2016-10-07T20:44:43Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42721391' lat='59.9354513' lon='30.3119016' />
+  <node id='4436874664' timestamp='2016-10-07T20:44:43Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42721391' lat='59.9354494' lon='30.311938'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4689220091' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='107148332' lat='59.93553599969' lon='30.31196176718' />
+  <node id='4693705989' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='72706936' lat='59.9358388' lon='30.3129794'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/yarumen' />
+    <tag k='cuisine' v='japanese;ramen' />
+    <tag k='name' v='Ярумэн' />
+    <tag k='name:en' v='Yarumen' />
+    <tag k='opening_hours' v='12:00-23:00' />
+    <tag k='operator' v='ООО «Ярумэн»' />
+    <tag k='phone' v='+7 812 3129771' />
+    <tag k='website' v='https://www.yarumen.com/' />
+  </node>
+  <node id='4743903772' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72706936' lat='59.9364652' lon='30.3147438'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Малая Морская улица' />
+  </node>
+  <node id='5146412360' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72706936' lat='59.9360945' lon='30.3136229'>
+    <tag k='name' v='Невская классика' />
+    <tag k='note' v='неизвестно, имеет ли отношение к одноимённому отелю на Невском, 3' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='5146412361' timestamp='2019-11-07T11:22:20Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='76751171' lat='59.9358861' lon='30.3131081'>
+    <tag k='contact:vk' v='https://vk.com/club6727081' />
+    <tag k='int_name' v='Solo Admiralty' />
+    <tag k='name' v='Solo Адмиралтейская' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.solo-central.ru/solo-admiral' />
+  </node>
+  <node id='5146412362' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107148332' lat='59.935796' lon='30.3128631'>
+    <tag k='amenity' v='nightclub' />
+    <tag k='contact:vk' v='https://vk.com/musicbar_11' />
+    <tag k='name' v='Music Bar 11' />
+    <tag k='opening_hours' v='21:00-06:00' />
+    <tag k='operator' v='ООО «Сопрано»' />
+    <tag k='website' v='https://www.musicbar11.ru/' />
+  </node>
+  <node id='5146412365' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72706936' lat='59.9355825' lon='30.312218'>
+    <tag k='int_name' v='Tchaikovsky House' />
+    <tag k='name' v='Дом Чайковского' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.tchaikovskyhouse.com/' />
+  </node>
+  <node id='5146412366' timestamp='2020-06-04T22:29:26Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='86211739' lat='59.9355682' lon='30.3122432'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='contact:email' v='105@dou-center.spb.ru' />
+    <tag k='contact:phone' v='+7 812 3129078' />
+    <tag k='contact:website' v='http://gdouds105tsr.acentr.gov.spb.ru' />
+    <tag k='name' v='Детский сад № 105' />
+    <tag k='official_name' v='Государственное бюджетное дошкольное образовательное учреждение детский сад № 105 Центрального района Санкт-Петербурга' />
+    <tag k='ref' v='105' />
+  </node>
+  <node id='5330214766' timestamp='2018-01-09T23:58:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55307841' lat='59.9366789' lon='30.3137981' />
+  <node id='5854766845' timestamp='2020-08-07T13:51:00Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='89095895' lat='59.9355804' lon='30.3117083'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='6326116944' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107148332' lat='59.93625203619' lon='30.31410283108'>
+    <tag k='amenity' v='cafe' />
+    <tag k='breakfast' v='08:00-20:00' />
+    <tag k='contact:instagram' v='cakeandbreakfast' />
+    <tag k='contact:vk' v='cakeandbreakfast' />
+    <tag k='name' v='Cake &amp; Breakfast' />
+    <tag k='opening_hours' v='08:00-21:00' />
+    <tag k='operator' v='Клевер клуб' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 921 8660029' />
+  </node>
+  <node id='6724698364' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107148332' lat='59.93620958815' lon='30.31398790284'>
+    <tag k='contact:email' v='reservations@faceshotels.com' />
+    <tag k='contact:facebook' v='https://www.facebook.com/TheFacesHotels/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/faceshotels/' />
+    <tag k='contact:phone' v='+7 812 7771727' />
+    <tag k='contact:website' v='https://faceshotels.com/malaya-morskaya-5b/' />
+    <tag k='name' v='The Faces Historical Center' />
+    <tag k='operator' v='ООО «Лица»' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='6724722170' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107148332' lat='59.93561574913' lon='30.31237291395'>
+    <tag k='contact:facebook' v='https://www.facebook.com/ArtGalleryHinoy' />
+    <tag k='contact:instagram' v='https://www.instagram.com/artgalleryhinoy/' />
+    <tag k='contact:phone' v='+7 921 9395233' />
+    <tag k='contact:vk' v='https://vk.com/art_gallery_hinoy' />
+    <tag k='name' v='Hinoy' />
+    <tag k='opening_hours' v='Mo-Su 12:00-22:00' />
+    <tag k='shop' v='art' />
+  </node>
+  <node id='8874958134' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107148332' lat='59.9355970615' lon='30.31212794982' />
+  <node id='8874958135' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107148332' lat='59.93564444809' lon='30.31179938823' />
+  <node id='8874958136' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107148332' lat='59.93553662107' lon='30.31221844675' />
+  <node id='8874958137' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107148332' lat='59.9356001034' lon='30.31167871196' />
+  <way id='66233044' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='107148332'>
+    <nd ref='803238437' />
+    <nd ref='803238459' />
+    <nd ref='4743903772' />
+    <nd ref='803238422' />
+    <nd ref='803238552' />
+    <nd ref='5330214766' />
+    <nd ref='803238391' />
+    <nd ref='803238437' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='7-9' />
+    <tag k='addr:street' v='Невский проспект' />
+    <tag k='building' v='yes' />
+    <tag k='building:colour' v='#6b7778' />
+    <tag k='building:levels' v='5' />
+    <tag k='contact:email' v='info@wawelberg.com' />
+    <tag k='contact:facebook' v='https://www.facebook.com/wawelberghotelstpetersburg/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/wawelberg_hotel/' />
+    <tag k='contact:phone' v='+7 812 2913333' />
+    <tag k='int_name' v='Wawelberg' />
+    <tag k='name' v='Вавельберг' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Отель Вавельберг»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://wawelberg.com/' />
+  </way>
+  <way id='959114335' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107148332'>
+    <nd ref='8874958137' />
+    <nd ref='8874958135' />
+    <nd ref='4689220091' />
+    <nd ref='8874958134' />
+    <nd ref='8874958136' />
+    <nd ref='803238550' />
+    <nd ref='4436874664' />
+    <nd ref='4436874662' />
+    <nd ref='5854766845' />
+    <nd ref='8874958137' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Малая Морская улица' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/kazanmangalspb' />
+    <tag k='cuisine' v='georgian;uzbek' />
+    <tag k='name' v='Kazan-Mangal' />
+    <tag k='opening_hours' v='Mo-Th 12:00-01:00, Fr 12:00-02:00, Sa 11:00-02:00, Su 11:00-01:00' />
+    <tag k='website' v='https://reca.rest/restaurants/kazanmangal' />
+  </way>
+</osm>

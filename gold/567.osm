@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='2010656162' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='106426667' lat='59.93165354962' lon='30.29994104323'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='contact:email' v='5719539@mail.ru' />
+    <tag k='contact:phone' v='+7 812 5719539' />
+    <tag k='contact:website' v='https://ds-8-spb.nubex.ru' />
+    <tag k='name' v='Детский сад № 8 «Светлячок»' />
+    <tag k='official_name' v='Государственное бюджетное дошкольное образовательное учреждение детский сад общеразвивающего вида № 8 Адмиралтейского района Санкт-Петербурга' />
+    <tag k='ref' v='8' />
+  </node>
+  <node id='4232300090' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='106426667' lat='59.93143340552' lon='30.29919619352'>
+    <tag k='contact:vk' v='https://vk.com/public48662519' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='На Почтамтской' />
+    <tag k='phone' v='+7 812 5700473' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='4304007915' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='106426667' lat='59.93147790403' lon='30.29934741913'>
+    <tag k='disused:amenity' v='events_venue' />
+    <tag k='name' v='Центр Деловой Культуры' />
+  </node>
+  <node id='4304007922' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='106426667' lat='59.93130738817' lon='30.29877105325'>
+    <tag k='amenity' v='courthouse' />
+    <tag k='name' v='Октябрьский районный суд' />
+    <tag k='opening_hours' v='Mo-Th 09:00-18:00; Fr 09:00-16:45; 13:00-14:00 off' />
+    <tag k='website' v='http://oktibrsky.spb.sudrf.ru/' />
+  </node>
+  <node id='4304007924' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='106426667' lat='59.93121333765' lon='30.29844965966'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='contact:email' v='dou15@adm-edu.spb.ru' />
+    <tag k='contact:phone' v='+7 812 3121017;+7 812 3155944' />
+    <tag k='contact:website' v='http://gbdou15.ucoz.net' />
+    <tag k='name' v='Детский сад № 15' />
+    <tag k='official_name' v='Государственное бюджетное дошкольное образовательное учреждение детский сад компенсирующего вида №15 Адмиралтейского района Санкт-Петербурга' />
+    <tag k='ref' v='15' />
+  </node>
+  <node id='4582592099' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='106426667' lat='59.93160353486' lon='30.29977217484'>
+    <tag k='contact:vk' v='https://vk.com/violet_spb' />
+    <tag k='name' v='Violet' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://www.salonviolet.ru/' />
+  </node>
+  <node id='4582592100' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='106426667' lat='59.9317912921' lon='30.30040705823'>
+    <tag k='name' v='Отдел опеки и попечительства Местной администрации МО Адмиралтейский округ' />
+    <tag k='office' v='government' />
+    <tag k='opening_hours' v='Tu 14:00-17:00; Th 10:00-13:00' />
+    <tag k='website' v='http://opeka-admiral.ru/' />
+  </node>
+  <node id='4582592101' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='106426667' lat='59.9318199379' lon='30.30050384224'>
+    <tag k='contact:vk' v='https://vk.com/gks1adm' />
+    <tag k='name' v='Жилищно-эксплуатационная служба № 3' />
+    <tag k='office' v='property_management' />
+    <tag k='operator' v='ООО «Жилкомсервис № 1 Адмиралтейского района»' />
+    <tag k='website' v='https://www.jks-1.spb.ru/' />
+  </node>
+  <node id='8837137803' timestamp='2021-06-15T23:10:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106426667' lat='59.93163372269' lon='30.29987382739'>
+    <tag k='contact:vk' v='https://vk.com/kupidon178' />
+    <tag k='name' v='Купидон' />
+    <tag k='shop' v='florist' />
+  </node>
+</osm>

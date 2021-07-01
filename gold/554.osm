@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='806509579' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99684295' lat='59.93624889828' lon='30.31790052884'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:facebook' v='https://www.facebook.com/bbrbank' />
+    <tag k='contact:vk' v='https://vk.com/bbrbank' />
+    <tag k='name' v='ББР Банк' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:30; Sa-Su 10:30-19:30' />
+    <tag k='website' v='https://bbr.ru/o-banke/ofisy-i-bankomaty/nevsky15/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='951438816' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='99686816' lat='59.93540177659' lon='30.31700368744'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kingpongspb/' />
+    <tag k='contact:vk' v='https://vk.com/cafekingpong' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='name' v='Кинг Понг' />
+    <tag k='opening_hours' v='Mo-Su 12:00-24:00' />
+    <tag k='website' v='http://www.kingpong.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2595723093' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99686816' lat='59.93610607692' lon='30.31772838785'>
+    <tag k='name' v='Павловопосадские платки' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://platki.ru/' />
+  </node>
+  <node id='4558319091' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='99686816' lat='59.93515635016' lon='30.31678334855'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/bonchcoffebar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bonch_cafe/' />
+    <tag k='cuisine' v='breakfast;coffee_shop' />
+    <tag k='diet:vegetarian' v='yes' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Bonch' />
+    <tag k='name:ru' v='Бонч' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-23:00; Sa 10:00-23:00; Su 10:00-21:00' />
+    <tag k='phone' v='+7 812 7407083' />
+    <tag k='website' v='http://www.bonchcoffee.ru' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4595655390' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99686816' lat='59.93590274146' lon='30.31751905019'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/italy_group' />
+    <tag k='cuisine' v='italian' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Italy' />
+    <tag k='opening_hours' v='Su-Th 09:00-23:00; Fr-Sa 09:00-00:00' />
+    <tag k='operator' v='Italy Group' />
+    <tag k='outdoor_seating' v='yes' />
+    <tag k='phone' v='+7 812 9440300' />
+    <tag k='website' v='https://italy-group.ru/restaurants/italy-bolshoy-morskoy/' />
+  </node>
+  <node id='5305177021' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99686816' lat='59.93620122384' lon='30.3178264315'>
+    <tag k='name' v='Близко' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5305745933' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99686816' lat='59.93613797692' lon='30.31776138785'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/dedho_cafe' />
+    <tag k='name' v='Дед Хо' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='website' v='https://dedho.ru/stores/c70efa3e-8961-4a70-f839-09a43103f59f' />
+  </node>
+  <node id='5305745935' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99686816' lat='59.93566844146' lon='30.31727795017'>
+    <tag k='opening_hours' v='08:00-20:00' />
+    <tag k='operator' v='ОАО «Талион»' />
+    <tag k='shop' v='dry_cleaning' />
+  </node>
+  <node id='5305745936' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99686816' lat='59.93565025914' lon='30.31725946894'>
+    <tag k='name' v='Талион' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.moika59.com/' />
+  </node>
+  <node id='5305745937' timestamp='2021-02-21T16:00:26Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99686816' lat='59.93556450595' lon='30.31717131247'>
+    <tag k='brand' v='Л&apos;Этуаль' />
+    <tag k='brand:wikidata' v='Q18400706' />
+    <tag k='brand:wikipedia' v='ru:Л’Этуаль' />
+    <tag k='contact:vk' v='https://vk.com/letoile_official' />
+    <tag k='int_name' v='L&apos;Etoile' />
+    <tag k='name' v='Л&apos;Этуаль' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='cosmetics' />
+    <tag k='website' v='https://www.letu.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+</osm>

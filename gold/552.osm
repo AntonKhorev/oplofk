@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8385069475' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99183566' lat='59.9264097' lon='30.3191217'>
+    <tag k='addr:door' v='314' />
+    <tag k='contact:vk' v='https://vk.com/mirsg' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Мир своими глазами, А-тур' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://www.mirsg.ru/' />
+    <tag k='website2' v='http://www.aturcom.ru/' />
+  </node>
+  <node id='8385069477' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.926443' lon='30.319062'>
+    <tag k='addr:door' v='313' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8385069478' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99183566' lat='59.926431' lon='30.3190354'>
+    <tag k='addr:door' v='312' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Право и Недвижимость' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://pravoined.ru/' />
+  </node>
+  <node id='8385069479' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9264404' lon='30.3190184'>
+    <tag k='addr:door' v='311' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8385069481' timestamp='2021-02-12T16:03:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99185683' lat='59.9264859' lon='30.3189846'>
+    <tag k='addr:door' v='309' />
+    <tag k='contact:vk' v='https://vk.com/hotturspb' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Хоттур' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='http://хоттур.рф/' />
+  </node>
+  <node id='8385069482' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9264739' lon='30.318958'>
+    <tag k='addr:door' v='308' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8385069487' timestamp='2021-02-12T16:03:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99185683' lat='59.9263495' lon='30.3188068'>
+    <tag k='addr:door' v='302' />
+    <tag k='contact:vk' v='https://vk.com/oblaka4you' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Oblaka' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://oblaka4you.ru/' />
+  </node>
+  <node id='8385069491' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263942' lon='30.3191498'>
+    <tag k='addr:door' v='315' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8385069492' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263866' lon='30.3190794'>
+    <tag k='addr:door' v='316' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8385069498' timestamp='2021-02-12T16:03:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99185683' lat='59.9264536' lon='30.3189366'>
+    <tag k='addr:door' v='307' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Delion Garant' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='ООО «Дэлион-Гарант»' />
+    <tag k='website' v='https://delion-garant.ru/' />
+  </node>
+  <node id='8385069499' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9264319' lon='30.3189411'>
+    <tag k='addr:door' v='306' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8385069500' timestamp='2021-02-12T16:03:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99185683' lat='59.9264238' lon='30.3188662'>
+    <tag k='addr:door' v='305' />
+    <tag k='contact:vk' v='https://vk.com/protec_spb' />
+    <tag k='craft' v='electronics_repair' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Protec' />
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='website' v='https://www.protec.one/spb' />
+  </node>
+  <node id='8385069501' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263912' lon='30.318789'>
+    <tag k='addr:door' v='304' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8385069502' timestamp='2021-02-12T16:03:54Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99185683' lat='59.9263725' lon='30.3187447'>
+    <tag k='addr:door' v='303' />
+    <tag k='level' v='2' />
+    <tag k='name' v='РадиоСила' />
+    <tag k='shop' v='radiotechnics' />
+    <tag k='website' v='http://www.radiosila.ru/piter2.html' />
+  </node>
+  <node id='8385069503' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263368' lon='30.3188046'>
+    <tag k='addr:door' v='301' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8418381655' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263328' lon='30.3192354'>
+    <tag k='addr:door' v='320' />
+    <tag k='level' v='2' />
+    <tag k='note' v='ООО УК ЖС' />
+  </node>
+  <node id='8418381656' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263244' lon='30.3192169'>
+    <tag k='addr:door' v='319' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Delion Garant' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://delion-garant.ru/' />
+  </node>
+  <node id='8418381657' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99183566' lat='59.9263048' lon='30.3192267'>
+    <tag k='addr:door' v='318' />
+    <tag k='level' v='2' />
+  </node>
+  <node id='8418381659' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263242' lon='30.319275'>
+    <tag k='addr:door' v='321' />
+    <tag k='level' v='2' />
+    <tag k='note' v='возможно присутствие https://vk.com/lolafashionhouse либо здесь либо рядом' />
+  </node>
+  <node id='8418381660' timestamp='2021-02-12T15:16:28Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99183566' lat='59.9263053' lon='30.3192016'>
+    <tag k='addr:door' v='317' />
+    <tag k='contact:vk' v='https://vk.com/edinyj_vizovyj_centr' />
+    <tag k='door' v='42' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Единый визовый центр' />
+    <tag k='office' v='visa' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-22:00' />
+    <tag k='website' v='https://единый-визовый-центр.рф/kontakty/sankt-peterburg-sennaya' />
+  </node>
+</osm>

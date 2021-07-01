@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='664453453' timestamp='2010-07-08T11:30:15Z' uid='43262' user='KonTur' visible='true' version='2' changeset='5165427' lat='59.9341223' lon='30.3166773' />
+  <node id='664453542' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99961691' lat='59.93462336418' lon='30.31594464447' />
+  <node id='664453544' timestamp='2010-07-08T11:30:12Z' uid='43262' user='KonTur' visible='true' version='2' changeset='5165427' lat='59.9343111' lon='30.3164013' />
+  <node id='664453545' timestamp='2010-07-08T11:30:10Z' uid='43262' user='KonTur' visible='true' version='2' changeset='5165427' lat='59.9347784' lon='30.3157178' />
+  <node id='664453552' timestamp='2010-03-12T09:51:28Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9350278' lon='30.3165454' />
+  <node id='664453553' timestamp='2010-03-12T09:51:28Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9350308' lon='30.3164168' />
+  <node id='664453554' timestamp='2010-03-12T09:51:28Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9350379' lon='30.3165137' />
+  <node id='664453555' timestamp='2010-03-12T09:51:28Z' uid='43262' user='KonTur' visible='true' version='1' changeset='4104734' lat='59.9350387' lon='30.3164442' />
+  <node id='664453556' timestamp='2017-11-07T18:05:53Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='53588410' lat='59.9350411' lon='30.3164797'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='664453571' timestamp='2016-10-08T00:24:00Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='42724382' lat='59.9343951' lon='30.31745' />
+  <node id='664453574' timestamp='2016-10-08T00:24:00Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='42724382' lat='59.9340134' lon='30.3168424' />
+  <node id='806509569' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99961691' lat='59.93434754213' lon='30.31458599584'>
+    <tag k='brand' v='Ювелирторг' />
+    <tag k='contact:vk' v='https://vk.com/juvelirtorg' />
+    <tag k='name' v='Яхонт' />
+    <tag k='opening_hours' v='11:00-20:00' />
+    <tag k='operator' v='АО «Ювелирторг»' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://juvelirtorg.spb.ru/stores/sankt-peterburg/53' />
+  </node>
+  <node id='806509603' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='99961691' lat='59.93412402552' lon='30.31396705817'>
+    <tag k='contact:facebook' v='https://www.facebook.com/rossigrandspb/' />
+    <tag k='name' v='Rossi' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-18:00' />
+    <tag k='operator' v='ООО «Галерея дизайна»' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://rossi-grand.ru/' />
+  </node>
+  <node id='4437077154' timestamp='2016-10-08T00:23:58Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42724382' lat='59.934041' lon='30.3168864'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5230428621' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='99961691' lat='59.93440998844' lon='30.31475938771'>
+    <tag k='contact:vk' v='https://vk.com/rostelecom' />
+    <tag k='disused:shop' v='mobile_phone' />
+    <tag k='name' v='Ростелеком' />
+    <tag k='website' v='https://spb.rt.ru/' />
+  </node>
+  <node id='5305713652' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99961691' lat='59.93438458844' lon='30.31468888771'>
+    <tag k='contact:vk' v='https://vk.com/alloshow' />
+    <tag k='disused:shop' v='ticket' />
+    <tag k='name' v='Alloshow.ru' />
+    <tag k='website' v='https://alloshow.ru/' />
+  </node>
+  <node id='8456833611' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99961691' lat='59.93502278388' lon='30.31647935049'>
+    <tag k='name' v='Совет ректоров вузов Санкт-Петербурга и Ленинградской области' />
+    <tag k='office' v='association' />
+    <tag k='website' v='https://sovetrectorov.ru/' />
+  </node>
+  <node id='8456833616' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99961691' lat='59.93461874994' lon='30.31533735606'>
+    <tag k='contact:vk' v='https://vk.com/gazprom_neft' />
+    <tag k='name' v='Газпром нефть' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='ПАО «Газпром нефть»' />
+    <tag k='operator:wikidata' v='Q1461799' />
+    <tag k='website' v='https://www.gazprom-neft.ru/' />
+  </node>
+  <way id='539043629' timestamp='2021-02-25T09:06:59Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99961691'>
+    <nd ref='664453574' />
+    <nd ref='4437077154' />
+    <nd ref='664453571' />
+    <nd ref='664453552' />
+    <nd ref='664453554' />
+    <nd ref='664453556' />
+    <nd ref='664453555' />
+    <nd ref='664453553' />
+    <nd ref='664453545' />
+    <nd ref='664453542' />
+    <nd ref='664453544' />
+    <nd ref='664453453' />
+    <nd ref='664453574' />
+    <tag k='amenity' v='university' />
+    <tag k='contact:vk' v='https://vk.com/spsutd' />
+    <tag k='name' v='Санкт-Петербургский государственный университет промышленных технологий и дизайна' />
+    <tag k='name:en' v='Saint Petersburg State University of Industrial Technologies and Design' />
+    <tag k='name:ru' v='Санкт-Петербургский государственный университет промышленных технологий и дизайна' />
+    <tag k='short_name' v='СПбГУПТД' />
+    <tag k='website' v='https://sutd.ru/' />
+    <tag k='wikidata' v='Q4407701' />
+  </way>
+</osm>
