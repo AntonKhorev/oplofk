@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='664453369' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9352418' lon='30.3121119' />
+  <node id='664453371' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9350801' lon='30.3123537' />
+  <node id='664453372' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9350344' lon='30.3124208' />
+  <node id='664453373' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='71335774' lat='59.9349195' lon='30.3125927' />
+  <node id='664453385' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10580605' lat='59.9347828' lon='30.3127993' />
+  <node id='664453387' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='10580605' lat='59.9349919' lon='30.313373' />
+  <node id='664453394' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='10580605' lat='59.9355747' lon='30.3130309' />
+  <node id='664453397' timestamp='2012-02-04T00:31:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='10580605' lat='59.935109' lon='30.3136942' />
+  <node id='664453535' timestamp='2012-02-04T00:31:28Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='10580605' lat='59.9356675' lon='30.3148735' />
+  <node id='664453536' timestamp='2012-02-04T00:31:28Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='10580605' lat='59.9356448' lon='30.3149071' />
+  <node id='664453539' timestamp='2012-02-04T00:31:28Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='10580605' lat='59.9355841' lon='30.3149975' />
+  <node id='664453567' timestamp='2012-02-04T00:31:29Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='10580605' lat='59.9357655' lon='30.315495' />
+  <node id='664453597' timestamp='2016-01-04T20:24:07Z' uid='345975' user='VlIvYur' visible='true' version='5' changeset='36368116' lat='59.9361543' lon='30.3148058'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='664453600' timestamp='2012-02-04T00:31:29Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='10580605' lat='59.9361475' lon='30.3149516' />
+  <node id='803391914' timestamp='2012-02-04T00:31:35Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10580605' lat='59.9348709' lon='30.3126674' />
+  <node id='1617205824' timestamp='2012-02-04T00:31:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10580605' lat='59.9360417' lon='30.3143159' />
+  <node id='1617205826' timestamp='2012-02-04T00:31:17Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='10580605' lat='59.9361618' lon='30.3146463' />
+  <node id='1626578697' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107315736' lat='59.935664' lon='30.3133944'>
+    <tag k='name' v='Издательство Судостроение' />
+    <tag k='office' v='publisher' />
+  </node>
+  <node id='1626578701' timestamp='2017-10-21T00:19:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='53117103' lat='59.9356671' lon='30.3133398'>
+    <tag k='name' v='Управление по Санкт-Петербургу и Ленинградской области федеральной службы по наздору в сфере связи, информационных технологий и массовых коммуникаций' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='1627230807' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='107315736' lat='59.93583551763' lon='30.31380974054'>
+    <tag k='name' v='Продукты' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='1627230809' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='107315736' lat='59.93577319142' lon='30.31363809602'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:phone' v='+7 812 3126097' />
+    <tag k='contact:website' v='https://restaurant-gogol.ru/' />
+    <tag k='cuisine' v='regional' />
+    <tag k='name' v='Гоголь' />
+  </node>
+  <node id='1631063222' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='107315736' lat='59.9358815' lon='30.3139321'>
+    <tag k='contact:vk' v='https://vk.com/stilnoeserebro' />
+    <tag k='name' v='Стильное серебро' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 11:00-21:00' />
+    <tag k='operator' v='ИП Поленов Г.А.' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://www.stilnoeserebro.ru/contacts/stores/584/' />
+  </node>
+  <node id='2423332504' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='71335774' lat='59.9348939' lon='30.3126316'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2423332528' timestamp='2019-06-17T16:21:25Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='71335774' lat='59.9350571' lon='30.3123874'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2423332634' timestamp='2013-10-31T15:59:00Z' uid='368493' user='fserges' visible='true' version='2' changeset='18637414' lat='59.9358413' lon='30.315386' />
+  <node id='4436874640' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107315736' lat='59.93601162748' lon='30.31429476363'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='brand' v='36,6' />
+    <tag k='brand:wikidata' v='Q226889' />
+    <tag k='brand:wikipedia' v='ru:36,6 (аптечная сеть)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/apteka366/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/apteka366/' />
+    <tag k='contact:ok' v='https://ok.ru/group/57486618853421' />
+    <tag k='contact:vk' v='https://vk.com/apteka36i6' />
+    <tag k='contact:website' v='https://366.ru/spb/apteki/74809/' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='36,6' />
+    <tag k='name:ru' v='36,6' />
+    <tag k='opening_hours' v='Mo-Fr 08:00-22:00; Sa-Su 09:00-22:00' />
+  </node>
+  <node id='4436874642' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107315736' lat='59.9359557' lon='30.3141384'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Марка' />
+  </node>
+  <node id='4436874649' timestamp='2016-10-07T20:44:43Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42721391' lat='59.9354117' lon='30.3125823'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4436874650' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107315736' lat='59.9355921' lon='30.313141'>
+    <tag k='name' v='Сувениры' />
+    <tag k='opening_hours' v='10:00-23:00' />
+    <tag k='shop' v='gift' />
+    <tag k='website' v='http://tfsouvenir.ru/magaziny/8' />
+  </node>
+  <node id='4683728171' timestamp='2019-05-14T20:17:16Z' uid='3846961' user='mini-me' visible='true' version='4' changeset='70251604' lat='59.9361158' lon='30.3149965'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом доме с 1945 г. по 1967 г. жил народный артист СССР Николай Павлович Акимов' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='Н. П. Акимову' />
+    <tag k='subject:wikidata' v='Q1185061' />
+    <tag k='subject:wikipedia' v='ru:Акимов, Николай Павлович' />
+  </node>
+  <node id='4683728172' timestamp='2019-05-14T20:17:16Z' uid='3846961' user='mini-me' visible='true' version='5' changeset='70251604' lat='59.9361255' lon='30.3145464'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом доме жил с 1968 по 1986 год выдающийся учёный-востоковед академик Андрей Николаевич Кононов' />
+    <tag k='memorial' v='plaque' />
+    <tag k='name' v='А. Н. Кононову' />
+    <tag k='subject:wikidata' v='Q765371' />
+    <tag k='subject:wikipedia' v='ru:Кононов, Андрей Николаевич' />
+  </node>
+  <node id='5179156638' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107315736' lat='59.935653' lon='30.3133593'>
+    <tag k='name' v='Приёмная депутата Государственной Думы Бортко Владимира Владимировича' />
+    <tag k='office' v='political_party' />
+    <tag k='phone' v='+7 812 5763007' />
+  </node>
+  <node id='5464314991' timestamp='2020-05-03T20:36:41Z' uid='7966302' user='Сергей Бокк' visible='true' version='2' changeset='84580268' lat='59.9360683' lon='30.3150628' />
+  <node id='5464314995' timestamp='2021-03-12T00:40:31Z' uid='3846961' user='mini-me' visible='true' version='3' changeset='100869918' lat='59.9360348' lon='30.3151109'>
+    <tag k='colour' v='purple' />
+    <tag k='fee' v='yes' />
+    <tag k='name' v='Адмиралтейская' />
+    <tag k='name:fr' v='Admiralteïskaïa' />
+    <tag k='network' v='Петербургский метрополитен' />
+    <tag k='opening_hours' v='Mo-Su 05:38-00:15' />
+    <tag k='railway' v='subway_entrance' />
+  </node>
+  <node id='5464315008' timestamp='2021-03-12T00:40:31Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='100869918' lat='59.9361108' lon='30.3150036'>
+    <tag k='entrance' v='exit' />
+  </node>
+  <node id='6373820083' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107315736' lat='59.93606298215' lon='30.31443577449'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/coffitspb/' />
+    <tag k='contact:vk' v='https://vk.com/coffitspb' />
+    <tag k='contact:website' v='http://www.coffit.spb.ru' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Coffit' />
+    <tag k='opening_hours' v='07:00-23:00' />
+    <tag k='outdoor_seating' v='no' />
+  </node>
+  <node id='6481181510' timestamp='2019-05-17T16:29:51Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='70365225' lat='59.9353959' lon='30.3125387'>
+    <tag k='historic' v='memorial' />
+    <tag k='inscription' v='В этом здании с 01.12.1917 по 15.07.1918 располагалось Петроградское столичное управление уголовного розыска' />
+    <tag k='memorial' v='plaque' />
+    <tag k='start_date' v='2018-10-04' />
+  </node>
+  <node id='8887918245' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107315736' lat='59.93612215199' lon='30.31459864833'>
+    <tag k='leisure' v='fitness_centre' />
+    <tag k='name' v='Легенда' />
+    <tag k='website' v='https://legendafitness.ru/admiral/' />
+  </node>
+  <node id='8887918246' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107315736' lat='59.93571988181' lon='30.31349135843'>
+    <tag k='amenity' v='pub' />
+    <tag k='contact:vk' v='https://vk.com/tolstiyfraer' />
+    <tag k='name' v='Толстый фраер' />
+    <tag k='website' v='http://tolstiy-fraer.ru/fraer/na-maloj-morskoj-8' />
+  </node>
+  <node id='8887918248' timestamp='2021-07-02T14:26:32Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107315736' lat='59.93567727885' lon='30.31337466537'>
+    <tag k='name' v='Meadow' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://hotelmeadow.ru/' />
+  </node>
+  <way id='52153127' timestamp='2021-03-12T10:28:24Z' uid='2101839' user='Afanasovich' visible='true' version='16' changeset='100900345'>
+    <nd ref='664453535' />
+    <nd ref='1617205824' />
+    <nd ref='4683728172' />
+    <nd ref='1617205826' />
+    <nd ref='664453597' />
+    <nd ref='664453600' />
+    <nd ref='4683728171' />
+    <nd ref='5464315008' />
+    <nd ref='5464314991' />
+    <nd ref='5464314995' />
+    <nd ref='2423332634' />
+    <nd ref='664453567' />
+    <nd ref='664453539' />
+    <nd ref='664453536' />
+    <nd ref='664453535' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='4/1' />
+    <tag k='addr:postcode' v='191186' />
+    <tag k='addr:street' v='Малая Морская улица' />
+    <tag k='building' v='yes' />
+    <tag k='building:colour' v='#b3deb0' />
+    <tag k='building:levels' v='5' />
+    <tag k='contact:vk' v='https://vk.com/tkadmiral' />
+    <tag k='name' v='ТРЦ «Адмирал»' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='mall' />
+    <tag k='website' v='http://trk-admiral.ru/' />
+  </way>
+  <way id='533920073' timestamp='2019-05-17T16:29:52Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='70365225'>
+    <nd ref='664453369' />
+    <nd ref='664453371' />
+    <nd ref='2423332528' />
+    <nd ref='664453372' />
+    <nd ref='664453373' />
+    <nd ref='2423332504' />
+    <nd ref='803391914' />
+    <nd ref='664453385' />
+    <nd ref='664453387' />
+    <nd ref='664453397' />
+    <nd ref='664453394' />
+    <nd ref='4436874649' />
+    <nd ref='6481181510' />
+    <nd ref='664453369' />
+    <tag k='amenity' v='doctors' />
+    <tag k='name' v='Поликлиника №1 МСЧ ГУВД' />
+    <tag k='official_name' v='Поликлиника № 1 федерального казенного учреждения здравоохранения «Медико-санитарная часть Министерства внутренних дел Российской Федерации по г. Санкт-Петербургу и Ленинградской области»' />
+    <tag k='website' v='https://мсч.78.мвд.рф/Podrazdeleniya/Poliklinika_1' />
+  </way>
+</osm>

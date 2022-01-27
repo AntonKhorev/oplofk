@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1438259722' timestamp='2021-07-01T13:23:37Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='107262158' lat='59.93184155332' lon='30.3014277994'>
+    <tag k='check_date:opening_hours' v='2021-05-14' />
+    <tag k='contact:vk' v='https://vk.com/museumreligion' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Музей истории религии' />
+    <tag k='opening_hours' v='Th-Mo 11:00-18:00; Tu 13:00-21:00' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://gmir.ru/' />
+  </node>
+  <node id='1626592198' timestamp='2021-07-01T13:23:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107262158' lat='59.93120371322' lon='30.29924466318'>
+    <tag k='name' v='Центр непрофильных услуг управления Федеральной почтовой связи Санкт-Петербурга и Ленинградской области' />
+    <tag k='office' v='company' />
+    <tag k='operator' v='АО «Почта России»' />
+    <tag k='operator:wikidata' v='Q1502763' />
+  </node>
+</osm>

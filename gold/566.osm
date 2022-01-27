@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='8837114349' timestamp='2021-06-15T22:31:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106426004' lat='59.93160651765' lon='30.29661096565'>
+    <tag k='brand' v='Л&apos;Этуаль' />
+    <tag k='brand:wikidata' v='Q18400706' />
+    <tag k='contact:vk' v='https://vk.com/letoile_official' />
+    <tag k='name' v='Л&apos;Этуаль' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.letu.ru/' />
+  </node>
+  <node id='8837114350' timestamp='2021-06-15T22:31:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106426004' lat='59.93162163625' lon='30.2965935313'>
+    <tag k='name' v='Мой дом' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='https://myhomespb78.ru/' />
+  </node>
+  <node id='8837114351' timestamp='2021-06-15T22:31:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106426004' lat='59.93159975733' lon='30.29658225997'>
+    <tag k='name' v='Ханты-мансийский нефтегазовый союз' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='8837114352' timestamp='2021-06-15T22:31:41Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='106426004' lat='59.9316136662' lon='30.29656628217'>
+    <tag k='name' v='Газпромнефть — Технологические партнерства' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.gazprom-neft.ru/technologies/centres/bazhen/' />
+  </node>
+</osm>

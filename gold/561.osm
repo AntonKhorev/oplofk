@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803754706' timestamp='2018-07-10T23:26:19Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='60591686' lat='59.9353647' lon='30.3211145' />
+  <node id='803754770' timestamp='2019-04-13T19:54:48Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9355349' lon='30.3201576' />
+  <node id='803754892' timestamp='2019-04-13T19:54:48Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9358011' lon='30.3203831' />
+  <node id='803754952' timestamp='2012-01-12T22:29:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10374346' lat='59.9358114' lon='30.3213297' />
+  <node id='803754980' timestamp='2019-04-13T19:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9357104' lon='30.3211197' />
+  <node id='803755029' timestamp='2019-04-13T19:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.9359637' lon='30.3200494' />
+  <node id='803755058' timestamp='2019-04-13T19:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.9354188' lon='30.3209695' />
+  <node id='803755067' timestamp='2019-04-13T19:54:49Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.9355246' lon='30.3198155' />
+  <node id='985020841' timestamp='2019-04-13T19:55:37Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187142' lat='59.935749' lon='30.3202735' />
+  <node id='985020843' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='15' changeset='76004709' lat='59.9357391' lon='30.3203524' />
+  <node id='1938583900' timestamp='2019-03-30T21:07:27Z' uid='9451067' user='b-jazz-bot' visible='true' version='5' changeset='68709781' lat='59.9355985' lon='30.3229622'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/club12879930' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Столовая №1' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://st1.one/' />
+  </node>
+  <node id='1997401531' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='14' changeset='76004709' lat='59.9354538' lon='30.3208417' />
+  <node id='1997401532' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='14' changeset='76004709' lat='59.9357734' lon='30.3206082' />
+  <node id='1997401533' timestamp='2012-11-04T18:14:21Z' uid='446083' user='yuryleb' visible='true' version='1' changeset='13751074' lat='59.935254' lon='30.3210208' />
+  <node id='1997401536' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='14' changeset='76004709' lat='59.9354377' lon='30.3208333' />
+  <node id='1997401543' timestamp='2019-04-13T19:57:27Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187142' lat='59.9355138' lon='30.3203029' />
+  <node id='1997401544' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='15' changeset='76004709' lat='59.9358909' lon='30.3206616'>
+    <tag k='access' v='yes' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='1997401549' timestamp='2012-11-04T18:14:21Z' uid='446083' user='yuryleb' visible='true' version='1' changeset='13751074' lat='59.9353134' lon='30.3210689' />
+  <node id='1997401555' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='14' changeset='76004709' lat='59.9355321' lon='30.3203148' />
+  <node id='3672581921' timestamp='2019-10-18T14:25:53Z' uid='519501' user='parukhin' visible='true' version='11' changeset='75898651' lat='59.9355044' lon='30.3234167'>
+    <tag k='amenity' v='bank' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:en' v='Sberbank' />
+    <tag k='brand:ru' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='brand:wikipedia' v='en:Sberbank of Russia' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sberbank' />
+    <tag k='contact:instagram' v='https://instagram.com/sberbank' />
+    <tag k='contact:ok' v='https://ok.ru/sberbank' />
+    <tag k='contact:phone' v='+7 800 5555550' />
+    <tag k='contact:twitter' v='https://twitter.com/sberbank/' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru' />
+    <tag k='contact:youtube' v='https://www.youtube.com/sberbank' />
+    <tag k='name' v='Сбербанк' />
+    <tag k='name:en' v='Sberbank' />
+    <tag k='name:ru' v='Сбербанк' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 10:00-20:00' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='operator:wikipedia' v='ru:Сбербанк России' />
+    <tag k='phone' v='+7 812 2425582' />
+    <tag k='ref' v='9055/01964' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4274009592' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='99974687' lat='59.9356887' lon='30.3222244'>
+    <tag k='brand' v='Zara' />
+    <tag k='brand:wikidata' v='Q147662' />
+    <tag k='clothes' v='children;women;men' />
+    <tag k='contact:facebook' v='Zara' />
+    <tag k='contact:instagram' v='zara' />
+    <tag k='contact:pinterest' v='zaraofficial' />
+    <tag k='contact:vk' v='https://vk.com/zara' />
+    <tag k='contact:youtube' v='zara' />
+    <tag k='level' v='0;1' />
+    <tag k='name' v='Zara' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 812 4499177' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://www.zara.com/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4595656089' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99974687' lat='59.93572442655' lon='30.32190395622'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/marcellispeople' />
+    <tag k='name' v='Марчеллис' />
+    <tag k='opening_hours' v='Su-Th 10:00-23:00, Fr-Sa 10:00-02:00' />
+    <tag k='website' v='https://www.marcellis.ru/restaurants/Nevskiy-21/' />
+  </node>
+  <node id='4888954933' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='99974687' lat='59.93577555124' lon='30.32147520241'>
+    <tag k='contact:website' v='https://www.letoile.ru/retail/?city=102&amp;shop=1638' />
+    <tag k='disused:shop' v='cosmetics' />
+    <tag k='name' v='Л&apos;Этуаль' />
+  </node>
+  <node id='4888954935' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99974687' lat='59.93574862658' lon='30.32162427577'>
+    <tag k='brand' v='Turkish Airlines' />
+    <tag k='brand:wikidata' v='Q4548' />
+    <tag k='name' v='Turkish Airlines' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.turkishairlines.com/' />
+  </node>
+  <node id='4888954940' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99974687' lat='59.93574212702' lon='30.32175525224'>
+    <tag k='clothes' v='hats' />
+    <tag k='name' v='Шаполе' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-22:00; Su 10:00-21:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4888954941' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99974687' lat='59.93565312' lon='30.32250426248'>
+    <tag k='brand' v='IKEA' />
+    <tag k='brand:wikidata' v='Q54078' />
+    <tag k='contact:vk' v='https://vk.com/ikea' />
+    <tag k='name' v='IKEA' />
+    <tag k='shop' v='furniture' />
+    <tag k='website' v='https://www.ikea.com/ru/ru/stores/spb-center/' />
+  </node>
+  <node id='4888954942' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99974687' lat='59.93561872' lon='30.32279336249'>
+    <tag k='brand' v='СКА' />
+    <tag k='brand:wikidata' v='Q911572' />
+    <tag k='contact:vk' v='https://vk.com/ska' />
+    <tag k='name' v='Хоккейный клуб СКА' />
+    <tag k='opening_hours' v='11:00-21:00' />
+    <tag k='shop' v='sports' />
+    <tag k='website' v='https://shop.ska.ru/' />
+  </node>
+  <node id='4888954943' timestamp='2020-02-23T16:57:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='81371301' lat='59.9355208' lon='30.3233824'>
+    <tag k='contact:vk' v='https://vk.com/miadonna_shoes_bags_italy_spb' />
+    <tag k='disused:shop' v='shoes' />
+    <tag k='name' v='Mia Donna' />
+    <tag k='website' v='http://www.miadonnashoes.it/ru/' />
+  </node>
+  <node id='5136600980' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='14' changeset='76004709' lat='59.9355067' lon='30.321014' />
+  <node id='5136600981' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='14' changeset='76004709' lat='59.9354518' lon='30.3209865' />
+  <node id='5288023337' timestamp='2017-12-16T18:33:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='54687209' lat='59.9356961' lon='30.3220599'>
+    <tag k='contact:facebook' v='https://www.facebook.com/spibaspb/' />
+    <tag k='name' v='St. Petersburg International Business Association' />
+    <tag k='office' v='association' />
+    <tag k='short_name' v='SPIBA' />
+    <tag k='website' v='https://www.spiba.ru/' />
+  </node>
+  <node id='5288023338' timestamp='2017-12-16T18:33:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='54687209' lat='59.9356835' lon='30.3220542'>
+    <tag k='name' v='Tsar Voyages' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.tsarvoyages.com/' />
+  </node>
+  <node id='5288023340' timestamp='2017-12-16T18:33:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='54687209' lat='59.9356581' lon='30.3220429'>
+    <tag k='name' v='Ретур' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='5288023341' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99974687' lat='59.9356454' lon='30.3220373'>
+    <tag k='contact:facebook' v='https://www.facebook.com/IconSuit/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/iconsuit_russia/' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Icon' />
+    <tag k='website' v='https://ru.iconsuit.com/' />
+  </node>
+  <node id='5288023342' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99974687' lat='59.9356923' lon='30.3220942'>
+    <tag k='name' v='GloBAS Group' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.globasgroup.com/' />
+  </node>
+  <node id='5288023344' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99974687' lat='59.9356585' lon='30.3220791'>
+    <tag k='name' v='Global Executive Search' />
+    <tag k='office' v='employment_agency' />
+  </node>
+  <node id='6903094627' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9357721' lon='30.320369'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6903094631' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9355097' lon='30.3204612'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6903094632' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9354326' lon='30.3208701'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6903094634' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.935548' lon='30.3201647'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6903094635' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.935681' lon='30.3211045'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6903094636' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9356079' lon='30.3210667' />
+  <node id='6903094637' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9356116' lon='30.3210373' />
+  <node id='6903094638' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9355108' lon='30.3209869' />
+  <node id='6903094639' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9356432' lon='30.321085'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6903094640' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9354253' lon='30.3209224'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='6903094641' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='76004709' lat='59.9355874' lon='30.3210253'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='7929218850' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='99974687' lat='59.9356735' lon='30.3222172'>
+    <tag k='brand' v='Zara Home' />
+    <tag k='brand:wikidata' v='Q3114054' />
+    <tag k='contact:facebook' v='https://www.facebook.com/zarahome' />
+    <tag k='contact:instagram' v='https://www.instagram.com/zarahome/' />
+    <tag k='contact:pinterest' v='zaraofficial' />
+    <tag k='contact:vk' v='https://vk.com/zarahome' />
+    <tag k='contact:youtube' v='zara' />
+    <tag k='level' v='2' />
+    <tag k='name' v='Zara Home' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='Зара Хом СНГ' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 812 4499298' />
+    <tag k='shop' v='interior_decoration' />
+    <tag k='website' v='https://www.zarahome.com/ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='8457370741' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99974687' lat='59.93566964668' lon='30.32204903629'>
+    <tag k='name' v='Ahlers' />
+    <tag k='note' v='https://ru.foursquare.com/v/ahlers-russia/58edf76fea1c0d653122b0c1' />
+    <tag k='office' v='logistics' />
+    <tag k='website' v='https://www.ahlers.com/' />
+  </node>
+  <node id='8457370742' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99974687' lat='59.93564277243' lon='30.32207183506'>
+    <tag k='name' v='Регистратор «Гарант»' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.reggarant.ru/' />
+  </node>
+  <node id='8457370743' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99974687' lat='59.93574019164' lon='30.32162021779'>
+    <tag k='name' v='Эгида Справедливости' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://egidaspb.ru/' />
+  </node>
+  <node id='8457370744' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99974687' lat='59.93575727333' lon='30.32162862808'>
+    <tag k='contact:vk' v='https://vk.com/advecscorp' />
+    <tag k='name' v='Адвекс' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='https://www.advecs.com/' />
+  </node>
+  <node id='8457370745' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99974687' lat='59.93592053506' lon='30.32025555808'>
+    <tag k='opening_hours' v='10:00-20:00' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='8457370747' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99974687' lat='59.9359481354' lon='30.32018028817'>
+    <tag k='entrance' v='main' />
+  </node>
+  <way id='66309858' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='22' changeset='99974687'>
+    <nd ref='803755029' />
+    <nd ref='8457370747' />
+    <nd ref='1997401544' />
+    <nd ref='803754952' />
+    <nd ref='803754706' />
+    <nd ref='1997401549' />
+    <nd ref='1997401533' />
+    <nd ref='803755067' />
+    <nd ref='803755029' />
+  </way>
+  <way id='66309896' timestamp='2019-10-21T14:57:38Z' uid='3846961' user='mini-me' visible='true' version='17' changeset='76004709'>
+    <nd ref='803754892' />
+    <nd ref='1997401532' />
+    <nd ref='803754980' />
+    <nd ref='6903094635' />
+    <nd ref='6903094639' />
+    <nd ref='6903094636' />
+    <nd ref='6903094637' />
+    <nd ref='6903094641' />
+    <nd ref='6903094638' />
+    <nd ref='5136600980' />
+    <nd ref='5136600981' />
+    <nd ref='803755058' />
+    <nd ref='6903094640' />
+    <nd ref='6903094632' />
+    <nd ref='1997401536' />
+    <nd ref='1997401531' />
+    <nd ref='6903094631' />
+    <nd ref='1997401555' />
+    <nd ref='1997401543' />
+    <nd ref='803754770' />
+    <nd ref='6903094634' />
+    <nd ref='985020841' />
+    <nd ref='985020843' />
+    <nd ref='6903094627' />
+    <nd ref='803754892' />
+  </way>
+  <relation id='1028087' timestamp='2021-02-25T11:56:12Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='99974687'>
+    <member type='way' ref='66309896' role='inner' />
+    <member type='way' ref='66309858' role='outer' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='191186' />
+    <tag k='addr:street' v='Невский проспект' />
+    <tag k='building' v='public' />
+    <tag k='building:levels' v='3' />
+    <tag k='contact:vk' v='https://vk.com/rusmuseum' />
+    <tag k='historic' v='palace' />
+    <tag k='name' v='Строгановский дворец' />
+    <tag k='name:de' v='Stroganow-Palais' />
+    <tag k='name:en' v='Stroganov Palace' />
+    <tag k='name:es' v='Palacio Stróganov' />
+    <tag k='name:fi' v='Stroganovin palatsi' />
+    <tag k='name:fr' v='Palais Stroganov' />
+    <tag k='name:pt' v='Palácio Stroganov' />
+    <tag k='name:ru' v='Строгановский дворец' />
+    <tag k='palace_type' v='residence' />
+    <tag k='roof:shape' v='hipped' />
+    <tag k='source' v='survey' />
+    <tag k='tourism' v='museum' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='https://www.rusmuseum.ru/stroganov-palace/' />
+    <tag k='wikidata' v='Q1461235' />
+    <tag k='wikipedia' v='ru:Строгановский дворец' />
+  </relation>
+</osm>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1438258837' timestamp='2021-02-25T07:10:30Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99953085' lat='59.93109158901' lon='30.30291799725'>
+    <tag k='amenity' v='training' />
+    <tag k='name' v='Региональный учебный центр ФГУП «Почта России»' />
+  </node>
+</osm>

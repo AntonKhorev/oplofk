@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='815240019' timestamp='2019-04-13T19:55:13Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9267473' lon='30.3020289' />
+  <node id='1393102782' timestamp='2019-04-13T19:56:36Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187142' lat='59.9267611' lon='30.3020533' />
+  <node id='1439039133' timestamp='2022-01-25T09:12:02Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='116575654' lat='59.9266593' lon='30.3020257'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='1439211516' timestamp='2022-01-25T09:12:02Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='116575654' lat='59.9265309' lon='30.3020569'>
+    <tag k='contact:vk' v='https://vk.com/flordelsol' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Flor del sol' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='http://flordelsol.ru/' />
+  </node>
+  <node id='4569389615' timestamp='2018-09-29T02:44:24Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='63026874' lat='59.9257224' lon='30.3020276'>
+    <tag k='name' v='Учебно-консультационный пункт ГОЧС муниципального совета МО Адмиралтейский округ' />
+    <tag k='office' v='government' />
+  </node>
+  <node id='4569389616' timestamp='2020-03-21T18:43:46Z' uid='3664566' user='aleksiy68' visible='true' version='6' changeset='82467299' lat='59.9253278' lon='30.3020131'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/public105455698' />
+    <tag k='health_specialty:dermatology' v='yes' />
+    <tag k='health_specialty:gynaecology' v='yes' />
+    <tag k='healthcare' v='doctor' />
+    <tag k='name' v='Клиника Игнатовского' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00; Sa 10:00-18:00' />
+    <tag k='operator' v='ООО «Клиника Дерматологии и Репродуктивного здоровья доктора Игнатовского»' />
+    <tag k='website' v='http://dermklinik.ru/' />
+  </node>
+  <node id='4606028173' timestamp='2022-01-25T09:12:02Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='116575654' lat='59.9267655' lon='30.302122'>
+    <tag k='entrance' v='service' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='9446925531' timestamp='2022-01-25T09:12:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654' lat='59.9265889' lon='30.3021673' />
+  <node id='9446925532' timestamp='2022-01-25T09:12:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654' lat='59.9267688' lon='30.3021738' />
+  <node id='9446925533' timestamp='2022-01-25T09:12:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654' lat='59.9265888' lon='30.3020231' />
+  <way id='1024487983' timestamp='2022-01-25T09:12:02Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654'>
+    <nd ref='9446925532' />
+    <nd ref='9446925531' />
+    <nd ref='9446925533' />
+    <nd ref='1439039133' />
+    <nd ref='815240019' />
+    <nd ref='1393102782' />
+    <nd ref='4606028173' />
+    <nd ref='9446925532' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='ptitsi.cafe' />
+    <tag k='name' v='Птицы' />
+    <tag k='opening_hours' v='Mo-Su 11:00-22:00' />
+    <tag k='operator' v='Синитский Виталий Александрович' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 900 6318781' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='https://ptitsicafe.ru/' />
+    <tag k='wheelchair' v='no' />
+  </way>
+</osm>

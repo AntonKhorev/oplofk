@@ -1,0 +1,144 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='813775806' timestamp='2019-04-13T19:55:06Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9259564' lon='30.3086124' />
+  <node id='813775855' timestamp='2019-04-13T19:55:06Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9260236' lon='30.3086152' />
+  <node id='813775910' timestamp='2019-04-13T19:55:06Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187142' lat='59.925996' lon='30.3095546' />
+  <node id='813776019' timestamp='2019-04-13T19:55:07Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='69187142' lat='59.9261566' lon='30.3084247' />
+  <node id='813776102' timestamp='2019-04-13T19:55:07Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9261883' lon='30.3086146' />
+  <node id='813776179' timestamp='2019-04-13T19:55:08Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187142' lat='59.9260571' lon='30.3095856' />
+  <node id='813776180' timestamp='2019-04-13T19:55:08Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='69187142' lat='59.925957' lon='30.3084104' />
+  <node id='2512644474' timestamp='2019-04-13T19:58:02Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9259321' lon='30.3093689' />
+  <node id='2512644477' timestamp='2019-04-13T19:58:02Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187142' lat='59.9260147' lon='30.3094161' />
+  <node id='2512796927' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='116580873' lat='59.92557960002' lon='30.3133279641'>
+    <tag k='contact:instagram' v='https://www.instagram.com/makki.official.store/' />
+    <tag k='contact:vk' v='https://vk.com/makki_store' />
+    <tag k='name' v='Makki' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='https://gerrusi.ru/' />
+  </node>
+  <node id='2512796944' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='116580873' lat='59.92559017062' lon='30.31311427428'>
+    <tag k='contact:instagram' v='https://www.instagram.com/studiopudra/' />
+    <tag k='contact:vk' v='https://vk.com/pudra2ru' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Пудра' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-21:00; Su 11:00-21:00' />
+    <tag k='phone' v='+7 812 4074605' />
+    <tag k='shop' v='beauty' />
+    <tag k='website' v='https://www.pudra2.ru/' />
+  </node>
+  <node id='2512796945' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='116580873' lat='59.92569314287' lon='30.31231370682'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/club8025396' />
+    <tag k='name' v='1848' />
+    <tag k='opening_hours' v='Mo-Su 11:00-23:00' />
+  </node>
+  <node id='2512801191' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='116580873' lat='59.92577470449' lon='30.31163428843'>
+    <tag k='name' v='Cavaletto' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-19:00' />
+    <tag k='shop' v='shoes' />
+    <tag k='website' v='http://www.cavaletto.ru/' />
+  </node>
+  <node id='2512801201' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='116580873' lat='59.92580619992' lon='30.31137364581'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Здоровая жизнь' />
+    <tag k='opening_hours' v='Mo-Su 09:00-21:00' />
+  </node>
+  <node id='2512801202' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='116580873' lat='59.92574410298' lon='30.31188837622'>
+    <tag k='contact:instagram' v='https://www.instagram.com/salon_na_sennoy/' />
+    <tag k='contact:vk' v='https://vk.com/vertuali' />
+    <tag k='name' v='Vertuali' />
+    <tag k='shop' v='hairdresser' />
+  </node>
+  <node id='2512806456' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='116580873' lat='59.92595580146' lon='30.31021738455'>
+    <tag k='alt_name' v='GlamQ' />
+    <tag k='contact:instagram' v='https://www.instagram.com/bezze.spa/' />
+    <tag k='contact:vk' v='https://vk.com/bezzespa' />
+    <tag k='name' v='Bezze' />
+    <tag k='shop' v='beauty' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2512806460' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='116580873' lat='59.92595362468' lon='30.31023368906'>
+    <tag k='contact:facebook' v='https://www.facebook.com/lyyk.ru' />
+    <tag k='contact:vk' v='https://vk.com/lyyk_store' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Луук' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://www.lyyk.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4463234586' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='116580873' lat='59.92585190296' lon='30.31101015092'>
+    <tag k='disused:craft' v='electronics_repair' />
+    <tag k='level' v='-0.5' />
+    <tag k='name' v='РемТех' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4463234587' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='116580873' lat='59.9256508577' lon='30.31264319036'>
+    <tag k='amenity' v='doctors' />
+    <tag k='contact:vk' v='https://vk.com/rinmedspb' />
+    <tag k='name' v='Рин-Мед' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-20:00; Su 09:00-17:00' />
+    <tag k='operator' v='ООО «Хэйлен Клиник Рус»' />
+    <tag k='website' v='https://rin-med.ru/' />
+  </node>
+  <node id='4463234588' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='116580873' lat='59.92563749501' lon='30.3127471509'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='De Marco' />
+    <tag k='note' v='скорее всего к cafedemarco.ru не относится' />
+  </node>
+  <node id='4810658396' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='116580873' lat='59.92570682668' lon='30.31220165537'>
+    <tag k='alt_name' v='В. Загорский' />
+    <tag k='contact:vk' v='https://vk.com/zagorskystamps' />
+    <tag k='name' v='Марки' />
+    <tag k='shop' v='collector' />
+    <tag k='website' v='https://zagorsky-stamps.ru/' />
+  </node>
+  <node id='6075623970' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='116580873' lat='59.92584540302' lon='30.31106225044'>
+    <tag k='contact:facebook' v='https://www.facebook.com/siburka/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/sivka_burka_spb/' />
+    <tag k='contact:vk' v='https://vk.com/siburka' />
+    <tag k='email' v='info@sivka-burka.com' />
+    <tag k='level' v='-0.5' />
+    <tag k='name' v='Сивка-Бурка' />
+    <tag k='opening_hours' v='Mo-Fr 12:00-20:00; Sa 11:00-19:00' />
+    <tag k='operator' v='Захарова Александра Васильевна' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 800 3015502;+7 911 8310614' />
+    <tag k='shop' v='toys' />
+    <tag k='website' v='https://sivka-burka.com/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='9447159077' timestamp='2022-01-25T11:25:30Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116580873' lat='59.92579986641' lon='30.31142599861'>
+    <tag k='name' v='ТОП-медтехника' />
+    <tag k='shop' v='medical_supply' />
+    <tag k='website' v='https://topmedgroup.ru/salon-topmedtehnika/' />
+  </node>
+  <way id='67384307' timestamp='2021-08-11T11:04:38Z' uid='3846961' user='mini-me' visible='true' version='9' changeset='109511427'>
+    <nd ref='813776102' />
+    <nd ref='813776179' />
+    <nd ref='813775910' />
+    <nd ref='2512644477' />
+    <nd ref='2512644474' />
+    <nd ref='813775855' />
+    <nd ref='813775806' />
+    <nd ref='813776180' />
+    <nd ref='813776019' />
+    <nd ref='813776102' />
+    <tag k='addr:housenumber' v='76 литП' />
+    <tag k='addr:street' v='набережная канала Грибоедова' />
+    <tag k='amenity' v='school' />
+    <tag k='building' v='school' />
+    <tag k='building:levels' v='4' />
+    <tag k='contact:email' v='sc256.adm@obr.gov.spb.ru' />
+    <tag k='contact:phone' v='+7 812 5739874' />
+    <tag k='contact:website' v='http://sc.adm-edu.spb.ru/256/' />
+    <tag k='name' v='Школа № 256' />
+    <tag k='official_name' v='Государственное бюджетное общеобразовательное учреждение средняя общеобразовательная школа № 256 Адмиралтейского района Санкт-Петербурга' />
+    <tag k='ref' v='256' />
+  </way>
+</osm>

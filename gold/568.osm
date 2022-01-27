@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='768562840' timestamp='2013-08-04T13:52:29Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9329107' lon='30.3018746' />
+  <node id='768562844' timestamp='2013-08-04T13:52:29Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9330646' lon='30.3023912' />
+  <node id='768562849' timestamp='2013-08-04T13:52:29Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9327645' lon='30.3017318' />
+  <node id='768562850' timestamp='2013-08-04T13:52:29Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9322333' lon='30.3020539' />
+  <node id='768562851' timestamp='2013-08-04T13:52:29Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9326992' lon='30.3015078' />
+  <node id='768562852' timestamp='2013-08-04T13:52:29Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9328337' lon='30.3019688' />
+  <node id='768562856' timestamp='2013-08-04T13:52:29Z' uid='368493' user='fserges' visible='true' version='5' changeset='17215315' lat='59.9329026' lon='30.3018845' />
+  <node id='834229090' timestamp='2013-08-04T13:52:30Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9329391' lon='30.30197' />
+  <node id='834229227' timestamp='2013-08-04T13:52:30Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215315' lat='59.9329832' lon='30.3024851' />
+  <node id='2406971634' timestamp='2021-06-16T00:26:16Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='106427623' lat='59.9328966' lon='30.304244'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/restdolma/' />
+    <tag k='name' v='Долма' />
+    <tag k='website' v='https://dolmapiter.ru/' />
+  </node>
+  <node id='2407041789' timestamp='2021-06-16T00:26:16Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='106427623' lat='59.9328674' lon='30.3041405'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/noodmoodpastabar/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/noodmoodpastabar/' />
+    <tag k='name' v='NoodMood' />
+    <tag k='opening_hours' v='Mo-Fr 08:30-23:00; Sa-Su 10:00-23:00' />
+    <tag k='operator' v='ООО «Монплезир»' />
+    <tag k='website' v='https://bize-spb.ru/' />
+  </node>
+  <node id='4173088417' timestamp='2017-04-24T20:26:44Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='48102348' lat='59.9326668' lon='30.3015458'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='4173088418' timestamp='2018-05-15T22:09:59Z' uid='3846961' user='mini-me' visible='true' version='2' changeset='58999481' lat='59.9324416' lon='30.3027649'>
+    <tag k='access' v='private' />
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='4409815544' timestamp='2016-09-20T16:05:42Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42302813' lat='59.9325172' lon='30.3030229' />
+  <node id='4409815562' timestamp='2016-09-20T16:05:43Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42302813' lat='59.9325793' lon='30.3029512' />
+  <node id='4409815567' timestamp='2016-09-20T16:05:43Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42302813' lat='59.9326459' lon='30.3028743' />
+  <node id='4409815572' timestamp='2016-09-20T16:05:43Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='42302813' lat='59.9327059' lon='30.3028052' />
+  <node id='4582563318' timestamp='2021-06-16T00:26:16Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='106427623' lat='59.9329892' lon='30.3045641'>
+    <tag k='contact:vk' v='https://vk.com/city_sightseeingspb' />
+    <tag k='guide' v='sightseeing' />
+    <tag k='name' v='City Sightseeing' />
+    <tag k='office' v='guide' />
+    <tag k='website' v='http://city-sightseeing.ru/' />
+  </node>
+  <node id='5620771096' timestamp='2018-05-15T22:09:58Z' uid='3846961' user='mini-me' visible='true' version='1' changeset='58999481' lat='59.9323351' lon='30.3024013'>
+    <tag k='access' v='private' />
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='5893123269' timestamp='2021-06-16T00:26:16Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='106427623' lat='59.933004' lon='30.3045494'>
+    <tag k='contact:phone' v='+7 921 9116066' />
+    <tag k='contact:website' v='http://spbpsm.ru' />
+    <tag k='name' v='Промсвязьмонтаж' />
+    <tag k='note' v='возможно не работает' />
+    <tag k='office' v='company' />
+  </node>
+  <way id='61650354' timestamp='2021-06-16T00:26:16Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='106427623'>
+    <nd ref='768562852' />
+    <nd ref='768562856' />
+    <nd ref='768562840' />
+    <nd ref='834229090' />
+    <nd ref='768562844' />
+    <nd ref='834229227' />
+    <nd ref='4409815572' />
+    <nd ref='4409815567' />
+    <nd ref='4409815562' />
+    <nd ref='4409815544' />
+    <nd ref='4173088418' />
+    <nd ref='5620771096' />
+    <nd ref='768562850' />
+    <nd ref='4173088417' />
+    <nd ref='768562851' />
+    <nd ref='768562849' />
+    <nd ref='768562852' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='190000' />
+    <tag k='addr:street' v='Почтамтская улица' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='2' />
+    <tag k='contact:vk' v='https://vk.com/popovradio' />
+    <tag k='name' v='Центральный музей связи имени А.С. Попова' />
+    <tag k='old_name' v='Дворец А. А. Безбородко' />
+    <tag k='opening_hours' v='Tu-Sa 10:30-18:00; Th[-1] off' />
+    <tag k='phone' v='+7 812 5710060' />
+    <tag k='ref:egrokn' v='781510403360016' />
+    <tag k='start_date' v='C18' />
+    <tag k='tourism' v='museum' />
+    <tag k='website' v='https://rustelecom-museum.ru/' />
+    <tag k='wikidata' v='Q4504316' />
+    <tag k='wikipedia' v='ru:Центральный музей связи имени А. С. Попова' />
+  </way>
+</osm>

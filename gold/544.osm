@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1567153927' timestamp='2021-02-11T12:24:39Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99107024' lat='59.91681995808' lon='30.31914716619'>
+    <tag k='name' v='Оранж' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://orangespb.ru/shops/tekhnologicheskogo-instituta/' />
+  </node>
+  <node id='4697272925' timestamp='2021-02-11T12:24:39Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99107024' lat='59.91696743952' lon='30.31907392639'>
+    <tag k='brand' v='Первая полоса' />
+    <tag k='brand:wikidata' v='Q62736412' />
+    <tag k='building' v='kiosk' />
+    <tag k='contact:vk' v='https://vk.com/club127124787' />
+    <tag k='name' v='Первая полоса' />
+    <tag k='shop' v='newsagent' />
+  </node>
+  <node id='8414923531' timestamp='2021-02-11T12:24:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='99107024' lat='59.91691543696' lon='30.31941480333'>
+    <tag k='contact:vk' v='https://vk.com/metrospbofficial' />
+    <tag k='name' v='Петербургский метрополитен, Управление' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.metro.spb.ru/' />
+  </node>
+</osm>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='922666753' timestamp='2022-01-25T10:01:22Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='116577456' lat='59.92630446331' lon='30.30758078162'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kafe_sabr/' />
+    <tag k='name' v='Sabr' />
+  </node>
+  <node id='2118471453' timestamp='2022-01-25T10:01:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='116577456' lat='59.92634763496' lon='30.30725248883'>
+    <tag k='contact:instagram' v='https://www.instagram.com/lensvetspb/' />
+    <tag k='contact:vk' v='https://vk.com/lensvetspb' />
+    <tag k='name' v='Ленсвет' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://www.lensvet.spb.ru/' />
+  </node>
+  <node id='2529164451' timestamp='2022-01-25T10:01:22Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='116577456' lat='59.92637572628' lon='30.30703850854'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Пельмени и выпечка' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 11:00-21:00' />
+    <tag k='website' v='https://30-cafe.ru/' />
+  </node>
+</osm>

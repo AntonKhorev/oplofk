@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='806509579' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='99684295' lat='59.93624889828' lon='30.31790052884'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:facebook' v='https://www.facebook.com/bbrbank' />
+    <tag k='contact:vk' v='https://vk.com/bbrbank' />
+    <tag k='name' v='ББР Банк' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:30; Sa-Su 10:30-19:30' />
+    <tag k='website' v='https://bbr.ru/o-banke/ofisy-i-bankomaty/nevsky15/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='1580632253' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='26' changeset='99684295' lat='59.93611024666' lon='30.31892399253'>
+    <tag k='brand' v='Булочные Ф. Вольчека' />
+    <tag k='contact:email' v='info@fvolchek.ru' />
+    <tag k='contact:phone' v='+7 812 6420638' />
+    <tag k='contact:vk' v='https://vk.com/f.volchek' />
+    <tag k='contact:website' v='http://fvolchek.ru/' />
+    <tag k='inscription' v='Булочная № 60' />
+    <tag k='name' v='Булочная Ф. Вольчека' />
+    <tag k='name:ru' v='Булочная Ф. Вольчека' />
+    <tag k='opening_hours' v='08:00-24:00' />
+    <tag k='ref' v='60' />
+    <tag k='shop' v='bakery' />
+  </node>
+  <node id='4352757289' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='99684295' lat='59.93618423363' lon='30.31845739884'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/kazanmangalspb' />
+    <tag k='name' v='Kazan-Mangal' />
+    <tag k='website' v='https://reca.rest/restaurants/kazanmangal_nevskij' />
+  </node>
+  <node id='4888980745' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99684295' lat='59.93621888172' lon='30.31818807687'>
+    <tag k='amenity' v='bank' />
+    <tag k='contact:facebook' v='https://www.facebook.com/bcsultima/' />
+    <tag k='name' v='БКС Ультима' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+    <tag k='website' v='https://ultimabank.ru/' />
+  </node>
+  <node id='4888980746' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='99684295' lat='59.9361697' lon='30.3185736'>
+    <tag k='contact:instagram' v='https://www.instagram.com/sweet_museum_spb/' />
+    <tag k='contact:vk' v='https://vk.com/sweetmuseum78' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Сладкий музей' />
+    <tag k='tourism' v='attraction' />
+    <tag k='website' v='https://smile-park.ru/v-sankt-peterburge/sladkij-muzej' />
+  </node>
+  <node id='4888980747' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='99684295' lat='59.93615280768' lon='30.31870158786'>
+    <tag k='amenity' v='pharmacy' />
+    <tag k='contact:vk' v='https://vk.com/aptekanevis' />
+    <tag k='name' v='Невис' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://aptekanevis.ru/' />
+  </node>
+  <node id='5279943334' timestamp='2021-02-21T15:07:08Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='99684295' lat='59.9361452' lon='30.3187622'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/kofevarim/' />
+    <tag k='contact:vk' v='https://vk.com/clubkofevarim' />
+    <tag k='name' v='Кофеварим' />
+    <tag k='opening_hours' v='08:00-22:00' />
+  </node>
+</osm>

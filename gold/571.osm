@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='803238391' timestamp='2012-01-08T19:20:51Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='10335505' lat='59.9367457' lon='30.313848' />
+  <node id='803238422' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='72706936' lat='59.9362519' lon='30.3141637' />
+  <node id='803238437' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107148332' lat='59.9366329' lon='30.3148506'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='803238459' timestamp='2012-02-04T00:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10580506' lat='59.9364697' lon='30.314756' />
+  <node id='803238552' timestamp='2012-01-08T19:20:56Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='10335505' lat='59.936564' lon='30.3137124' />
+  <node id='923504397' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107150311' lat='59.93694849292' lon='30.31191257047'>
+    <tag k='disused:shop' v='gift' />
+    <tag k='name' v='Art Space' />
+    <tag k='website' v='http://souvenirboutique.com/' />
+  </node>
+  <node id='4144258699' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='107150311' lat='59.9367952' lon='30.3132118'>
+    <tag k='contact:instagram' v='https://www.instagram.com/chudesnoe.ryadom/' />
+    <tag k='contact:vk' v='https://vk.com/chudesnoe.ryadom' />
+    <tag k='name' v='Чудесное рядом' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='4211125989' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='107150311' lat='59.936735' lon='30.3137736'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:vk' v='https://vk.com/club12879930' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Столовая №1' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='website' v='https://st1.one/' />
+  </node>
+  <node id='4274009591' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='107150311' lat='59.9367806' lon='30.3133606'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Шоколадница' />
+    <tag k='brand:wikidata' v='Q30891188' />
+    <tag k='contact:instagram' v='https://www.instagram.com/shokospb/' />
+    <tag k='contact:vk' v='https://vk.com/shokospb' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='name' v='Шоколадница' />
+    <tag k='website' v='https://shoko.ru/' />
+  </node>
+  <node id='4436516897' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107150311' lat='59.93684962725' lon='30.31272392551'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='name' v='Шаурма' />
+    <tag k='opening_hours' v='24/7' />
+  </node>
+  <node id='4436516898' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='107150311' lat='59.93684382604' lon='30.31277208526'>
+    <tag k='contact:vk' v='https://vk.com/mazeoffear' />
+    <tag k='leisure' v='escape_game' />
+    <tag k='name' v='Лабиринт страха' />
+    <tag k='opening_hours' v='Mo-Su 12:00-24:00' />
+    <tag k='phone' v='+7 812 4560684' />
+    <tag k='website' v='https://mazeoffear.ru/' />
+  </node>
+  <node id='4436516899' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='107150311' lat='59.93683999709' lon='30.31280539101'>
+    <tag k='contact:vk' v='https://vk.com/mazeoffear' />
+    <tag k='leisure' v='escape_game' />
+    <tag k='name' v='Зеркальный лабиринт' />
+    <tag k='name:en' v='Mirror maze' />
+    <tag k='opening_hours' v='Mo-Su 12:00-24:00' />
+    <tag k='phone' v='+7 812 4560684' />
+    <tag k='website' v='https://pikabolo.ru/' />
+  </node>
+  <node id='4436516902' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107150311' lat='59.93682247249' lon='30.31295259662'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='10 копеек' />
+  </node>
+  <node id='4743903772' timestamp='2019-07-27T01:17:48Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='72706936' lat='59.9364652' lon='30.3147438'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Малая Морская улица' />
+  </node>
+  <node id='4915750771' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107150311' lat='59.9367495' lon='30.313464'>
+    <tag k='contact:vk' v='https://vk.com/club12567796' />
+    <tag k='int_name' v='Sonata' />
+    <tag k='name' v='Соната' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://www.sonata-group-centre.ru/taxonomy/term/4' />
+  </node>
+  <node id='4915750772' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107150311' lat='59.9367683' lon='30.3134733'>
+    <tag k='amenity' v='kindergarten' />
+    <tag k='contact:email' v='dou27.centr@obr.gov.spb.ru' />
+    <tag k='contact:phone' v='+7 812 3122439;+7 812 3126479;+7 812 2726473' />
+    <tag k='contact:website' v='https://27dou-center.caduk.ru/' />
+    <tag k='name' v='Детский сад № 27' />
+    <tag k='official_name' v='Государственное бюджетное дошкольное образовательное учреждение детский сад № 27 Центрального района Санкт-Петербурга' />
+    <tag k='ref' v='27' />
+  </node>
+  <node id='4915750773' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107150311' lat='59.9368106' lon='30.3130697'>
+    <tag k='contact:vk' v='https://vk.com/dvdspb' />
+    <tag k='name' v='Дом вверх дном' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='tourism' v='attraction' />
+    <tag k='website' v='https://domvverhdnom.com/' />
+  </node>
+  <node id='5330214766' timestamp='2018-01-09T23:58:36Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='55307841' lat='59.9366789' lon='30.3137981' />
+  <node id='5371010151' timestamp='2021-06-29T13:05:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107150311' lat='59.9367327' lon='30.3134546'>
+    <tag k='contact:vk' v='https://vk.com/epoquehostels' />
+    <tag k='name' v='Metropolis' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://metropolis.epoqueprojects.com/' />
+  </node>
+  <way id='66233044' timestamp='2021-06-29T12:24:56Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='107148332'>
+    <nd ref='803238437' />
+    <nd ref='803238459' />
+    <nd ref='4743903772' />
+    <nd ref='803238422' />
+    <nd ref='803238552' />
+    <nd ref='5330214766' />
+    <nd ref='803238391' />
+    <nd ref='803238437' />
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:country' v='RU' />
+    <tag k='addr:housenumber' v='7-9' />
+    <tag k='addr:street' v='Невский проспект' />
+    <tag k='building' v='yes' />
+    <tag k='building:colour' v='#6b7778' />
+    <tag k='building:levels' v='5' />
+    <tag k='contact:email' v='info@wawelberg.com' />
+    <tag k='contact:facebook' v='https://www.facebook.com/wawelberghotelstpetersburg/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/wawelberg_hotel/' />
+    <tag k='contact:phone' v='+7 812 2913333' />
+    <tag k='int_name' v='Wawelberg' />
+    <tag k='name' v='Вавельберг' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Отель Вавельберг»' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://wawelberg.com/' />
+  </way>
+</osm>

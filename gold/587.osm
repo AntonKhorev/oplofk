@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5104445853' timestamp='2021-12-28T11:57:47Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='115467224' lat='59.93321684294' lon='30.32507757861'>
+    <tag k='contact:instagram' v='https://www.instagram.com/medaudio/' />
+    <tag k='name' v='Мед Аудио' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-16:00' />
+    <tag k='shop' v='hearing_aids' />
+    <tag k='website' v='https://www.spb.medaudio.ru/' />
+  </node>
+  <node id='5104445854' timestamp='2021-12-28T11:57:47Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='115467224' lat='59.93324258701' lon='30.32508907404'>
+    <tag k='contact:vk' v='https://vk.com/agency_kaz_pl' />
+    <tag k='name' v='Казанская площадь' />
+    <tag k='office' v='estate_agent' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='website' v='http://kaz-pl.ru' />
+  </node>
+</osm>

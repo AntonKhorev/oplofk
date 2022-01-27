@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='9340786186' timestamp='2021-12-15T18:36:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='114975546' lat='59.92753514212' lon='30.3024191642'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:instagram' v='https://www.instagram.com/svobslova/' />
+    <tag k='name' v='Свобода слова' />
+    <tag k='note' v='на сайте сейчас два других адреса, но этот тоже находится https://svobslova.ru/full' />
+    <tag k='website' v='https://svobslova.ru/' />
+  </node>
+  <node id='9340815538' timestamp='2021-12-15T18:36:28Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='114975546' lat='59.92768987086' lon='30.30275425813'>
+    <tag k='contact:vk' v='https://vk.com/activesalegroupclub' />
+    <tag k='name' v='Active Sale Group' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://activesalegroup.com/' />
+  </node>
+</osm>

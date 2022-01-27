@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='525359705' timestamp='2017-04-20T18:50:34Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='47981277' lat='59.9321468' lon='30.302513'>
+    <tag k='food' v='yes' />
+    <tag k='name' v='Продукты' />
+    <tag k='name:ru' v='Продукты' />
+    <tag k='note' v='Продукты - это название с вывески. Не надо уничтожать данные в базе, замените их на иные. Обьекты POI без name очень сложно искать на данный момент' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='525359854' timestamp='2021-07-01T13:55:33Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='107263527' lat='59.932659221' lon='30.30422088954'>
+    <tag k='amenity' v='cafe' />
+    <tag k='name' v='Столовая на Почтамтской' />
+    <tag k='opening_hours' v='09:00-21:00' />
+  </node>
+  <node id='525359952' timestamp='2021-07-01T13:55:33Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='107263527' lat='59.93255628331' lon='30.30387733647'>
+    <tag k='construction:shop' v='supermarket' />
+    <tag k='name' v='Вместе' />
+  </node>
+  <node id='525360782' timestamp='2021-07-01T13:55:33Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='107263527' lat='59.93229131258' lon='30.30299425751'>
+    <tag k='amenity' v='cafe' />
+    <tag k='level' v='-0.5' />
+    <tag k='name' v='Папарацци' />
+    <tag k='opening_hours' v='11:00-23:00' />
+    <tag k='operator' v='ЗАО &quot;Лига&quot;' />
+  </node>
+  <node id='834229055' timestamp='2013-08-04T12:54:47Z' uid='368493' user='fserges' visible='true' version='3' changeset='17214607' lat='59.9324027' lon='30.3051859' />
+  <node id='834229228' timestamp='2013-08-04T12:54:48Z' uid='368493' user='fserges' visible='true' version='3' changeset='17214607' lat='59.932278' lon='30.3047257' />
+  <node id='834229321' timestamp='2013-08-04T14:20:56Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215648' lat='59.932829' lon='30.3047163' />
+  <node id='834229329' timestamp='2013-08-04T14:20:56Z' uid='368493' user='fserges' visible='true' version='4' changeset='17215648' lat='59.9326901' lon='30.3042535' />
+  <node id='2406919501' timestamp='2013-08-04T13:52:26Z' uid='368493' user='fserges' visible='true' version='1' changeset='17215315' lat='59.9325775' lon='30.3043828' />
+  <node id='2406919502' timestamp='2013-08-04T13:52:26Z' uid='368493' user='fserges' visible='true' version='1' changeset='17215315' lat='59.9327115' lon='30.3048463' />
+  <node id='2406921851' timestamp='2013-08-04T14:20:55Z' uid='368493' user='fserges' visible='true' version='2' changeset='17215648' lat='59.9327145' lon='30.3043348'>
+    <tag k='amenity' v='parking_entrance' />
+  </node>
+  <node id='8569316635' timestamp='2021-07-01T13:55:33Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107263527' lat='59.9324293' lon='30.304842'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='rterracespb' />
+    <tag k='level' v='5' />
+    <tag k='name' v='Rterrace' />
+    <tag k='opening_hours' v='unknown-23:00' />
+    <tag k='phone' v='+7 812 3804000' />
+    <tag k='reservation' v='recommended' />
+    <tag k='website' v='https://www.marriott.com/hotels/hotel-information/restaurant/ledbr-renaissance-st-petersburg-baltic-hotel/' />
+  </node>
+  <node id='8883122025' timestamp='2021-07-01T13:55:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107263527' lat='59.93269268892' lon='30.30449062318'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/rterracespb/' />
+    <tag k='name' v='The Taste' />
+    <tag k='website' v='https://www.marriott.com/hotels/hotel-information/restaurant/ledbr-renaissance-st-petersburg-baltic-hotel/' />
+  </node>
+  <node id='8883122026' timestamp='2021-07-01T13:55:33Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107263527' lat='59.93262933199' lon='30.30412071384'>
+    <tag k='contact:vk' v='https://vk.com/centrum_co' />
+    <tag k='name' v='Centrum' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='http://centrum-company.ru/' />
+  </node>
+  <way id='69741391' timestamp='2021-07-01T13:55:33Z' uid='437809' user='Anton Khorev' visible='true' version='10' changeset='107263527'>
+    <nd ref='834229321' />
+    <nd ref='2406919502' />
+    <nd ref='834229055' />
+    <nd ref='834229228' />
+    <nd ref='2406919501' />
+    <nd ref='834229329' />
+    <nd ref='2406921851' />
+    <nd ref='834229321' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='190000' />
+    <tag k='addr:street' v='Почтамтская улица' />
+    <tag k='building' v='hotel' />
+    <tag k='contact:facebook' v='RenaissanceStPetersburgBaltic' />
+    <tag k='contact:vk' v='https://vk.com/renaissancespb' />
+    <tag k='name' v='Ренессанс Балтик' />
+    <tag k='operator' v='Marriott' />
+    <tag k='stars' v='5' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://www.marriott.com/hotels/travel/ledbr-renaissance-st-petersburg-baltic-hotel' />
+  </way>
+</osm>

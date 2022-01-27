@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1439038208' timestamp='2022-01-25T09:41:25Z' uid='437809' user='Anton Khorev' visible='true' version='21' changeset='116576701' lat='59.92660187783' lon='30.30536077249'>
+    <tag k='name' v='Минимаркет' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='shop' v='convenience' />
+  </node>
+  <node id='5123058975' timestamp='2022-01-25T09:41:25Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='116576701' lat='59.92673376503' lon='30.30411997257'>
+    <tag k='name' v='Управление Росздравнадзора по Санкт-Петербургу и Ленинградской области' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://78reg.roszdravnadzor.gov.ru/' />
+  </node>
+  <node id='9446969967' timestamp='2022-01-25T09:41:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116576701' lat='59.92675065279' lon='30.30412789597'>
+    <tag k='amenity' v='theatre' />
+    <tag k='contact:instagram' v='https://www.instagram.com/peterburgconcert/' />
+    <tag k='contact:vk' v='https://vk.com/petroconcert' />
+    <tag k='name' v='Екатерининское собрание' />
+    <tag k='operator' v='СПб ГБУК «Петербург-концерт»' />
+    <tag k='website' v='https://petroconcert.spb.ru/' />
+  </node>
+</osm>

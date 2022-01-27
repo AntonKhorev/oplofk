@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='919640123' timestamp='2021-12-28T09:56:39Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='115461693' lat='59.9291195' lon='30.315315'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:vk' v='https://vk.com/banketsol' />
+    <tag k='name' v='Аллегро' />
+    <tag k='opening_hours' v='Mo-Su,PH 11:30-22:30 open; 22:30-23:30 open &quot;bar only&quot;' />
+    <tag k='operator' v='ООО «Карина»' />
+    <tag k='phone' v='+7 812 3159445' />
+    <tag k='phone2' v='+7 964 3847170' />
+    <tag k='phone3' v='+7 812 3149960' />
+    <tag k='website' v='https://amurgrupp.ru/' />
+  </node>
+  <node id='4759371736' timestamp='2021-12-28T09:56:39Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='115461693' lat='59.93045826935' lon='30.31832682642'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/harekrishnacafe' />
+    <tag k='name' v='Jiva Burgers' />
+    <tag k='opening_hours' v='12:00-22:00' />
+    <tag k='website' v='https://jivaproject.com/jivaburgers' />
+  </node>
+  <node id='4798304153' timestamp='2021-12-28T09:56:39Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='115461693' lat='59.93042498806' lon='30.31821299219'>
+    <tag k='contact:vk' v='https://vk.com/salonhappiness' />
+    <tag k='name' v='Счастье' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='shop' v='beauty' />
+  </node>
+  <node id='4798304154' timestamp='2021-12-28T09:56:39Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='115461693' lat='59.93040460193' lon='30.31814225579'>
+    <tag k='contact:facebook' v='https://www.facebook.com/theflowwow' />
+    <tag k='contact:instagram' v='https://www.instagram.com/flowwowcom/' />
+    <tag k='name' v='Flowwow' />
+    <tag k='opening_hours' v='Mo-Sa 09:00-21:00; Su 10:00-21:00' />
+    <tag k='operator' v='ООО «Городской букет»' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://flowwow.com/shop/fmart-by-flowwowf-9901/' />
+  </node>
+  <node id='4798304155' timestamp='2021-12-28T09:56:39Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='115461693' lat='59.9293379' lon='30.3155688'>
+    <tag k='contact:instagram' v='https://www.instagram.com/st.flowerss/' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='9372503414' timestamp='2021-12-28T09:56:39Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='115461693' lat='59.93028619997' lon='30.3177354512'>
+    <tag k='amenity' v='training' />
+    <tag k='contact:instagram' v='https://www.instagram.com/actor_training/' />
+    <tag k='contact:vk' v='https://vk.com/actor_training' />
+    <tag k='name' v='Первый шаг в кино' />
+    <tag k='opening_hours' v='11:00-23:00' />
+  </node>
+</osm>

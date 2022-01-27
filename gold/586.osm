@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='455314487' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='115466772' lat='59.93287150794' lon='30.324920002'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='contact:facebook' v='https://www.facebook.com/tarelkas/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/tarelka_life/' />
+    <tag k='contact:vk' v='https://vk.com/tarelka_life' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='name' v='Тарелка' />
+    <tag k='website' v='http://tarelkas.ru/cafes/nab-kan-griboedova-25/' />
+  </node>
+  <node id='1559396251' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='115466772' lat='59.93246234048' lon='30.32472723096'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/fullhouse.spb/' />
+    <tag k='contact:vk' v='https://vk.com/fullhousebar' />
+    <tag k='name' v='Full House' />
+    <tag k='opening_hours' v='Mo-Su 12:00-23:00' />
+    <tag k='website' v='https://fullhousebar.ru/' />
+  </node>
+  <node id='1559396255' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='23' changeset='115466772' lat='59.93279803606' lon='30.32488520844'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/garconspb' />
+    <tag k='contact:instagram' v='https://www.instagram.com/garconspb/' />
+    <tag k='contact:vk' v='https://vk.com/garcon_spb' />
+    <tag k='int_name' v='Garçon' />
+    <tag k='name' v='Гарсон' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='website' v='https://www.garcon.ru/' />
+  </node>
+  <node id='1559410595' timestamp='2018-05-11T05:34:19Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='58867728' lat='59.9322189' lon='30.3243363'>
+    <tag k='contact:vk' v='https://vk.com/cafebarleica' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='name' v='Leica' />
+  </node>
+  <node id='1559410596' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='115466772' lat='59.93207353435' lon='30.3238367398'>
+    <tag k='contact:facebook' v='https://www.facebook.com/VinissimoShop' />
+    <tag k='contact:instagram' v='https://www.instagram.com/vinissimo.spb/' />
+    <tag k='contact:vk' v='https://vk.com/vinissimoshop' />
+    <tag k='name' v='Vinissimo' />
+    <tag k='opening_hours' v='11:00-22:00' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://vinissimo.biz/sankt-peterburg/vinotheques/griboedova-29/' />
+  </node>
+  <node id='1776012641' timestamp='2018-05-11T05:34:19Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='58867728' lat='59.9309539' lon='30.3200595'>
+    <tag k='contact:vk' v='https://vk.com/loveliness_lux' />
+    <tag k='name' v='Luxe Hair' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='http://luxe-hair.obiz.ru/' />
+  </node>
+  <node id='1776012642' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='115466772' lat='59.93114937676' lon='30.32071981128'>
+    <tag k='alt_name' v='Дань Моде' />
+    <tag k='contact:vk' v='https://vk.com/danmode' />
+    <tag k='name' v='Дань Mode' />
+    <tag k='opening_hours' v='Mo-Su 12:00-21:00' />
+    <tag k='shop' v='clothes' />
+    <tag k='website' v='http://danmode.com/' />
+  </node>
+  <node id='1776012643' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='115466772' lat='59.93135942631' lon='30.32142921011'>
+    <tag k='disused:shop' v='ticket' />
+  </node>
+  <node id='1776034400' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='115466772' lat='59.93168545363' lon='30.32252931328'>
+    <tag k='contact:instagram' v='https://www.instagram.com/piorooms/' />
+    <tag k='contact:vk' v='https://vk.com/piorooms' />
+    <tag k='int_name' v='Pio' />
+    <tag k='name' v='Пио' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='http://hotelpio.ru/' />
+  </node>
+  <node id='1776034403' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='115466772' lat='59.9317954' lon='30.3229018'>
+    <tag k='contact:vk' v='https://vk.com/grifonrooms' />
+    <tag k='int_name' v='Grifon' />
+    <tag k='name' v='Грифон' />
+    <tag k='tourism' v='hotel' />
+    <tag k='website' v='https://grifonhotel.ru/' />
+  </node>
+  <node id='4361558990' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='115466772' lat='59.9320559' lon='30.3237762'>
+    <tag k='contact:instagram' v='https://www.instagram.com/pifpafsupershop/' />
+    <tag k='contact:vk' v='https://vk.com/pifpafsupershop' />
+    <tag k='name' v='Пиф Паф Super Shop' />
+    <tag k='opening_hours' v='12:00-22:00' />
+    <tag k='shop' v='clothes' />
+  </node>
+  <node id='4364508089' timestamp='2019-04-13T19:59:18Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='69187243' lat='59.9319926' lon='30.3235642'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/pifpafbar/' />
+    <tag k='contact:vk' v='https://vk.com/pifpafbar' />
+    <tag k='name' v='Пиф-Паф' />
+    <tag k='name:en' v='Pif Paf' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-01:00; Sa, Su 10:00-06:00' />
+    <tag k='phone' v='+7 812 3126227' />
+  </node>
+  <node id='4698585091' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='115466772' lat='59.93166009111' lon='30.32244383385'>
+    <tag k='contact:vk' v='https://vk.com/vkuszvet' />
+    <tag k='email' v='info@vkus-zvet.ru' />
+    <tag k='name' v='Вкус и Цвет' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-21:00; Sa-Su 11:00-20:00' />
+    <tag k='phone' v='+7 812 3126358' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://vkus-zvet.ru/' />
+  </node>
+  <node id='5113791341' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='115466772' lat='59.9320045' lon='30.3236033'>
+    <tag k='contact:instagram' v='https://www.instagram.com/pifpafhair/' />
+    <tag k='contact:vk' v='https://vk.com/pifpafhair' />
+    <tag k='name' v='Пиф-Паф' />
+    <tag k='opening_hours' v='12:00-22:00' />
+    <tag k='shop' v='hairdresser' />
+    <tag k='website' v='https://pifpafhair.wixsite.com/pifpaf' />
+  </node>
+  <node id='5113791342' timestamp='2019-04-13T20:00:21Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9319332' lon='30.3233667'>
+    <tag k='contact:vk' v='https://vk.com/figurist.store' />
+    <tag k='name' v='Фигурист' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 10:00-18:00' />
+    <tag k='operator' v='ИП Романова Н.В.' />
+    <tag k='shop' v='sports' />
+    <tag k='sport' v='ice_skating' />
+    <tag k='website' v='https://www.figurist.ru/' />
+  </node>
+  <node id='5113791343' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='115466772' lat='59.93172646362' lon='30.32266815172'>
+    <tag k='contact:vk' v='https://vk.com/sk12m' />
+    <tag k='disused:shop' v='beauty' />
+    <tag k='name' v='12 Месяцев' />
+    <tag k='website' v='http://sk12m.ru/contacts/griboedova' />
+  </node>
+  <node id='5113791344' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='115466772' lat='59.931678009' lon='30.32242475013'>
+    <tag k='contact:vk' v='https://vk.com/greenteriorspb' />
+    <tag k='name' v='Гринтерьер' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='website' v='https://www.greenterior.ru/' />
+  </node>
+  <node id='5113791345' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='115466772' lat='59.93149490896' lon='30.32188660606'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/myata.coffee/' />
+    <tag k='contact:vk' v='https://vk.com/myata.coffee' />
+    <tag k='name' v='Мята' />
+  </node>
+  <node id='5113791346' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='115466772' lat='59.9313291734' lon='30.32132648612'>
+    <tag k='name' v='Часовая галерея' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-20:00; Sa-Su 12:00-20:00' />
+    <tag k='shop' v='watches' />
+    <tag k='website' v='https://watch-gallery.ru/' />
+  </node>
+  <node id='5113791347' timestamp='2021-08-19T15:37:34Z' uid='5583361' user='Волосов' visible='true' version='3' changeset='109941485' lat='59.9310705' lon='30.3204551'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/ohmytea_ru' />
+    <tag k='name' v='Oh! My Tea' />
+    <tag k='opening_hours' v='Mo-Su 12:00-21:00' />
+    <tag k='shop' v='tea' />
+    <tag k='website' v='https://ohmytea.ru/' />
+  </node>
+  <node id='5113791348' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='115466772' lat='59.9307556' lon='30.3193899'>
+    <tag k='name' v='Нотариус Гасанова П.А.' />
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-17:00' />
+    <tag k='website' v='http://notariusgasanova.ru/' />
+  </node>
+  <node id='7934594585' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='115466772' lat='59.93139921708' lon='30.32156338971'>
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='набережная канала Грибоедова' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/commons.rest/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/commons_rest/' />
+    <tag k='name' v='Commons' />
+    <tag k='opening_hours' v='Mo-Su 17:00-23:00' />
+    <tag k='website' v='https://commons.rest/' />
+  </node>
+  <node id='9372899170' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='115466772' lat='59.93252795949' lon='30.32475793492'>
+    <tag k='amenity' v='hookah_lounge' />
+    <tag k='contact:instagram' v='https://www.instagram.com/hookah.house.spb/' />
+    <tag k='name' v='Hookah House' />
+    <tag k='website' v='https://kalyannaya-v-spb.ru/' />
+  </node>
+  <node id='9372899171' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='115466772' lat='59.93151000066' lon='30.32186467055'>
+    <tag k='contact:instagram' v='https://www.instagram.com/vkus_sidra/' />
+    <tag k='name' v='Вкус сидра' />
+    <tag k='opening_hours' v='Tu-Su 14:00-22:00' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='9372899172' timestamp='2021-12-28T11:48:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='115466772' lat='59.93128938643' lon='30.32119250531'>
+    <tag k='name' v='Модное бюро' />
+    <tag k='note' v='&quot;закрытие магазина&quot; - https://dm28.store/' />
+    <tag k='shop' v='clothes' />
+  </node>
+</osm>

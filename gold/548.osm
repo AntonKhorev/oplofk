@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4715245244' timestamp='2021-02-11T13:43:07Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='99111454' lat='59.91866872904' lon='30.32407740888'>
+    <tag k='name' v='Централизованная бухгалтерия администрации Адмиралтейского района' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.gov.spb.ru/gov/terr/reg_admiral/podvedomstvennye-uchrezhdeniya/sankt-peterburgskoe-gku-centralizovannaya-buhgalteriya-administracii-a/' />
+  </node>
+  <node id='4715245245' timestamp='2021-02-11T13:43:07Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='99111454' lat='59.91868467936' lon='30.32411988962'>
+    <tag k='name' v='Отдел Образования администрации Адмиралтейского района' />
+    <tag k='office' v='government' />
+    <tag k='website' v='https://www.gov.spb.ru/gov/terr/reg_admiral/otdel-obrazovaniya/' />
+  </node>
+</osm>

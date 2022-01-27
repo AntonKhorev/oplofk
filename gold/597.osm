@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='730919498' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='21' changeset='116669228' lat='59.9272848' lon='30.317303'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Hesburger' />
+    <tag k='brand:wikidata' v='Q1276832' />
+    <tag k='brand:wikipedia' v='en:Hesburger' />
+    <tag k='contact:facebook' v='https://www.facebook.com/HesburgerRus' />
+    <tag k='contact:instagram' v='https://www.instagram.com/hesburger_russia/' />
+    <tag k='contact:vk' v='https://vk.com/hesburger_russia' />
+    <tag k='cuisine' v='burger' />
+    <tag k='email' v='sn.spb@hesburger.org' />
+    <tag k='int_name' v='Hesburger' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Hesburger' />
+    <tag k='name:ru' v='Хесбургер' />
+    <tag k='opening_hours' v='Mo-Sa 08:00-23:00; Su 09:00-23:00' />
+    <tag k='operator' v='ООО «Истбургер»' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 812 6779609' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://www.hesburger.ru/260?tid=1230' />
+  </node>
+  <node id='918195731' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='116669228' lat='59.9278074' lon='30.3185749'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Совкомбанк' />
+    <tag k='brand:wikidata' v='Q4426566' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sovcombank' />
+    <tag k='contact:instagram' v='https://www.instagram.com/sovcombank/' />
+    <tag k='contact:twitter' v='https://twitter.com/sovcombank' />
+    <tag k='contact:vk' v='https://vk.com/sovcombank' />
+    <tag k='name' v='Совкомбанк' />
+    <tag k='website' v='https://sovcombank.ru/office/4583' />
+  </node>
+  <node id='918195732' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='116669228' lat='59.9276386' lon='30.3181543'>
+    <tag k='amenity' v='bank' />
+    <tag k='branch' v='Северо-Западный банк' />
+    <tag k='brand' v='Сбербанк' />
+    <tag k='brand:en' v='Sberbank' />
+    <tag k='brand:ru' v='Сбербанк' />
+    <tag k='brand:wikidata' v='Q205012' />
+    <tag k='brand:wikipedia' v='en:Sberbank of Russia' />
+    <tag k='contact:facebook' v='https://www.facebook.com/sberbank' />
+    <tag k='contact:instagram' v='https://instagram.com/sberbank' />
+    <tag k='contact:ok' v='https://ok.ru/sberbank' />
+    <tag k='contact:phone' v='+7 800 5555550' />
+    <tag k='contact:twitter' v='https://twitter.com/sberbank/' />
+    <tag k='contact:vk' v='https://vk.com/sberbank' />
+    <tag k='contact:website' v='https://www.sberbank.ru' />
+    <tag k='contact:youtube' v='https://www.youtube.com/sberbank' />
+    <tag k='int_name' v='Sber' />
+    <tag k='name' v='Сбер' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa 11:00-20:00; Su 11:00-17:00' />
+    <tag k='operator' v='ПАО Сбербанк' />
+    <tag k='operator:wikidata' v='Q205012' />
+    <tag k='operator:wikipedia' v='ru:Сбербанк России' />
+    <tag k='phone' v='+7 812 3106770' />
+    <tag k='ref' v='9055/0233' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='918712246' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='25' changeset='116669228' lat='59.9279708' lon='30.3189765'>
+    <tag k='alt_name' v='ДНС' />
+    <tag k='brand' v='DNS' />
+    <tag k='brand:en' v='DNS' />
+    <tag k='brand:ru' v='ДНС' />
+    <tag k='brand:wikidata' v='Q4036922' />
+    <tag k='brand:wikipedia' v='ru:DNS (компания)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/dnsshop' />
+    <tag k='contact:phone' v='+7 800 7707999' />
+    <tag k='contact:twitter' v='https://twitter.com/dnsshop' />
+    <tag k='contact:vk' v='https://vk.com/dnsstore' />
+    <tag k='contact:youtube' v='https://www.youtube.com/c/DNSSHOPvideo' />
+    <tag k='name' v='DNS' />
+    <tag k='name:en' v='DNS' />
+    <tag k='name:ru' v='ДНС' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='operator' v='ДНС Ритейл' />
+    <tag k='shop' v='computer' />
+    <tag k='website' v='https://www.dns-shop.ru/shops/spb/b11468-metro-sennaya-ploshhad/' />
+  </node>
+  <node id='919640125' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='6' changeset='116669228' lat='59.9275562' lon='30.3179534'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='https://www.instagram.com/chainikoff/' />
+    <tag k='contact:vk' v='https://vk.com/chainikoff_cafe' />
+    <tag k='name' v='Чайникофф' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Кофейня 24»' />
+    <tag k='website' v='https://chainikoff.ru/' />
+  </node>
+  <node id='3352851557' timestamp='2021-12-25T09:45:25Z' uid='3846961' user='mini-me' visible='true' version='20' changeset='115355208' lat='59.9273973' lon='30.3175716'>
+    <tag k='alt_name' v='Токио-Сити' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:phone' v='+7 812 6774144' />
+    <tag k='contact:vk' v='https://vk.com/club10958821' />
+    <tag k='contact:website' v='https://www.tokyo-city.ru' />
+    <tag k='cuisine' v='japanese;sushi' />
+    <tag k='name' v='Токио-City' />
+    <tag k='name:en' v='Tokyo-City' />
+    <tag k='name:ru' v='Токио-City' />
+    <tag k='opening_hours' v='Su-Th 11:00-01:00, Fr-Sa 11:00-03:00' />
+    <tag k='payment:credit_cards' v='yes' />
+    <tag k='payment:debit_cards' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+  </node>
+  <node id='4690494789' timestamp='2018-05-17T05:30:49Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='59036731' lat='59.9272078' lon='30.3171045'>
+    <tag k='contact:vk' v='https://vk.com/teaounce' />
+    <tag k='name' v='Унция' />
+    <tag k='opening_hours' v='09:30-21:00' />
+    <tag k='shop' v='tea' />
+    <tag k='website' v='https://www.chay.info/' />
+  </node>
+  <node id='4690645462' timestamp='2018-05-17T05:30:49Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='59036731' lat='59.9278543' lon='30.3186903'>
+    <tag k='name' v='Церковная лавка' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-19:00' />
+    <tag k='shop' v='religion' />
+  </node>
+  <node id='4690645463' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='116669228' lat='59.9277591' lon='30.3184559'>
+    <tag k='brand' v='Адамас' />
+    <tag k='brand:en' v='Adamas' />
+    <tag k='brand:ru' v='Адамас' />
+    <tag k='brand:wikidata' v='Q62393709' />
+    <tag k='contact:vk' v='https://vk.com/adamas.club' />
+    <tag k='craft' v='jeweller' />
+    <tag k='name' v='Адамас' />
+    <tag k='name:en' v='Adamas' />
+    <tag k='name:ru' v='Адамас' />
+    <tag k='opening_hours' v='10:00-21:00' />
+    <tag k='operator' v='ООО «Адамас-Ювелирторг»' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://www.adamas.ru/' />
+  </node>
+  <node id='4690645464' timestamp='2020-03-20T16:14:10Z' uid='3664566' user='aleksiy68' visible='true' version='18' changeset='82439234' lat='59.9274845' lon='30.3177809'>
+    <tag k='brand' v='Билайн' />
+    <tag k='brand:en' v='Beeline' />
+    <tag k='brand:wikidata' v='Q402880' />
+    <tag k='brand:wikipedia' v='en:Beeline (brand)' />
+    <tag k='contact:facebook' v='https://www.facebook.com/Beelinerus' />
+    <tag k='contact:instagram' v='https://instagram.com/beelinerus/' />
+    <tag k='contact:ok' v='https://ok.ru/beeline' />
+    <tag k='contact:phone' v='+7 800 7000611' />
+    <tag k='contact:twitter' v='https://twitter.com/Beeline_RUS' />
+    <tag k='contact:vk' v='https://vk.com/beeline' />
+    <tag k='contact:website' v='https://spb.beeline.ru/' />
+    <tag k='contact:youtube' v='https://www.youtube.com/user/beelineru' />
+    <tag k='name' v='Билайн' />
+    <tag k='name:en' v='Beeline' />
+    <tag k='name:ru' v='Билайн' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='mobile_phone' />
+  </node>
+  <node id='4690645465' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='116669228' lat='59.9274595' lon='30.3176898'>
+    <tag k='contact:vk' v='https://vk.com/mts' />
+    <tag k='disused:shop' v='mobile_phone' />
+    <tag k='name' v='МТС' />
+    <tag k='website' v='https://spb.mts.ru/' />
+  </node>
+  <node id='4738357510' timestamp='2019-04-13T19:59:57Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9274557' lon='30.3176649'>
+    <tag k='shop' v='tobacco' />
+  </node>
+  <node id='4738357511' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='116669228' lat='59.9274341' lon='30.3176593'>
+    <tag k='contact:facebook' v='https://www.facebook.com/dengazaim/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/denga.zaim/' />
+    <tag k='contact:vk' v='https://vk.com/dengazaim' />
+    <tag k='name' v='Деньга' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='money_lender' />
+    <tag k='website' v='https://denga.ru/spb/' />
+  </node>
+  <node id='5623590193' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='116669228' lat='59.9273514' lon='30.3174615'>
+    <tag k='contact:vk' v='https://vk.com/lenpechati_spb' />
+    <tag k='name' v='Ленпечати' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00' />
+    <tag k='website' v='http://www.lenpechati.ru/sennaya-sadovaya-spasskaya-fontanka-gorohovaya' />
+  </node>
+  <node id='6032060844' timestamp='2022-01-27T14:23:35Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='116669228' lat='59.9274706' lon='30.3177476'>
+    <tag k='contact:instagram' v='https://www.instagram.com/flowers_market_spb/' />
+    <tag k='name' v='S4' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='phone' v='+7 962 3548970' />
+    <tag k='shop' v='florist' />
+    <tag k='website' v='https://flowersmarketspb.ru/' />
+  </node>
+</osm>

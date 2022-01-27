@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4582652876' timestamp='2021-06-15T17:07:29Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='106415240' lat='59.93198270381' lon='30.29616394492'>
+    <tag k='name' v='Газпромнефть-Транспорт' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://transport.gazprom-neft.ru/' />
+  </node>
+</osm>
