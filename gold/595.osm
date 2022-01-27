@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='4463254836' timestamp='2022-01-25T13:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='116585022' lat='59.9261813' lon='30.3153214'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:email' v='ginza_project_079@rocketdata.io' />
+    <tag k='contact:facebook' v='https://www.facebook.com/ginzapyshechka/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/ginzapyshechka/' />
+    <tag k='contact:phone' v='+7 812 6401616' />
+    <tag k='contact:vk' v='https://vk.com/ginzapyshechka' />
+    <tag k='name' v='Пышечка' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-21:00;Sa-Su 10:00-21:00' />
+    <tag k='website' v='https://ginza.ru/spb/restaurant/pyshechka' />
+  </node>
+  <node id='4846829425' timestamp='2017-05-11T04:06:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48579179' lat='59.9262712' lon='30.315489'>
+    <tag k='name' v='Океан' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='4846829426' timestamp='2017-05-11T04:06:21Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='48579179' lat='59.9262571' lon='30.3154702'>
+    <tag k='name' v='Реклама-Центр' />
+    <tag k='office' v='advertising_agency' />
+    <tag k='website' v='http://www.reklamacenter.ru/' />
+  </node>
+  <node id='4846829427' timestamp='2022-01-25T13:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='116585022' lat='59.92613842925' lon='30.31522811337'>
+    <tag k='name' v='Нотариус Данилова Т.В.' />
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='phone' v='+7 812 5712281' />
+  </node>
+  <node id='5487083103' timestamp='2022-01-25T13:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='116585022' lat='59.926285' lon='30.315512'>
+    <tag k='disused:shop' v='bookmaker' />
+    <tag k='name' v='Greenbet' />
+  </node>
+  <node id='5664011675' timestamp='2022-01-25T13:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='116585022' lat='59.92599854949' lon='30.31491367414'>
+    <tag k='contact:facebook' v='https://www.facebook.com/friendshostels' />
+    <tag k='contact:instagram' v='https://www.instagram.com/friendshostels/' />
+    <tag k='contact:vk' v='https://vk.com/spbfriends' />
+    <tag k='name' v='Друзья на Сенной' />
+    <tag k='name:en' v='Friends on Sennaya' />
+    <tag k='name:ru' v='Друзья на Сенной' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='https://www.friendsplace.ru/druzya-na-sennoi/' />
+  </node>
+  <node id='9447460062' timestamp='2022-01-25T13:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116585022' lat='59.92613010556' lon='30.31524158947'>
+    <tag k='name' v='Многофункциональный визовый центр' />
+    <tag k='office' v='visa' />
+    <tag k='website' v='https://mvcenter.ru/' />
+  </node>
+  <node id='9447460063' timestamp='2022-01-25T13:08:05Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116585022' lat='59.92580587625' lon='30.3144539698'>
+    <tag k='contact:facebook' v='https://www.facebook.com/hardgymspb' />
+    <tag k='contact:instagram' v='https://www.instagram.com/hardgymspb/' />
+    <tag k='contact:vk' v='https://vk.com/hoodyhardgym' />
+    <tag k='craft' v='tailor' />
+    <tag k='name' v='Hard Gym SPB' />
+    <tag k='note' v='вход во дворе?' />
+  </node>
+</osm>

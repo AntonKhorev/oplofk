@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='815240019' timestamp='2019-04-13T19:55:13Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9267473' lon='30.3020289' />
+  <node id='1393102782' timestamp='2019-04-13T19:56:36Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='69187142' lat='59.9267611' lon='30.3020533' />
+  <node id='1439039133' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='116575654' lat='59.9266593459' lon='30.3020256995'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4102156339' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='116575654' lat='59.92678626156' lon='30.30273064734'>
+    <tag k='contact:vk' v='https://vk.com/lovely_style_spb' />
+    <tag k='name' v='Lovely Style' />
+    <tag k='note' v='&quot;магазина здесь нет&quot;' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://lovely-style.ru/' />
+  </node>
+  <node id='4463159522' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='116575654' lat='59.92680154663' lon='30.30304610674'>
+    <tag k='name' v='Interior Boutique' />
+    <tag k='note' v='возможно переехал; что-то тут работает, но вывесок нет' />
+    <tag k='reservation' v='required' />
+    <tag k='shop' v='interior_decoration' />
+    <tag k='website' v='http://arkadastudio.ru/' />
+  </node>
+  <node id='4463159523' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='116575654' lat='59.92675975243' lon='30.30231821696'>
+    <tag k='contact:vk' v='https://vk.com/tattooo' />
+    <tag k='name' v='Литература' />
+    <tag k='shop' v='tattoo' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4606028173' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='16' changeset='116575654' lat='59.9267655' lon='30.302122'>
+    <tag k='entrance' v='service' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='9446925531' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654' lat='59.92658894268' lon='30.30216727795' />
+  <node id='9446925532' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654' lat='59.92676880613' lon='30.30217382286' />
+  <node id='9446925533' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654' lat='59.92658878078' lon='30.30202313177' />
+  <way id='1024487983' timestamp='2022-01-25T09:12:03Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='116575654'>
+    <nd ref='9446925532' />
+    <nd ref='9446925531' />
+    <nd ref='9446925533' />
+    <nd ref='1439039133' />
+    <nd ref='815240019' />
+    <nd ref='1393102782' />
+    <nd ref='4606028173' />
+    <nd ref='9446925532' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:instagram' v='ptitsi.cafe' />
+    <tag k='name' v='Птицы' />
+    <tag k='opening_hours' v='Mo-Su 11:00-22:00' />
+    <tag k='operator' v='Синитский Виталий Александрович' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 900 6318781' />
+    <tag k='shop' v='confectionery' />
+    <tag k='website' v='https://ptitsicafe.ru/' />
+    <tag k='wheelchair' v='no' />
+  </way>
+</osm>

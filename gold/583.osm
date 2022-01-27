@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='808014170' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='115457543' lat='59.9358111182' lon='30.32434355052'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Coffeeshop Company' />
+    <tag k='contact:facebook' v='https://www.facebook.com/coffeeshopco' />
+    <tag k='contact:instagram' v='https://www.instagram.com/coffeeshop_co/' />
+    <tag k='contact:vk' v='https://vk.com/csc' />
+    <tag k='name' v='Венская кофейня' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='ООО «Гранд Эспрессо»' />
+    <tag k='website' v='https://www.coffeeshopcompany.ru/' />
+  </node>
+  <node id='906814569' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='115457543' lat='59.9360092' lon='30.3226771'>
+    <tag k='construction:amenity' v='pharmacy' />
+    <tag k='dispensing' v='yes' />
+    <tag k='healthcare' v='pharmacy' />
+    <tag k='name' v='Петрофарм' />
+    <tag k='note' v='&quot;скоро открытие аптеки&quot;' />
+    <tag k='operator' v='Петрофарм' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:maestro' v='yes' />
+    <tag k='payment:mastercard' v='yes' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='payment:visa_electron' v='yes' />
+    <tag k='phone' v='+7 812 3145401' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='922485311' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='20' changeset='115457543' lat='59.93595479807' lon='30.32314044003'>
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Цыпа моя' />
+  </node>
+  <node id='3467654875' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='17' changeset='115457543' lat='59.9360106979' lon='30.32296733006'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='22-24 литА' />
+    <tag k='addr:postcode' v='191186' />
+    <tag k='addr:street' v='Невский проспект' />
+    <tag k='name' v='ООО «Знак Качества»' />
+    <tag k='note' v='неизвестно, где на самом деле находится, т.к. дом 22-24 большой, было ранее поставлено на Дом Финляндии, но у него другой адрес' />
+    <tag k='office' v='company' />
+    <tag k='phone' v='+7 812 3181515' />
+    <tag k='website' v='http://stekloiq.ru/' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='3487159237' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='24' changeset='115457543' lat='59.93587133285' lon='30.32383337055'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/marketplace_me' />
+    <tag k='delivery' v='no' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Marketplace' />
+    <tag k='opening_hours' v='08:30-23:00' />
+    <tag k='operator' v='Рачков Михаил Михайлович' />
+    <tag k='payment:cash' v='yes' />
+    <tag k='payment:mastercard' v='no' />
+    <tag k='payment:visa' v='yes' />
+    <tag k='phone' v='+7 981 8544833' />
+    <tag k='smoking' v='no' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://marketplace.me/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5104757547' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='115457543' lat='59.93599899789' lon='30.32289733006'>
+    <tag k='contact:vk' v='https://vk.com/gwdru' />
+    <tag k='name' v='Good Wood' />
+    <tag k='office' v='company' />
+    <tag k='website' v='https://www.gwd.ru/about/contacts/sankt-peterburg/' />
+  </node>
+  <node id='5104757551' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='115457543' lat='59.93599569789' lon='30.32292413006'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:floor' v='4' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='191186' />
+    <tag k='addr:street' v='Невский проспект' />
+    <tag k='guide' v='bus_travel' />
+    <tag k='name' v='City Bus' />
+    <tag k='office' v='guide' />
+    <tag k='opening_hours' v='Mo-Su 09:00-19:00' />
+    <tag k='website' v='https://tripshop.ru/' />
+  </node>
+  <node id='5104757555' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='115457543' lat='59.93599259789' lon='30.32295693006'>
+    <tag k='name' v='Офис-М' />
+    <tag k='office' v='property_management' />
+    <tag k='website' v='http://www.office-m.ru/' />
+  </node>
+  <node id='5104757560' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='115457543' lat='59.9358619992' lon='30.32391315628'>
+    <tag k='brand' v='Ecco' />
+    <tag k='brand:wikidata' v='Q1280255' />
+    <tag k='contact:email' v='info@ecco-ros.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/eccoru' />
+    <tag k='contact:instagram' v='https://www.instagram.com/ecco_ru/' />
+    <tag k='contact:phone' v='+7 495 6412525;+7 800 4442525;+7 812 6080500' />
+    <tag k='contact:website' v='https://ecco.ru/shops/90000315/' />
+    <tag k='name' v='Ecco' />
+    <tag k='opening_hours' v='Mo-Su 10:00-22:00' />
+    <tag k='shop' v='shoes' />
+  </node>
+  <node id='5104757562' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='115457543' lat='59.9358754' lon='30.3240775'>
+    <tag k='contact:facebook' v='https://www.facebook.com/EPAMLAW' />
+    <tag k='name' v='Егоров, Пугинский, Афанасьев и партнеры' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://epam.ru/ru/pages/st-petersburg' />
+  </node>
+  <node id='5104757563' timestamp='2019-04-13T20:00:19Z' uid='437809' user='Anton Khorev' visible='true' version='11' changeset='69187243' lat='59.9358714' lon='30.3241137'>
+    <tag k='contact:vk' v='https://vk.com/gskom' />
+    <tag k='name' v='ГлавСтройКомплекс' />
+    <tag k='office' v='company' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-18:00' />
+    <tag k='website' v='http://glavstroykompleks.ru/' />
+  </node>
+  <node id='5104757564' timestamp='2021-02-08T05:17:45Z' uid='2913686' user='П3тр0виЧъ' visible='true' version='13' changeset='98879555' lat='59.9358546' lon='30.3241016'>
+    <tag k='name' v='Офис-М' />
+    <tag k='office' v='property_management' />
+    <tag k='website' v='http://www.office-m.ru/' />
+  </node>
+  <node id='5104757565' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='115457543' lat='59.9358398' lon='30.3240949'>
+    <tag k='name' v='Castrén &amp; Snellman' />
+    <tag k='office' v='lawyer' />
+    <tag k='website' v='https://www.castren.fi/' />
+  </node>
+  <node id='9372122980' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='115457543' lat='59.93584457988' lon='30.32406100854'>
+    <tag k='name' v='Гарантированная сделка' />
+    <tag k='office' v='estate_agent' />
+    <tag k='website' v='https://garantsdelka.ru/' />
+  </node>
+  <node id='9372122981' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='115457543' lat='59.93585927762' lon='30.32406940989'>
+    <tag k='name' v='Uniper Global Commodities' />
+    <tag k='office' v='company' />
+  </node>
+  <node id='9372122983' timestamp='2021-12-28T08:07:43Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='115457543' lat='59.93598095742' lon='30.32291758931'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/izdatelstvo.garden' />
+    <tag k='contact:instagram' v='https://www.instagram.com/izi.garden/' />
+    <tag k='name' v='Издательство' />
+    <tag k='website' v='https://izi.garden/' />
+  </node>
+</osm>

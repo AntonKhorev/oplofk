@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='5179156637' timestamp='2021-07-02T12:11:37Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107310173' lat='59.9354479' lon='30.3141756'>
+    <tag k='int_name' v='Bon-Apart' />
+    <tag k='name' v='Бонн-Апарт' />
+    <tag k='tourism' v='hostel' />
+    <tag k='website' v='https://www.ulanaspb.ru/mini-otel-bonnapart.html' />
+  </node>
+  <node id='8887639443' timestamp='2021-07-02T12:11:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107310173' lat='59.9354589' lon='30.3142069'>
+    <tag k='int_name' v='Privat' />
+    <tag k='name' v='Приват' />
+    <tag k='phone' v='+7 911 1400880' />
+    <tag k='tourism' v='hotel' />
+  </node>
+  <node id='8887639444' timestamp='2021-07-02T12:11:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107310173' lat='59.9356443' lon='30.313963'>
+    <tag k='name' v='Белые ночи' />
+    <tag k='office' v='guide' />
+    <tag k='opening_hours' v='11:00-18:00' />
+    <tag k='website' v='https://belyenochi-spb.ru/' />
+  </node>
+  <node id='8887639445' timestamp='2021-07-02T12:11:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107310173' lat='59.9352785' lon='30.3140923'>
+    <tag k='craft' v='locksmith' />
+    <tag k='name' v='Ключевой мир' />
+    <tag k='note' v='непосредственно не видел, на воротах двора написано &quot;вход через копицентр&quot;' />
+  </node>
+  <node id='8887639487' timestamp='2021-07-02T12:11:37Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107310173' lat='59.9352908' lon='30.3140733'>
+    <tag k='contact:instagram' v='https://www.instagram.com/oqprint/' />
+    <tag k='contact:vk' v='https://vk.com/copyspbru' />
+    <tag k='name' v='OQ' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='copyshop' />
+    <tag k='website' v='https://copy.spb.ru/about/kontakti/admiraltejskij/' />
+  </node>
+</osm>

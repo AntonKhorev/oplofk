@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='633137869' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='90122407' lat='59.9342893' lon='30.3114844' />
+  <node id='633138004' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='90122407' lat='59.9343398' lon='30.311623' />
+  <node id='633138006' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90122407' lat='59.9344684' lon='30.3119741' />
+  <node id='978458471' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90122407' lat='59.9344876' lon='30.311358' />
+  <node id='978458473' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90122407' lat='59.9345871' lon='30.3116313' />
+  <node id='978458475' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90122407' lat='59.9347373' lon='30.3113329' />
+  <node id='978458476' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90122407' lat='59.9346374' lon='30.3111438' />
+  <node id='1617196651' timestamp='2013-08-04T15:34:17Z' uid='368493' user='fserges' visible='true' version='2' changeset='17216479' lat='59.9343663' lon='30.3098067' />
+  <node id='1617196653' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90122407' lat='59.934738' lon='30.3108296' />
+  <node id='1617196654' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='90122407' lat='59.9349176' lon='30.3113364' />
+  <node id='1626578696' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='107267065' lat='59.93499682251' lon='30.3116103538'>
+    <tag k='contact:facebook' v='https://www.facebook.com/DiamantGroup/' />
+    <tag k='name' v='Diamant' />
+    <tag k='opening_hours' v='Mo-Sa 11:00-20:00' />
+    <tag k='shop' v='jewelry' />
+    <tag k='website' v='https://diamant-group.com/' />
+  </node>
+  <node id='1626578698' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='107267065' lat='59.93468650202' lon='30.31074954023'>
+    <tag k='contact:instagram' v='https://www.instagram.com/migmag_minimarket/' />
+    <tag k='contact:vk' v='https://vk.com/migmag_minimarket' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='MigMag' />
+    <tag k='opening_hours' v='10:00-22:00' />
+    <tag k='shop' v='alcohol' />
+  </node>
+  <node id='1626578702' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='8' changeset='90122407' lat='59.9350283' lon='30.3116942'>
+    <tag k='name' v='Управление по работе с персоналом ГУП &quot;Топливно-энергетический комплекс Санкт-Петербурга&quot;' />
+    <tag k='office' v='government' />
+    <tag k='opening_hours' v='Mo 10:00-12:00, 14:00-17:00; Tu 14:00-17:00; We 10:00-12:00,14:00-17:00; Th 14:00-17:00; Fr 10:00-12:00,14:00-16:00' />
+  </node>
+  <node id='1631063208' timestamp='2017-04-20T23:02:23Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='47986747' lat='59.9346009' lon='30.3105091'>
+    <tag k='name' v='Главагентство' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-13:00,13:30-20:00; Sa-Su 09:00-13:00,13:30-18:00' />
+    <tag k='shop' v='ticket' />
+  </node>
+  <node id='2149825011' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='107267065' lat='59.93412709053' lon='30.30920979347'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Газпромбанк' />
+    <tag k='brand:wikidata' v='Q1924338' />
+    <tag k='name' v='Газпромбанк' />
+    <tag k='opening_hours' v='Mo-Fr 09:30-20:00' />
+    <tag k='operator' v='«Газпромбанк» (Акционерное общество)' />
+    <tag k='operator:wikidata' v='Q1924338' />
+    <tag k='website' v='https://www.gazprombank.ru/offices/5725287' />
+  </node>
+  <node id='2405782059' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='5' changeset='107267065' lat='59.93407622702' lon='30.30906976231'>
+    <tag k='brand' v='Rolls-Royce' />
+    <tag k='brand:wikidata' v='Q234803' />
+    <tag k='name' v='Rolls-Royce Motor Cars' />
+    <tag k='shop' v='car' />
+    <tag k='website' v='https://www.rolls-roycemotorcars.com/saintpetersburg/' />
+  </node>
+  <node id='2407024777' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.934629' lon='30.3115593' />
+  <node id='2407024778' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9346375' lon='30.3110686' />
+  <node id='2407024782' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9346489' lon='30.3115951' />
+  <node id='2407024785' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9346782' lon='30.3110479' />
+  <node id='2407024791' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9346914' lon='30.3112064' />
+  <node id='2407024797' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9347226' lon='30.3111498' />
+  <node id='2407024802' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9347652' lon='30.3113026' />
+  <node id='2407024806' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9347718' lon='30.3114385' />
+  <node id='2407024808' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9347765' lon='30.3113423' />
+  <node id='2407041791' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='107267065' lat='59.93398092774' lon='30.30880716429'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/schastyelove' />
+    <tag k='name' v='Счастье' />
+    <tag k='opening_hours' v='Mo-Th 09:00-01:00, Fr-Sa 09:00-02:00, Su 09:00-00:00' />
+    <tag k='website' v='https://schastye.com/restaurants/isakiy' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='2407104643' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9347062' lon='30.3111122' />
+  <node id='2407104650' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9347934' lon='30.310986'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='2407126694' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='90122407' lat='59.9347641' lon='30.3109658'>
+    <tag k='amenity' v='bar' />
+    <tag k='contact:vk' v='https://vk.com/tonycbar' />
+    <tag k='name' v='ToNYc' />
+    <tag k='opening_hours' v='Mo 12:00-01:00, Tu-Fr 12:00-02:00, Sa 13:00-02:00, Su 13:00-01:00' />
+    <tag k='website' v='http://tonycbar.ru/' />
+  </node>
+  <node id='2407126696' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='7' changeset='107267065' lat='59.93457799815' lon='30.31045112986'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='fast_food' v='cafeteria' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Пара перцев' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-19:00; Sa-Su 11:00-20:00' />
+  </node>
+  <node id='2407126709' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107267065' lat='59.9346573068' lon='30.31066915376'>
+    <tag k='contact:instagram' v='https://www.instagram.com/butonflowers_spb/' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Buton' />
+    <tag k='opening_hours' v='09:00-22:00' />
+    <tag k='shop' v='florist' />
+  </node>
+  <node id='4436874669' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107267065' lat='59.9348727' lon='30.3112097'>
+    <tag k='entrance' v='main' />
+  </node>
+  <node id='4436874670' timestamp='2020-08-29T15:03:24Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='90122407' lat='59.9347795' lon='30.3109467'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='4806662194' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107267065' lat='59.93462246213' lon='30.31057267238'>
+    <tag k='name' v='Нотариус Кульша Виктория Казимировна' />
+    <tag k='office' v='notary' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+  </node>
+  <node id='4806662195' timestamp='2019-03-30T21:18:42Z' uid='9451067' user='b-jazz-bot' visible='true' version='2' changeset='68710001' lat='59.9346163' lon='30.3106268'>
+    <tag k='contact:vk' v='https://vk.com/legispro' />
+    <tag k='name' v='Legispro' />
+    <tag k='office' v='lawyer' />
+    <tag k='opening_hours' v='Mo-Fr 10:00-18:00' />
+    <tag k='website' v='https://legispro.ru/' />
+  </node>
+  <node id='4806662196' timestamp='2019-03-30T21:01:27Z' uid='9451067' user='b-jazz-bot' visible='true' version='2' changeset='68709650' lat='59.9346062' lon='30.3105946'>
+    <tag k='name' v='AdSkill' />
+    <tag k='office' v='it' />
+    <tag k='website' v='https://adskill.ru/' />
+  </node>
+  <node id='4806662198' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107267065' lat='59.9345478' lon='30.3104317'>
+    <tag k='contact:vk' v='https://vk.com/terve_shop' />
+    <tag k='name' v='Tervetuloa 88' />
+    <tag k='note' v='вход через кассы &quot;Главагентство&quot;' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 11:00-18:00' />
+    <tag k='operator' v='ИП Ангорт А.Э.' />
+    <tag k='shop' v='variety_store' />
+    <tag k='website' v='http://www.финские-товары.рф/' />
+  </node>
+  <node id='5177371450' timestamp='2017-10-20T00:55:27Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='53085439' lat='59.9345861' lon='30.310535'>
+    <tag k='name' v='АртТида' />
+    <tag k='office' v='company' />
+    <tag k='website' v='http://arttida.ru/' />
+  </node>
+  <node id='5177371451' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107267065' lat='59.9345747' lon='30.3105041'>
+    <tag k='note' v='были перед билетами, сейчас возможно нет' />
+    <tag k='shop' v='gift' />
+  </node>
+  <node id='5177371452' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107267065' lat='59.934519' lon='30.3103541'>
+    <tag k='contact:vk' v='https://vk.com/meatheadspb' />
+    <tag k='disused:amenity' v='restaurant' />
+    <tag k='name' v='Meat Head' />
+    <tag k='note' v='&quot;скоро открытие&quot;' />
+  </node>
+  <node id='5177371454' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107267065' lat='59.93419793645' lon='30.30940478424'>
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:facebook' v='https://www.facebook.com/garconspb' />
+    <tag k='contact:vk' v='https://vk.com/garcon_spb' />
+    <tag k='int_name' v='Garçon' />
+    <tag k='name' v='Гарсон' />
+    <tag k='opening_hours' v='09:00-21:00' />
+    <tag k='shop' v='bakery' />
+    <tag k='website' v='https://www.garcon.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='5401546908' timestamp='2019-01-31T06:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66791299' lat='59.934538' lon='30.3102793'>
+    <tag k='entrance' v='service' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='5401546910' timestamp='2019-01-31T06:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='66791299' lat='59.934462' lon='30.3100701'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='5401546913' timestamp='2018-02-09T16:59:12Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='56221895' lat='59.9343546' lon='30.3097744'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5401546914' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107267065' lat='59.9342858033' lon='30.3098429231' />
+  <node id='5401546916' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107267065' lat='59.93433973304' lon='30.30973365213'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5401546917' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='3' changeset='107267065' lat='59.93421231052' lon='30.30955759206' />
+  <node id='5401546918' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107267065' lat='59.93427811161' lon='30.30956418318'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='5401546919' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107267065' lat='59.9342625' lon='30.3095212'>
+    <tag k='entrance' v='service' />
+  </node>
+  <node id='6248633985' timestamp='2019-01-31T06:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66791299' lat='59.9345437' lon='30.3102948' />
+  <node id='6248633986' timestamp='2019-01-31T06:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66791299' lat='59.9344784' lon='30.3103892' />
+  <node id='6248633987' timestamp='2019-01-31T06:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66791299' lat='59.9343901' lon='30.3101462' />
+  <node id='6248633988' timestamp='2019-01-31T06:01:23Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='66791299' lat='59.9344554' lon='30.3100518' />
+  <node id='6535509140' timestamp='2020-07-22T16:20:39Z' uid='519501' user='parukhin' visible='true' version='2' changeset='88359027' lat='59.9343609' lon='30.3100235'>
+    <tag k='addr:city' v='Санкт-Петербург' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='190000' />
+    <tag k='addr:street' v='Малая Морская улица' />
+    <tag k='name' v='McKinsey &amp; Company' />
+    <tag k='office' v='company' />
+    <tag k='phone' v='+7 495 4248400' />
+    <tag k='website' v='https://www.mckinsey.com/ru' />
+    <tag k='wikidata' v='Q310207' />
+  </node>
+  <node id='8761449602' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107267065' lat='59.9345941' lon='30.310519'>
+    <tag k='contact:instagram' v='https://www.instagram.com/craftberu/' />
+    <tag k='name' v='КрафтБеру' />
+    <tag k='name:en' v='Craftberu' />
+    <tag k='phone' v='+7 911 1501625' />
+    <tag k='shop' v='alcohol' />
+    <tag k='website' v='https://craftberu.ru/' />
+  </node>
+  <node id='8883301075' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.93479273204' lon='30.31104620208'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='name' v='Settimo Cielo' />
+  </node>
+  <node id='8883301076' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.93480726698' lon='30.3110251178'>
+    <tag k='entrance' v='yes' />
+  </node>
+  <node id='8883301077' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.93457903889' lon='30.31054571204'>
+    <tag k='brand' v='TUI' />
+    <tag k='brand:wikidata' v='Q573103' />
+    <tag k='contact:vk' v='https://vk.com/tuiru' />
+    <tag k='name' v='TUI' />
+    <tag k='opening_hours' v='Mo-Fr 11:00-20:00; Sa-Su 12:00-17:00' />
+    <tag k='operator' v='ООО «Мира»' />
+    <tag k='shop' v='travel_agency' />
+    <tag k='website' v='https://www.tui.ru/offices/2512/' />
+  </node>
+  <node id='8883301078' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.93420895316' lon='30.3096315731' />
+  <node id='8883301079' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.93434715' lon='30.30975405' />
+  <node id='8883301080' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.9342703' lon='30.3095427' />
+  <node id='8883301081' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.93432379391' lon='30.30986542881' />
+  <node id='8883301082' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065' lat='59.93425348347' lon='30.30949640454' />
+  <way id='49831560' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='107267065'>
+    <nd ref='1617196654' />
+    <nd ref='633138006' />
+    <nd ref='633138004' />
+    <nd ref='633137869' />
+    <nd ref='1617196653' />
+    <nd ref='4436874670' />
+    <nd ref='2407104650' />
+    <nd ref='8883301076' />
+    <nd ref='4436874669' />
+    <nd ref='1617196654' />
+  </way>
+  <way id='84099436' timestamp='2013-08-04T16:56:13Z' uid='368493' user='fserges' visible='true' version='3' changeset='17217399'>
+    <nd ref='978458471' />
+    <nd ref='978458473' />
+    <nd ref='2407024777' />
+    <nd ref='2407024782' />
+    <nd ref='2407024806' />
+    <nd ref='2407024808' />
+    <nd ref='2407024802' />
+    <nd ref='978458475' />
+    <nd ref='2407024791' />
+    <nd ref='2407024797' />
+    <nd ref='2407104643' />
+    <nd ref='2407024785' />
+    <nd ref='2407024778' />
+    <nd ref='978458476' />
+    <nd ref='978458471' />
+  </way>
+  <way id='667375948' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='2' changeset='107267065'>
+    <nd ref='6248633988' />
+    <nd ref='6248633987' />
+    <nd ref='6248633986' />
+    <nd ref='6248633985' />
+    <nd ref='5401546908' />
+    <nd ref='5401546910' />
+    <nd ref='6248633988' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/hakhodka.seafood/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/nakhodka_seafood/' />
+    <tag k='contact:vk' v='https://vk.com/nakhodka_seafood' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Находка' />
+    <tag k='website' v='https://ginza.ru/spb/restaurant/nakhodka' />
+  </way>
+  <way id='960121512' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065'>
+    <nd ref='8883301080' />
+    <nd ref='8883301078' />
+    <nd ref='5401546914' />
+    <nd ref='8883301079' />
+    <nd ref='5401546916' />
+    <nd ref='5401546918' />
+    <nd ref='8883301080' />
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:facebook' v='https://www.facebook.com/chichibichispb/' />
+    <tag k='level' v='-1' />
+    <tag k='name' v='Чичи-Бичи' />
+    <tag k='opening_hours' v='12:00-24:00' />
+    <tag k='website' v='https://www.chichi-bichi.ru/mmorskaya18' />
+  </way>
+  <way id='960121513' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='1' changeset='107267065'>
+    <nd ref='8883301082' />
+    <nd ref='5401546917' />
+    <nd ref='8883301081' />
+    <nd ref='1617196651' />
+    <nd ref='5401546913' />
+    <nd ref='5401546919' />
+    <nd ref='8883301082' />
+    <tag k='amenity' v='bar' />
+    <tag k='contact:instagram' v='https://www.instagram.com/prof.freud_club/' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Prof. Freud' />
+    <tag k='website' v='https://freud.club/' />
+  </way>
+  <relation id='1258391' timestamp='2021-07-01T15:19:25Z' uid='437809' user='Anton Khorev' visible='true' version='4' changeset='107267065'>
+    <member type='way' ref='49831560' role='outer' />
+    <member type='way' ref='84099436' role='inner' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Малая Морская улица' />
+    <tag k='building' v='yes' />
+    <tag k='building:levels' v='7' />
+    <tag k='contact:vk' v='https://vk.com/public109567409' />
+    <tag k='name' v='Петро Палас' />
+    <tag k='name:en' v='Petro Palace' />
+    <tag k='stars' v='4' />
+    <tag k='tourism' v='hotel' />
+    <tag k='type' v='multipolygon' />
+    <tag k='website' v='https://www.petropalacehotel.com/' />
+  </relation>
+</osm>

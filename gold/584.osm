@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='487099420' timestamp='2019-04-13T19:54:39Z' uid='437809' user='Anton Khorev' visible='true' version='21' changeset='69187142' lat='59.9356139' lon='30.3260588' />
+  <node id='652382046' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9360491' lon='30.3257171' />
+  <node id='652382055' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='69187142' lat='59.9359434' lon='30.3256665' />
+  <node id='652382059' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='23' changeset='69187142' lat='59.9360713' lon='30.3262439' />
+  <node id='652382070' timestamp='2019-04-13T19:54:43Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187142' lat='59.9361265' lon='30.3257479' />
+  <node id='931819245' timestamp='2021-12-28T08:57:37Z' uid='437809' user='Anton Khorev' visible='true' version='25' changeset='115459203' lat='59.9357707' lon='30.3250672'>
+    <tag k='amenity' v='bank' />
+    <tag k='brand' v='Открытие' />
+    <tag k='brand:wikidata' v='Q4327204' />
+    <tag k='brand:wikipedia' v='ru:Банк «Финансовая корпорация Открытие»' />
+    <tag k='contact:vk' v='https://vk.com/otkritiecorp' />
+    <tag k='name' v='Открытие' />
+    <tag k='name:en' v='Otkritie' />
+    <tag k='opening_hours' v='Mo-Fr 09:00-20:00' />
+    <tag k='operator' v='ПАО Банк «ФК Открытие»' />
+    <tag k='operator:wikidata' v='Q4327204' />
+    <tag k='website' v='https://www.open.ru/' />
+  </node>
+  <node id='931819262' timestamp='2021-12-28T08:57:37Z' uid='437809' user='Anton Khorev' visible='true' version='23' changeset='115459203' lat='59.935651' lon='30.3257901'>
+    <tag k='alt_name' v='Зингер' />
+    <tag k='amenity' v='cafe' />
+    <tag k='contact:vk' v='https://vk.com/cafesinger' />
+    <tag k='int_name' v='Singer' />
+    <tag k='level' v='1' />
+    <tag k='name' v='Зингеръ' />
+    <tag k='opening_hours' v='Mo-Su 09:00-22:00' />
+    <tag k='phone' v='+7 812 5718223' />
+    <tag k='website' v='http://singercafe.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='4011570303' timestamp='2021-12-28T08:57:37Z' uid='437809' user='Anton Khorev' visible='true' version='23' changeset='115459203' lat='59.9357314' lon='30.3251036'>
+    <tag k='amenity' v='cafe' />
+    <tag k='brand' v='Старбакс' />
+    <tag k='brand:en' v='Starbucks' />
+    <tag k='brand:wikidata' v='Q37158' />
+    <tag k='brand:wikipedia' v='en:Starbucks' />
+    <tag k='contact:email' v='sbux_rus@alshaya.com' />
+    <tag k='contact:facebook' v='https://www.facebook.com/StarbucksRussia' />
+    <tag k='contact:instagram' v='https://www.instagram.com/starbucksrussia/' />
+    <tag k='contact:phone' v='+7 499 2704040;+7 800 2227560' />
+    <tag k='contact:twitter' v='https://twitter.com/StarbucksRussia' />
+    <tag k='contact:vk' v='https://vk.com/starbucks' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='int_name' v='Starbucks' />
+    <tag k='name' v='Старбакс' />
+    <tag k='name:en' v='Starbucks' />
+    <tag k='opening_hours' v='Mo-Fr 07:30-23:00;Sa-Su 08:30-23:00' />
+    <tag k='operator' v='ООО «Кофе Сирена»' />
+    <tag k='takeaway' v='yes' />
+    <tag k='website' v='https://www.starbucks.ru/store/1007738' />
+  </node>
+  <node id='4272128589' timestamp='2019-04-13T19:59:12Z' uid='437809' user='Anton Khorev' visible='true' version='19' changeset='69187243' lat='59.9356859' lon='30.3254762'>
+    <tag k='contact:vk' v='https://vk.com/severlira' />
+    <tag k='description' v='ноты, музыкальные инструменты и аксессуары' />
+    <tag k='name' v='Северная лира' />
+    <tag k='opening_hours' v='Mo-Sa 10:00-20:00; Su 11:00-19:00' />
+    <tag k='phone' v='+7 812 3120796' />
+    <tag k='shop' v='musical_instrument' />
+    <tag k='website' v='https://severlira.ru/' />
+  </node>
+  <node id='4274087432' timestamp='2021-12-28T08:57:37Z' uid='437809' user='Anton Khorev' visible='true' version='23' changeset='115459203' lat='59.9356646' lon='30.3256466'>
+    <tag k='contact:instagram' v='https://www.instagram.com/klad_marmelad/' />
+    <tag k='level' v='0' />
+    <tag k='name' v='Клад Мармелад' />
+    <tag k='shop' v='confectionery' />
+  </node>
+  <node id='5610780054' timestamp='2019-04-13T20:00:58Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9360113' lon='30.325664' />
+  <node id='5610780055' timestamp='2019-04-13T20:00:58Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9359468' lon='30.3256332' />
+  <node id='5610780056' timestamp='2019-04-13T20:00:58Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9360073' lon='30.3256971' />
+  <node id='5643203622' timestamp='2019-04-13T20:01:06Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187243' lat='59.9358368' lon='30.3258617'>
+    <tag k='brand' v='VK' />
+    <tag k='brand:wikidata' v='Q116933' />
+    <tag k='int_name' v='VK' />
+    <tag k='name' v='ВКонтакте' />
+    <tag k='office' v='it' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='website' v='https://vk.com/' />
+  </node>
+  <node id='5718232119' timestamp='2019-04-13T20:01:12Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9357664' lon='30.3258891' />
+  <node id='5718232120' timestamp='2019-04-13T20:01:12Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187243' lat='59.9356244' lon='30.3258187' />
+  <node id='5718237721' timestamp='2019-04-13T20:01:12Z' uid='437809' user='Anton Khorev' visible='true' version='15' changeset='69187243' lat='59.936019' lon='30.3262228'>
+    <tag k='entrance' v='service' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='5718237722' timestamp='2019-04-13T20:01:12Z' uid='437809' user='Anton Khorev' visible='true' version='14' changeset='69187243' lat='59.9356028' lon='30.3260421'>
+    <tag k='entrance' v='yes' />
+    <tag k='level' v='0' />
+  </node>
+  <node id='6086811497' timestamp='2019-04-13T20:01:25Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9358017' lon='30.3256019' />
+  <node id='6086811501' timestamp='2019-04-13T20:01:25Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9356' lon='30.326015' />
+  <node id='6086811502' timestamp='2019-04-13T20:01:25Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9356002' lon='30.3260341' />
+  <node id='6086811503' timestamp='2019-04-13T20:01:25Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9356053' lon='30.3260502' />
+  <node id='6086811554' timestamp='2019-04-13T20:01:25Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9356462' lon='30.3258295' />
+  <node id='6086811555' timestamp='2019-04-13T20:01:25Z' uid='437809' user='Anton Khorev' visible='true' version='13' changeset='69187243' lat='59.9357886' lon='30.3257081' />
+  <way id='601771165' timestamp='2021-12-28T08:57:37Z' uid='437809' user='Anton Khorev' visible='true' version='9' changeset='115459203'>
+    <nd ref='5718232120' />
+    <nd ref='6086811554' />
+    <nd ref='5718232119' />
+    <nd ref='6086811555' />
+    <nd ref='6086811497' />
+    <nd ref='652382055' />
+    <nd ref='5610780055' />
+    <nd ref='5610780054' />
+    <nd ref='5610780056' />
+    <nd ref='652382046' />
+    <nd ref='652382070' />
+    <nd ref='652382059' />
+    <nd ref='5718237721' />
+    <nd ref='487099420' />
+    <nd ref='6086811503' />
+    <nd ref='5718237722' />
+    <nd ref='6086811502' />
+    <nd ref='6086811501' />
+    <nd ref='5718232120' />
+    <tag k='contact:vk' v='https://vk.com/spbdk' />
+    <tag k='email' v='zinger@spbdk.ru' />
+    <tag k='level' v='-1;0;1' />
+    <tag k='name' v='Дом книги' />
+    <tag k='opening_hours' v='09:00-23:00' />
+    <tag k='phone' v='+7 812 4482355' />
+    <tag k='shop' v='books' />
+    <tag k='website' v='https://www.spbdk.ru/' />
+    <tag k='wheelchair' v='limited' />
+  </way>
+</osm>

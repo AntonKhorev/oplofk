@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='1580632256' timestamp='2021-12-28T05:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='18' changeset='115453178' lat='59.9364107' lon='30.3190621'>
+    <tag k='amenity' v='restaurant' />
+    <tag k='contact:instagram' v='https://www.instagram.com/literarycafe/' />
+    <tag k='contact:vk' v='https://vk.com/litcafe' />
+    <tag k='name' v='Литературное кафе' />
+    <tag k='website' v='https://litcafe.su/' />
+    <tag k='wheelchair' v='yes' />
+    <tag k='wikidata' v='Q42614489' />
+  </node>
+  <node id='2515184857' timestamp='2021-12-28T05:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='22' changeset='115453178' lat='59.93652983976' lon='30.31802775176'>
+    <tag k='brand' v='Шоколадница' />
+    <tag k='brand:en' v='Chocolate' />
+    <tag k='brand:wikidata' v='Q30891188' />
+    <tag k='brand:wikipedia' v='ru:Шоколадница (сеть кофеен)' />
+    <tag k='contact:vk' v='https://vk.com/shokospb' />
+    <tag k='cuisine' v='coffee_shop' />
+    <tag k='disused:amenity' v='cafe' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='name' v='Шоколадница' />
+    <tag k='name:en' v='Shokoladnitsa' />
+    <tag k='name:ru' v='Шоколадница' />
+    <tag k='operator' v='ООО &quot;Галерея-Алекс&quot;' />
+    <tag k='phone' v='+7 812 6771300' />
+    <tag k='website' v='https://shoko.ru/' />
+    <tag k='wheelchair' v='no' />
+  </node>
+  <node id='3461870802' timestamp='2021-12-28T05:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='23' changeset='115453178' lat='59.93647017556' lon='30.31854680107'>
+    <tag k='amenity' v='fast_food' />
+    <tag k='brand' v='Бургер Кинг' />
+    <tag k='brand:en' v='Burger King' />
+    <tag k='brand:ru' v='Бургер Кинг' />
+    <tag k='brand:wikidata' v='Q177054' />
+    <tag k='brand:wikipedia' v='en:Burger King' />
+    <tag k='contact:email' v='FeedBack@burgerking.ru' />
+    <tag k='contact:facebook' v='https://www.facebook.com/BurgerKingRussia/' />
+    <tag k='contact:instagram' v='https://www.instagram.com/burgerking_russia/' />
+    <tag k='contact:phone' v='+7 495 54450004279' />
+    <tag k='contact:twitter' v='https://twitter.com/burgerkingrus' />
+    <tag k='contact:vk' v='https://vk.com/burgerking' />
+    <tag k='contact:website' v='https://burgerking.ru/' />
+    <tag k='cuisine' v='burger' />
+    <tag k='internet_access' v='wlan' />
+    <tag k='internet_access:fee' v='no' />
+    <tag k='name' v='Бургер Кинг' />
+    <tag k='name:en' v='Burger King' />
+    <tag k='name:ru' v='Бургер Кинг' />
+    <tag k='opening_hours' v='24/7' />
+    <tag k='operator' v='БУРГЕР РУС' />
+    <tag k='operator:phone' v='+7 495 5445000' />
+    <tag k='ref' v='279' />
+    <tag k='takeaway' v='yes' />
+    <tag k='wheelchair' v='yes' />
+  </node>
+  <node id='5146444276' timestamp='2021-12-28T05:43:11Z' uid='437809' user='Anton Khorev' visible='true' version='12' changeset='115453178' lat='59.93654772533' lon='30.31787374064'>
+    <tag k='disused:shop' v='gift' />
+    <tag k='opening_hours' v='10:00-23:00' />
+  </node>
+</osm>
